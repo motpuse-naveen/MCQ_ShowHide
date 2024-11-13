@@ -1,0 +1,78 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Assuming Jess\u2019s aunt died 3 weeks ago, what is her most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Adjustment disorder",
+         "option1":"B. Prolonged grief disorder",
+         "option2":"C. Brief psychotic disorder ",
+         "option3":"D. Delusional disorder",
+         "option4":"E. Acute stress disorder",
+         "@option":"2"
+      },
+      "rationale":"Adjustment disorder can manifest with anxiety, depression, and/or disturbance of conduct, but not psychosis. Likewise, acute stress disorder does not present with psychosis (432). Prolonged grief disorder, a DSM\u2013\u2013\u20135\u2013\u2013\u2013TR diagnosis, does not include symptoms of psychosis, and the death must have occurred at least 12 months ago (322\u2013\u2013\u2013, 323 in DSM\u2013\u2013\u20135\u2013\u2013\u2013TR). The diagnosis of delusional disorder is made when symptoms have occurred for at least a month, and is not better explained by schizophrenia, another mental or medical condition, or substance use (345). Jess is reporting hallucinations and displaying disorganized speech and delusions. Only one of those is necessary to make a diagnosis of brief psychotic disorder. Other criteria include symptoms lasting over a day but less than a month, and symptoms are not better explained by another mental illness, medical condition, or substance use. (344\u2013\u2013\u2013, 345)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given Jess\u2019s history with medications, and assuming no medication allergies, which of the following pharmacologic treatments should especially be considered?",
+      "choices":{  
+         "option0":"A. Clozapine",
+         "option1":"B. Olanzapine/fluoxetine combination",
+         "option2":"C. Lithium",
+         "option3":"D. Paliperidone palmitate",
+         "option4":"E. Quetiapine",
+         "@option":"3"
+      },
+      "rationale":"Jess states that she was on prescription medications, but then stopped taking them because she believes they were \\u2013part of the problem.\\u2013 (Of note, we are not told what the medications were.) Noncompliance with medication is common in patients with psychotic disorders. Long\u2013\u2013\u2013acting injectables (LAIs) can increase adherence and decrease relapse. Paliperidone palmitate is an LAI formulation of paliperidone. Clozapine, olanzapine/fluoxetine, lithium, and quetiapine only have oral formulations. Patients who experience their first episode of psychosis should be maintained on medication for at least a year. (354)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the most appropriate disposition for Jess?",
+      "choices":{  
+         "option0":"A. Inpatient hospitalization",
+         "option1":"B. Intensive outpatient treatment",
+         "option2":"C. Partial hospital treatment",
+         "option3":"D. Outpatient care",
+         "option4":"E. Residential care",
+         "@option":"0"
+      },
+      "rationale":"Jess is acutely psychotic, off of her medications (though we are not told what they are), and delusional. Her symptoms are likely interfering with daily functioning, as she sat in her car for 6 hours yesterday to watch \\u2013the Russians.\\u2013 She feels that medications are \\u2013part of the problem,\\u2013 so she likely would not be amenable to outpatient treatment, which also eliminates intensive outpatient and partial hospitalization. Her symptoms are also more acutely severe than those for whom partial, intensive outpatient, and outpatient treatments are appropriate. Most concerning is her answer when asked if she had thoughts of hurting others. She needs the highest level of treatment, which is inpatient hospitalization. (825-\u2013\u2013\u2013827)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given her diagnosis, what is the most likely 6\u2013\u2013\u2013month prognosis?",
+      "choices":{  
+         "option0":"A. Complete remission of symptoms",
+         "option1":"B. Waxing and waning of symptoms",
+         "option2":"C. Progression into schizophrenia",
+         "option3":"D. Persistent subacute symptoms",
+         "option4":"E. Relapse into acute symptoms",
+         "@option":"0"
+      },
+      "rationale":"By definition, the symptoms of brief psychotic disorder resolve after a month, with full remission. Patients who have gone through major psychosocial stressors may be at greater risk for subsequent episodes. (344)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"If her hand and leg movements (especially at the beginning of the video) were caused by antipsychotic medication, what would be the first\u2013\u2013\u2013line treatment?",
+      "choices":{  
+         "option0":"A. Benztropine",
+         "option1":"B. Valbenazine",
+         "option2":"C. Propranolol",
+         "option3":"D. Ropinirole",
+         "option4":"E. Alprazolam",
+         "@option":"2"
+      },
+      "rationale":"Jess constantly moves in her chair, clasps and unclasps her hands, crosses and uncrosses her arms, bounces her legs, and rocks back and forth. These movements are most consistent with akathisia, which is best treated with a beta blocker such as propranolol. Benztropine is used for neuroleptic\u2013\u2013\u2013induced Parkinsonism and acute dystonia. Alprazolam or other benzodiazepines can be used for akathisia, but they are not first line. Valbenazine is used for tardive dyskinesia. Ropinirole is used for restless leg syndrome. (597, \u2013\u2013\u2013598)",
+      "@activityType":"MCQ"
+   }
+     
+]

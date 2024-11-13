@@ -1,0 +1,60 @@
+[
+   {
+      "@activityType": "MCQ",
+      "question": "A 36-year-old man is evaluated for treatment of hepatitis C. He has not received interferon-based therapy, but is currently taking a complementary alternative medicine (CAM), the name of which he cannot recall. The patient&#8217;s blood pressure is 156/92 mm Hg, and he has 1+ bilateral lower extremity edema. Laboratory studies are performed, and later that night, the laboratory calls because the serum potassium level is 2.6 mmol/L. The patient takes no other medication and has no history of hypokalemia. You suspect that the patient is taking which of the following?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Silymarin (milk thistle)",
+         "option1": "B. Chinese herbal medicine",
+         "option2": "C. Glycyrrhiza glabra (licorice)",
+         "option3": "D. Thymic extract"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00127-X\" target=\"_blank\"><font color='#0000FF'><b>ch127<\/b><\/font><\/a>)<br>All of these complementary alternative medications used to treat hepatitis C have been associated with adverse events. Licorice inhibits 11-<font face=\"Arial\" size=\"15\">&#946;<\/font>-hydroxysteroid dehydrogenase, and this may lead to a pseudoaldosterone effect resulting in hypokalemia, sodium retention, and hypertension. Although multiple adverse events have been reported with milk thistle, the most important relates to its ability to inhibit CYP3A4 and uridine diphosphoglucuronosyl transferase. This may lead to interactions with traditional prescription medications such as quinine, lidocaine, certain calcium channel&#8211;blocking agents, and cyclosporine, all of which are metabolized in part by CYP3A4. Chinese herbal medicine has been associated with possible hepatotoxicity, as well as pneumonitis, autoimmune hepatitis, and acute thrombocytopenic purpura. Finally, thymic extract has been reported to cause nausea, vomiting, and, rarely, thrombocytopenia."
+   },
+   {
+      "@activityType": "MATCH",
+      "question": "Match each of the following skin disorders with its associated GI pathology.<br>",
+      "columnA": "<b>Skin Disorder<\/b>",
+      "columnAContents": [
+         "1. Dermatitis herpetiformis (DH)",
+         "2 .Porphyria cutanea tarda",
+         "3. Necrolytic migratory erythema",
+         "4. Erythema nodosum",
+         "5. Sister Mary Joseph nodule"
+      ],
+      "columnB": "<b>GI Pathology<\/b>",
+      "columnBContents": [
+         {
+            "@pairTo": "2",
+            "#text": "A. Pancreatic tumor"
+         },
+         {
+            "@pairTo": "3",
+            "#text": "B. Crohn's disease"
+         },
+         {
+            "@pairTo": "0",
+            "#text": "C. Celiac disease"
+         },
+         {
+            "@pairTo": "1",
+            "#text": "D. Hepatitis C infection"
+         },
+         {
+            "@pairTo": "4",
+            "#text": "E. Gastric cancer"
+         }
+      ],
+      "rationale": "<b>1<\/b>-<b>C<\/b>, <b>2<\/b>-<b>D<\/b>, <b>3<\/b>-<b>A<\/b>, <b>4<\/b>-<b>B<\/b>, <b>5<\/b>-<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00022-6\" target=\"_blank\"><font color='#0000FF'><b>ch22<\/b><\/font><\/a>)<br>DH is a very pruritic skin disorder characterized by vesicular or bullous lesions on the scalp, shoulders, elbows, knees, and buttocks. It is seen in association with celiac disease. Porphyria cutanea tarda is a metabolic disorder characterized by skin fragility, blisters, hypertrichosis, and hyperpigmentation in sun-exposed skin. It is associated with hepatitis C infection. Glucagonoma of the pancreas is associated with necrolytic migratory erythema of the skin, which is a rash seen around orifices, flexural regions, and the fingers. The rash is typically papulovesicular but may be in the form of erosions with fissures and crusting. Sister Mary Joseph&#8217;s nodule is an umbilical metastasis of a GI carcinoma, most often a gastric cancer. Erythema nodosum appears as shiny, tender, deep, red nodules 1 cm or larger in diameter. They are seen typically in patients with IBD, in particular Crohn&#8217;s disease. They are generally seen over the shins."
+   },
+   {
+      "@activityType": "TRUEORFALSE",
+      "question": "Mutations in the E-cadherin (<i>CDH1<\/i>) gene have been linked to the development of hereditary diffuse gastric cancer.",
+      "choices": {
+         "@option": "0",
+         "option0": "A. True",
+         "option1": "B. False"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Families with hereditary diffuse gastric cancer have been found to carry a germline mutation in the <i>CDH1<\/i> gene, all with diffuse-type cancer. Studies have shown that suppression of E-cadherin expression occurs in 51% of cancers, with a higher percentage found in diffuse-type cancers."
+   }
+]

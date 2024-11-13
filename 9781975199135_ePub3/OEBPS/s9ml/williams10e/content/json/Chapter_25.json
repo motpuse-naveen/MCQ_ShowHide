@@ -1,0 +1,422 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Why was the term, \"Psychosomatic medicine\" deleted from the DSM and changed to the term, \"Consultation\u2013liaison psychiatry?\"",
+      "choices":{  
+         "option0":"A. Insurance companies mandated the change",
+         "option1":"B. It implied the disorders were all in the individual\u2019s head",
+         "option2":"C. It included religious connotations ",
+         "option3":"D. It separated psychological factors from physical ones",
+         "option4":"E. The focus was more so on the body, rather than the mind",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. It implied the disorders were all in the individual\u2019s head (pg 799).   The term psychosomatic is derived from the Greek words for psyche (soul) and soma (body). It refers to how the mind affects the body. The term psychosomatic ended up having a negative connation in those with medical complaints where no physical cause could be found, implying that they were crazy, and the symptoms were all in their head.  In 2018 the Academy of Psychosomatic medicine changed its name to the Academy of Consultation\u2013 Liaison Psychiatry and the ABPN changed the name of Psychosomatic medicine as a specialty to Consultation\u2013Liaison psychiatry.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Rates of suicide are typically highest in which of the following populations?",
+      "choices":{  
+         "option0":"A. Late adolescent females ",
+         "option1":"B. Young adolescent males",
+         "option2":"C. Females over 60 years old",
+         "option3":"D. Males over 45 years old",
+         "option4":"E. Mid\u2013adolescent males",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Males over 45 years old (pg 801). Suicide rates are highest in males over 45 years of age. Other risk factors include those with medical illnesses, a history of alcohol dependence, decreased social support, severe pain, and previous suicide attempts.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which treatment is thought to be safest and most beneficial for hospitalized patients with excessive agitation due to substance use?",
+      "choices":{  
+         "option0":"A. Antipsychotic medications",
+         "option1":"B. Mechanical restraints",
+         "option2":"C. Physical restraints",
+         "option3":"D. Sedation with opioids",
+         "option4":"E. Sleeping medications",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Antipsychotic medications (pg 801). Antipsychotic medication may be beneficial for excessive agitation in hospitalized patients with various disorders, including cognitive disorders, or those withdrawing from substances. Physical restraints should be used as a last resort. While sedation is typicality safer than physical restraints, opioids should be avoided in a patient with a history of substance use.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Benzodiazepines can often cause sundowner syndrome in a patient with delirium, resulting in which of the following symptoms?",
+      "choices":{  
+         "option0":"A. Ataxia",
+         "option1":"B. Fever",
+         "option2":"C. Hypertension",
+         "option3":"D. Lethargy",
+         "option4":"E. Tachycardia",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Ataxia (pg 801). Benzodiazepines and other sedatives can worsen delirium, leading to sundowner syndrome. Symptoms include ataxia and disorientation, along with agitation, anxiety, and confusion. While benzodiazepines are sedatives and can cause lethargy, often when used in patients with delirium, they can worsen confusion and lead to agitation.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A son takes his elderly father to neuropsychiatry clinic for a follow\u2013up appointment and mentions his father has had worsening memory problems and falls and that he is struggling with taking care of him due to him constantly wetting himself. He is afebrile with a normal urinalysis, blood urea nitrogen, and creatinine levels. Which of the following diagnoses is highly suspected?",
+      "choices":{  
+         "option0":"A. Hydronephrosis",
+         "option1":"B. Hyperthyroidism",
+         "option2":"C. Normal pressure hydrocephalus",
+         "option3":"D. Subdural hematoma",
+         "option4":"E. Urinary tract infection",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Normal pressure hydrocephalus (pg 802). Central nervous system disorders, such as normal pressure hydrocephalus (NPH) can cause delirium and is an urgent medical issue that surgery may cure. The classic triad for presentation of NPH is gait disturbance, incontinence, and dementia. Normal renal labs and a uranalysis would rule out a urinary tract infection and hydronephrosis, which might also cause confusion in the elderly.  While a subdural hematoma and hyperthyroidism could also cause some confusion and memory impairment, incontinence is not typical for those disorders.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A landmark study found that women with metastatic breast cancer receiving which treatment survived an average of 18 months longer compared to control patients?",
+      "choices":{  
+         "option0":"A. Family based",
+         "option1":"B. Group therapy",
+         "option2":"C. Individual cognitive behavioral therapy",
+         "option3":"D. Individual dialectical behavioral therapy",
+         "option4":"E. Selective serotonin reuptake inhibitor",
+         "@option":"1"
+      },
+      "rationale":"cancer receiving weekly group psychotherapy lived an average of 18 months longer, compared to control patients.  Oher studies on those with cancer show increased activity of NK cells in those receiving a group behavioral intervention for breast cancer and also for patients with malignant melanoma.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following is the most common comorbid psychiatric disorder amongst cancer patients?",
+      "choices":{  
+         "option0":"A. Adjustment disorder",
+         "option1":"B. Delirium",
+         "option2":"C. Generalized anxiety disorder",
+         "option3":"D. Major depressive disorder",
+         "option4":"E. Substance use disorder",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Adjustment disorder (pg 804). About half of all cancer patients have a psychiatric disorder, with an adjustment disorder being the most common, at around 68%.  Major depressive disorder is the next most common comorbid diagnosis (i.e., around 13%), followed by delirium (8%).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which best describes the incidence of suicidal thoughts, or suicide rates, amongst cancer patients compared to the general population?",
+      "choices":{  
+         "option0":"A. A comparable rate of competed suicides ",
+         "option1":"B. A comparable risk of suicidal thoughts",
+         "option2":"C. A decreased risk of completed suicides",
+         "option3":"D. A decreased risk of suicidal thoughts ",
+         "option4":"E. A slightly higher risk of completed suicides",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. A slightly higher risk of completed suicides (pg 804). Though suicidal thoughts are frequent in cancer patients, compared to the general population, the risk of suicide is only slightly higher.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which demographic group is thought to have the highest rate of suicide?",
+      "choices":{  
+         "option0":"A. Young African American males",
+         "option1":"B. Elderly Caucasian females",
+         "option2":"C. Elderly Caucasian men",
+         "option3":"D. Middle\u2013aged Caucasian males",
+         "option4":"E. Middle\u2013aged Hispanic females",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Elderly Caucasian males (pg 804). The prevalence of major depressive disorder is lower in the elderly compared to younger age groups. However, the incidence of suicide is the highest amongst elderly persons, in particular, for elderly white males.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is the most common cause of disability amongst adults 65 years and older?",
+      "choices":{  
+         "option0":"A. Arthritis",
+         "option1":"B. Alcoholism",
+         "option2":"C. Chronic obstructive pulmonary disease",
+         "option3":"D. Diabetes",
+         "option4":"E. Dementia",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Arthritis (pg 805). Only arthritis is a more common cause of disability amongst those age 65 years and older than dementia. Dementia increases with age, with about 20% having severe dementia by 80 years old.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Depression with which of the following features is more common in the elderly population compared to younger patients with depression?",
+      "choices":{  
+         "option0":"A. Atypical",
+         "option1":"B. Increased appetite",
+         "option2":"C. Insomnia",
+         "option3":"D. Manic",
+         "option4":"E. Melancholic",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Melancholic (pg. 805) Elderly patients with depression present differently from that seen in younger patients.  Typically, there is more of an emphasis placed on somatic complaints in the elderly. Depression with melancholic features is common in the elderly. Some common features of depression with melancholia include hypochondriasis, low self\u2013esteem, worthlessness, self\u2013accusatory trends, paranoia, and suicidal ideation.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is the most common type of delusion?",
+      "choices":{  
+         "option0":"A. Grandiose",
+         "option1":"B. Jealous",
+         "option2":"C. Mixed",
+         "option3":"D. Persecutory",
+         "option4":"E. Sexual",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Persecutory (pg. 806).  While delusional disorder is most common between 40\u201355 years old, it can occur at any time, including in the elderly. Delusions can be seen with medical issues such as Alzheimer\u2019s disease and can occur with psychiatric illnesses, including schizophrenia and depression. Persecutory delusions are the most common type.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is the single most important factor associated with an increased prevalence of sleep disorders?",
+      "choices":{  
+         "option0":"A. Advanced age",
+         "option1":"B. Being in college",
+         "option2":"C. Depression",
+         "option3":"D. Malnutrition",
+         "option4":"E. Psychosis ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Advanced age (pg 807). Advanced age is the single most important factor associated with an increased prevalence of sleep disorders. Daytime sleeping, napping, and use of hypnotic drugs are commonly found in the elderly. Higher rates of breathing\u2013related sleep disorders are also round in the elderly.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which medication can be helpful in the treatment of vertigo in the elderly?",
+      "choices":{  
+         "option0":"A. Clonazepam",
+         "option1":"B. Diphenhydramine",
+         "option2":"C. Lorazepam",
+         "option3":"D. Meclizine",
+         "option4":"E. Propranolol",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Meclizine (pg 808). Vertigo, or dizziness, is a common complaint in the elderly. Various medical causes include anemia, cardiac arrhythmias, Meniere\u2019s disease, etc. Most cases have a psychological component as well. Anxiolytics and meds that cause dizziness and daytime somnolence should be avoided. Meclizine 25mg to 100mg daily can be helpful in treating vertigo in the elderly.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Dose adjustments in psychiatric medications should be made in the elderly for many reasons, including which of the following?",
+      "choices":{  
+         "option0":"A. Decreased presence of lean body mass",
+         "option1":"B. Lower rates of orthostasis",
+         "option2":"C. Higher hepatic clearance",
+         "option3":"D. Increased metabolism",
+         "option4":"E. Increased gastric secretions",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Decreased presence of lean body mass (pg. 809). Dose adjustment should be made in the elderly when utilizing psychiatric meds due increased renal and hepatic clearance, along with decreased cardiac output and decreased gastric secretions and absorption. Orthostasis is common, especially from psychotropic meds in the elderly, and often necessitates a decrease in the dose. In general, pretreatment medical clearance and an EKG is recommended before starting psychiatric medications in the elderly.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which factor is correlated with an increased risk of suicide and should be included in emergency room screens for suicide?",
+      "choices":{  
+         "option0":"A. Anhedonia",
+         "option1":"B. A family history of bipolar disorder ",
+         "option2":"C. Increased sleep",
+         "option3":"D. Psychomotor retardation",
+         "option4":"E. Pervasive hopelessness",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Pervasive hopelessness (pg.  812). A clinician evaluating a patient in a psychiatric ER setting should always ask the patient about suicidal ideation and assess suicide risk.  Some examples of factors that increase the risk of suicide include pervasive hopelessness or pessimism, along with family history of suicide, verbalization of suicidal ideation, and previous attempts.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient is seen in the emergency room with a history of schizophrenia and depression, currently on psychotropic medication, presents with a high fever, tachycardia, and pharyngitis. Ulcers are found in the oral and perianal area. Which psychiatric mediation is the most likely culprit to the symptoms?",
+      "choices":{  
+         "option0":"A. Carbamazepine",
+         "option1":"B. Clozapine",
+         "option2":"C. Selegiline",
+         "option3":"D. Thioridazine",
+         "option4":"E. Venlafaxine",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Clozapine (pg. 815). The patient described above with a high fever, pharyngitis, oral and perianal ulceration, likely has clozapine induced agranulocytosis.  When the number of absolute neutrophil count (ANC) is low, it can cause life threatening infections.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"After discontinuing the medication in the patient above, administration of which of the following treatments is the most appropriate measure?",
+      "choices":{  
+         "option0":"A. A blood transfusion",
+         "option1":"B. Chlordiazepoxide",
+         "option2":"C. Cyproheptadine",
+         "option3":"D. Granulocyte colony\u2013stimulating factor",
+         "option4":"E. Lorazepam",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Granulocyte colony\u2013stimulating factor (pg 815). The first step in the treatment of Clozaril induced agranulocytosis, as described the previous case, is discontinuing the medication immediately. After that, administration of granulocyte colony\u2013stimulating factor may be helpful. Though it is similar to a blood infusion, granulocytes, not red blood cells, can be infused in rare cases of agranulocytosis.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient presents to the ER intoxicated with an unknown substance. He presents with ataxia and is highly somnolent on mental status exam, with low blood pressure, heart rate, and respiratory rate. Which of the following substances is the toxicology screen most likely to come back positive for?",
+      "choices":{  
+         "option0":"A. Amphetamines",
+         "option1":"B. Benzodiazepines",
+         "option2":"C. Lithium",
+         "option3":"D. Lysergic acid diethylamide",
+         "option4":"E. Phencyclidine",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Benzodiazepines (pg. 816). Benzodiazepine intoxication can present with sedation, somnolence, and ataxia, as described in the case above. Risks of intoxication include suppression of blood pressure, heart rate, and respiratory rate. Lysergic acid diethylamide (LSD) and phencyclidine (PCP) are hallucinogens that can affect perception. LSD intoxication can present with hypertension, mydriasis, and diaphoresis. PCP intoxication presents with nystagmus, hypertension, and dissociative symptoms and agitation. Unlike benzodiazepines, which are sedatives, amphetamines and stimulants, can cause agitation, tachycardia, hypertension, and dilated pupils. Lithium toxicity cause nausea, vomiting, confusion, and tremors.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Administration of which of the following treatments is the most appropriate measure in the case above?",
+      "choices":{  
+         "option0":"A. Charcoal",
+         "option1":"B. Flumazenil",
+         "option2":"C. N\u2013acetylcysteine",
+         "option3":"D. Naloxone",
+         "option4":"E. Naltrexone",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Flumazenil (pg 816). Supportive measures and administration of Flumazenil can be helpful in reversing benzodiazepine overdoses, if skilled personal are delivering it and resuscitation equipment is nearby.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient had a recent gastrointestinal illness and has had poor appetite the past few days. He remained compliant with psychiatric medication and now presents in the ER with acute worsening of diarrhea, gait instability, and a tremor and is noted to be confused on mental status exam and has a seizure. Which psychiatric medication is the most likely culprit?",
+      "choices":{  
+         "option0":"A. Divalproex sodium",
+         "option1":"B. Fluoxetine",
+         "option2":"C. Lithium",
+         "option3":"D. Methylphenidate ",
+         "option4":"E. Venlafaxine",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Lithium (pg 817). The patient described in the case has lithium toxicity, which can often occur with dehydration, such as that caused by the recent sickness in the case above, given Lithium has a small therapeutic window and fluid shifts can lead to toxicity. Sings of toxicity include vomiting, ab pain, diarrhea, tremor, ataxia and in more severe cases, seizures, focal neurological signs, and a coma.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following treatments is most appropriate to reverse the medication toxicity noted in the previous case?",
+      "choices":{  
+         "option0":"A. Outpatient dialysis ",
+         "option1":"B. Outpatient neuro follow\u2013up and benztropine",
+         "option2":"C. ICU transfer and benzodiazepines",
+         "option3":"D. ICU transfer and charcoal administration",
+         "option4":"E. ICU transfer and osmotic diuresis",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. ICU transfer and osmotic diuresis (pg 817). The previous case describes lithium toxicity. Lithium toxicity can be deadly and often requires an ICU admission. Osmotic diuresis and lavage with a wide\u2013bore tube can help reverse the toxicity.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 25\u2013year\u2013old female presents with hot flashes and reports feeling shaky and tingling in her fingers.  She reports a rapid heartbeat, lasting a few minutes at a time, multiple days a week for the past few months. She presents to the emergency room after another episode. Which medical test should be obtained to rule out an organic cause for this disorder?",
+      "choices":{  
+         "option0":"A. Chest x\u2013ray",
+         "option1":"B. Complete blood count",
+         "option2":"C. Electrocardiogram",
+         "option3":"D. Magnetic resonance imaging of the brain",
+         "option4":"E. Urinalysis",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Electrocardiogram (pg. 818). Mitral valve prolapse can be associated with panic disorder, as it can cause heart palpitations, dyspnea, fear, and anxiety. An EKG should be obtained to rule out mitral valve prolapse in cases of panic disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following medication strategies is the best long\u2013term treatment for the patient in the previous case, provided her medical tests are all normal?",
+      "choices":{  
+         "option0":"A. Alprazolam",
+         "option1":"B. Fluoxetine",
+         "option2":"C. Gabapentin",
+         "option3":"D. Lorazepam",
+         "option4":"E. Propranolol",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Fluoxetine (pg 818). While short\u2013acting benzodiazepines might be useful for short term management of panic disorder, the best long\u2013term management medication wise is an antidepressant, such as fluoxetine, which is FDA approved to treat panic disorder. In cases of mitral value prolapse induced panic symptoms, propranolol could be helpful.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"An elderly patient with a history of schizophrenia and a medical history significant for strokes has been stable on fluphenazine for many years. Her psychiatrist decides to lower the dose, and at the next session abnormal movements of her mouth and tongue are noted, along with twitching and writing movements of her arms. Which is the best course of treatment?",
+      "choices":{  
+         "option0":"A. Add amantadine",
+         "option1":"B. Continue to decrease and taper off the medication",
+         "option2":"C. Cross taper with haloperidol",
+         "option3":"D. Increase the medication dose back up",
+         "option4":"E. Start Cogentin",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Continue to decrease and taper off the medication (pg 820). The patient above likely has tardive dyskinesia. Abnormal movements of the mouth, tongue, face, neck, and trunk are common. The elderly and those with underlying brain damage are most at risk. Often the symptoms come about after the antipsychotic dose is lowered after long\u2013term treatment. No effective medication can treat tardive dyskinesia, but the patient should be managed on the lowest dose possible.  Ideally, the medication should be discontinued, or if need be, switched to an antipsychotic less likely to cause tardive dyskinesia in the future. The older typical antipsychotics, such as fluphenazine and haloperidol, are most likely to cause tardive dyskinesia.  Increasing the dose might mask the tardive dyskinesia short\u2013term, but it is not the best long\u2013term solution.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A child repeatedly sets fires and leaves them burning without any attempt to extinguish them. Which of the following psychiatric or medical disorder is most commonly comorbid with this presentation?",
+      "choices":{  
+         "option0":"A. Borderline personality disorder",
+         "option1":"B. Conduct disorder ",
+         "option2":"C. Enuresis",
+         "option3":"D. Migraines",
+         "option4":"E. Posttraumatic stress disorder",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Conduct disorder (pg. 821). While it used to be thought of that fire setting is associated with a triad of symptoms\u2013 fire setting, enuresis, and cruelty to animals, it is now known that no evidence exists indicating that these symptoms are linked. However, conduct disorder has been found to be the most frequent psychiatrist disorder co\u2013occurring with pathological fire setting.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following is often the primary site for HIV infection in children?",
+      "choices":{  
+         "option0":"A. Brain",
+         "option1":"B. Lymphatic system",
+         "option2":"C. Lungs",
+         "option3":"D. Kidneys",
+         "option4":"E. Skin",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Brain (pg 822). In children, the brain is often a primary site for HIV infection, leading to decreased brain development and often presenting with encephalitis, memory, concentration, and attentional issues. The virus often presents itself in the cerebrospinal fluid before it shows up in the blood. Mood disorders, personality changes, and psychosis can also occur with HIV infections.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is a specification of the weight criteria for anorexia nervosa in the DSM?",
+      "choices":{  
+         "option0":"A. A minimum of a 15% loss of body weight must occur",
+         "option1":"B. At least a loss of 25% of one\u2019s body weight must be present",
+         "option2":"C. Failure to meet expected weight gain must occur, though one does not have to lose weight",
+         "option3":"D. The weight loss must be severe enough to result in a loss of menses for at least 3 months",
+         "option4":"E. The weight loss must result in a severe nutritional deficiency",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Failure to meet expected weigh gain must occur, though one does not have to lose weight (pg 822). While weight loss is commonly a feature of anorexia nervosa, and a suggested body weigh less than 85% was noted in the DSM\u2013IV, in the current DSM\u20135 there is no required cut\u2013off for a percentage of weight that must be lost to meet criteria. While prior versions of the DSM required amenorrhea as a criterion, we now know that even those of very low weight still get their periods at times.  This led to the elimination of the amenorrhea criterion from the DSM\u20135.",
+      "@activityType":"MCQ"
+   } 
+]

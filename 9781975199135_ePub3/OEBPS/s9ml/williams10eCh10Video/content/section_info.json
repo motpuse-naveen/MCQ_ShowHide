@@ -1,0 +1,28 @@
+var sections={
+
+    "SectionContent":[
+      {
+         "@objName": "Cooper, Core Video: Major Depressive Disorder, Single Episode, Severe",
+         "chapterName": "Cooper, Core Video: Major Depressive Disorder, Single Episode, Severe",
+         "SectionID": "clinicalpsychiatry",
+         "videoLink": '<script src="../../js/video-insert.js"></script><p class="video" id="vid1-1"><video data-id="JssQ1Bw2" controls="controls" controlslist="nodownload" class="jwp-video" crossorigin="anonymous" style="width:100%; height:auto; width:100%; height:auto;">Browser issues</video><br/><br/><!--<b>Adhd Combined Presentation, Core Video.mov</b>--></p><script type="text/javascript">loadVideoContent()</script>'
+
+      }
+      // ,
+      // {
+      //    "@objName": "Treatment Across the Lifespan",
+      //    "chapterName": "Treatment Across the Lifespan",
+      //    "SectionID": "treatmentacrosslifespan"
+      // },
+      // {
+      //    "@objName": "Other Issues Relevant to Psychiatry",
+      //    "chapterName": "Other Issues Relevant to Psychiatry",
+      //    "SectionID": "otherissuesrelevantpsychiatry"
+      // },
+      // {
+      //    "@objName": "Contributions from the Sciences and Social Sciences to Psychiatry",
+      //    "chapterName": "Contributions from the Sciences and Social Sciences to Psychiatry",
+      //    "SectionID": "contributionsfromssiencestopsychiatry"
+      // }
+   ]
+}

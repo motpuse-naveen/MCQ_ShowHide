@@ -1,0 +1,77 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the most common cause of Matilda\u2019s school refusal?",
+      "choices":{  
+         "option0":"A. Depression",
+         "option1":"B. Oppositional defiant disorder",
+         "option2":"C. Posttraumatic stress disorder",
+         "option3":"D. Panic disorder with agoraphobia",
+         "option4":"E. Separation anxiety",
+         "@option":"4"
+      },
+      "rationale":"School refusal is typically due to separation anxiety. The video points toward symptoms of Matilda having anxiety, including stomachaches, in the context of a negative medical workup. Hints of separation anxiety often include a fearful, overbearing mother, whom the child is dependent on, as evident by the mother continually speaking for her in the video. (896)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"At what age might some of the symptoms she has displayed be considered normal still?",
+      "choices":{  
+         "option0":"A. 0 to 6 months",
+         "option1":"B. 10 to 18 months",
+         "option2":"C. 3 to 5 years old",
+         "option3":"D. 6 to 10 years old",
+         "option4":"E. 10 to 13 years old",
+         "@option":"1"
+      },
+      "rationale":"Separation anxiety occurs between 10 to 18 months of age and is precipitated by separation from the person whom the infant is attached to and typically resolves by the infant learning to crawl and look back toward the mother for reassurance. At Matilda\u2019s age of 10 years old, a report of separation anxiety is classified as a disorder. (896)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is a differentiating feature between those with this disorder versus generalized anxiety disorder?",
+      "choices":{  
+         "option0":"A. Difficulty falling and staying asleep",
+         "option1":"B. Frequent stomachaches, dizziness, and headaches",
+         "option2":"C. Irritability and temper tantrums",
+         "option3":"D. The precipitation of symptoms by separation from parent or home",
+         "option4":"E. Worries about death and dying",
+         "@option":"3"
+      },
+      "rationale":"With separation anxiety disorder, the precipitating stressor is the separation from home or attachment figures. The other symptoms mentioned above including sleep difficulties, somatic symptoms, irritability, and worries about death and dying can be features of both generalized anxiety disorder and separation anxiety disorder. (196)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"According to the large multisite randomized clinical trial, Child/Adolescent Anxiety Multimodal Study (CAMS), which predictor, as highlighted in this video, indicates an increased likelihood of remission of this disorder?",
+      "choices":{  
+         "option0":"A. Absence of a family history of this disorder ",
+         "option1":"B. Having a trauma history",
+         "option2":"C. Initiation of treatment at a younger age",
+         "option3":"D. Possessing a comorbid social anxiety",
+         "option4":"E. Presence of a concerned mother",
+         "@option":"2"
+      },
+      "rationale":"The CAMS found that predictors of future remission of separation anxiety disorder included younger age of initiation of treatment, lower severity of anxiety, absence of a comorbid depressive or anxiety disorder, and the absence of social anxiety as the primary anxiety disorder. (198)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which treatment strategy will lead to the fastest remission rate for this disorder?",
+      "choices":{  
+         "option0":"A.  A tricyclic antidepressant alone",
+         "option1":"B.  Cognitive behavioral therapy (CBT) alone",
+         "option2":"C.  CBT plus a serotonin\u2013norepinephrine reuptake inhibitor (SNRI)",
+         "option3":"D.  Possessing a comorbid social anxietyD. Exposure\u2013based CBT plus a selective serotonin reuptake inhibitor (SSRI)E.  Presence of a concerned mother",
+         "option4":"E.  Evidence\u2013based CBT plus a low\u2013dose benzodiazepine",
+         "@option":"3"
+      },
+      "rationale":"The CAMS showed exposure\u2013based CBT plus an SSRI is the gold standard for treatment of childhood anxiety disorders. The combined treatment demonstrated an increased response rate on the Clinical Global Impression (CGI) rating scale compared to CBT\u2013only and sertraline\u2013only groups, though both beat out placebo treatment. Over time, those in the combined group continued to improve. A trial of CBT can be applied first for mild to moderate symptoms if impairment is minimal. Tricycles are not recommended due to potentially serious cardiac adverse events. Open trials support some use of benzodiazepine for panic and other anxiety symptoms. (199)",
+      "@activityType":"MCQ"
+   }
+   ]

@@ -1,0 +1,61 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 13\u2013year\u2013old born as a female has insisted since he was three years old that he is really a boy. He has always preferred to play sports with boys, as opposed to engaging in traditional gender\u2013role activities for girls. He wears boys clothing at all times and has never worn a dress. Since the beginning of puberty, he has worn a binder around his torso to flatten out his breasts. He has told his parents, friends, and teachers to use the \"he\" pronoun since he was nine years old. He eventually wants to transition physically to being a male. He is sexually attracted to females. His karyotype is 23, XX. What term best describes the sexual identity of this individual?",
+      "choices":{  
+         "option0":"A. Transexual",
+         "option1":"B. Transgender",
+         "option2":"C. Homosexual",
+         "option3":"D. Genderqueer",
+         "option4":"E. Cross\u2013dresser",
+         "@option":"0"
+      },
+      "rationale":"The individual can be described as transgender, the term referring to someone who identifies with a gender different than their assigned gender. However, the term transexual is a better fit, as he wants to have the body of a male. Genderqueer refers to someone who feels that they are between genders, are both genders, or are neither gender. Cross dressing is wearing the clothes typically associated with a different gender than the one assigned at birth, but maintaining the identity of the assigned gender. Given that he identifies as a male and is attracted to females, his sexual orientation is heterosexual, not homosexual. (547).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The parents of a four\u2013year\u2013old boy present to the outpatient clinic concerned about their son, who they state tells everyone that he is a girl. The say that he has always played with \"girl toys\" such as dolls, and that they have caught him several times putting on his 6\u2013year\u2013old sister\u2019s dresses. His karyotype is 23, XY. What is the most likely outcome for the child regarding his gender identity/expression in adulthood?",
+      "choices":{  
+         "option0":"A. He will identify as a gender\u2013dysphoric male",
+         "option1":"B. He will transition surgically to a female",
+         "option2":"C. He will identify as a male",
+         "option3":"D. He will identify as a gender\u2013dysphoric female",
+         "option4":"E. Panic",
+         "@option":"2"
+      },
+      "rationale":"Several studies have shown that a majority of children with gender dysphoria identify with their birth\u2013assigned gender as adults. Even in those who continue to identify as a different gender, most do not have gender reassignment surgery. (549)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 23\u2013year\u2013old transgender man decides to begin hormone treatment for phenotypical masculinization. In addition to liver function tests, which of the following labs should be routinely monitored?",
+      "choices":{  
+         "option0":"A. TSH/T3/T4",
+         "option1":"B. BUN/creatinine",
+         "option2":"C. NA+/K+",
+         "option3":"D. Hemoglobin/hematocrit",
+         "option4":"E. FSH/LH",
+         "@option":"3"
+      },
+      "rationale":"Testosterone supplementation can lead to an increase in red blood cell counts which can lead to stroke, so hemoglobin and hematocrit should be monitored routinely. Liver function tests should also be monitored because testosterone is metabolized by the liver. Glucose and lipids should be monitored as well, as testosterone can increase the chance of lipid abnormalities and diabetes. (550).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What is the default sex of a human embryo, and what causes it to develop into the opposite sex?",
+      "choices":{  
+         "option0":"A. Default female \u2013 becomes male from Y chromosome\u2013induced androgens",
+         "option1":"B. Default male \u2013 becomes female from lack of Y chromosome\u2013induced androgens",
+         "option2":"C. Default female \u2013 becomes male from Y chromosome estrogen suppression",
+         "option3":"D. Default male \u2013 becomes female from a double dose of X chromosome estrogen",
+         "@option":"0"
+      },
+      "rationale":"The default state of mammalian embryos is female. Androgens produced by the presence of the Y chromosome convert the tissue into male. (551).",
+      "@activityType":"MCQ"
+   }
+   ]

@@ -1,0 +1,1086 @@
+[
+   {
+      "@activityType": "MCQ",
+      "question": "In a patient with early gastric cancer (EGC), which of the following is more likely to metastasize to the lymph nodes?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. A tumor in the gastric cardia",
+         "option1": "B. A 1.5-cm sessile mass",
+         "option2": "C. A nodular raised mass &gt;4.5 cm",
+         "option3": "D. None of the above"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Studies have shown that gastric lesions smaller than 2 to 3 cm have a 3.5% chance of lymph node involvement. Lesions larger than 4.5 cm have a greater than 50% chance of spread into the submucosa and are associated with positive nodes."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which biopsy specimen is most suggestive of eosinophilic gastritis?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. <a href=\"asfunction:_root.loadImage,data/images/05-01-412A.jpg,data/pdf/05-01-412A.pdf,data/images/Browser/05-01-412A.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>",
+         "option1": "B. <a href=\"asfunction:_root.loadImage,data/images/05-01-412B.jpg,data/pdf/05-01-412B.pdf,data/images/Browser/05-01-412B.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Features of gastric mucosal biopsy specimens suggestive of eosinophilic gastritis include marked eosinophilic infiltration, eosinophilic pit abscesses, necrosis with numerous neutrophils, and epithelial regeneration. Abnormal eosinophilic infiltration is defined as at least 20 eosinophils per high-power field, either diffusely or multifocally."
+   },
+   {
+      "@activityType": "TRUEORFALSE",
+      "question": "Mutations in the E-cadherin (<i>CDH1<\/i>) gene have been linked to the development of hereditary diffuse gastric cancer.",
+      "choices": {
+         "@option": "0",
+         "option0": "A. True",
+         "option1": "B. False"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Families with hereditary diffuse gastric cancer have been found to carry a germline mutation in the <i>CDH1<\/i> gene, all with diffuse-type cancer. Studies have shown that suppression of E-cadherin expression occurs in 51% of cancers, with a higher percentage found in diffuse-type cancers."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding interstitial cells of Cajal (ICC) is false?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. They originate from c-kit&#8211;positive mesenchymal cells.",
+         "option1": "B. Myenteric ICC are responsible for spontaneous generation of slow waves.",
+         "option2": "C. Intramuscular ICC facilitate propagation of slow waves in the stomach.",
+         "option3": "D. Intramuscular ICC in the cardia have a role in mechanoreception.",
+         "option4": "E. Loss of ICC in the antrum is associated with gastroparesis."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00048-2\" target=\"_blank\"><font color='#0000FF'><b>ch48<\/b><\/font><\/a>)<br>ICC originate from c-kit&#8211;positive mesenchymal cell precursors. Myenteric ICC generate slow waves, whereas intramuscular ICC propagate slow waves. In addition, intramuscular ICC in the fundus act as sensory cells and play a role in mechanoreception, and loss of ICC in the antrum is associated with gastroparesis in patients with DM."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A mother brings her five-week-old infant to your office, reporting projectile vomiting, difficulty feeding, and weight loss. She states the infant was normal at birth with normal APGAR scores. Which of the following statements regarding this condition is false?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Fifty percent of identical twins are affected.",
+         "option1": "B. The incidence in the United States is 3 per 1000 live births.",
+         "option2": "C. It is more common in males.",
+         "option3": "D. An abdominal ultrasound scan may confirm the diagnosis.",
+         "option4": "E. None of the above is false."
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00047-0\" target=\"_blank\"><font color='#0000FF'><b>ch47<\/b><\/font><\/a>)<br>The incidence of infantile hypertrophic pyloric stenosis in the United States is approximately 3 per 1000 live births. Males outnumber females by a ratio of 4:1 or 5:1; 50% of identical twins are affected. Noncontrast radiography demonstrates a distended stomach with paucity of gas beyond the stomach. Diagnosis is confirmed by abdominal ultrasonography of the pylorus, which has supplanted contrast radiography as the diagnostic study of choice for infantile hypertrophic pyloric stenosis."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The most accurate method to stage gastric cancer is by which of the following studies?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Transabdominal ultrasonography",
+         "option1": "B. Magnetic resonance imaging",
+         "option2": "C. Helical computed tomography (CT) scan",
+         "option3": "D. Endoscopic ultrasonography (EUS)"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>EUS is the best modality to stage gastric cancer. Imaging can provide one with T (depth of tumor invasion) and N (nodal status) with an accuracy of 80%. Helical CT and MRI can provide information regarding distant metastases."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "True statements regarding nonsteroidal anti-inflammatory drug (NSAID) pathophysiology include all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Cyclooxygenase (COX)-2 is the predominant COX in the stomach.",
+         "option1": "B. Prostaglandin concentration in the mucosa is reduced.",
+         "option2": "C. Gastric mucosal blood flow is decreased.",
+         "option3": "D. Injury may occur independent of the effect of decreased prostaglandin synthesis."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00052-4\" target=\"_blank\"><font color='#0000FF'><b>ch52<\/b><\/font><\/a>)<br>The COX isoform found in the stomach is COX-1. COX being the rate-limiting enzyme in prostaglandin synthesis, gastric mucosal concentrations are reduced by COX inhibition. Gastric mucosal blood flow, one of the main defense mechanisms, is compromised by NSAID-related decreases in prostaglandins. Increased leukotriene production caused by enzymatic shifts in arachidonic acid metabolism may lead to mucosal injury independent of prostaglandin inhibition."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 68-year-old black man residing in the United States was found to have a proximal adenocarcinoma of the stomach. After CT scan and EUS, the lesion was staged as T3N1M0. What is the appropriate five-year survival rate?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. &gt;80%",
+         "option1": "B. &lt;5%",
+         "option2": "C. &lt;20%",
+         "option3": "D. 50%"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>T3N1M0 adenocarcinoma of the stomach corresponds to stage IIIA disease. The five-year survival rate in the United States is less than 20% (<a href=\"asfunction:_root.loadImage,data/images/05-418-01A.jpg,data/pdf/05-418-01A.pdf,data/images/Browser/05-418-01A.jpg\"/><font color='#0000FF'><b>View Table 1<\/b><\/font><\/a>; <a href=\"asfunction:_root.loadImage,data/images/05-418-01B.jpg,data/pdf/05-418-01B.pdf,data/images/Browser/05-418-01B.jpg\"/><font color='#0000FF'><b>View Table 2<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A patient with known cancer in the gastric antrum and no metastasis on CT undergoes EUS for staging. EUS (<a href=\"asfunction:_root.loadImage,data/images/05-03-419.jpg,data/pdf/05-03-419.pdf,data/images/Browser/05-03-419.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>) depicts a 2-cm hypoechoic mass. Based on this information, what is the most appropriate TNM classification of this tumor?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. T2N1M0",
+         "option1": "B. T2N2M0",
+         "option2": "C. T2N3M0",
+         "option3": "D. T3N0M0",
+         "option4": "E. T3N2M0"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>The T stage signifies depth of tumor invasion; N, nodal status; and M, metastasis. The CT scan findings were negative for metastasis, making this an M0 tumor. The tumor extends beyond the serosa of the stomach, making this a T3 tumor, and there were no perigastric lymph nodes, making the nodal status N0. Thus, the tumor stage for this patient is T3N0M0."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Hyperglycemia is associated with all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Antral hypermotility",
+         "option1": "B. Isolated pyloric contractions",
+         "option2": "C. Gastric dysrhythmias",
+         "option3": "D. Impaired action of prokinetic drugs"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00048-2\" target=\"_blank\"><font color='#0000FF'><b>ch48<\/b><\/font><\/a>)<br>Hyperglycemia is associated with loss of ICC, antral hypomotility, isolated pyloric contractions, gastric dysrhythmias, and impaired prokinetic action of drugs like erythromycin."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following regarding the cells lining the stomach is false?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Mucosal cells are simple columnar epithelial cells that secrete mucus for luminal cytoprotection.",
+         "option1": "B. Proton pumps in the parietal cells begin acid secretion 30 minutes after stimulation.",
+         "option2": "C. Parietal cells are the sites of intrinsic factor secretion.",
+         "option3": "D. Chief cells synthesize and secrete pepsinogen I and II.",
+         "option4": "E. Gastrin-secreting G cells secrete gastrin into the lumen of the stomach as well as the bloodstream."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00047-0\" target=\"_blank\"><font color='#0000FF'><b>ch47<\/b><\/font><\/a>)<br>The gastric mucosal surface is composed primarily of columnar epithelial cells that secrete mucus for cytoprotection. Parietal cells begin acid secretion 5 to 10 minutes after stimulation and are also the sites of intrinsic factor secretion. Chief cells synthesize and secrete pepsinogen I and II into the gastric lumen. G cells secrete gastrin into the lumen as well as the bloodstream."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following regarding diabetes mellitus (DM) gastroparesis is false?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Patients often have DM for &gt;10 years.",
+         "option1": "B. Gastroparesis develops in 20% of patients with long-standing type 1 DM.",
+         "option2": "C. An important manifestation is erratic blood glucose control.",
+         "option3": "D. Patients may experience unexpected hypoglycemia in the postprandial periods."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00048-2\" target=\"_blank\"><font color='#0000FF'><b>ch48<\/b><\/font><\/a>)<br>Fifty percent of patients with long-standing type 1 DM will experience gastroparesis, usually after more than 10 years of having the disease. They experience erratic blood glucose control and postprandial hypoglycemia because of delayed gastric emptying."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following paraneoplastic syndromes are associated with gastric cancer <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Acanthosis nigrans",
+         "option1": "B. Disseminated intravascular coagulation",
+         "option2": "C. Thrombophlebitis (Trosseau&#8217;s sign)",
+         "option3": "D. Pyoderma gangrenosum",
+         "option4": "E. Nephrotic syndrome"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Acanthosis nigrans, disseminated intravascular coagulation, thrombophlebitis, and nephrotic syndrome can all be seen as paraneoplastic syndromes associated with gastric cancer. Pyoderma gangrenosum is most commonly associated with inflammatory bowel disease and more common in ulcerative colitis than in Crohn&#8217;s disease."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Anna, a 25-year-old woman born in Russia, has been diagnosed with a <i>Helicobacter pylori<\/i>&#8211;positive gastric ulcer. She is allergic to penicillin. What is the most appropriate treatment regimen?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. PPI twice daily, 500 mg clarithromycin twice daily, and 1 g amoxicillin twice daily for 10 days",
+         "option1": "B. PPI twice daily, 500 mg clarithromycin twice daily, and 500 mg metronidazole twice daily for 10 days",
+         "option2": "C. PPI twice daily, 1 g amoxicillin twice daily for 5 days, then 250 mg levofloxacin twice daily for 5 days",
+         "option3": "D. PPI twice daily, 500 mg clarithromycin twice daily, and 525 mg bismuth subsalicylate four times daily for 10 days"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br>The treatment in <b>A<\/b> and <b>C<\/b> cannot be used because of penicillin allergy. The treatment in <b>D<\/b> is inadequate because a single antibiotic is a less effective regimen (<a href=\"asfunction:_root.loadImage,data/images/05-424.jpg,data/pdf/05-424.pdf,data/images/Browser/05-424.jpg\"/><font color='#0000FF'><b>View Table<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Clinically significant GI bleeding from stress-related mucosal injury can be decreased by which of the following methods?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Infusion of H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor antagonist",
+         "option1": "B. 1 g sucralfate every six hours via a nasogastric tube",
+         "option2": "C. PPI infusion",
+         "option3": "D. None of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Although widely used in critically ill patients at risk of stress mucosal injury, H<font face=\"GG Subscript\" size=\"16\">2<\/font> blockers, PPIs, and sucralfate via a nasogastric tube have not been shown to prevent these ulcerations."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Regarding gastric diverticula, which of the following is true?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Gastric diverticula are relatively common.",
+         "option1": "B. There is a risk of malignancy associated with a distal gastric diverticulum.",
+         "option2": "C. There is a risk of malignancy associated with a proximal gastric diverticulum.",
+         "option3": "D. A true congenital gastric diverticulum projects into but not through the muscle layer.",
+         "option4": "E. All of the above are true."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00047-0\" target=\"_blank\"><font color='#0000FF'><b>ch47<\/b><\/font><\/a>)<br>A gastric diverticulum is the rarest type of GI diverticulum. The true congenital diverticulum contains all gastric tissue layers and is located on the posterior wall of the cardia. The intramural (or partial) diverticulum projects into but not through the muscular layer. In the case of an incidentally discovered proximal gastric diverticulum, treatment is unnecessary. Because of the risk of malignancy associated with distal gastric diverticula, surgical treatment by amputation, invagination, or segmental resection has been recommended."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Bile reflux gastropathy is least likely to occur in which of the following patients?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. In patients with Billroth I or II anastomosis",
+         "option1": "B. In patients after truncal vagotomy and pyloroplasty for peptic ulcer disease",
+         "option2": "C. In patients after cholecystectomy and sphincteroplasty",
+         "option3": "D. In adult and pediatric patients who have not had surgery"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Bile reflux gastropathy least commonly occurs in adult and pediatric patients who have never had surgery. Bile reflux contributes to mucosal lesions in the stomach and may facilitate <i>H. pylori<\/i> colonization in the corpus region. Gastric atrophy may result in an increased risk of intestinal metaplasia and gastric cancer."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All patients with the following conditions should undergo screening for gastric cancer <i>except<\/i> those with:",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Hyperplastic/fundic gland polyps",
+         "option1": "B. Low-grade gastric dysplasia",
+         "option2": "C. Familial adenomatous polyposis (FAP)",
+         "option3": "D. Gastric adenoma"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>The rate of malignant transformation of a hyperplastic/fundic gland polyp is less than 1%. Patients with gastric adenomas, FAP, and polyps with low-grade dysplasia have an approximately 11% risk of the development of carcinoma in situ within 4 years of follow-up."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding the duodenum is true?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. The majority of it lies retroperitoneally.",
+         "option1": "B. It has circular folds known as plicae circulares.",
+         "option2": "C. Its arterial supply arises from the superior mesenteric artery and celiac axis.",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00047-0\" target=\"_blank\"><font color='#0000FF'><b>ch47<\/b><\/font><\/a>)<br>The first few centimeters of the duodenum are shrouded by anterior and posterior elements of the peritoneum. The remainder of the duodenum lies posterior to the peritoneum and thus is retroperitoneal. As is the case with the remainder of the small intestine, the luminal surface is lined with mucosa, forming circular folds known as the plicae circulares or valvulae conniventes. The branches of the celiac trunk supply the proximal duodenum, whereas the distal duodenum is supplied by branches of the superior mesenteric artery."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following regarding idiopathic gastroparesis is false?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. It is usually preceded by an acute febrile illness.",
+         "option1": "B. Postviral gastroparesis may resolve completely over one to two years.",
+         "option2": "C. It accounts for &gt;50% of cases of gastroparesis.",
+         "option3": "D. Viruses such as Norwalk, herpes simplex, and Epstein-Barr have been documented in a number of cases."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00048-2\" target=\"_blank\"><font color='#0000FF'><b>ch48<\/b><\/font><\/a>)<br>One third of diagnosed cases of gastroparesis are idiopathic. Many of the cases are preceded by an acute febrile illness described as flu-like, and viruses such as herpes, Epstein-Barr, and Norwalk have been identified in some cases. Postviral gastroparesis may resolve completely over one to two years."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which statement about pepsin is false?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. It is produced in an inactive proenzyme form.",
+         "option1": "B. Activation of pepsin requires gastric acid.",
+         "option2": "C. Pepsin is produced in parietal cells.",
+         "option3": "D. It is inactivated at a pH of 5."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00049-4\" target=\"_blank\"><font color='#0000FF'><b>ch49<\/b><\/font><\/a>)<br>Pepsin is produced in chief cells and mucus neck cells as a proenzyme. Pepsins are reversibly inactivated at a pH of 5 and are most active at a pH of 1.8 to 3.5."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Potential chemoprotective agents for gastric cancer include all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Antioxidants such as carotenoids and vitamins C and E",
+         "option1": "B. Aspirin",
+         "option2": "C. Green tea",
+         "option3": "D. High-fiber diet"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Carotenoids and vitamins C and E are antioxidants that seem to have a chemoprotective effect for gastric cancer. Aspirin inhibits COX and has been shown to potentially inhibit cell growth and apoptosis and increase angiogenesis. Green tea containing polyphenols has a variety of antitumor effects, including antioxidant activity, induction of apoptosis, and inhibition of tumor cell proliferation."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 45-year-old human immunodeficiency virus&#8211;positive man presents with severe epigastric pain, fever, and atypical lymphocytosis. An upper GI (UGI) tract radiographic study reveals a rigid and narrowed gastric antrum. An upper endoscopy is performed and the gastric biopsy reveals the following (<a href=\"asfunction:_root.loadImage,data/images/05-04-433.jpg,data/pdf/05-04-433.pdf,data/images/Browser/05-04-433.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). The biopsy findings are suggestive of which of the following?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Herpes simplex gastritis",
+         "option1": "B. Gastric lymphoma",
+         "option2": "C. <i>H. pylori<\/i> gastritis",
+         "option3": "D. Cytomegalovirus gastritis",
+         "option4": "E. Gastric adenocarcinoma"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>The biopsy specimen shown suggests cytomegalovirus colitis. The specimen reveals inflammatory debris, chronic active gastritis, and enlarged cell &#8220;owl-eye&#8221; intranuclear inclusions, which are the hallmarks of cytomegalovirus infection. Herpes simplex gastritis biopsy specimens show numerous single cells and clumps of cells, with ground-glass nuclei and eosinophilic intranuclear inclusion bodies surrounded by halos."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Correct statements about peptic ulcer epidemiology in the developed world in the last decade of the 20th century include all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Fewer patients require hospital care.",
+         "option1": "B. The mortality rate has decreased in all age groups.",
+         "option2": "C. Bleeding from peptic ulcer is less common.",
+         "option3": "D. Duodenal ulcers account for &gt;80% of cases."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00052-4\" target=\"_blank\"><font color='#0000FF'><b>ch52<\/b><\/font><\/a>)<br>The hospitalization rate decreased by 20% in the 1990s. The mortality rate also decreased by 22% in the same period, but not in elderly patients. In a Canadian study, the prevalence of bleeding from nonvariceal sources decreased by 31% over a similar period. In a Danish prospective peptic ulcer study, only 55% of cases were duodenal."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following tumors can metastasize to the stomach <i>except<\/i>:",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Melanoma",
+         "option1": "B. Breast cancer",
+         "option2": "C. Prostate cancer",
+         "option3": "D. Colon cancer",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Metastatic disease to the stomach can occur with melanoma and breast, lung, ovary, liver, colon, and testicular cancers, with breast cancer being the most common."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding annular pancreas is true?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. It usually presents in adulthood and rarely in infants.",
+         "option1": "B. The anomalous tissue is histologically abnormal.",
+         "option2": "C. Infant and childhood cases are commonly associated with other anomalies.",
+         "option3": "D. The anomalous tissue usually contains GI tissue."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00047-0\" target=\"_blank\"><font color='#0000FF'><b>ch47<\/b><\/font><\/a>)<br>The lesion may present in the neonatal period, childhood, or adulthood. It is the most common congenital anomaly of the pancreas presenting in children. Infant and childhood cases are associated with other congenital anomalies in an estimated 40% to 70% of cases. The anomalous tissue is histologically normal and contains a moderately sized pancreatic duct."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 65-year-old white man underwent upper endoscopy that revealed a 1-cm submucosal lesion in the gastric antrum. The lesion was removed by endoscopic mucosal resection (EMR). The gross and histologic specimens are seen in this figure (<a href=\"asfunction:_root.loadImage,data/images/05-05-437.jpg,data/pdf/05-05-437.pdf,data/images/Browser/05-05-437.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). What is the diagnosis?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Gastric carcinoid",
+         "option1": "B. GI stromal tumor",
+         "option2": "C. Gastric lipoma",
+         "option3": "D. Schwannoma"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Gastric carcinoid tumors account for 7% of all GI carcinoid tumors and 0.2% of all gastric neoplasms. In the stomach, the well-differentiated tumors are mainly of enterochromaffin-like cell origin, with a small minority being of endocrine cell types."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A trial of empirical therapy with a PPI is indicated for which of the following patients with dyspepsia?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. A 75-year-old attorney from Philadelphia",
+         "option1": "B. A 21-year-old college student who recently emigrated from Indonesia",
+         "option2": "C. A 50-year-old schoolteacher with weight loss",
+         "option3": "D. A 40-year-old electrician from New Jersey"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00052-4\" target=\"_blank\"><font color='#0000FF'><b>ch52<\/b><\/font><\/a>)<br>Patients older than ages 50 to 55 years or those with alarm symptoms may have gastric cancer and should have an EGD before any empirical trial. Dyspeptic patients from areas of high <i>H. pylori<\/i> prevalence should have serologic testing before PPI therapy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which is the least likely operation to cause chronic postsurgical gastroparesis?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Billroth I",
+         "option1": "B. Billroth II",
+         "option2": "C. Roux-en-Y gastrojejunostomy",
+         "option3": "D. Fundoplication",
+         "option4": "E. Vagotomy with pyloroplasty"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00048-2\" target=\"_blank\"><font color='#0000FF'><b>ch48<\/b><\/font><\/a>)<br>Gastric neuromuscular dysfunction occurs in a subset of patients undergoing stomach operations. Vagotomy is associated with a number of gastric abnormalities that promote gastroparesis, and vagotomy performed during ulcer operations requires a pyloroplasty to reduce outflow resistance. Most patients recover from the effects of vagotomy, but in patients undergoing extensive resections of the antrum and corpus, as in Billroth I, Billroth II, or Roux-en-Y gastrojejunostomy, prolonged symptoms and chronic gastric neuromuscular dysfunction are likely."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Hydrochloric acid helps the absorption of which of the following?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Vitamin B<sub>12<\/sub>",
+         "option1": "B. Calcium",
+         "option2": "C. Iron",
+         "option3": "D. Protein",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00049-4\" target=\"_blank\"><font color='#0000FF'><b>ch49<\/b><\/font><\/a>)<br>Acid facilitates the absorption of all options listed."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Clinical manifestations of chronic <i>H. pylori<\/i> infection include all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Duodenal ulcers",
+         "option1": "B. Chronic gastritis",
+         "option2": "C. Adenocarcinoma of the stomach",
+         "option3": "D. Barrett&#8217;s epithelium",
+         "option4": "E. Gastric ulcer"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br>Barrett&#8217;s epithelium is inversely related to the presence of <i>H. pylori<\/i> infection."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Lymphocytic gastritis has been associated with all of the following diseases <i>except<\/i>:",
+      "choices": {
+         "@option": "4",
+         "option0": "A. <i>H. pylori<\/i>",
+         "option1": "B. Gastric lymphoma",
+         "option2": "C. Splenic and mesenteric venous thrombosis",
+         "option3": "D. Celiac disease",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Lymphocytic gastritis is characterized by a dense lymphocytic infiltration of surface and pit gastric epithelium (<a href=\"asfunction:_root.loadImage,data/images/05-10-442.jpg,data/pdf/05-10-442.pdf,data/images/Browser/05-10-442.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). This form of gastritis has been attributed to an atypical host immune response to <i>H. pylori<\/i>, gastric lymphoma, thrombosis of the confluence of the splenic and mesenteric veins, and celiac disease."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Indications for gastric biopsies include which of the following?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Gastric erosion or ulcer",
+         "option1": "B. Thick gastric fold(s)",
+         "option2": "C. Gastric polyp(s) or mass(es)",
+         "option3": "D. Diagnosis of <i>H. pylori<\/i> infection",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Gastric biopsies provide an excellent opportunity for the clinician and pathologist to communicate to correlate clinic data, endoscopic findings, and pathologic findings. Biopsies allow the clinician to make an accurate diagnosis."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "<i>H. pylori<\/i> infections in developing countries are characterized by all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Acquisition before age 10 years",
+         "option1": "B. Can be spontaneously eliminated and reacquired",
+         "option2": "C. Rarely seen in adults older than age 50",
+         "option3": "D. More common in families with more siblings",
+         "option4": "E. Lack of hot or running water in household"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br>Usually 80% of adults older than the age of 50 in developing countries have been infected."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is the most common type of gastric lymphoma?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Non-Hodgkin&#8217;s lymphoma",
+         "option1": "B. Mucosa-associated lymphoid tissue lymphoma",
+         "option2": "C. Hodgkin&#8217;s lymphoma",
+         "option3": "D. None of the above"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Gastric lymphomas comprise 3% of all gastric malignancies. More than 95% of gastric lymphomas are non-Hodgkin&#8217;s lymphomas. Gastric lymphoma is the most common form of extranodal non-Hodgkin&#8217;s lymphoma, accounting for more than 30% of all cases of primary non-Hodgkin&#8217;s lymphoma."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "<i>H. pylori<\/i> infection can inhibit acid production by which mechanism?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Production of interleukin-1B",
+         "option1": "B. Tumor necrosis factor-<font face=\"Arial\" size=\"15\">&#945;<\/font>",
+         "option2": "C. Direct inhibition of parietal cells",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00049-4\" target=\"_blank\"><font color='#0000FF'><b>ch49<\/b><\/font><\/a>)<br>The mechanism is multifactorial. A constituent of the bacterium can directly inhibit parietal cells. Cytokines released in response to infection also inhibit parietal cells."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Duodenal ulcer pathophysiology is usually associated with which of the following?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Gastric acid hyposecretion",
+         "option1": "B. Elevated fasting serum gastrin levels",
+         "option2": "C. Pangastritis as the precursor lesion when caused by <i>H. pylori<\/i> infection",
+         "option3": "D. Increased duodenal bicarbonate production"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00052-4\" target=\"_blank\"><font color='#0000FF'><b>ch52<\/b><\/font><\/a>)<br>Patients with duodenal ulcer are usually <i>hypersecreter<\/i>s of acid. Serum gastrin levels are elevated. Pangastritis from <i>H. pylori<\/i> typically decreases acid secretion and is less likely to be associated with duodenal ulcers. Duodenal bicarbonate production is decreased in duodenal ulcers."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 53-year-old black woman undergoes upper endoscopy for evaluation of epigastric symptoms. Upper endoscopic findings reveal a 1.5-cm polypoid mass in the proximal stomach. Pathology reveals well-differentiated adenocarcinoma. Which of the following is the most appropriate next step?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Resection with snare polypectomy",
+         "option1": "B. EUS",
+         "option2": "C. CT scan of the abdomen",
+         "option3": "D. Positron emission tomography scan",
+         "option4": "E. Transabdominal ultrasonography"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Once the diagnosis of gastric adenocarcinoma is made, proper staging of the tumor should be performed before therapeutic intervention. The first test performed should be a computed axial tomography scan of the abdomen with or without a positron emission tomography scan to exclude distant metastasis, and if findings are negative, EUS is used to obtain an accurate T (depth of tumor invasion) and N (nodal status) to stage the tumor. This will allow one to decide on endoscopic resection, surgical resection, or combined modality therapy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Acute severe epigastric pain develops in a 40-year-old man. In the emergency department, plain films demonstrate pneumoperitoneum. Which of the following is correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. A perforated duodenal ulcer is much more likely than a gastric ulcer.",
+         "option1": "B. Emergent surgery is indicated.",
+         "option2": "C. Intra-abdominal abscess is unlikely because of the sterile nature of the UGI tract.",
+         "option3": "D. At the time of surgery, a definitive ulcer operation should be done."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Approximately 80% of perforated ulcers are duodenal. In low-risk situations, medical therapy with nasogastric decompression, intravenously administered fluids, and pain control is appropriate. An intra-abdominal abscess may complicate a perforated ulcer when treated conservatively. When surgery is done to repair the perforation, a definitive antiulcer operation is not necessary in the era of antibiotics for <i>H. pylori<\/i> and potent antisecretory therapy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "PPIs are very effective in acid peptic disease. Which of the following statements about PPIs is true?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Hypergastrinemia due to profound acid suppression may lead to gastric carcinoid tumors.",
+         "option1": "B. PPIs are maximally effective when most of the pumps are inactive.",
+         "option2": "C. If long-term therapy is contemplated, a U.S. Food and Drug Administration advisory group recommends testing and treating for <i>H. pylori<\/i> first.",
+         "option3": "D. Hepatic and renal insufficiency does not require dose adjustments."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Carcinoid tumor of the stomach has never been observed in humans. The clinical effect of PPIs is maximized by administration before mealtimes to coincide with pump activation in the immediate postprandial state. PPI therapy in <i>H. pylori<\/i>&#8211;infected patients has been associated with gastric atrophy, but the U.S. Food and Drug Administration actually concluded that the data did not support routine testing for infection before initiation of long-term PPI treatment. PPIs are neither hepatotoxic nor nephrotoxic, and dose adjustment with liver and renal disease is not necessary."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Indications for testing for <i>H. pylori<\/i> include all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Duodenal ulcer",
+         "option1": "B. Mucosa-associated lymphoid tissue lymphoma",
+         "option2": "C. Gastric ulcer",
+         "option3": "D. Gastroesophageal reflux disease",
+         "option4": "E. Uninvestigated dyspepsia"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br><i>H. pylori<\/i> does not cause GERD and should not be checked in acid reflux problems. It can cause all the other conditions listed (<a href=\"asfunction:_root.loadImage,data/images/05-451.jpg,data/pdf/05-451.pdf,data/images/Browser/05-451.jpg\"/><font color='#0000FF'><b>View Table<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which patient diagnosed with EGC is most amenable to EMR?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. A 40-year-old white man with T2N0M0-stage gastric cancer",
+         "option1": "B. A 75-year-old black man with a 4-cm mass in the gastric cardia with pathology revealing an intestinal type of gastric adenocarcinoma",
+         "option2": "C. A 50-year-old black woman with a 2-cm T1N0M0-stage tumor along the lesser curvature, posterior mid body of the stomach associated with nodularity in the gastric antrum revealing a well-differentiated adenocarcinoma",
+         "option3": "D. An 85-year-old white man with a 1.5-cm mass in the mid body greater curvature of the stomach of stage T1N0M0"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Intramucosal tumors less than 2 to 3 cm in size are most amenable to endoscopic mucosal resection. In the cases listed, tumors described in answers <b>A<\/b>, <b>B<\/b>, and <b>C<\/b> were characterized as beyond the mucosa, larger than 2 to 3 cm, and having synchronous areas of tumor within the stomach."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The vagus nerve synapses with postganglionic neurons within the stomach wall. All of the following are postganglionic transmitters <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Acetylcholine",
+         "option1": "B. Nitric oxide",
+         "option2": "C. Vasoactive intestinal polypeptide",
+         "option3": "D. Histamine"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00049-4\" target=\"_blank\"><font color='#0000FF'><b>ch49<\/b><\/font><\/a>)<br>Histamine is not a postganglionic transmitter. It is a paracrine agent produced in enterochromaffin-like cells (<a href=\"asfunction:_root.loadImage,data/images/05-12-453.jpg,data/pdf/05-12-453.pdf,data/images/Browser/05-12-453.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The ability of <i>H. pylori<\/i> to survive in the acid milieu of the stomach and to cause a chronic infection are due to all of the following factors <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Urease production",
+         "option1": "B. Multiple unipolar flagellae",
+         "option2": "C. Lewis antigens in host cells",
+         "option3": "D. Presence of intestinal metaplasia in the stomach",
+         "option4": "E. CAG pathogenicity island in the bacterial DNA"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br><i>H. pylori<\/i> does not colonize metaplastic cells in the stomach. Urease produces ammonia to reduce acidity, and flagellae propel the organism through the mucus layer. Lewis antigens serve as a receptor on host cells for binding. CAG A provides proteins that help bacterial products to translocate into host cells."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following medications and toxins are associated with reactive gastropathies?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Aspirin (81 mg/day) and NSAIDs",
+         "option1": "B. Oral iron",
+         "option2": "C. Oral potassium",
+         "option3": "D. Alcohol",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Aspirin, at any dose, NSAIDs, oral iron, oral potassium, bisphosphonates, hepatic arterial chemotherapy, ingestion of heavy metals (e.g., mercury sulfate), and alcohol have all been shown to cause reactive gastropathy manifested endoscopically by erythema, subepithelial hemorrhage, and erosions."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What provides the strongest stimulus for satiety?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Infusion of nutrients into the duodenum",
+         "option1": "B. Infusion of nutrients into the stomach",
+         "option2": "C. Nutrients taken by mouth",
+         "option3": "D. Increase in plasma ghrelin levels"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00048-2\" target=\"_blank\"><font color='#0000FF'><b>ch48<\/b><\/font><\/a>)<br>The volume of food ingested suppresses hunger and stimulates a sense of fullness. Infusion of nutrients into the stomach induces a greater intensity of fullness than infusion into the duodenum, and the suppression of hunger is greater when nutrients are taken by mouth."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "At the time of diagnosis, 75% of gastric adenocarcinomas are found to have metastasized to the lymph nodes. After surgical resection, which therapy provides the best adjuvant therapy?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Chemotherapy alone",
+         "option1": "B. Observation",
+         "option2": "C. Radiation therapy alone",
+         "option3": "D. Combined chemotherapy and radiation therapy"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Patients who were node positive after an attempt at curative resection have been found to have a local recurrence rate of 49%, peritoneal recurrence rate of 17%, locoregional disease 21%, and hematogenous spread of 17%. Combined modality therapy with combination chemotherapy consisting of a regimen of 5-fluorouracil, leucovorin, and radiation therapy had a mean increase in survival to 36 months compared with 27 months in a patient treated with surgery alone."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Among <i>H. pylori<\/i>&#8211;infected patients, the risk of peptic ulcer disease is increased by which of the following?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Cigarette smoking",
+         "option1": "B. NSAID use",
+         "option2": "C. Alcohol use",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00052-4\" target=\"_blank\"><font color='#0000FF'><b>ch52<\/b><\/font><\/a>)<br>Several studies indicate that smoking increases the risk of peptic ulcer only in <i>H. pylori<\/i>&#8211;infected individuals. Concomitant <i>H. pylori<\/i> infection and NSAID use increases the odds ratio for the development of peptic ulcer to 15.4. At least one study demonstrates an increased risk of peptic ulcer with regular alcohol use in <i>H. pylori<\/i>&#8211;positive patients."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The spread of <i>H. pylori<\/i> infection is attributed to which of the following?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Contaminated water",
+         "option1": "B. Exposure to vomitus in infected siblings",
+         "option2": "C. Contact with infected cats",
+         "option3": "D. Inadequately disinfected gastroscopes",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br><b>A<\/b> and <b>B<\/b> are the most important sources of infection, but the others listed have been reported in a small number of cases."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding gastric cancer is true?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Patients younger than age 40 have a better prognosis.",
+         "option1": "B. The depth of invasion is the primary prognostic indicator.",
+         "option2": "C. Survival rates are worse for men than women.",
+         "option3": "D. EGC is defined as penetration through the muscularis propria.",
+         "option4": "E. Serum carcinoembryonic antigen levels &gt;5 ng/mL are found in nearly 50% of patients with resectable gastric cancer."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>The most important prognostic indicator for gastric cancer is the depth of tumor invasion (T stage). The prognosis is worse in patients younger than age 40, equal among men and women, and high carcinoembryonic antigen levels seem to correlate with unresectablitiy. EGC is defined as tumor confined to the mucosa."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following are premalignant conditions related to gastric cancer <i>except<\/i>:",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Adenomatous gastric polyps",
+         "option1": "B. Previous gastrectomy performed 25 years earlier",
+         "option2": "C. History of gastric ulcer",
+         "option3": "D. M<font face=\"Arial\" size=\"15\">&#233;<\/font>n<font face=\"Arial\" size=\"15\">&#233;<\/font>trier&#8217;s disease",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>Adenomatous gastric polyps undergo malignant transformation at a high rate, especially those polyps larger than 1 cm. Previous gastric resection performed before the age of 50 more than 20 years earlier carries a higher risk of gastric cancer on the gastric side of the surgical anastomosis. A history or the presence of a gastric ulcer is associated with a 1.8-fold increased risk of gastric cancer. Fifteen percent of cases of M<font face=\"Arial\" size=\"15\">&#233;<\/font>n<font face=\"Arial\" size=\"15\">&#233;<\/font>trier&#8217;s disease are associated with gastric cancer."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "An 84-year-old man with a prosthetic cardiac valve needs treatment for a painful joint. He is diagnosed with osteoarthritis. He is also on low-dose aspirin and is receiving anticoagulation therapy with warfarin. The most correct advice for him is to:",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Avoid NSAIDs altogether.",
+         "option1": "B. Begin NSAIDs only after stopping the aspirin.",
+         "option2": "C. Start a COX-2 inhibitor.",
+         "option3": "D. Start a COX-2 inhibitor with a PPI."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>This patient is at high risk because of his age, comorbid illnesses, and concurrent therapy with aspirin and warfarin. GI bleeding would potentially be fatal, and NSAIDs should be avoided if at all possible. NSAIDs without prophylactic therapy would be risky. A COX-2 inhibitor with aspirin and without an antisecretory agent would be dangerous as well. COX-2 therapy with high-dose PPI is the next best option."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 70-year-old man presents with symptoms of midepigastric pain unresponsive to PPI therapy. Upper endoscopy is performed (<a href=\"asfunction:_root.loadImage,data/images/05-06-463.jpg,data/pdf/05-06-463.pdf,data/images/Browser/05-06-463.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>), and the pathology is consistent with high-grade dysplasia. What would the optimal management be?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Yearly surveillance endoscopy",
+         "option1": "B. EMR",
+         "option2": "C. Continue PPI therapy.",
+         "option3": "D. Evaluate <i>H. pylori<\/i> status; if infection is present, treat and repeat endoscopy in three months.",
+         "option4": "E. Subtotal gastrectomy"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>EGC is defined as cancer that does not invade beyond the submucosa regardless of lymph node involvement. This can be confirmed by EUS. EGC of less than 2 cm can best be removed by EMR and spare the patient a subtotal or total gastrectomy. Candidates for EMR include those with mucosal involvement without lymph node involvement, maximum tumor size less than 2 cm, no evidence of multiple gastric cancers, and the intestinal type of gastric cancer."
+   },
+   {
+      "@activityType": "TRUEORFALSE",
+      "question": "PPI therapy is better than misoprostol or H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor antagonists in the treatment of NSAID-associated peptic ulcer disease (PUD).",
+      "choices": {
+         "@option": "0",
+         "option0": "A. True",
+         "option1": "B. False"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>NSAID-associated peptic ulcers can be treated with misoprostol or H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor antagonists, but healing rates are higher with PPI therapy. PPIs are definitely superior if NSAID therapy must be continued."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding <i>H. pylori<\/i> gastritis is false?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. It is mainly seen in low and immigrant socioeconomic populations.",
+         "option1": "B. It is associated with an increased risk of gastric cancer.",
+         "option2": "C. In most cases, the gastric antrum appears normal to the endoscopist."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br><i>H. pylori<\/i> gastritis is mainly seen in low socioeconomic and immigrant populations, and there is no increased risk of gastric cancer. Most patients are asymptomatic, and in most cases, the gastric antrum is normal endoscopically."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Histamine stimulates acid production by a variety of mechanisms, including which of the following?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Stimulation of parietal cells directly",
+         "option1": "B. Generation of cyclic adenosine monophosphate",
+         "option2": "C. Inhibition of somatostatin release",
+         "option3": "D. Binding to H<font face=\"GG Subscript\" size=\"16\">3<\/font> receptors",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00049-4\" target=\"_blank\"><font color='#0000FF'><b>ch49<\/b><\/font><\/a>)<br>Histamine stimulates acid production by binding to H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptors. It indirectly stimulates acid by binding to H<font face=\"GG Subscript\" size=\"16\">3<\/font> receptors coupled to inhibition of somatostatin release."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is the most likely to remain asymptomatic?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Annular pancreas",
+         "option1": "B. Gastric duplication",
+         "option2": "C. Gastric diverticulum",
+         "option3": "D. Duodenal duplication cyst"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00047-0\" target=\"_blank\"><font color='#0000FF'><b>ch47<\/b><\/font><\/a>)<br>Most congenital gastric diverticula are asymptomatic and are incidental findings on radiography or endoscopy or at autopsy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "<i>H. pylori<\/i> infection localized to the gastric antrum is associated with which of the following?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Gastric ulcers",
+         "option1": "B. Duodenal ulcers",
+         "option2": "C. Gastric cancer",
+         "option3": "D. Atrophic gastritis"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br>Distal or antral infections lead to increased acid production because of decreased antral somatostatin content and increased gastrin secretion. The duodenal bulb becomes metaplastic and can then be colonized with <i>H. pylori<\/i> with subsequent ulceration."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 71-year-old white woman underwent upper endoscopy for dyspepsia and heme-positive stool. Upper endoscopy reveals a 1.5-cm sessile mass in the midbody greater curvature of the stomach. Biopsy specimens revealed adenomatous tissue with high-grade dysplasia. Initially, the mass was staged with CT of the abdomen and pelvis, the results of which were normal. Based on these findings and the results of EUS (<a href=\"asfunction:_root.loadImage,data/images/05-07-469.jpg,data/pdf/05-07-469.pdf,data/images/Browser/05-07-469.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>), what would be the most effective method to treat this patient?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Chemotherapy and radiation therapy",
+         "option1": "B. Photodynamic therapy",
+         "option2": "C. Subtotal gastrectomy",
+         "option3": "D. EMR"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>The EUS image corresponds to a T1 or tumor confined to the mucosa measuring less than 2 cm in diameter, making this lesion amenable to an attempt at EMR. Subtotal gastrectomy, chemotherapy, and radiation therapy can also be used as therapeutic options. Photodynamic therapy has yet to be adequately studied, and no definitive recommendations can be made."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "PPI infusion in the treatment of bleeding PUD:",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Maintains the pH of 6 or greater in the stomach 99% of the time",
+         "option1": "B. Significantly reduces rebleeding when given after endoscopic therapy",
+         "option2": "C. May down-stage the stigmata of bleeding at the initial esophagogastroduodenoscopy (EGD)",
+         "option3": "D. Has not been shown to decrease mortality",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Highly effective at controlling gastric pH, PPI infusions have been shown to decrease rebleeding after endoscopic therapy. Early therapy with PPI infusion seems to decrease the incidence of high-risk stigmata (active bleeding or visible vessel) at the time of endoscopy. Mortality is not decreased by PPI infusion, according to a <i>Cochrane Database Systematic Review<\/i>."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following forms of bacterial infectious gastritis is associated with draining sinus tracts demonstrated on UGI series, upper endoscopy, and gastric biopsy?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. <i>H. pylori<\/i>",
+         "option1": "B. Mycobacteria",
+         "option2": "C. Actinomycosis",
+         "option3": "D. Syphilis"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Actinomycosis is a rare, chronic, progressive, suppurative disease characterized by formation of multiple abscesses, draining sinuses, abundant granulation, and dense fibrous tissue. Mycobacteria and syphilis do not lead to sinus tracts; however, the differential for all forms of bacterial gastritis listed include benign ulcer disease, gastric carcinoma, gastric lymphoma, and Crohn&#8217;s disease involving the stomach."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Formation of acid in parietal cells requires all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Carbonic anhydrase",
+         "option1": "B. Apical K<font face=\"GG Superscript\" size=\"18\">+<\/font> channels",
+         "option2": "C. Basolateral HCO<font face=\"GG Subscript\" size=\"18\">3<\/font>/Cl exchangers",
+         "option3": "D. High luminal pH"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00049-4\" target=\"_blank\"><font color='#0000FF'><b>ch49<\/b><\/font><\/a>)<br>H<font face=\"GG Superscript\" size=\"18\">+<\/font> is pumped out against a large concentration gradient by the H<font face=\"GG Superscript\" size=\"18\">+<\/font>K<font face=\"GG Superscript\" size=\"18\">+<\/font>-ATPase mechanism. The others are all essential features of H<font face=\"GG Superscript\" size=\"18\">+<\/font> production in the parietal cell."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 2-cm submucosal mass is identified in the fundus of the stomach. Based on the findings at endoscopy and EUS (<a href=\"asfunction:_root.loadImage,data/images/05-08-473.jpg,data/pdf/05-08-473.pdf,data/images/Browser/05-08-473.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>), what is the likely diagnosis?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Gastric adenocarcinoma",
+         "option1": "B. Gastric lipoma",
+         "option2": "C. Pancreatic rest",
+         "option3": "D. Gastric carcinoid",
+         "option4": "E. GI stromal tumor"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>The endoscopic image reveals a submucosal mass with normal overlying mucosa. The endosonographic image reveals that the mucosa and submucosa are intact. The tumor arises from the muscularis propria and is well circumscribed. This would indicate that the lesion in the image shown would be most consistent with a GI stromal tumor. Adenocarcinoma of the stomach arises in the mucosa, and lipomas, pancreatic rests, and gastric carcinoids arise in the submucosa."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following stimulate cholinergic neurons in the enteric nervous system and acid production <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Anticipation of the meal",
+         "option1": "B. Protein in the food",
+         "option2": "C. Mechanical distention of the stomach",
+         "option3": "D. Cholecystokinin"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00049-4\" target=\"_blank\"><font color='#0000FF'><b>ch49<\/b><\/font><\/a>)<br>Cholecystokinin stimulates somatostatin secretion, which decreases acid production."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "In the United States, at the time of diagnosis of gastric cancer, which region of the stomach is most likely involved?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Proximal third",
+         "option1": "B. Middle third",
+         "option2": "C. Distal third",
+         "option3": "D. Entire stomach"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>In the United States, the distribution of gastric cancer in the stomach is 39% in the proximal third, 17% in the middle third, 32% in the distal third, and 12% involving the entire stomach."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the two forms of gastritis is associated with pernicious anemia?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Environmental metaplastic atrophic gastritis",
+         "option1": "B. Autoimmune metaplastic atrophic gastritis"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Autoimmune metaplastic atrophic gastritis is relatively uncommon, accounting for less than 5% of all cases of chronic gastritis. Autoimmune metaplastic atrophic gastritis is the pathologic process in patients with pernicious anemia, an autoimmune disorder usually occurring in individuals of northern European or Scandinavian background. Environmental metaplastic atrophic gastritis is associated with <i>H. pylori<\/i> in 85% of cases. Environmental metaplastic atrophic gastritis intestinal metaplasia is a risk factor for dysplasia and gastric cancer, usually the intestinal type."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "According to the American Gastrointestinal Association guidelines, which of the following patients should undergo prompt upper endoscopy?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. A 25-year-old black woman reporting a one-week history of midepigastric pain",
+         "option1": "B. A 45-year-old white man reporting midepigastric pain responsive to a two-week course of PPI therapy",
+         "option2": "C. A 70-year-old black man reporting a six-week history of midepigastric pain associated with a 10-pound weight loss, nausea, and vomiting",
+         "option3": "D. A 62-year-old asymptomatic white woman with normal hemoglobin, heme-positive stool, and normal colonoscopy findings"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>American Gastrointestinal Association recommendations for prompt endoscopy include age older than 55 years with new-onset dyspepsia, age younger than 55 years with alarm symptoms (weight loss, recurrent vomiting, dysphagia, bleeding, anemia), and dyspeptic patients in whom empirical PPI therapy failed. Recommendations for upper endoscopy for an asymptomatic patient with a heme-positive stool and normal colonoscopy findings are less clear."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "For patients with functional dyspepsia, which of the following statements is false?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. They rarely present with nausea.",
+         "option1": "B. They have a normal endoscopy.",
+         "option2": "C. They have normal rates of gastric emptying the majority of the time.",
+         "option3": "D. Gastric dysrhythmias may be present."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00048-2\" target=\"_blank\"><font color='#0000FF'><b>ch48<\/b><\/font><\/a>)<br>Functional dyspepsia symptoms include epigastric discomfort, early satiety, fullness, nausea, and vomiting in the setting of a normal upper endoscopy. One of the dominant symptoms is unexplained nausea. The rate of gastric emptying is normal in the majority of patients; however, gastric dysrhythmias may be present."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 20-year-old college student reports episodic midepigastric pain with a 5-pound weight loss over the past three months. His history reveals that he loves sushi and eats sushi two to three times per week. Which parasitic disease is he likely to have?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Anisakiasis",
+         "option1": "B. Cryptosporidiosis",
+         "option2": "C. Strongyloidiasis",
+         "option3": "D. Ascariasis",
+         "option4": "E. Hookworm infestation"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Anisakiasis may occur after the ingestion of raw marine fish containing nematode larvae of <i>Anisakis<\/i>. The parasite migrates into the wall of the stomach, small intestine, or colon, causing symptoms. Laboratory evaluation may reveal peripheral eosinophilia; radiographic studies may reveal notched-shadow defects; and endoscopy may reveal erosive hemorrhagic lesions or larvae."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which group of patients is least likely to have a higher incidence of gastric cancer?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Those with FAP",
+         "option1": "B. Those with hereditary nonpolyposis cancer",
+         "option2": "C. Those with juvenile polyposis syndrome",
+         "option3": "D. Those with a family history of a second-degree relative with gastric cancer"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>FAP has a 10-fold higher risk of the development of gastric cancer than the general population. Patients with hereditary nonpolyposis cancer have an 11% chance of the development of gastric cancer. Juvenile polyposis syndrome has a 12% to 20% incidence of gastric cancer. Those patients with a first-degree relative, but not a second-degree relative, with gastric cancer have a greater risk of the development of gastric cancer (<a href=\"asfunction:_root.loadImage,data/images/05-480.jpg,data/pdf/05-480.pdf,data/images/Browser/05-480.jpg\"/><font color='#0000FF'><b>View Table<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Two months after her treatment regimen, Sophia was asymptomatic on a daily PPI. All of the following would be appropriate follow-up care <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Do a breath test after the patient is off the PPI for two weeks.",
+         "option1": "B. Perform an endoscopy and obtain a biopsy specimen of the stomach to check for <i>H. pylori<\/i>.",
+         "option2": "C. Check a stool specimen for <i>H. pylori<\/i> antigen.",
+         "option3": "D. Do a serology test for <i>H. pylori<\/i> antibody."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00050-0\" target=\"_blank\"><font color='#0000FF'><b>ch50<\/b><\/font><\/a>)<br>The serology test cannot distinguish an active from a previous infection. The other tests can detect a persistent <i>H. pylori<\/i> infection."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding graft-versus-host disease in the UGI tract is true?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. It occurs more commonly in solid organ transplantation than allogeneic bone marrow transplantation.",
+         "option1": "B. Graft-versus-host disease is more common in the UGI tract than the lower GI tract.",
+         "option2": "C. Pathologic lesions consist of necrosis of single cells (apoptotic bodies) in the neck region of the gastric mucosa and the crypts of the large and small intestine."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Graft-versus-host disease is more common in allogeneic bone marrow transplantation rather than solid organ transplantation. Acute graft-versus-host disease (21 to 100 days post-transplantation) more commonly affects the small bowel and colon than the stomach. Pathology is noted in answer <b>C<\/b>, and necrosis that is identified consists of an intraepithelial vacuole filled with karyorrhectic debris and fragments of cytoplasm."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Tolerance to the antisecretory effect can be seen with which of the following PPIs?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Omeprazole",
+         "option1": "B. Pantoprazole",
+         "option2": "C. Lansoprazole",
+         "option3": "D. All of the above",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Short-term studies have failed to demonstrate tolerance with any of the PPIs."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following facts about gastric sarcoidosis is false?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Gastric sarcoidosis can cause pyloric outlet obstruction, achlorhydria, and pernicious anemia.",
+         "option1": "B. Least common section of the GI tract affected by sarcoidosis",
+         "option2": "C. Glucocoticoid therapy is the cornerstone of treatment.",
+         "option3": "D. Gastric biopsy specimens reveal noncaseating granulomas."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>GI manifestations of sarcoidosis are uncommon, but the stomach (usually the antrum) is the most common part of the GI tract affected in sarcoidosis and is involved in 10% of cases."
+   },
+   {
+      "@activityType": "TRUEORFALSE",
+      "question": "NSAID use or <i>H. pylori<\/i> infection is a predisposing factor in all peptic ulcerations of the stomach and duodenum.",
+      "choices": {
+         "@option": "1",
+         "option0": "A. True",
+         "option1": "B. False"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00052-4\" target=\"_blank\"><font color='#0000FF'><b>ch52<\/b><\/font><\/a>)<br>Although <i>H. pylori<\/i> infection or NSAID use is present in most patients with PUD, an increasing number of patients have neither factor. Other drugs such as cocaine and the bisphosphonates may play a role in these cases."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following statements regarding duodenal ulcer caused by <i>H. pylori<\/i> infection are true <i>except<\/i>:",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Compared with maintenance antisecretory therapy, <i>H. pylori<\/i> eradication has been shown to decrease the bleeding risk.",
+         "option1": "B. After one to two weeks of therapy, additional antisecretory therapy is required.",
+         "option2": "C. Noninvasive confirmation of eradication is advised for all complicated ulcers.",
+         "option3": "D. Post-treatment maintenance with an antisecretory drug is not needed."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>A meta-analysis showed a 1.6% rebleeding rate in the <i>H. pylori<\/i>&#8211;treated group compared with 5.6% in the medical therapy group. Combination therapy is associated with ulcer healing. In uncomplicated ulcers, additional antisecretory therapy is not clearly necessary. Complicated duodenal ulcers caused by <i>H. pylori<\/i> should be treated with antimicrobial therapy, and documentation of eradication is advised. After successful treatment of <i>H. pylori<\/i>, maintenance acid-lowering therapy is not needed."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What is the most common genetic mutation found in gastric cancer?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Adenomatous polyposis coli (<i>APC<\/i>)",
+         "option1": "B. <i>FHIT<\/i> gene",
+         "option2": "C. <i>TP53<\/i>",
+         "option3": "D. K-<i>ras<\/i> and <i>Myc<\/i>"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br><i>TP53<\/i> mutation is the most common genetic mutation found in patients with gastric cancer, with an incidence of 60% to 70%. The <i>FHIT<\/i> genetic mutation is found in 60% of cases, the <i>APC<\/i> genetic mutation in 50% of cases, and K-<i>ras<\/i>/<i>Myc<\/i> genetic mutations in 10% to 15% of cases of gastric cancer (<a href=\"asfunction:_root.loadImage,data/images/05-487.jpg,data/pdf/05-487.pdf,data/images/Browser/05-487.jpg\"/><font color='#0000FF'><b>View Table<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Hyperplastic gastropathy, as seen in the figure (<a href=\"asfunction:_root.loadImage,data/images/05-09-488.jpg,data/pdf/05-09-488.pdf,data/images/Browser/05-09-488.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>), is associated with all of the following conditions <i>except<\/i>:",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Pernicious anemia",
+         "option1": "B. Zollinger-Ellison syndrome",
+         "option2": "C. M<font face=\"Arial\" size=\"15\">&#233;<\/font>n<font face=\"Arial\" size=\"15\">&#233;<\/font>trier&#8217;s disease",
+         "option3": "D. Gastric neoplasm",
+         "option4": "E. Gastric varices"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00051-2\" target=\"_blank\"><font color='#0000FF'><b>ch51<\/b><\/font><\/a>)<br>Hyperplastic gastropathy is a rare condition characterized by giant gastric folds associated with epithelial hyperplasia. The two clinical syndromes causing this are Zollinger-Ellison syndrome and M<font face=\"Arial\" size=\"15\">&#233;<\/font>n<font face=\"Arial\" size=\"15\">&#233;<\/font>trier&#8217;s disease. Zollinger-Ellison syndrome is associated with or without increased or normal acid secretion, parietal and chief cell hyperplasia, with or without excessive gastric protein loss. M<font face=\"Arial\" size=\"15\">&#233;<\/font>n<font face=\"Arial\" size=\"15\">&#233;<\/font>trier&#8217;s syndrome is associated with protein-losing gastropathy and hypochlorhydria."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following regarding histamine H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor antagonists is true?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Tolerance is not seen with oral or intravenous dosing.",
+         "option1": "B. They should not be used at all in liver failure.",
+         "option2": "C. They have a side effect profile comparable to that of a placebo.",
+         "option3": "D. They frequently result in clinically significant drug interactions."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Tolerance rapidly develops within two or three days of intravenous administration of all H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor antagonists. Liver disease is not a contraindication to their use, and dose modifications are not needed. H<font face=\"GG Subscript\" size=\"16\">2<\/font> blockers are extremely safe, with a side effect profile similar to that of a placebo. Drug-drug interactions, though common, are rarely significant."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which environmental and/or dietary factor is least likely to trigger the multistep development of the intestinal type of gastric cancer?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. <i>H. pylori<\/i>",
+         "option1": "B. High intake of fresh fruit and vegetables",
+         "option2": "C. High intake of pickled foods, soy sauce, salted fish and meats",
+         "option3": "D. Cigarette smoking",
+         "option4": "E. Obesity"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br><i>H. pylori<\/i>, pickled foods, soy sauce, salted fish and meats, cigarette smoking, and preserved foods high in nitrates have been clearly shown to be associated with an increased risk of the development of gastric cancer. Increased body mass index seems to be associated with a moderate risk of cardia cancer but not noncardia gastric cancer. Fresh fruits and vegetables containing antioxidants have been associated with a decreased risk of gastric cancer (<a href=\"asfunction:_root.loadImage,data/images/05-490.jpg,data/pdf/05-490.pdf,data/images/Browser/05-490.jpg\"/><font color='#0000FF'><b>View Table<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding EGD for the evaluation of PUD symptoms is true?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. It should be done after UGI radiographic studies.",
+         "option1": "B. Although more specific, it is less sensitive than UGI radiography.",
+         "option2": "C. It should be done if weight loss or signs of bleeding are present.",
+         "option3": "D. When malignant ulcer is excluded by pathology and cytology, a repeat EGD to confirm healing is not mandatory."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00052-4\" target=\"_blank\"><font color='#0000FF'><b>ch52<\/b><\/font><\/a>)<br>Expert UGI radiographic studies are not as available as they once were, and although not 100% sensitive, EGD is more sensitive and specific than UGI radiography. EGD is indicated when alarm symptoms of bleeding or weight loss are present. The false-negative rate for gastric cancer with EGD and biopsy may be as high as 4%."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Peptic ulcer is a common complication of NSAID treatment. Which statement regarding prophylactic therapy is correct?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor antagonists do not lower the risk.",
+         "option1": "B. Only high-dose misoprostol (800 <font face=\"Arial\" size=\"15\">&#181;<\/font>g/day) provides effective prophylaxis.",
+         "option2": "C. <i>H. pylori<\/i>&#8211;infected patients should receive eradication therapy.",
+         "option3": "D. Ulcer bleeding can be prevented in high-risk patients by omeprazole."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor blocker in high doses reduces NSAID-caused gastric ulcer. The prostaglandin analog misoprostol has been shown to reduce the ulcer risk with low-dose (400 <font face=\"Arial\" size=\"15\">&#181;<\/font>g/day) or high-dose regimens. Eradication of <i>H. pylori<\/i> lowers the risk of ulcer formation in patients who are planning long-term NSAID treatment. High-risk patients will ideally avoid NSAIDs altogether. The risk of bleeding in these patients cannot be eliminated even with high-dose PPIs."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "You are asked to evaluate and treat a patient with hematemesis. He is 34 years old, has no chronic medical illnesses, and presents with syncope soon after vomiting bright-red blood. In the emergency department, red hematemesis is documented. On examination, he is awake but agitated, with cool extremities and dry mucous membranes. His heart rate is 130 beats per minute and his supine blood pressure is 90/60 mm Hg. There is no scleral icterus. The abdomen is soft and nontender without hepatomegaly, with black stool in the rectum that is flash positive for occult blood. Laboratory studies reveal a hemoglobin level of 11.0, BUN/creatinine levels of 40/0.9, normal prothrombin time/partial thromboplastin time, aspartate aminotransferase/alanine aminotransferase levels of 119/42, alcohol level of 280. What should be the first intervention for this patient?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Bolus and infusion of octreotide",
+         "option1": "B. Bolus and infusion of a PPI",
+         "option2": "C. Insertion of a nasogastric tube",
+         "option3": "D. Emergent upper endoscopy",
+         "option4": "E. Placement of large-bore intravenous lines for vigorous fluid resuscitation"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Fluid resuscitation is the most important intervention in this patient who is severely volume depleted from GI bleeding. Pharmacotherapy (with octreotide or PPI) is less urgent. With documentation of red emesis, nasogastric tube placement is not needed for diagnostic purposes; if there is ongoing vomiting, tube decompression will decrease the risk of aspiration. Emergent EGD should be performed after the volume depletion has been aggressively managed."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "During an endoscopy, active bleeding begins. What is the best course of treatment at this point?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Bolus and infusion of a proton pump inhibitor (PPI)",
+         "option1": "B. Epinephrine injection",
+         "option2": "C. Argon plasma coagulation",
+         "option3": "D. Contact thermal therapy (heater probe or multipolar electrocautery) or placement of hemoclips",
+         "option4": "E. Combination therapy with B and D"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>Although high-dose PPI infusion may decrease rebleeding rates after endoscopic treatment, drug therapy alone is probably inadequate. Injected epinephrine is absorbed from the duodenal mucosa and provides only short-term hemostasis. Argon plasma coagulation lacks the mechanical component of therapy present in the contact-thermal modalities. Multiple trials have shown the most success with epinephrine injection, followed by the application of a contact-thermal device. Hemoclip placement seems to be equivalent to the thermal methods."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "After endoscopic therapy, the bleeding stops and the patient stabilizes. He requires 3 units of packed erythrocytes to maintain a hemoglobin level at more than 10 g/dL. Three days later, on a clear liquid diet and taking a PPI twice daily, melena develops. His pulse increases to 100 beats per minute, but no orthostasis is noted. The hemoglobin level drops to 9 g/dL. What is the next best step?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Consult surgery for a definitive antiulcer operation.",
+         "option1": "B. Consult surgery for vagotomy and oversewing of the bleeding vessel.",
+         "option2": "C. Consult surgery to oversew the bleeding vessel.",
+         "option3": "D. Repeat EGD for possible endoscopic therapy.",
+         "option4": "E. Transfuse packed red blood cells and observe."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>The patient has rebled despite endoscopic and antisecretory medications. Although his surgical risks are probably low, repeating the endoscopy would confirm the clinical suspicion and allow a second endotherapy. If surgery is ultimately needed, the best option is vessel ligation and postoperative PPI therapy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "At urgent endoscopy, no active bleeding or old blood is seen. A few erosions are noted in the gastric antrum. Inspection of the duodenal bulb reveals a raised red protuberance in the center of an ulcer. The duodenal ulcer measures 15 mm in diameter. What is the approximate likelihood of rebleeding from this ulcer?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. &lt;10%",
+         "option1": "B. 20%",
+         "option2": "C. 40%",
+         "option3": "D. 80%"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>The patient has a nonbleeding visible vessel in a duodenal ulcer. The rebleeding risk in most clinical trials is more than 40%."
+   },
+   {
+      "@activityType": "TRUEORFALSE",
+      "question": "Compared with all patients with upper gastrointestinal (GI) bleeding, his mortality is higher than average.",
+      "choices": {
+         "@option": "0",
+         "option0": "A. True",
+         "option1": "B. False"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>This patient presented with red hematemesis, which has been identified as an adverse clinical prognostic factor. In addition, he has signs of significant hemodynamic compromise, another adverse factor."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Worldwide, which country has the greatest incidence of gastric cancer?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. United States",
+         "option1": "B. Korea",
+         "option2": "C. Japan",
+         "option3": "D. Australia"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00054-8\" target=\"_blank\"><font color='#0000FF'><b>ch54<\/b><\/font><\/a>)<br>The highest incidence rates for gastric cancer are in the Far East. Japan ranks first worldwide followed by Korea, South America, Costa Rica, and Ecuador. The lowest-risk areas include North America, Africa, South Africa, and Australia (<a href=\"asfunction:_root.loadImage,data/images/05-11-498.jpg,data/pdf/05-11-498.pdf,data/images/Browser/05-11-498.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "TRUEORFALSE",
+      "question": "Histamine receptor antagonists have never been shown to decrease the bleeding rate or mortality rate in patients with bleeding duodenal ulcer.",
+      "choices": {
+         "@option": "0",
+         "option0": "A. True",
+         "option1": "B. False"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00053-6\" target=\"_blank\"><font color='#0000FF'><b>ch53<\/b><\/font><\/a>)<br>The clinical studies analyzing parenteral H<font face=\"GG Subscript\" size=\"16\">2<\/font> receptor antagonist in bleeding PUD demonstrate benefit in gastric ulcer alone. Tachyphylaxis to the effect of H<font face=\"GG Subscript\" size=\"16\">2<\/font> blockers may explain the absence of benefit in the typically increased acid state of duodenal ulcer disease."
+   }
+]

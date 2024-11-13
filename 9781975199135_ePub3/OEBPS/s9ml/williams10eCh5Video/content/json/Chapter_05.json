@@ -1,0 +1,78 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which personality disorder is he most likely to have?",
+      "choices":{  
+         "option0":"A. Antisocial",
+         "option1":"B. Borderline",
+         "option2":"C. Narcissistic ",
+         "option3":"D. Schizoid",
+         "option4":"E. Schizotypal",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Borderline.  Unstable affect, mood, behavior, object relations, and self-image are characteristic of borderline personality disorder (BPD). In the video, these symptoms are depicted by descriptions of his tumultuous relations with other, anger outbursts, impulsive plans to move in with a woman he just met, etc.  His strong drive to avoid abandonment, is also characteristic of BPD.  Self-harm is another one of his symptoms that is classically associated with BPD.  On mental status exam, labile affect, paranoia, and poor impulse control are other features noted. Splitting, with relationships being all good or bad, and quick shifts of allegiance are also BPD features highlighted in this video. Though he has some paranoia in his thought content, it differs from schizotypal personality disorder, in which marked peculiarities of thinking and ideas of reference can be noted (pg 560, 564, and 568).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Individuals with this personality disorder are at increased risk of which of the following comorbid psychiatric disorders displayed in this video?",
+      "choices":{  
+         "option0":"A. Autism spectrum ",
+         "option1":"B. Avoidant restrict food intake ",
+         "option2":"C. Major depressive",
+         "option3":"D. Obsessive compulsive ",
+         "option4":"E. Social phobia",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Major depression. Those with BPD are at increased risk of major depressive disorder, substance use and eating disorders, though most notably for bulimia and to a lesser extent, anorexia. PTSD, ADHD, and somatic symptom disorder are also frequently comorbid with BPD. Self-harm, suicide attempts, irritability and low mood are notable in this video, consistent with him displaying some features of a MDD (569).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"The main therapy for this disorder can help target which of the following symptoms mentioned in this video?",
+      "choices":{  
+         "option0":"A. Blunted affect",
+         "option1":"B. Mania",
+         "option2":"C. Obsessions",
+         "option3":"D. Predatory aggression",
+         "option4":"E. Self-harm",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Self-harm. Dialectical behavioral therapy (DBT) is the mainstay treatment in terms of therapy for this disorder and is aimed at reducing self-harm (573).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which therapy has the most empirical support for treating of patients with this personally disorder?",
+      "choices":{  
+         "option0":"A. Acceptance and commitment therapy (ACT)",
+         "option1":"B. Dialectical behavioral therapy (DBT)",
+         "option2":"C. Cognitive analytic therapy (CAT)",
+         "option3":"D. Cognitive behavioral therapy (CBT)",
+         "option4":"E. Emotionally focused therapy (EFT)",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Dialectical behavioral therapy (DBT). Dialectical behavioral therapy (DBT) draws on a combination of supportive, cognitive and behavioral therapy.  It is aimed to decrease self-harm behaviors via group skill training, individual therapy, and phone consultation, and there is also a consultation team component for therapists (p 573).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which medication is most appropriate to treat his symptoms?",
+      "choices":{  
+         "option0":"A. Buspirone",
+         "option1":"B. Clonazepam",
+         "option2":"C. Fluoxetine",
+         "option3":"D. Lithium",
+         "option4":"E. Methylphenidate",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Fluoxetine. Benzodiazepines should be avoided in those with borderline personality disorder due the risk of abuse and disinhibition.  Though symptoms can be confused with bipolar disorder and lithium can be protective against suicide, it is not a first line treatment for borderline personality disorder.  Lithium should be avoided in these patients given it is highly toxic in overdose.  There is some evidence that the SSRIs might be helpful in treating depressed mood and suicidal thoughts in these patients.  It is thought that anger and hostility might improve with use of an SSRI, such as fluoxetine.  Of note, antipsychotics might also be helpful in controlling anger and psychotic outbursts in these patients (pg 573).",
+      "@activityType":"MCQ"
+   }
+    
+]

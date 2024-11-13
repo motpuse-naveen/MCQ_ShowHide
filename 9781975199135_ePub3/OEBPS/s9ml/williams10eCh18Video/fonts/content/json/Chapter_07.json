@@ -1,0 +1,1288 @@
+[
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is the most correct statement regarding complications from endoscopic retrograde cholangiopancreatography (ERCP)?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Retroperitoneal air identified after ERCP does not always require surgical intervention and can be managed conservatively in the asymptomatic patient.",
+         "option1": "B. Retroperitoneal air identified after ERCP with concomitant postprocedure pancreatitis is an indication for urgent surgical intervention.",
+         "option2": "C. Perforation of a bile duct occurs in 5% of all ERCP procedures.",
+         "option3": "D. Sphincter of Oddi manometry is associated with a 50% likelihood of the development of pancreatitis."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Retroperitoneal air does not always require surgical intervention and can often be managed conservatively. Pancreatitis does not necessarily change that. Perforation of the bile duct is a rare occurrence during ERCP, and SOD is associated with a rate of pancreatitis of approximately 7% to 25%, but not 50%."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What is the best first diagnostic test to perform when biliary colic is suspected?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. CT scan",
+         "option1": "B. Magnetic resonance imaging (MRI) and magnetic resonance cholangiopancreatography (MRCP)",
+         "option2": "C. Endoscopic ultrasonography (EUS)",
+         "option3": "D. ERCP",
+         "option4": "E. Transabdominal ultrasonography"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>In patients with suspected biliary colic, transabdominal ultrasonography is generally the first imaging study performed because it is noninvasive and inexpensive relative to the other choices. Transabdominal ultrasonography is 95% sensitive for gallstones larger than 2 mm and 95% specific for gallstones that produce acoustic shadowing."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 20-day-old infant girl is referred for evaluation of jaundice. The infant was born at 40 weeks&#8217; gestation and weighed 7 lb, 10 oz at birth. The mother had no complications during the pregnancy. In the postnatal period, weight gain has been normal. Upon examination, the infant is notably jaundiced. The liver is palpable at 4 cm below the right costal margin. No splenomegaly or ascites is noted. Laboratory studies demonstrate a total bilirubin concentration of 10 mg/dL and a direct bilirubin concentration of 7.5 mg/dL. Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels are 50 U/L and 62 U/L, respectively, and the alkaline phosphatase concentration is 155 mU/L. Based on the appearance of a liver biopsy specimen (<a href=\"asfunction:_root.loadImage,data/images/07-01-625.jpg,data/pdf/07-01-625.pdf,data/images/Browser/07-01-625.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>), what is the likely cause of this infant&#8217;s jaundice?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Alagille syndrome",
+         "option1": "B. Caroli syndrome",
+         "option2": "C. Choledochal cyst",
+         "option3": "D. Extrahepatic biliary atresia",
+         "option4": "E. Neonatal sclerosing cholangitis"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>Biliary atresia is characterized by the complete obstruction of bile flow as a result of the destruction or absence of all or a portion of the extrahepatic bile ducts. Laboratory studies initially reveal evidence of cholestasis, with a serum bilirubin level of 6 to 12 mg/dL, at least 50% of which is conjugated. Serum aminotransferase and alkaline phosphatase levels are moderately elevated. Serum <font face=\"Arial\" size=\"15\">&#947;<\/font>-glutamyl transpeptidase and 5(&#8242;-nucleotidase levels also are elevated. Histopathologic findings on initial liver biopsy specimens are of great importance in the management of patients with biliary atresia. Early in the course, the hepatic architecture is generally preserved with a variable degree of bile duct proliferation, canalicular and cellular bile stasis, and portal tract edema and fibrosis (see figure from question 625). The presence of bile plugs in portal triads is highly suggestive of large duct obstruction. Bile duct epithelium shows varying degrees of injury, including swelling, vacuolization, and even sloughing of cells into the lumen. Portal tracts may be infiltrated with inflammatory cells, and in approximately 25% of patients, there may be giant cell transformation of hepatocytes to a degree more commonly observed in neonatal hepatitis. Bile ductules occasionally may assume a ductal plate configuration, suggesting that the disease process has interfered with the ductular remodeling that occurs during prenatal development. Biliary cirrhosis may be present initially or evolve rapidly over the first months of life, whether or not bile flow is successfully restored."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 34-year-old white man with known primary sclerosing cholangitis (PSC) for 10 years is having periodic evaluation to detect the presence of cholangiocarcinoma. Which of the following statements is most correct?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Brush cytology of dominant strictures in the biliary tree is 80% to 90% sensitive for the detection of cholangiocarcinoma.",
+         "option1": "B. Elevated CA19-9 is highly specific for the presence of cholangiocarcinoma.",
+         "option2": "C. EUS with fine-needle aspiration is not indicated in the screening of patients for cholangiocarcinoma.",
+         "option3": "D. The most common locations for cholangiocarcinoma in patients with PSC are the common hepatic duct and biliary hilum."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>The most common locations for cholangiocarcinoma in patients with PSC are the bile duct and hilum, although it can occur anywhere in the biliary tree. Brush cytology of dominant strictures in the biliary tree is no more than 60% sensitive for the detection of cholangiocarcinoma. CA 19-9 is not sensitive or specific for the presence of cholangiocarcinoma. EUS with fine-needle aspiration may help in improving yield to obtain a cytologic diagnosis in selected cases."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 47-year-old woman is referred to you for recurrent episodes of biliary colic, occurring approximately once per month. She has been seen in the emergency department four times in the past year but has never been admitted. She has never had acute cholecystitis. Abdominal ultrasonography has demonstrated gallbladder sludge and possibly a few small stones. You refer the patient to a surgeon, who performs a laparoscopic cholecystectomy. Which histologic changes are most likely to be found on pathologic examination?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Eosinophilia of the gallbladder wall",
+         "option1": "B. Intramural diverticula (Rokitansky-Aschoff sinuses)",
+         "option2": "C. Normal gallbladder and mucosa with the exception of intraluminal sludge/stones",
+         "option3": "D. Predominantly neutrophilic infiltrate with caseating granulomas"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>This patient may have <i>chronic cholecystitis<\/i>, a term that is less commonly used today. The most common histologic change observed in patients with biliary pain is mild fibrosis of the gallbladder wall with a chronic inflammatory cell infiltrate and an intact mucosa. However, recurrent episodes of biliary pain can be associated with a scarred, shrunken gallbladder and Rokitansky-Aschoff sinuses (intramural diverticula). An acute neutrophilic infiltrate could be expected with acute cholecystitis, which this patient does not have. Caseating granulomas are not characteristic of acute or chronic cholecystitis nor is eosinophilic infiltration of the gallbladder."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 40-year-old woman presents to your office for a routine history and physical examination. During your interview, she reports an episode that occurred approximately 3 months ago of diffuse abdominal pain after a fatty and greasy meal. The episode lasted approximately 2 hours and later that night she had diarrhea. She states one week after this episode, her gynecologist ordered an abdominal ultrasound scan that showed gallstones. She has had no further episodes. Which of the following patients would be least likely to benefit from cholecystectomy?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. A patient who is of Native American heritage",
+         "option1": "B. A morbidly obese patient",
+         "option2": "C. A patient who has previously undergone a heart-lung transplantation",
+         "option3": "D. A patient who has previously undergone a kidney transplantation",
+         "option4": "E. A patient whose ultrasound scan shows a heavily calcified gallbladder wall"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>In this question, it is unclear whether the patient&#8217;s symptoms are related to gallstones or to the gastrointestinal dyspepsia and malabsorption induced by the fatty, greasy meal that she consumed. Patients of Native American heritage and those with a porcelain gallbladder are at elevated risk of gallbladder cancer, and cholecystectomy is recommended even in asymptomatic patients. Morbidly obese patients and those with heart-lung transplant are at higher risk of serious complications of gallstone disease. Renal transplant recipients with asymptomatic gallstones have a low risk of the development of complications related to gallstone disease and, therefore, should not be considered for prophylactic cholecystectomy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding malignant biliary obstruction is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. The placement of an uncovered self-expanding metal stent (SEMS) in a patient with a malignant biliary stricture before surgery is contraindicated.",
+         "option1": "B. Placement of a SEMS is cost-effective only if the patient survives longer than six months.",
+         "option2": "C. Uncovered SEMSs are associated with a higher migration rate compared with covered SEMSs.",
+         "option3": "D. Occlusion of an uncovered SEMS in the distal bile duct for malignant biliary obstruction requires percutaneous biliary drainage."
+      },
+      "rationale": "(S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Placement of an uncovered SEMS is reasonable in patients with malignant biliary stricture given that it is usually resected at the time of surgery. If performed, care should be taken to allow an adequate segment of the common hepatic duct to be proximal to the SEMS to allow for the choledochojejunal anastomosis. Placement of an SEMS is cost-effective if a patient survives longer than three to six months. Covered SEMSs migrate more often than uncovered stents. Occlusion of an SEMS should be managed with a repeat ERCP for clearance of the original SEMS and possible placement of a second stent within the occluded one."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A six-week-old boy is brought for evaluation of jaundice and increasing abdominal girth. At birth, the infant was healthy and weighed 8 lb, 1 oz. The mother&#8217;s pregnancy was uncomplicated, as was the birth. The infant was healthy until one week ago when he started to vomit and his appetite decreased. The parents also report noticing a gradual increase in abdominal girth during the past week and that the baby&#8217;s stools are clay colored and his urine dark. Laboratory studies demonstrate a total bilirubin concentration of 4 mg/dL and a direct bilirubin concentration of 3 mg/dL. An ultrasound scan confirms the presence of fluid in the abdomen. A sample obtained by paracentesis is bile stained but sterile. Based on these findings, bile duct perforation is suspected. What is the most likely location of this perforation?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. At the junction of the cystic and bile ducts",
+         "option1": "B. At the junction of the left and right hepatic ducts and common hepatic duct",
+         "option2": "C. In the cystic duct",
+         "option3": "D. In the distal bile duct",
+         "option4": "E. In the gallbladder"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>Spontaneous perforation of the bile duct is rare but can occur during infancy. The perforation usually occurs at the junction of the cystic and common ducts. The cause is unknown, but in some cases, there is evidence of obstruction, secondary to stenosis or inspissated bile, at the distal end of the bile duct. Congenital weakness and injury due to infection have also been implicated in some cases."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "An 82-year-old man undergoes coronary artery bypass graft surgery and has a prolonged postoperative course in the intensive care unit with respiratory failure. He receives nutrition by total parenteral nutrition. During his course, fever and leukocytosis develop. His abdominal examination reveals diminished bowel sounds. A CT scan demonstrates a thickened gallbladder wall and pericholecystic fluid. What is the most likely etiology for this finding?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Chemical and ischemic injury to the gallbladder epithelium",
+         "option1": "B. Engorgement of the gallbladder vascular system due to hyperdynamic circulation",
+         "option2": "C. Gallstones obstructing the cystic duct",
+         "option3": "D. Ischemic hepatitis with secondary inflammation of the gallbladder",
+         "option4": "E. Normal gallbladder variant on CT"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>Acalculous cholecystitis typically occurs in patients hospitalized in the intensive care unit with severe illness resulting in hemodynamic compromise and lack of oral nutrition. Fasting results in concentration of bile acids within the gallbladder due to the absence of CCK-stimulated gallbladder contraction (chemical injury), and splanchnic vasoconstriction occurs because of hemodynamic compromise (ischemic injury). Classic symptoms of acute cholecystitis, such as abdominal pain, may be initially absent in as many as 75% of patients. Ultrasonography, CT, and hepatobiliary scintigraphy have all been used to establish this diagnosis. The presence of wall thickening of the gallbladder and pericholecystic fluid is an abnormal gallbladder finding."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following patients is the best candidate for oral dissolution therapy with ursodeoxycholic acid?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. A 22-year-old woman with sickle cell disease and gallstones",
+         "option1": "B. A 35-year-old woman who is admitted to the hospital with a mild episode of gallstone pancreatitis and discharged two days later",
+         "option2": "C. A 40-year-old woman with gallstones who has mild biliary colic three times yearly that has never resulted in an emergency department visit",
+         "option3": "D. A 55-year-old man with known cholelithiasis who has weekly episodes of severe right upper quadrant abdominal pain after eating that lasts several hours",
+         "option4": "E. A 70-year-old healthy man with right upper quadrant abdominal pain and an abdominal ultrasound scan showing two 1.5-cm gallstones"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>Oral dissolution should be considered for patients with uncomplicated gallstone disease. This includes patients with mild, infrequent biliary pain. Patients with severe or frequent biliary pain and patients with complications of gallstones, including cholecystitis, pancreatitis, and cholangitis, should not be treated with dissolution. These patients should be referred for surgery. Oral dissolution only works on cholesterol stones; the patient with sickle cell disease likely has pigmented stones related to hemolysis. Oral dissolution therapy has been effective in stones as large as 10 mm, with results being superior for stones smaller than 5 mm."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements about indeterminate biliary strictures is most correct?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. A definitive diagnosis is requisite before surgery for indeterminate strictures to determine the appropriate surgery.",
+         "option1": "B. Injection of corticosteroids into an indeterminate biliary stricture has been associated with a 40% resolution of these cases.",
+         "option2": "C. Photodynamic therapy for an indeterminate stricture is associated with resolution in more than 75% of patients.",
+         "option3": "D. Choledochoscopy, with or without biopsy, should be considered as a diagnostic option in these patients."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Patients with indeterminate strictures may not have a definitive diagnosis before going to surgery, and the ultimate surgical plan may be determined intraoperatively. There is no role for corticosteroids or photodynamic therapy as a diagnostic or therapeutic modality. Choledochoscopy may be able to better assess these strictures through direct imaging and targeted biopsies."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What is the volume of fluid that the gallbladder can accommodate?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. 10 mL to 30 mL",
+         "option1": "B. 30 mL to 50 mL",
+         "option2": "C. 50 mL to 70 mL",
+         "option3": "D. 70 mL to 100 mL"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)"
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 70-year-old man is admitted to the hospital with three hours of right upper quadrant abdominal pain without fever or chills. The pain improves spontaneously. He has a history of coronary artery disease and a permanent cardiac pacemaker. On initial evaluation in the emergency department, his total bilirubin is 4.2 mg/dL, direct bilirubin is 3.1 mg/dL, alkaline phosphatase is 250 IU/L, AST is 155 IU/L, and ALT is 185 IU/L. Transabdominal ultrasonography demonstrates stones in the gallbladder, prominent intrahepatic ducts, and a bile duct diameter of 1.1 cm. There is no bile duct stone visualized. The next day, the patient&#8217;s laboratory studies are repeated and show that his total bilirubin is 5.1 mg/dL, direct bilirubin is 4 mg/dL, alkaline phosphatase is 275 IU/L, AST is 175 IU/L, and ALT is 198 IU/L. Which of the following diagnostic tests should be performed?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. CT of the abdomen and pelvis",
+         "option1": "B. ERCP",
+         "option2": "C. EUS",
+         "option3": "D. Laparoscopic cholecystectomy with intraoperative cholangiography",
+         "option4": "E. MRCP"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>The patient&#8217;s presenting symptoms, laboratory study results, and imaging are all consistent with an obstructing bile duct stone. Even though the stone itself was not seen on a transabdominal ultrasound scan and the patient&#8217;s symptoms have improved, his liver function tests have worsened, suggesting persistent (incomplete) biliary obstruction. In this situation, ERCP is the most cost-effective diagnostic study because it is highly sensitive (95%) for diagnosing choledocholithiasis and can provide for therapy (sphincterotomy and stone extraction) at the same time. If the patient&#8217;s laboratory test results had started to improve, suggesting possible stone passage, MRCP or EUS would be the preferred modality, although in this case, because of the patient&#8217;s pacemaker, MRCP would not be an option."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 90-year-old male nursing home resident presents with abdominal distention, abdominal pain, nausea, and coffee-ground emesis. There is no fever, and liver function tests are normal. A CT scan (<a href=\"asfunction:_root.loadImage,data/images/07-02-636.jpg,data/pdf/07-02-636.pdf,data/images/Browser/07-02-636.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>) shows a markedly distended stomach, air in the biliary tree, and a thickened gallbladder containing two large gallstones. What is the most likely site of obstruction?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Cecum",
+         "option1": "B. Duodenum",
+         "option2": "C. Ileum",
+         "option3": "D. Jejunum",
+         "option4": "E. Rectum"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>This patient has Bouveret syndrome, which is characterized by gastric outlet obstruction due to duodenal impaction of a large gallstone that has migrated through a cholecystoduodenal fistula. More commonly, patients with traditional gallstone ileus have intermittent obstruction as the stone passes through the intestinal tract and ultimately completely obstructs the ileum, where the small intestine is the narrowest. In this case, imaging would also reveal dilated loops of small bowel."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A five-year-old boy with a history of Kawasaki&#8217;s disease presents with acute onset of crampy abdominal pain, nausea, and vomiting. On examination, he is afebrile. There is abdominal tenderness with a palpable gallbladder. A complete blood count reveals a normal white blood cell count. Ultrasonography demonstrates enlargement and distention of the gallbladder but no evidence of stones, sludge, a thickened wall, or pericholecystic fluid. What is the most likely diagnosis?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Acalculous cholecystitis",
+         "option1": "B. Acute cholecystitis",
+         "option2": "C. Acute hydrops of the gallbladder",
+         "option3": "D. Biliary dyskinesia",
+         "option4": "E. Mesenteric ischemia"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>Acute noncalculous, noninflammatory distention of the gallbladder may occur in infants and children. The gallbladder is not acutely inflamed, and cultures of the bile are usually sterile. The absence of gallbladder inflammation is what distinguishes acute hydrops from acute cholecystitis. Acute hydrops has been associated with Kawasaki&#8217;s disease and Henoch-Sch<font face=\"Arial\" size=\"15\">&#246;<\/font>nlein purpura. Patients present with acute onset of crampy abdominal pain and, often, nausea and vomiting. The right upper quadrant is tender, and the gallbladder may be palpable. Ultrasonography reveals an enlarged, distended gallbladder without calculi or wall thickening. Gallbladder hydrops often responds to nonsurgical treatment; with supportive care and management of the current illness, the prognosis for return of normal gallbladder function is excellent."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is <i>not<\/i> a well-documented risk factor for cholangiocarcinoma?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Caroli disease",
+         "option1": "B. Choledochal cysts",
+         "option2": "C. PSC",
+         "option3": "D. Tobacco smoking"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br>The risk of cholangiocarcinoma is elevated in those with Caroli disease, choledochal cysts, and PSC. Tobacco smoking is not a well-documented risk factor for cholangiocarcinoma."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Regarding transplantation in patients with PSC, which of the following statements is most correct?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. An endoscopic cholangiogram is necessary as part of the pretransplantation evaluation.",
+         "option1": "B. Patients with ulcerative colitis and PSC undergo simultaneous colectomy at the time of liver transplantation.",
+         "option2": "C. Recurrent cholangitis refractory to medical or endoscopic management is an indication for liver transplantation.",
+         "option3": "D. Survival rates for patients undergoing liver transplantation for PSC have similar survival rates compared with those who undergo transplantation for viral hepatitis."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>Recurrent cholangitis or pruritus that is refractory to medical or endoscopic management may be an indication for liver transplantation. Survival rates for patients undergoing liver transplantation for PSC are higher than for patients undergoing transplantation for hepatitis B and hepatitis C. Colectomy at the time of liver transplantation is not indicated for those patients with ulcerative colitis. Cholangioscopic evaluation is not a routine part of the pretransplantation evaluation."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 79-year-old man with multiple medical problems presents with right upper quadrant pain, fever, and an elevated white blood cell count. A transabdominal ultrasound scan demonstrates a fluid-filled gallbladder with a thickened wall and fluid surrounding the gallbladder. A hepatobiliary iminodiacetic acid (HIDA) scan demonstrates no uptake into the gallbladder fossa, consistent with acute cholecystitis. The patient is considered a poor surgical candidate. Which of the following statements is most true regarding this patient?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. A cholecystostomy tube is indicated to acutely manage this patient.",
+         "option1": "B. ERCP with sphincterotomy is indicated to alleviate biliary obstruction.",
+         "option2": "C. ERCP with cannulation and stenting of the cystic duct is indicated to decompress the gallbladder.",
+         "option3": "D. EUS-guided transgastric puncture of the gallbladder will decrease the risk of spontaneous perforation of the gallbladder by 80%."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>This patient is presenting with acute cholecystitis with obstruction of the cystic duct. Percutaneous drainage with a cholecystostomy is the next step in managing this patient. Sphincterotomy of the biliary sphincter will not alleviate obstruction of the cystic duct. Stenting of the cystic duct is occasionally possible but often difficult due to the spiral valves within the duct and is not a durable long-term solution for this high-risk surgical candidate. EUS-guided transgastric drainage of the gallbladder is not indicated and would put the patient at greater risk of complications than the percutaneous route."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 37-year-old woman is referred for evaluation of classic biliary colic. She has had laboratory testing revealing normal ALT, alkaline phosphatase, total bilirubin, amylase, and lipase. A right upper quadrant ultrasound scan with a cholecystokinin (CCK) injection did not find gallstones but did reveal a delay in gallbladder emptying. What is your treatment recommendation for the patient?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Cholecystectomy",
+         "option1": "B. ERCP",
+         "option2": "C. MRCP",
+         "option3": "D. Bile acid testing",
+         "option4": "E. Oral analgesia and reassurance"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00063-9\" target=\"_blank\"><font color='#0000FF'><b>ch63<\/b><\/font><\/a>)<br>Although controversial, most evidence indicates that typical biliary-type pain and delayed gallbladder emptying in patients are predictive of relief of symptoms by cholecystectomy. Further prospective trials need to be done to define the role of CCK cholescintigraphy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 28-year-old patient with chronic hepatitis B infection acquired by vertical transmission undergoes routine abdominal ultrasonography for hepatocellular carcinoma screening. The patient is otherwise healthy and has no signs or symptoms of cirrhosis. Abdominal ultrasonography demonstrates no liver lesions, but a 21-mm solitary pedunculated polyp is seen in the gallbladder fundus. What are the best management course and justification?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. The lesion is likely a metastatic deposit from a small hepatocellular carcinoma, and the patient should therefore be referred for orthotopic liver transplantation.",
+         "option1": "B. The lesion should be removed because it frequently detaches and causes pancreatitis.",
+         "option2": "C. The patient likely has adenomyomatosis, and therefore no treatment is needed.",
+         "option3": "D. The polyp is likely an adenoma, and the patient should undergo cholecystectomy.",
+         "option4": "E. The polyp is likely an adenoma; however, no surgery is recommended at this time because it is smaller than 2.5 cm."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>The patient most likely has a gallbladder adenoma. Gallbladder polyps larger than 18 mm pose a significant risk of malignancy and should therefore be resected. Polyps 10 to 18 mm in size should be resected in patients unless they are high-risk surgical candidates, in which case, annual or biannual monitoring should be performed. Polyps smaller than 10 mm in diameter have a very low risk of malignancy, and surveillance is appropriate."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which portion of the gut is responsible for the reabsorption of the majority of secreted bile salt molecules, and what percentage of these molecules are reabsorbed in the healthy individual?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Colon, 95%",
+         "option1": "B. Distal ileum, 75%",
+         "option2": "C. Distal ileum, 95%",
+         "option3": "D. Proximal jejunum, 75%",
+         "option4": "E. Proximal jejunum, 95%"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>Through the enterohepatic circulation, more than 95% of bile salt molecules secreted into bile are reabsorbed, mostly in the distal ileum via an active transport system, and returned to the liver. A small fraction (&lt;5%) of bile salts is excreted in the feces; however, this loss is compensated by de novo bile salt synthesis in the liver. Interruption of the enterohepatic circulation (e.g., surgery, Crohn&#8217;s ileitis, cholestyramine) results in up-regulation of bile salt synthesis in the liver, which could restore bile salt secretion rates to approximately 25% of their native values."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A one-year-old boy is brought in for evaluation of jaundice and intense pruritus. In addition to generalized jaundice, he has xanthomata on the extensor surfaces of the fingers and in the creases of his palms and hepatosplenomegaly. He has a broad forehead, deeply set and widely spaced eyes, a pointed mandible, a flattened malar eminence, and prominent ears. Laboratory tests demonstrate a total bilirubin level of 7.2 mg/dL and a direct bilirubin level of 5.8 mg/dL. Serum alkaline phosphatase is 500 U/L. The findings suggest Alagille syndrome. What findings on examination of a liver biopsy specimen would be diagnostic of this condition?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Concentric periductal fibrosis (&#8220;onion skin&#8221; appearance)",
+         "option1": "B. Expanded portal tract with portal fibrosis, bile duct proliferation, and bile plugs within the bile duct",
+         "option2": "C. Paucity of interlobular bile ducts",
+         "option3": "D. Portal tract edema and fibrosis"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>The hallmark of Alagille syndrome is a paucity of interlobular bile ducts. Paucity may be defined as a significantly decreased ratio (&lt;0.4) of the numbers of interlobular portal bile ducts to portal tracts. The histologic features of liver biopsy specimens from patients with Alagille syndrome presenting during the first months of life may overlap with those of neonatal hepatitis in that specimens in both cases may show evidence of ballooning of hepatocytes, variable cholestasis, portal inflammation, and giant cell transformation. Often, the number of interlobular bile ducts is not decreased in the initial liver biopsy specimen. However, there may be evidence of bile duct injury consisting of cellular infiltration of portal triads contiguous to interlobular bile ducts, lymphocytic infiltration, pyknosis of biliary epithelium, and periductal fibrosis. Serial biopsies of an individual patient may show bile duct proliferation initially, followed by a paucity of bile ducts, with a paucity of interlobular bile ducts usually becoming apparent by three months after diagnosis. There may also be mild periportal fibrosis, but progression to cirrhosis is uncommon. The extrahepatic bile ducts are patent but usually narrowed or hypoplastic."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following antibiotics has been known to promote biliary sludge formation?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Ceftriaxone",
+         "option1": "B. Erythromycin",
+         "option2": "C. Gentamicin",
+         "option3": "D. Metronidazole",
+         "option4": "E. Vancomycin"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>Forty percent of this third-generation cephalosporin is secreted into bile in an unmetabolized form, reaching 100 to 200 times the concentration in plasma. Once the saturation level is exceeded, ceftriaxone complexes with calcium, resulting in the formation of biliary sludge. It is reported that 43% of children receiving high-dose ceftriaxone develop biliary sludge, and 19% of these become symptomatic. Biliary sludge spontaneously resolves after withdrawal of the drug."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Cholesterolosis of the gallbladder is:",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Frequently present in individuals with cholesterol stones",
+         "option1": "B. Highly prevalent in certain ethnic groups",
+         "option2": "C. More common in women",
+         "option3": "D. Often symptomatic",
+         "option4": "E. Rare, found in fewer than 1% of autopsy specimens"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>Cholesterolosis is an acquired histologic abnormality of the gallbladder epithelium characterized by excessive accumulation of cholesterol esters and triglyceride within epithelial macrophages. Cholesterolosis is more common in women before the age of 65; after this age, the sex differences are less pronounced. Cholesterolosis and cholesterol stones occur independently but can occur together. Cholesterolosis is present in 5% to 40% of autopsy specimens and is almost always an incidental finding. Symptoms are rare. No racial, ethnic, or geographic differences in prevalence have been described."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Regarding signs and symptoms of PSC, which of the following statements is most accurate?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Fatigue and abdominal pain are the most frequent symptoms in patients with PSC.",
+         "option1": "B. More than one third of patients have ascites at the time of diagnosis.",
+         "option2": "C. Splenomegaly is seen in the majority of patients at the time of diagnosis.",
+         "option3": "D. Weight loss is frequent and may be life threatening for the majority of patients with PSC."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>Fatigue and abdominal pain are the most frequent symptoms in patients with PSC, whereas few have ascites or splenomegaly at diagnosis. Weight loss is uncommon, and although fat-soluble vitamin deficiency may occur, it is rarely life threatening."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding sphincter of Oddi dysfunction (SOD) is correct?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. There is a male preponderance of 60% to 70%.",
+         "option1": "B. There is an increased frequency in patients with achalasia.",
+         "option2": "C. Of affected patients, 70% have abnormal liver biochemical test results.",
+         "option3": "D. The modified Milwaukee classification system is partly based on the presence of bile duct dilation to a diameter of more than 10 mm."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00063-9\" target=\"_blank\"><font color='#0000FF'><b>ch63<\/b><\/font><\/a>)<br>The modified Milwaukee classification system is used to divide patients into three categories based on diagnostic criteria. These categories are relevant to clinical practice in the utilization of diagnostic and therapeutic ERCP. The diagnostic criteria include biliary-type pain, serum liver enzyme levels more than 1.1 times the upper limit of normal on one occasion, and bile duct dilation to greater than 10 mm. The previous diagnostic criteria, called the original Milwaukee classification, included biliary dilation to greater than 12 mm, delayed drainage (&gt;45 minutes) of bile into the duodenum at cholangiography, and serum liver enzymes elevated more than twice the upper limit of normal on at least two separate occasions. Studies have called into question the greater stringency of the &#8220;old&#8221; criteria, and they are no longer used in clinical practice."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following conditions is not an important factor in the pathophysiology of common gallstone formation?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Cholesterol nucleation",
+         "option1": "B. Dietary calcium intake",
+         "option2": "C. Gallbladder hypomotility",
+         "option3": "D. Genetic factors such as <i>LITH<\/i> genes",
+         "option4": "E. Hepatic hypersecretion"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>At least five primary defects must be present simultaneously in gallbladder bile for cholesterol gallstone formation: genetic factors and <i>LITH<\/i> genes, hepatic hypersecretion, gallbladder hypomotility, rapid phase transitions, and intestinal factors. There is no clear evidence that taking calcium supplements or consuming a diet high in calcium plays a significant role in cholesterol gallstone formation."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Regarding the diagnosis of PSC, which of the following statements is most true?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Gallbladder disease occurs in less than 5% of patients with PSC.",
+         "option1": "B. The diagnosis relies on serum protein electrophoresis demonstrating decreased IgG<font face=\"GG Subscript\" size=\"16\">2<\/font> subclass deficiency.",
+         "option2": "C. The presence of extrahepatic biliary disease distinguishes PSC from primary biliary cirrhosis.",
+         "option3": "D. At the time of diagnosis of PSC, liver test results are usually normal."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>The diagnosis of PSC with a normal cholangiogram at ERCP may occur and as a result may be confused with primary biliary cirrhosis. Because primary biliary cirrhosis does not affect the extrahepatic biliary tree, the presence of disease in this location distinguishes PSC from primary biliary cirrhosis. IgG<font face=\"GG Subscript\" size=\"16\">2<\/font> is not related to PSC. PSC is possible without extrahepatic biliary disease. Gallbladder disease is seen in as many as 15% of patients with PSC."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 44-year-old woman presents with abdominal pain and jaundice 3 months after an uncomplicated cholecystectomy. She is afebrile and her vital signs are normal. Alkaline phosphatase and bilirubin levels are significantly elevated and AST and ALT levels are slightly elevated. ERCP is performed (<a href=\"asfunction:_root.loadImage,data/images/07-03-651.jpg,data/pdf/07-03-651.pdf,data/images/Browser/07-03-651.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). Based on the ERCP findings, what is the best long-term management strategy in this case?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Endoscopic dilation",
+         "option1": "B. Endoscopic metal stent placement",
+         "option2": "C. No treatment is required.",
+         "option3": "D. Percutaneous drainage",
+         "option4": "E. Surgery"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>This patient has a benign bile duct stricture from surgical clips placed on the bile duct. ERCP and endoscopic placement of a plastic bile duct stent would be an acceptable choice, but of the choices listed here, surgery is the best option. Surgical repair is highly effective and usually involves resection of the stricture and end-to-side Roux-en-Y choledochojejunostomy or hepaticojejunostomy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Paucity of bile ducts in children has been associated with all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Noonan syndrome",
+         "option1": "B. Congenital rubella infection",
+         "option2": "C. Toxoplasmosis infection",
+         "option3": "D. <font face=\"Arial\" size=\"15\">&#945;<\/font><font face=\"GG Subscript\" size=\"16\">1<\/font>-Antitrypsin deficiency",
+         "option4": "E. Inborn errors of bile acid metabolism"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>Paucity of bile ducts can be an isolated and unexplained finding in infants and children with idiopathic cholestasis or a feature of a heterogeneous group of disorders that include congenital infections with rubella and cytomegalovirus and genetic disorders such as <font face=\"Arial\" size=\"15\">&#945;<\/font><font face=\"GG Subscript\" size=\"16\">1<\/font>-antitrypsin deficiency and inborn errors of bile metabolism. It has also been observed in some cases of Williams syndrome and Noonan syndrome."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Regarding bile duct injuries related to laparoscopic cholecystectomy, which of the following statements is most correct?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. To prevent bile duct injuries, it is recommended that patients routinely undergo preoperative retrograde cholangiography or MRCP to define the biliary anatomy.",
+         "option1": "B. Most bile duct injuries are related to anatomic variation in the left side of the biliary tree or inadequate exposure of the bile duct during dissection at the time of surgery.",
+         "option2": "C. Bile duct and right segmental injuries are the most common bile duct injuries during laparoscopic cholecystectomy.",
+         "option3": "D. Most bile duct injuries lead to segmental hepatectomy."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Most bile duct injuries are related to the surgeon&#8217;s not definitively confirming the anatomy of the cystic duct in relation to the bile duct or due to anatomic variations of the right biliary system. Bile duct injuries and right segmental injuries are the most common forms of iatrogenic injury in this setting. It is not recommended that patients routinely undergo preoperative MRCP or ERCP."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Regarding the association between PSC and inflammatory bowel disease, which of the following statements is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. More than 75% of patients with PSC have inflammatory bowel disease.",
+         "option1": "B. Patients with Crohn&#8217;s disease and PSC have a higher likelihood of having more severe disease than a patient with ulcerative colitis and PSC.",
+         "option2": "C. PSC is present in approximately 20% of patients with ulcerative colitis or Crohn&#8217;s disease.",
+         "option3": "D. The two diseases often progress together."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<\/br>More than 75% of patients with PSC have inflammatory bowel disease. The two diseases often do not progress together. Patients with Crohn&#8217;s disease are not known to have a higher likelihood of severe PSC compared with those patients with ulcerative colitis and PSC. PSC is present in 2.4% to 4.0% of all patients with chronic ulcerative colitis and 1.4% to 3.4% of patients with Crohn&#8217;s disease."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding intestinal bile acid malabsorption is true?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. It occurs when the proximal 50 cm of ileum is resected.",
+         "option1": "B. Colonic bile acids induce fat absorption through the colonic lymphatics.",
+         "option2": "C. It decreases renal oxalate excretion, protecting against kidney stones.",
+         "option3": "D. It is common after cholecystectomy."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>Bile salts are absorbed in the distal ileum. When more than 100 cm of distal ileum is removed, bile salt malabsorption almost invariably occurs. Unabsorbed bile acids inhibit water absorption and induce water secretion in the colon, resulting in a mild, watery diarrhea. Bile acids cause water secretion by increasing chloride secretion in the perfused colon through an inositol 1,4,5-triphosphate and calcium-dependent mechanism. Dihydroxy bile acids induce net fluid secretion into the lumen at high concentrations seen in those with malabsorption of bile salts and block absorption of fluid and water at low concentrations."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 40-year-old woman has had two episodes of right upper quadrant pain in the six months since undergoing laparoscopic cholecystectomy. Each episode lasted between 30 and 60 minutes, and a serum sample obtained during each episode showed an ALT level 2.5 to 3 times the upper limit of normal. An ultrasound examination revealed that the diameter of the bile duct is 13 mm, and MRCP shows no evidence of a stricture or filling defect within the biliary tree. What is the recommended next step?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. A trial of nitrates or a calcium channel blocker",
+         "option1": "B. Biliary manometry",
+         "option2": "C. Endoscopic sphincterotomy",
+         "option3": "D. Initiation of treatment with an anticholinergic medication",
+         "option4": "E. Noninvasive testing"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00063-9\" target=\"_blank\"><font color='#0000FF'><b>ch63<\/b><\/font><\/a>)<br>Using the modified Milwaukee classification, the patient meets the criteria for type I SOD in that she has biliary-type pain, AST elevation greater than two times normal on at least two occasions, and a bile duct dilated to more than 12 mm. Of patients with type I SOD, 86% have an elevated basal SOD pressure. Because at least 90% of such patients have a favorable clinical response to endoscopic sphincterotomy, no further diagnostic studies or therapeutic trials are necessary; this response rate is independent of the results of biliary manometry."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following complications of gallstone disease is most rapidly fatal?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Biliary colic",
+         "option1": "B. Cholangitis",
+         "option2": "C. Cholecystitis",
+         "option3": "D. Gallstone ileus",
+         "option4": "E. Pancreatitis"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>Cholangitis due to purulent material under pressure in the biliary tree is the most rapidly fatal complication of gallstone disease. Infection can quickly spread to the bloodstream and cause septicemia. <i>Escherichia coli<\/i>, <i>Klebsiella<\/i>, <i>Pseudomonas<\/i>, <i>Enterococcus<\/i>, and <i>Proteus<\/i> species and anaerobic species such as <i>Bacteroides fragilis<\/i> and <i>Clostridium perfringens<\/i> are found in approximately 15% of appropriately cultured bile specimens. Anaerobes usually accompany aerobes, especially <i>E. coli<\/i>. Early diagnosis and prompt treatment with intravenous antibiotics and biliary decompression are essential."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 12-year-old boy is brought in for outpatient evaluation of chronic abdominal pain. According to the parents, episodes of abdominal pain of varying degree have occurred for two years. On several occasions, the patient has had fever and mild jaundice associated with the pain. All episodes resolved spontaneously. The physical examination reveals hepatosplenomegaly. The results of laboratory tests, including total and direct bilirubin, alkaline phosphatase, and aminotransferase levels, are within normal limits. An ultrasound scan demonstrates multiple bilateral renal cysts and cystic dilation of the intrahepatic ducts. What is the most likely diagnosis in this case?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Alagille syndrome",
+         "option1": "B. Caroli disease",
+         "option2": "C. Choledochal cyst",
+         "option3": "D. Extrahepatic biliary atresia",
+         "option4": "E. PSC"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>Nonobstructive saccular or fusiform dilation of the intrahepatic bile ducts is a rare congenital disorder. In the pure form, known as Caroli disease, dilation is classically segmental and saccular and associated with stone formation and recurrent bacterial cholangitis. A more common type, Caroli syndrome, is associated with a portal tract lesion typical of congenital hepatic fibrosis. Dilation of the extrahepatic bile ducts (choledochal cysts) also may be present. Renal disease occurs in both forms. Renal tubular ectasia occurs with the simple form, and both conditions can be associated with autosomal recessive polycystic renal disease or, rarely, autosomal dominant polycystic renal disease. There may be slight to moderate elevations of serum bilirubin, alkaline phosphatase, and aminotransferase levels. Liver function may be normal initially, but repeated episodes of infection and biliary obstruction within the cystic bile ducts may eventually lead to hepatic failure. Inability to concentrate urine is the most frequent abnormality of renal function; variable elevations of blood urea nitrogen and serum creatinine levels reflect the severity of the underlying kidney disease. Ultrasonography, MRI cholangiography, and CT are of great value in demonstrating intrahepatic cystic dilation. Renal cysts or hyperechogenicity of papillae may be detected. Cholangiography usually demonstrates a normal common duct with segmental, saccular dilations of the intrahepatic bile ducts. Rarely, the process may be limited to one lobe of the liver."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding malignant biliary obstruction is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Most patients with hilar obstruction will be adequately palliated with unilateral biliary decompression.",
+         "option1": "B. SEMS placement results in higher rates of complications, including obstruction, bleeding, and perforation, than plastic stents for the palliation of malignant obstruction of the biliary hilum.",
+         "option2": "C. Unresectable hilar obstruction palliated via a percutaneous approach is associated with fewer complications than the endoscopic approach.",
+         "option3": "D. In patients with malignant hilar tumors, drainage of an atrophied lobe is important to prevent future cholangitis."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Unilateral biliary drainage is sufficient for palliation of the obstructive jaundice from a hilar malignancy. SEMSs are not associated with higher complication rates but may require more expertise to achieve appropriate placement. Percutaneous drainage of hilar obstruction does not carry fewer complications compared with endoscopic stent placement. Drainage of an atrophied lobe is not necessary."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 24-year-old woman presents to her primary care physician with three weeks of recurrent right upper quadrant pain. An abdominal ultrasound scan demonstrates a 2.5-mm gallbladder polyp. Which type of polyp is most likely in this patient?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Adenoma",
+         "option1": "B. Adenomyoma",
+         "option2": "C. Cholesterol polyp",
+         "option3": "D. Inflammatory polyp",
+         "option4": "E. Lipoma"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>Non-neoplastic polyps account for the majority of gallbladder polyps (95%). Of these, the most common type of gallbladder polyp is a cholesterol polyp. It is a benign variant of cholesterolosis resulting from infiltration of the lamina propria with lipid-laden foamy macrophages. The other types of polyps are much less common."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 53-year-old man with a 20-year history of ulcerative colitis involving the entire colon has had PSC for 15 years. He asks you about his risk of the development of colon cancer. Which of the following statements is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. His risk of colon cancer is increased to more than that of those with ulcerative colitis without PSC.",
+         "option1": "B. He can decrease the risk of the development of colon cancer by 60% with oral administration of ursodeoxycholic acid.",
+         "option2": "C. He requires screening with colonoscopy for colorectal cancer as well as duodenoscopy for ampullary carcinoma.",
+         "option3": "D. Liver transplantation would decrease his risk of colon cancer such that he could have colonoscopy at three- to five-year intervals."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>This patient has an increased risk of colon cancer because of his history of pancolitis and PSC. The presence of PSC further increases his cancer risk above that of the colitis alone. He should undergo colonoscopic screening for colon cancer annually. Liver transplantation is not known to decrease the risk, and in fact, immunosuppression may indeed increase the overall cancer risk. Ursodeoxycholic acid may decrease the risk of colonic dysplasia, although the magnitude of this benefit and the impact on the incidence of malignancy are not well defined."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "For which of the following is biliary manometry most necessary before sphincterotomy?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Type I SOD",
+         "option1": "B. Type II SOD",
+         "option2": "C. Type III SOD",
+         "option3": "D. Type IV SOD"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00063-9\" target=\"_blank\"><font color='#0000FF'><b>ch63<\/b><\/font><\/a>)<br>Type I SOD patients experience pain accompanied by elevation of liver enzymes and biliary dilation, whereas type II SOD patients have pain and either elevated enzymes or biliary dilation, but not both. Patients with type III SOD have biliary-type pain without bile duct dilation or abnormal liver enzymes. Many experts advocate empirical sphincterotomy for patients with SOD types I and II due to the high risk of complications in patients undergoing biliary manometry. Because the response rate to sphincterotomy is less than 10% when the results of biliary manometry are normal (and 55% to 60% when the results are abnormal), biliary manometry is advocated before sphincterotomy for those with type III SOD."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding bile storage in patients without a gallbladder (postcholecystectomy) is true?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Bile acids are stored in the distal small intestine.",
+         "option1": "B. Bile acids are stored in the proximal small intestine.",
+         "option2": "C. Bile acids are stored in the biliary tree.",
+         "option3": "D. Bile acids are not stored in the gastrointestinal tract."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>Bile acids are stored in the proximal small intestine where they are able to mix with food. After a meal, intestinal contractions propel the stored bile acids to the distal small intestine where they are actively reabsorbed."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is not a common risk factor for bile plug syndrome?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Prolonged total parenteral nutrition",
+         "option1": "B. Premature infants",
+         "option2": "C. Multiple comorbidities",
+         "option3": "D. Massive hemolysis",
+         "option4": "E. Biliary strictures"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>Bile plug syndrome results from thick, inspissated bile and mucus that causes biliary obstruction. Healthy infants can be affected; however, it occurs more commonly in sick premature infants who cannot be fed and require prolonged parenteral nutrition or may occur in the setting of brisk hemolysis. Pathogenesis is thought to involve bile stasis, fasting, infection, and an increased bilirubin load. The clinical presentation can be similar to that of biliary atresia. Diagnosis is usually made by exploratory laparotomy or cholangiography. Treatment is with repeated bile duct irrigation and treatment of the underlying cause (e.g., initiating enteral feeding)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "An eight-year-old girl with a history of sickle cell disease was discovered to have gallstones when a CT scan of her chest was performed to evaluate shortness of breath and chest pain. An ultrasound scan confirmed the presence of several gallstones. What is the composition of the stones (<a href=\"asfunction:_root.loadImage,data/images/07-04-665.jpg,data/pdf/07-04-665.pdf,data/images/Browser/07-04-665.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>)?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Calcium bilirubinate",
+         "option1": "B. Calcium oxalate",
+         "option2": "C. Cholesterol",
+         "option3": "D. Free hemoglobin",
+         "option4": "E. Urate"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>The majority of gallstones are composed predominantly of cholesterol. The remaining stones are pigmented stones. This patient likely has black-pigmented gallstones, which are common in patients with chronic hemolytic disorders. These stones are composed predominantly of calcium bilirubinate, with substantial amounts of crystalline calcium carbonate and phosphate. In those with sickle cell disease, the risk of gallstones increases with age; stones are diagnosed in at least 14% of children younger than 10 years of age and 36% of those between ages 10 and 20 years."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 24-year-old swimsuit model with biliary colic and gallstones demands treatment with extracorporeal shock wave lithotripsy to avoid scars. If your patient undergoes this treatment, what is the approximate, cumulative five-year recurrence rate?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. 5%",
+         "option1": "B. 20%",
+         "option2": "C. 40%",
+         "option3": "D. 60%",
+         "option4": "E. 80%"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>Ten-year follow-up data reveal 27%, 41%, and 54% cumulative recurrence rates at three, five, and 10 years, respectively. Recurrence is most often related to the presence of lithogenic bile composition and gallbladder dysmotility rather than patient variables such as sex, age, and weight. Factors predictive of higher rates of treatment failure include stones larger than 16 mm, multiple stones, and stones with CT density of greater than 84 Hounsfield units. Recurrent stones are usually small and multiple and cause recurrent biliary pain."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is the rate-limiting step in the hepatic transport of bile acids from blood into bile?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Intestinal absorption",
+         "option1": "B. Gallbladder contraction",
+         "option2": "C. Sinusoidal bile acid uptake",
+         "option3": "D. Canalicular secretion"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>Canalicular secretion is the rate-limiting step in the hepatic transport of bile acids."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 24-year-old white man with known primary sclerosing cholangitis presents for evaluation and management of worsening jaundice. On ERCP, a dominant stricture is identified involving the mid bile duct, 2 cm in length. There is slight bilateral multifocal stricturing of the intrahepatic ducts. Cytology is collected from the stricture, and a plastic stent is inserted. A liver biopsy specimen demonstrates no cirrhosis. His albumin and prothrombin time are normal, and a CT scan demonstrates no other abnormalities. Which of the following statements regarding treatment is most correct?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Definitive chemotherapy combined with adjuvant radiation should be initiated.",
+         "option1": "B. Intraductal photodynamic therapy should be initiated.",
+         "option2": "C. Primary resection of the lesion with a pancreatoduodenectomy is appropriate.",
+         "option3": "D. This patient should be evaluated for liver transplantation."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br>This patient has a distal bile duct cholangiocarcinoma in the presence of PSC, but no cirrhosis. Primary resection with pancreatoduodenectomy with curative intent is indicated. Transplantation evaluation for mild diffuse disease is not indicated at this time; moreover, in contrast to a hilar carcinoma, distal biliary cholangiocarcinoma does not require removal of the liver. Chemoradiation and/or photodynamic therapy may be used for those who are not surgical candidates, but cure requires surgery."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 70-year-old man with a history of coronary artery disease and a depressed left ventricular ejection fraction is admitted to the intensive care unit with septic shock and multiorgan failure, requiring vasopressor support and mechanical ventilation. Two days later, abdominal distention and tenderness on palpation in the right upper quadrant develop. A transabdominal ultrasound scan demonstrates a markedly distended gallbladder with wall thickening and pericholecystic fluid. Which of the following statements regarding the treatment of this condition is true?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Cholecystectomy should be performed in this patient.",
+         "option1": "B. Endoscopic cholecystoduodenostomy and stent placement are safe, widely accepted treatment for this condition.",
+         "option2": "C. Intravenous antibiotics alone will resolve this condition in nearly all patients.",
+         "option3": "D. Percutaneous cholecystostomy in combination with intravenous antibiotics is successful in 95% to 100% of patients.",
+         "option4": "E. Ursodeoxycholic acid should be initiated because this condition was likely precipitated by cholelithiasis."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>This patient has a typical presentation of acalculous cholecystitis. In patients who are not at high risk, cholecystectomy provides definitive treatment. In patients with significant surgical risk factors, however, percutaneous cholecystostomy tube placement is a highly effective treatment. Ursodeoxycholic acid has no role in the treatment of acalculous cholecystitis. Endoscopic, transpapillary decompression of the gallbladder via selective cystic duct cannulation and stent placement is an alternative treatment in patients who are not candidates for cholecystectomy or percutaneous cholecystostomy. Early reports of endoscopic cholecystoduodenostomy and stent placement (much like draining a pseudocyst) have demonstrated significant risks (e.g., bile leak) and at present should still be considered experimental."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A patient presents to you having had PSC for at least 10 years. Her liver function test results have been normal, and she has been taking 13 to 15 mg/kg/day of ursodeoxycholic acid during that time. Which of the following statements is most correct?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Normal liver function test results correlate with the absence of histologic progression to cirrhosis.",
+         "option1": "B. She should discontinue ursodeoxycholic acid because it may increase the risk of colon cancer.",
+         "option2": "C. She should have regular surveillance for early detection of cholangiocarcinoma.",
+         "option3": "D. Tacrolimus would be an appropriate drug in this circumstance to slow the histologic progression of her PSC."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>This patient should have regular surveillance for early detection of cholangiocarcinoma. This typically consists of cross-sectional imaging and serum tumor markers. The presence of normal liver enzymes does not ensure that histologic progression is not occurring silently. Ursodeoxycholic acid should still be continued. Tacrolimus has not yet been shown to slow the histologic progression of PSC."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "In what percentage of individuals do the bile and pancreatic ducts open separately into the duodenum?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. 1% to 5%",
+         "option1": "B. 10% to 15%",
+         "option2": "C. 20% to 25%",
+         "option3": "D. 30% to 35%"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)"
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following genes likely plays a role in the etiology of the findings presented in the figure (<a href=\"asfunction:_root.loadImage,data/images/07-05-672.jpg,data/pdf/07-05-672.pdf,data/images/Browser/07-05-672.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>)?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. <i>ABC B4<\/i> (ATP-binding cassette transporter B4; formerly multidrug resistant-3 gene)",
+         "option1": "B. <i>CCK-1R<\/i> (CCK-1 receptor)",
+         "option2": "C. <i>CYP7A1<\/i> (variant of cholesterol 7 alpha-hydroxylase)",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>The figure from question 672 shows ERCP demonstrating a bile duct stone. The majority of gallstones are of the cholesterol variety. There is evidence that all these <i>LITH<\/i> genes play a role in the formation of cholesterol stone formation."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The daily volume of bile secreted by the liver ranges from:",
+      "choices": {
+         "@option": "2",
+         "option0": "A. 50 to 100 mL",
+         "option1": "B. 250 to 300 mL",
+         "option2": "C. 500 to 600 mL",
+         "option3": "D. 900 to 1000 mL"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>The volume of bile secreted by the liver each day ranges from 500 to 600 mL. The predominant organic components are bile acids. Bile acids are almost completely reabsorbed by the terminal ileum and returned via the portal circulation to the liver."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 56-year-old patient undergoes liver transplantation for PSC. The explant is identified as harboring a small focal cholangiocarcinoma. Which of the following statements is most correct?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. A living relative is the preferred donor for patients with PSC.",
+         "option1": "B. Aggressive endoscopic surveillance is 80% sensitive in detecting cholangiocarcinoma in patients with PSC.",
+         "option2": "C. If this patient had a known cholangiocarcinoma, it would not have precluded liver transplantation.",
+         "option3": "D. The three-year survival rate in this patient is less than 10%."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>Small focal cholangiocarcinoma is not an absolute contraindication to transplantation, although patients should be referred to centers with protocols for liver transplantation for this indication. The one-year survival rate in these patients is approximately 65%. A living related donor is not preferred as a source for transplantation in patients with PSC. Endoscopic surveillance is not more than 60% sensitive in detecting cholangiocarcinoma in the setting of PSC."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is <i>not<\/i> a common cause of benign biliary strictures?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Chronic pancreatitis",
+         "option1": "B. PSC",
+         "option2": "C. Postcholecystectomy biliary injury",
+         "option3": "D. Anastomotic stricture after liver transplantation",
+         "option4": "E. Congenital hepatic fibrosis"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Congenital hepatic fibrosis is manifested as hepatic parenchyma fibrosis and evolution to synthetic dysfunction. Biliary strictures are not a common part of the spectrum of this disease. The other options are all causes of benign biliary obstruction."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 47-year-old woman presents to your office because of recurrent epigastric and right upper quadrant abdominal pain that is sometimes worse after meals. She has had an extensive workup for gallstone disease, including a detailed examination of her gallbladder and biliary system by EUS, which was normal. Which of the following should be considered a cause of the patient&#8217;s symptoms?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Angina pectoris",
+         "option1": "B. Gastroesophageal reflux disease",
+         "option2": "C. Irritable bowel syndrome",
+         "option3": "D. Peptic ulcer disease",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>This patient has symptoms that could be related to biliary colic; however, an extensive workup including EUS has not revealed the presence of gallstones. In this situation, one must also consider nonbiliary causes of abdominal pain, including angina pectoris, gastroesophageal reflux disease, irritable bowel syndrome, peptic ulcer disease, pancreatitis, diverticulitis, and intestinal or colonic malignancy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which statement regarding the etiology and pathogenesis of PSC is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Biliary epithelial cells have been shown to aberrantly express major histocompatibility complex class II antigens.",
+         "option1": "B. The absence of IgG-4 staining in the biliary epithelium is a hallmark of PSC.",
+         "option2": "C. Perinuclear anti-neutrophilic cytoplasmic antibody is rare, occurring in less than 15% of patients with PSC.",
+         "option3": "D. Serum IgG<font face=\"GG Subscript\" size=\"16\">4<\/font> levels are elevated in patients with PSC."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>Biliary epithelial cells have been shown to aberrantly express major histocompatibility complex class II antigens. IgG-4 is present in as many as 53% of patients and perinuclear antineutrophilic cytoplasmic antibody is seen in as many as 88% of patients. Elevated serum IgG<font face=\"GG Subscript\" size=\"16\">4<\/font> is not associated with PSC."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 32-year-old Taiwanese man presents with abdominal pain, fever, and jaundice. An ultrasound scan shows dilation of the biliary tree, more prominent on the left, and numerous intrahepatic filling defects are present. An ERCP scan is performed (<a href=\"asfunction:_root.loadImage,data/images/07-06-678.jpg,data/pdf/07-06-678.pdf,data/images/Browser/07-06-678.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). Which of the following statements regarding the etiology of this patient&#8217;s disease is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. A CCK-stimulated HIDA scan demonstrates a markedly diminished gallbladder ejection fraction.",
+         "option1": "B. Brown intrahepatic stones harboring the ova of enteric parasites occur in patients with this disorder.",
+         "option2": "C. A history of total parenteral nutrition is common in these patients.",
+         "option3": "D. Numerous antibodies are present that cross-react with the colon and bile duct.",
+         "option4": "E. Patients have a genetic deficiency of bacterial glucuronidase."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>This patient has recurrent pyogenic cholangitis. The leading theory links biliary infection with the parasites <i>Clonorchi<\/i>s <i>sinenis<\/i>, <i>Opisthorchis<\/i> sp., and <i>Ascaris lumbricoides<\/i>. These infections are endemic in Asia and can be cultured from biliary stones, bile, and stool. These patients may also lack an inhibitor of bacterial glucuronidase, an enzyme that deconjugates bilirubin and thereby promotes formation of brown-pigmented calcium bilirubinate stones."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding pancreaticobiliary anatomy of the major papilla is most accurate?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. The bile duct and pancreatic duct enter the duodenum together in half of individuals.",
+         "option1": "B. The sphincter choledochus is absent in 30% of individuals.",
+         "option2": "C. Pancreatic secretion is partly regulated by fasciculi longitudinales whose contraction impedes flow into the duodenum.",
+         "option3": "D. Contraction of the sphincter ampullae prevents reflux of duodenal content into the pancreaticobiliary ducts."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>The sphincter ampullae is comprised of longitudinal muscle fibers that surround the circular fibers of the ampulla of Vater. When these fibers contract, the ampullary folds are approximated resulting in obstruction of pancreaticobiliary flow and prevention of reflux of duodenal content. The pancreatic duct and bile duct enter the duodenum together in 85% of individuals. The sphincter pancreaticus is absent in 30% of individuals but the sphincter choledochus is uniformly present. Biliary, not pancreatic, secretion is partly regulated by fasciculi longitudinales."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Bile acid transporter gene mutations have been identified in all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Primary bile acid malabsorption",
+         "option1": "B. Intrahepatic cholestasis of pregnancy",
+         "option2": "C. Primary biliary cirrhosis",
+         "option3": "D. Progressive familial intrahepatic cholestasis",
+         "option4": "E. Dubin-Johnson syndrome"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>Transporter gene mutations have been identified in a number of diseases affecting bile acid metabolism. These include primary bile acid malabsorption, intrahepatic cholestasis of pregnancy, progressive familial intrahepatic cholestasis, low phospholipid-associated cholelithiasis, and Dubin-Johnson syndrome. Primary biliary cirrhosis, however, is not associated with mutations in the bile acid transporter genes."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following are true of patients with acalculous biliary pain <i>except<\/i>:",
+      "choices": {
+         "@option": "0",
+         "option0": "A. The majority will have a depressed gallbladder ejection fraction when tested with CCK-stimulated cholescintigraphy.",
+         "option1": "B. When a depressed gallbladder ejection fraction is present, approximately two thirds of patients will obtain symptom relief after cholecystectomy.",
+         "option2": "C. Most patients are young women.",
+         "option3": "D. One half of patients with acalculous biliary pain may actually have microscopic cholelithiasis in resected gallbladder specimens.",
+         "option4": "E. Acalculous biliary pain is listed as a functional gastrointestinal disorder in the Rome III criteria."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>Less than 50% of patients with acalculous biliary pain have a depressed gallbladder ejection fraction; however, of those who do, a majority will obtain some symptom relief after cholecystectomy. Some studies show that more than 80% of patients with acalculous biliary pain are female, with a mean age of 30. Some studies have found that as many as one half of patients with acalculous biliary pain actually have microscopic cholelithiasis in resected gallbladder specimens, suggesting an initial false-positive transabdominal ultrasound scan finding. A strong link between acalculous biliary pain and other functional bowel disorders suggests that visceral hypersensitivity may also contribute to biliary pain in patients with a normal gallbladder; acalculous biliary pain is listed as a functional gastrointestinal disorder by a multinational working committee of gastrointestinal investigators (Rome III classification)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A patient presents with a history of acute recurrent episodes of pancreatitis. The patient&#8217;s status is postcholecystectomy with normal liver enzymes. There is no history of hypercalcemia or hypertriglyceridemia. MRCP findings are normal. Which of the following statements regarding the clinical management of this patient is most accurate?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Cholangioscopy is the appropriate next diagnostic procedure.",
+         "option1": "B. CCK analog&#8211;stimulated ERCP will exclude microlithiasis as a cause of recurrent pancreatitis.",
+         "option2": "C. Empirical placement of a biliary stent will reduce the recurrence of pancreatitis by 30%.",
+         "option3": "D. Sphincter of Oddi manometry may be performed to determine the cause of recurrent pancreatitis."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>This patient has an unexplained etiology of recurrent pancreatitis. The diagnostic options include manometry to assess the biliary and pancreatic sphincter pressures. Hypertension of either sphincter may cause recurrent episodes of pancreatic duct obstruction. Cholangioscopy is not indicated because MRCP has excluded biliary obstruction. A CCK analog will not provide additional information in the setting of previous cholecystectomy. A transpapillary biliary stent is not indicated because it will not provide drainage of the pancreatic duct."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 25-year-old woman is pregnant and experiencing frequent episodes of right upper quadrant abdominal pain, nausea, and vomiting. Her symptoms have been increasing in severity and frequency during the past two weeks. She is unable to tolerate oral intake. An ultrasound scan demonstrates several small gallstones but no evidence of acute cholecystitis. When is the ideal time to perform a cholecystectomy?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. First trimester",
+         "option1": "B. Second trimester",
+         "option2": "C. Third trimester",
+         "option3": "D. Postpartum",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>Indications for cholecystectomy during pregnancy include complicated gallstone diseases, such as acute cholecystitis and pancreatitis, as well as the inability of the mother to maintain adequate oral intake as a result of biliary colic. Surgery poses the lowest risk to the fetus and mother during the second trimester."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 35-year-old woman is diagnosed with PSC after an episode of right upper quadrant pain, fever, and abnormal liver chemistries. Which of the following statements is most correct?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. An annual liver biopsy for the first three years of the diagnosis is important to establish the natural history of the disease in this patient.",
+         "option1": "B. Budesonide is standard therapy for patients at the initial diagnosis of PSC.",
+         "option2": "C. Standard-dose ursodeoxycholic acid has been established to increase time to transplantation, decrease histologic progression, and decrease the death rate in patients with this disease.",
+         "option3": "D. No medical treatment has been shown clearly to alter the course of PSC."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>The patient should be counseled that, to date, no medical treatment has been shown clearly to alter the course of PSC. There is no indication for annual liver biopsy. Budesonide is not known to affect the natural history of PSC. Standard-dose ursodeoxycholic acid does not decrease death in patients with this disease and has a questionable impact on histologic progression. High-dose regimens are under study."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 46-year-old woman arrives at the emergency department reporting acute-onset right upper quadrant pain that radiates to her back. After 2 hours and 2 mg of morphine, the pain resolves. She is afebrile. Laboratory studies show a normal white blood cell count, total bilirubin of 2.8 mg/dL, alkaline phosphatase of 248 IU/L, AST of 120 U/L, and ALT of 165 U/L. A transcutaneous abdominal ultrasound scan shows multiple stones in the gallbladder and a bile duct that measures 10 mm in diameter. Which of the following is the least invasive procedure that accurately identifies choledocholithiasis?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. CT",
+         "option1": "B. Endoscopic retrograde cholangiography",
+         "option2": "C. EUS",
+         "option3": "D. MRCP",
+         "option4": "E. Repeat transabdominal ultrasound scan with dedicated bile duct protocol"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>MRCP is a sensitive and specific noninvasive study for choledocholithiasis with biliary obstruction. Although EUS has sensitivity and specificity rates of 98%, this is more invasive than MRCP (this is also true for ERCP, with 95% sensitivity and specificity rates). Transabdominal ultrasonography demonstrates bile duct stones only in approximately 50% of suspected cases. CT is not the preferred imaging modality for choledocholithiasis."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "An 11-year-old boy with recently diagnosed ulcerative colitis is brought for outpatient evaluation of fatigue and jaundice. The patient has been having intermittent abdominal pain for the past 8 weeks and has been jaundiced for the past 3 days. There is no family history of liver disease. The patient has not been exposed to any hepatotoxic chemicals. The family denies any recent travel or contact with sick individuals. The physical examination reveals the presence of scleral icterus and mild hepatosplenomegaly. Laboratory studies show a total bilirubin level of 4 mg/dL with a direct fraction of 3.2 mg/dL. The alkaline phosphatase level is 420 IU/L. On ERCP, alternating areas of intrahepatic stricture and dilation are seen (<a href=\"asfunction:_root.loadImage,data/images/07-07-686.jpg,data/pdf/07-07-686.pdf,data/images/Browser/07-07-686.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). The diagnosis is PSC. Which of the following statements is correct with regard to PSC in children?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. There are no reported cases of hepatocellular carcinoma in children with PSC.",
+         "option1": "B. Liver biopsy is often diagnostic.",
+         "option2": "C. Inflammatory bowel disease always precedes the diagnosis of PSC in the pediatric population.",
+         "option3": "D. Recurrent PSC often occurs in those who have received a liver transplant.",
+         "option4": "E. There have been no reported cases of cholangiocarcinoma in children with PSC."
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>PSC is an uncommon, chronic, progressive disease of the biliary tract characterized by inflammation and fibrosis of the intrahepatic and extrahepatic biliary ductal systems leading to biliary cirrhosis. In adults, carcinoma of the bile ducts also must be excluded; however, this complication has not been reported in children. PSC is associated with inflammatory bowel disease (most often, ulcerative colitis) in 70% of adults and 50% to 80% of children with the disorder. A male preponderance has been reported in some, but not all, large series of children with PSC. Inflammatory bowel disease&#8211;associated PSC most often occurs with ulcerative colitis, although cases have been reported in patients with Crohn&#8217;s disease. The bowel symptoms can precede, occur simultaneously with, or appear years after the diagnosis of PSC. As in adults, treatment of the bowel disease in infants, including colectomy, does not influence the progression of PSC. The prognosis of PSC in children is guarded. The clinical course of the disorder is variable but usually progressive. Analysis of survival factors at presentation indicates that older age, splenomegaly, and prolonged prothrombin time predict a poor outcome. The occurrence of jaundice after the neonatal period with a persistent serum bilirubin level of more than five times the upper limit of normal was also associated with a poor outcome. Hepatocellular carcinoma also may occur, but cholangiocarcinoma, an important complication of adult PSC, has not been reported in children."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 45-year-old diabetic patient presents for outpatient evaluation of gallstones that were detected on a CT scan performed for follow-up of a lung nodule. Two 5-mm nonobstructing gallstones are seen. The patient has no history of abdominal pain, nausea, vomiting, or fever. What is the most appropriate management at this time?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Perform a transabdominal ultrasound scan for further evaluation.",
+         "option1": "B. Observe without intervening at this time.",
+         "option2": "C. Perform an HIDA scan of the gallbladder.",
+         "option3": "D. Schedule the patient for elective laparoscopic cholecystectomy.",
+         "option4": "E. Schedule the patient for elective open cholecystectomy and intraoperative cholangiography."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>This patient has asymptomatic cholelithiasis. Decision analyses suggest that the risks of cholecystectomy approximate the potential benefit in preventing future serious sequelae of the gallstones. Although this patient is diabetic, initial perceptions that individuals with diabetes are more prone to the development of complications from asymptomatic stones are unwarranted; especially when confounding variables such as hyperlipidemia, obesity, and cardiovascular disease are taken into account. When symptoms related to gallstones do develop in diabetic patients, however, early intervention is indicated because such patients are at increased risk of the development of complications such as gangrenous cholecystitis."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding biliary strictures in an individual after liver transplantation is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Ischemic strictures after liver transplantation are predisposed to focal necrosis and spontaneous rupture.",
+         "option1": "B. In patients with a hepaticojejunostomy between the donor liver and the recipient jejunum after liver transplantation, percutaneous management is a first-line option for management of biliary strictures.",
+         "option2": "C. Stricture of the choledochocholedochal anastomosis after liver transplantation is often inaccessible by ERCP.",
+         "option3": "D. Anastomotic strictures after liver transplantation typically require surgical reconstruction because they are managed successfully without surgery in only 20% of cases."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Patients with hepaticojejunostomies after liver transplantation usually have an anatomic composition that makes retrograde cholangiography challenging. Although overtube-assisted endoscopy has revolutionized the ability to perform ERCP in those with altered anatomy, percutaneous cholangiography is a reasonable first-line approach. Choledochocholedochal (duct-to-duct) anastomoses are accessible via the intact ampulla and may be cannulated endoscopically. Post-transplantation anastomotic strictures are successfully managed more than 70% of the time by ERCP, and thus surgery is not usually required. Strictures resulting from stenosis and occlusion of the hepatic artery and smaller peribiliary arteries are a well-documented complication of liver transplantation. Spontaneous rupture is not within the spectrum of complications of these strictures."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Regarding hilar cholangiocarcinoma, which of the following is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Cholangioscopy is performed to determine the extent of disease.",
+         "option1": "B. Liver transplantation is indicated and has led to five-year survival rates exceeding 70%.",
+         "option2": "C. Fluorodeoxyglucose&#8211;positron emission tomography is indicated to assess regional lymph node involvement and evaluate for distant metastases.",
+         "option3": "D. EUS is the most accurate means of regional tumor staging."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br>Liver transplantation is an option for suitable candidates with localized hilar disease and has led to a five-year survival rate of 76%. Cholangioscopy is not used to define the extent of disease and is most useful to determine the etiology of an indeterminate stricture. Positron emission tomography is inaccurate for local nodal metastasis and is not indicated to determine the resectability of the primary tumor. EUS is not indicated for staging hilar cholangiocarcinoma."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Bile formation is essential for all of the following <i>except<\/i>:",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Intestinal lipid digestion",
+         "option1": "B. Cholesterol homeostasis",
+         "option2": "C. Excretion of drug metabolites",
+         "option3": "D. Excretion of heavy metals",
+         "option4": "E. Enterohepatic circulation of short-chain fatty acids"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>Bile plays a central role in lipid digestion and absorption and therefore cholesterol homeostasis. Additionally, a host of additional compounds and chemicals are secreted by bile, including lipid-soluble xenobiotics, drug metabolites, and heavy metals. Short-chain fatty acid enterohepatic circulation occurs via direct uptake mechanisms that do not require bile acids."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A seven-week-old girl is brought in for evaluation of increased irritability, vomiting, poor appetite, a one-week history of worsening jaundice, and the development of clay-colored stools. On physical examination, there is moderate hepatomegaly and a palpable abdominal mass. Laboratory studies demonstrate a total bilirubin concentration of 8.3 mg/dL and a direct bilirubin concentration of 6.7 mg/dL. Alkaline phosphatase and aminotransferase levels are only mildly elevated. An ultrasound examination is performed (<a href=\"asfunction:_root.loadImage,data/images/07-08-691.jpg,data/pdf/07-08-691.pdf,data/images/Browser/07-08-691.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). What is the most likely diagnosis?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Alagille syndrome",
+         "option1": "B. Bile plug syndrome",
+         "option2": "C. Biliary atresia",
+         "option3": "D. Choledochal cyst",
+         "option4": "E. PSC"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>The infantile form of choledochal cyst disease must be distinguished from other forms of hepatobiliary disease of the neonate, particularly biliary atresia. Sequelae of a choledochal cyst often appear during the first months of life, and as many as 80% of patients have cholestatic jaundice and acholic stools. Vomiting, irritability, and failure to thrive may occur. Examination reveals hepatomegaly, and in approximately one half of patients, there is a palpable abdominal mass. In a series of 72 patients in whom a cyst was diagnosed postnatally, jaundice was the most common symptom followed by abdominal pain. Spontaneous perforation of a choledochal cyst may occur, particularly when bile flow is obstructed. Progressive hepatic injury can occur during the first months of life as a result of biliary obstruction. The diagnosis of a choledochal cyst is best established by ultrasonography (see figure from question 691, in which the arrow points to a type I choledochal cyst off the bile duct of an infant)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Defective bile acid conjugation can cause which of the following?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Fluid overload",
+         "option1": "B. Ascites",
+         "option2": "C. Fat-soluble vitamin deficiency",
+         "option3": "D. Vitamin B<font face=\"GG Subscript\" size=\"16\">12<\/font> deficiency"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>In patients with inherited disorders of bile acid conjugation, fat-soluble vitamin deficiency and steatorrhea develop. One would not expect vitamin B<font face=\"GG Subscript\" size=\"16\">12<\/font> deficiency, fluid overload, or ascites."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 21-year-old woman is brought to the emergency department by her roommate. She is mildly disoriented and reports several hours of severe right upper quadrant pain, nausea, vomiting, and shaking chills. She has a temperature of 102.5<font face=\"Arial\" size=\"15\">&#176;<\/font>F, a heart rate of 105 beats per minute, and a blood pressure of 100/60 mm Hg. She has a positive Murphy&#8217;s sign but no peritoneal signs. Her white blood cell count is 15,000 cells/mm<font face=\"GG Superscript\" size=\"18\">3<\/font>. An ultrasound scan demonstrates multiple gallstones, a thickened gallbladder wall, and pericholecystic fluid. Which antibiotic regimen is most appropriate for this patient in the emergency department?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Intravenous cefotoxin",
+         "option1": "B. Intravenous ciprofloxacin",
+         "option2": "C. Intravenous metronidazole",
+         "option3": "D. Intravenous piperacillin-tazobactam",
+         "option4": "E. Intravenous vancomycin"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>The patient is presenting with acute cholecystitis that is severe, and she should receive broad-spectrum antibiotics. Dual therapy with a third-generation cephalosporin and metronidazole would also be acceptable. If the patient had presented with only mild signs and symptoms, intravenous cefotoxin would have been sufficient. Intravenous antibiotics are indicated because bile or gallbladder wall cultures are positive for bacteria in more than 40% of cases. This patient should undergo cholecystectomy, preferably early in her hospital course."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 33-year-old woman presents with right upper quadrant pain that is intermittent, lasts 45 minutes, is associated with meals, and radiates into her back. She has had a cholecystectomy. Laboratory evaluation reveals ALT and AST values approximately three times normal, with a slightly elevated alkaline phosphatase level. Her bile duct is dilated to 9 mm on MRCP. No other abnormality is seen. She has no fever, weight loss, or other constitutional symptoms. Which of the following statements regarding this patient is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. A biliary manometry would be the most appropriate first step for this patient.",
+         "option1": "B. An ERCP with evaluation for choledocholithiasis and empirical biliary sphincterotomy would be appropriate management.",
+         "option2": "C. This patient requires an evaluation for chronic liver disease.",
+         "option3": "D. This patient would classify as having type III SOD."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>This patient has type I SOD, and empirical sphincterotomy is appropriate in this situation. Performing biliary manometry is not necessary given the high likelihood of response from biliary sphincterotomy and would subject the patient to the associated high risk of pancreatitis. A workup for chronic liver disease is not yet indicated."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 65-year-old white woman presents to her primary care physician with melenic stools of three days&#8217; duration. She had no abdominal pain, no fevers, and no other symptoms. She is referred for an upper endoscopy that reveals a 2-cm exophytic friable mass on the major papilla. Biopsy specimens of the mass are obtained, and the pathology results indicate adenocarcinoma of the ampulla. A CT scan is performed that demonstrates no additional abnormalities. Of the options provided, which of the following is correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. EUS would be the next most appropriate step in the management of this patient.",
+         "option1": "B. Neoadjuvant chemoradiation should be performed and then surgical resection.",
+         "option2": "C. Photodynamic therapy as definitive treatment would be the next best option.",
+         "option3": "D. The patient should be referred for surgical consultation for planned resection."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br>EUS is the most sensitive means of determining the local extent of tumor and regional adenopathy. After EUS, a surgical consultation may be obtained. Should the patient be found to be a surgical candidate, she should proceed directly to surgery without neoadjuvant therapy. Photodynamic therapy is not standard treatment for ampullary malignancy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding PSC is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Celiac disease, Sj<font face=\"Arial\" size=\"15\">&#246;<\/font>gren syndrome, Peyronie disease, and rheumatoid arthritis can each be associated with PSC.",
+         "option1": "B. Crohn&#8217;s disease is not associated with the diagnosis of PSC.",
+         "option2": "C. Patients with PSC should be routinely screened for proteinuria to exclude concomitant renal disease.",
+         "option3": "D. Smoking is a risk factor for the development of PSC."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>PSC is associated with nonhepatic autoimmune phenomena including celiac sprue, Sj<font face=\"Arial\" size=\"15\">&#246;<\/font>gren syndrome, Peyronie disease, and rheumatoid arthritis. An increased prevalence of PSC is seen in ulcerative colitis as well as in Crohn&#8217;s disease. Screening for proteinuria is not indicated in patients with PSC. Smoking may confer a decreased risk of PSC."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 36-year-old woman with a history of biliary colic and gallstone disease presents with nausea, vomiting, and right upper quadrant abdominal pain and tenderness on examination. There is no fever, and vital signs are stable. The white blood cell count is normal, and liver function test results are slightly elevated. A transabdominal ultrasound scan demonstrates multiple gallstones, and an MRCP demonstrates choledocholithiasis. Which of the following statements is correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Percutaneous cholangiography with stone removal is indicated to prevent complications of pancreatitis.",
+         "option1": "B. Endoscopic retrograde cholangiography and stone retrieval followed by laparoscopic cholecystectomy are appropriate.",
+         "option2": "C. Laparoscopic cholecystectomy with bile duct exploration via either a transcystic or transcholedochal approach increases mortality compared with a preoperative ERCP.",
+         "option3": "D. No biliary intervention is required because small biliary stones are likely to pass spontaneously."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>Decision analyses and randomized trials have shown that combined laparoscopic cholecystectomy with bile duct exploration via either a transcystic or transcholedochal approach offers less morbidity, less mortality, shorter hospital stay, quicker return to health, and fewer procedures compared with a preoperative endoscopic retrieval followed by laparoscopic cholecystectomy, and when performed by experienced surgeons, the success rates range from 83% to 97%. Because the technique is technically demanding and its success often depends on the experience of the surgeon, however, endoscopic stone retrieval via endoscopic retrograde cholangiography is a widely practiced and acceptable strategy for the patient with known choledocholithiasis. A percutaneous approach carries greater morbidity and is also inconvenient for the patient who would require that a temporary drain remain in the postoperative period."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding choledocholithiasis is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Transabdominal ultrasonography for choledocholithiasis has a sensitivity of greater than 80%.",
+         "option1": "B. EUS has a sensitivity that is similar to that of ERCP.",
+         "option2": "C. MRI/MRCP has a sensitivity of less than 50% for detecting choledocholithiasis.",
+         "option3": "D. Multidetector CT is not useful in the detection of bile duct strictures or bile duct stones."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>EUS and ERCP have a similar sensitivity for detecting choledocholithiasis, which is greater than 90%. The sensitivity of transabdominal ultrasonography in detecting stones is not greater than 68% and in many studies is less than 50%. MRI/MRCP has a sensitivity of between 81% and 100%."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 36-year-old woman is referred to you for two episodes of self-limited right upper quadrant abdominal pain after a fatty meal. An outpatient abdominal ultrasound scan demonstrates two 5-mm gallstones in the gallbladder. The patient is currently asymptomatic. What are the patient&#8217;s chances (per year) of the development of another episode of biliary colic and/or a more serious complication of gallstone disease, respectively?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. 10% and 1%",
+         "option1": "B. 20% and 10%",
+         "option2": "C. 45% and 1%",
+         "option3": "D. 80% and 2%",
+         "option4": "E. 85% and 12%"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>The U.S. National Cooperative Gallstone Study found that, in persons who have an episode of uncomplicated biliary pain in the year before entering the study, the rate of recurrent biliary pain is 38% per year. Other investigators have reported a rate of recurrent biliary pain as high as 50% per year in persons with symptomatic gallstones. Biliary complications also are more likely to develop in persons with symptomatic gallstones."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 46-year-old man is admitted to the hospital with his first episode of pancreatitis. He has no significant medical history and does not drink alcohol. Based on the results of his gallbladder ultrasound scan (<a href=\"asfunction:_root.loadImage,data/images/07-09-700.jpg,data/pdf/07-09-700.pdf,data/images/Browser/07-09-700.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>) and assuming no complications develop, what surgery would be recommended for this patient?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Cholecystectomy after the pancreatitis resolves before discharge",
+         "option1": "B. Cholecystectomy four to eight weeks after discharge",
+         "option2": "C. Immediate cholecystectomy",
+         "option3": "D. No surgery is indicated unless the patient has a repeat episode of pancreatitis.",
+         "option4": "E. Pylorus-sparing pancreaticoduodenectomy (Whipple procedure)"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>The most likely cause of pancreatitis in this patient is gallstones, which are seen in the image of the patient&#8217;s ultrasound scan. The other common cause of pancreatitis in developed countries is alcohol, which this patient does not consume. Cholecystectomy can be safely performed during the initial hospitalization after the acute episode of pancreatitis begins to resolve. When surgery is delayed, as many as one half of patients with have further episodes of pancreatitis or complications of gallstone disease."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding recurrent pyogenic cholangitis (RPC) is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Infection with <i>Clonorchis sinensis, Opisthorchis<\/i> species, and <i>Ascaris lumbricoides<\/i> is endemic to the same geographic region where RPC is prevalent.",
+         "option1": "B. Patients often have associated urinary seeding at the time of clinical presentation.",
+         "option2": "C. Patients with RPC are at increased risk of the development of duodenal carcinoma.",
+         "option3": "D. The majority of patients will present with biliary colic secondary to extrahepatic biliary stones."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>Infection with <i>C. sinensis<\/i>, <i>Opisthorchis<\/i> species, and <i>A. lumbricoides<\/i> is endemic to the same geographic region where PRC is prevalent. The majority of these patients present with intrahepatic biliary stones and repeated bouts of infectious cholangitis. The risk of cholangiocarcinoma is increased in those with RPC, but the risk of duodenal carcinoma is not. There is no association with urinary tract infection."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 65-year-old woman is brought to the emergency department after a motor vehicle accident and reports midepigastric and left-sided abdominal pain. She was wearing a seat belt in the passenger seat. A portable transabdominal ultrasound scan is performed while the patient is waiting for a CT scan that shows diffuse thickening of the gallbladder wall in association with intramural diverticula (seen as round, anechoic foci). What are the diagnosis and treatment most appropriate for this patient&#8217;s findings?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Adenomyomatosis: laparoscopic cholecystectomy should be performed.",
+         "option1": "B. Adenomyomatosis: no treatment is needed.",
+         "option2": "C. Emphysematous cholecystitis: urgent cholecystectomy should be performed.",
+         "option3": "D. Ruptured gallbladder; open cholecystectomy should be performed.",
+         "option4": "E. Ruptured gallbladder: a percutaneous cholecystostomy tube should be placed."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>This patient most likely has adenomyomatosis, incidentally discovered on an ultrasound scan performed for a different reason. Carefully performed studies in which radiologic and ultrasonographic findings of adenomyomatosis were correlated with pathologic findings have shown that diffuse or segmental thickening of the gallbladder wall in association with intramural diverticula (seen as round anechoic foci) accurately predicts adenomyomatosis. If these intramural diverticula (dilated Rokitansky-Aschoff sinuses) are filled with sludge or small calculi, the lesions may appear echogenic with acoustic shadowing, which may be mistaken for true cholelithiasis."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 30-year-old woman comes to your office and is concerned about two small gallstones found incidentally on a CT scan performed for a kidney stone. She is asymptomatic. What are the chances that symptoms from her gallstones will develop over the next 5 years?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. 4%",
+         "option1": "B. 10%",
+         "option2": "C. 30%",
+         "option3": "D. 50%",
+         "option4": "E. 75%"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>The rate at which biliary pain develops in persons with asymptomatic gallstones is approximately 2% per year for the first five years; it then decreases over time."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is not a component of bile?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Water",
+         "option1": "B. Lipase",
+         "option2": "C. Phosphatidylcholine",
+         "option3": "D. Cholesterol",
+         "option4": "E. Bile pigments"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)"
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A hilar tumor that starts below the confluence of the left and right hepatic ducts and reaches the confluence has a Bismuth-Corlette classification of what type?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Type I",
+         "option1": "B. Type II",
+         "option2": "C. Type IIIa",
+         "option3": "D. Type IV"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br><a href=\"asfunction:_root.loadImage,data/images/07-10-705.jpg,data/pdf/07-10-705.pdf,data/images/Browser/07-10-705.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>"
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding percutaneous transhepatic cholangiography (PTC) is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Access to the biliary tree can be either from the left hepatic duct or right hepatic duct.",
+         "option1": "B. Hemobilia is a frequent and usually fatal complication.",
+         "option2": "C. An advantage of percutaneous drainage of the biliary tree includes the life span of a percutaneous biliary catheter of more than one year.",
+         "option3": "D. PTC provides an excellent option for patients with SOD who wish to avoid pancreatitis."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Biliary access can be achieved either through the right or left hepatic lobe, depending on the individual&#8217;s anatomy and disease process and the expertise of the interventional radiologist. PTC has no role in SOD. The PTC catheter has a life span of several weeks before it becomes dysfunctional and usually has to be replaced. When hemobilia occurs secondary to percutaneous biliary access, it is rarely fatal."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 65-year-old white man with a history of hypertension and non&#8211;insulin-dependent diabetes mellitus presents with painless jaundice. MRI with MRCP is performed that reveals a stricture of the biliary hilum. At ERCP, a complex stricture involving the common hepatic duct, bifurcation, and left and right main ducts is identified. Cytology brushings and biliary biopsy specimens yield cholangiocarcinoma. Which of the following is a true statement?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. EUS-guided injection of oxaliplatin into the mass should be considered to improve biliary patency.",
+         "option1": "B. Photodynamic therapy in conjunction with stenting in this setting is a therapeutic option and may improve the quality of life.",
+         "option2": "C. The placement of an SEMS into each of the right and left main hepatic ducts is indicated for increasing survival and decreasing hospitalization time.",
+         "option3": "D. Transcutaneous drainage of the left and right systems is more lasting and associated with less expense compared with SEMS placement."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br>Photodynamic therapy has been demonstrated in randomized trials to improve survival and quality of life in patients with cholangiocarcinoma. Endoscopic management is achieved by unilateral biliary decompression of either the right or left hepatic duct. Transcutaneous drainage is not more durable than SEMS for hilar malignancy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 19-year-old woman presents with right upper quadrant pain, abnormal liver function test results, a slightly elevated white blood cell count, and fever. An ultrasound scan is performed that demonstrates dilation of the bile duct to 8 mm and multiple stones in the gallbladder but no evidence of cholecystitis. The patient is placed on antibiotics and ERCP is performed (<a href=\"asfunction:_root.loadImage,data/images/07-11-708A.jpg,data/pdf/07-11-708A.pdf,data/images/Browser/07-11-708A.jpg\"/><font color='#0000FF'><b>View Image A<\/b><\/font><\/a>; <a href=\"asfunction:_root.loadImage,data/images/07-11-708B.jpg,data/pdf/07-11-708B.pdf,data/images/Browser/07-11-708B.jpg\"/><font color='#0000FF'><b>View Image B<\/b><\/font><\/a>). Which of the following statements regarding this patient is most correct?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. This patient will need a biliary endoprosthesis placed until she has an elective cholecystectomy.",
+         "option1": "B. This patient has a greater than 50% chance of the development of pancreatitis after her ERCP.",
+         "option2": "C. This patient has an anatomic variant that will require surveillance every two to three years by EUS.",
+         "option3": "D. This patient should proceed to cholecystectomy without placement of a biliary stent."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>This patient had an impacted stone at the ampulla with probable low-grade and early cholangitis. The risk of pancreatitis is close to 5% to 10%, not 50%. There is no evidence of an anatomic variant. She will require elective cholecystectomy; no stent is needed, because the obstruction has been eliminated."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 39-year-old woman with primary biliary cirrhosis, jaundice, diarrhea, and pruritus is started on a bile acid sequestrant. Which of the following would be the mechanism by which the bile acid sequestrant improves the patient&#8217;s diarrhea?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Slowing of colonic peristalsis",
+         "option1": "B. Direct inhibition of colonic secretion",
+         "option2": "C. Decreased concentration of free bile acids in the colon",
+         "option3": "D. Reduced bile acids in the systemic circulation",
+         "option4": "E. Improved enterohepatic circulation"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00064-0\" target=\"_blank\"><font color='#0000FF'><b>ch64<\/b><\/font><\/a>)<br>Free bile acids in the colon both inhibit water absorption and induce water secretion, resulting in watery diarrhea. Symptomatic relief from diarrhea induced by bile acid malabsorption can be achieved by administration of a bile acid sequestrant, thereby reversing these effects."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding the endoscopic management of benign biliary strictures is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. A single stent provides a similar rate of stricture resolution compared with multiple, simultaneously placed stents.",
+         "option1": "B. Uncovered SEMSs may have a role in the management of benign biliary strictures.",
+         "option2": "C. Endoscopic management of benign strictures with multiple stents over multiple sessions leads to resolution in approximately 60% of patients.",
+         "option3": "D. Biliary strictures secondary to chronic pancreatitis should be managed surgically because of the poor outcomes associated with endoscopic management."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>The serial placement of a single stent is usually insufficient to manage a benign biliary stricture. Multiple stents lead to resolution in 50% to 80% of patients. Although covered SEMSs have been used for benign stricture, uncovered stents should not be used. Although biliary strictures secondary to chronic pancreatitis may require surgical biliary bypass, endoscopic therapy has been successful and should be considered for selected individuals, particularly those with concomitant cirrhosis who are at increased risk of surgery."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 45-year-old man known to have gallstones presents with painless jaundice. Which feature of this patient&#8217;s presentation is most commonly associated with the CT findings (<a href=\"asfunction:_root.loadImage,data/images/07-13-711.jpg,data/pdf/07-13-711.pdf,data/images/Browser/07-13-711.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>)?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Age of 45",
+         "option1": "B. Gallstones",
+         "option2": "C. Male sex",
+         "option3": "D. Painless jaundice",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>The CT scan shows gallbladder cancer. The relationship between gallbladder cancer and gallstones is well established. At least 80% to 90% of patients with this malignancy have gallstones. Gallbladder cancer is three to four times more common in women and occurs primarily in the elderly. Although as many as 30% of patients with gallbladder cancer present with jaundice, abdominal pain is the most common symptom and occurs in more than 80% of patients with gallbladder cancer."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Of the following, which medication is most likely to increase the basal sphincter of Oddi pressure?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Diazepam",
+         "option1": "B. Morphine",
+         "option2": "C. Midazolam",
+         "option3": "D. Meperidine",
+         "option4": "E. Verapamil"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00063-9\" target=\"_blank\"><font color='#0000FF'><b>ch63<\/b><\/font><\/a>)<br>Numerous medications have been studied with respect to their effect on SOD because there are implications for the patient undergoing SOD manometry. Narcotics, such as morphine, stimulate the sphincter of Oddi and increase the basal pressure. Based on this observation, some experts advocate using morphine provocation tests to diagnose SOD. The exception is meperidine, which does not affect sphincter of Oddi pressure when used at a moderate dose (1 mg/kg). Calcium channel blockers such as verapamil relax the sphincter of Oddi. Diazepam does not affect sphincter of Oddi pressure, but midazolam may lower basal pressure in hypertensive sphincters and should be avoided when performing biliary manometry because it may confound results."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding percutaneous biliary access is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. T-tube removal is safe two weeks after placement and may be performed at the bedside.",
+         "option1": "B. The presence of ascites increases the risk of bile leakage with percutaneous access of the gallbladder or bile ducts.",
+         "option2": "C. Percutaneous biliary cholangiography is the diagnostic and therapeutic modality of choice for imaging bile duct stones larger than 1.5 cm.",
+         "option3": "D. Permanent biliary stent placement for malignant biliary obstruction should be performed by ERCP even if percutaneous biliary drainage has been achieved."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>The presence of ascites predisposes to complications with percutaneous biliary access. The presence of intra-abdominal fluid results in separation of the gallbladder or bile ducts from the site of puncture, thereby preventing adequate track formation. Maturation of T-tube tracks requires six weeks, and thus any manipulation of the tube should be postponed until a mature track has formed. Diagnosis and treatment of bile duct stones should be performed by ERCP as the initial procedure of choice. Endoscopic techniques such as papillotomy, dilation, and mechanical or laser lithotripsy may be used effectively for stone removal. Malignant biliary obstruction may be effectively palliated by endoscopic or percutaneous means. For the patient who has established percutaneous biliary access, a permanent stent may be placed radiologically."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A healthy 44-year-old man presents with right upper quadrant abdominal pain and jaundice that began two days ago. He has a low-grade fever but otherwise normal vital signs. His laboratory tests reveal a total bilirubin concentration of 6 mg/dL, direct bilirubin concentration of 4.5 mg/dL, alkaline phosphatase of 250 IU/L, AST of 180 IU/L, and ALT of 240 IU/L. An abdominal ultrasound scan is performed and demonstrates bilateral intrahepatic biliary ductal dilation, a proximal common hepatic duct measuring 12 mm in diameter, and a nondilated bile duct measuring 7 mm in diameter. The gallbladder is contracted and contains stones. MRI and MRCP do not show a pancreatic mass. An early ERCP image is shown (<a href=\"asfunction:_root.loadImage,data/images/07-14-714.jpg,data/pdf/07-14-714.pdf,data/images/Browser/07-14-714.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). Which of the following is the most likely cause of the patient&#8217;s condition?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Gallbladder carcinoma",
+         "option1": "B. Hepatic artery thrombosis with resulting biliary necrosis",
+         "option2": "C. Impaction of a gallstone in the neck of the gallbladder or cystic duct, causing extrinsic compression of the common hepatic duct",
+         "option3": "D. Pancreatic cancer with extrinsic compression of the distal common bile duct",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>Given the rapid onset of the patient&#8217;s jaundice and pain, he most likely has Mirrizi syndrome, a rare complication in which a stone impacted in the neck of the gallbladder or cystic duct extrinsically compresses the common hepatic duct with resulting proximal biliary obstruction. Occasionally, the stone can cause a fistula between the gallbladder or cystic duct and common hepatic duct. There are no other aspects of the patient&#8217;s history, presentation, or imaging that suggest a gallbladder carcinoma or pancreatic malignancy. Hepatic artery thrombosis in this patient is rare without antecedent cause."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 16-day-old girl is admitted to the hospital for evaluation of persistent hyperbilirubinemia. Initial evaluation demonstrates a total bilirubin concentration of 9.3 mg/dL and a direct bilirubin concentration of 6.1 mg/dL. Serum aminotransferase and alkaline phosphatase levels are slightly elevated. Based on a suspicion of biliary atresia, an ultrasound scan is ordered. What ultrasound findings would be most suggestive of this diagnosis?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. A cone-shaped fibrotic mass, cranial to the portal vein",
+         "option1": "B. Gallbladder length of 2.5 cm",
+         "option2": "C. Large cystic mass in the right upper quadrant",
+         "option3": "D. Massive hepatosplenomegaly"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00062-7\" target=\"_blank\"><font color='#0000FF'><b>ch62<\/b><\/font><\/a>)<br>Ultrasonography can be used to assess the size and echogenicity of the liver. Even in neonates, high-frequency, real-time ultrasonography can usually outline the gallbladder so that its size and contours can be estimated. Ultrasonography may also reveal stones and sludge in the bile ducts and gallbladder and cystic or obstructive dilation of the biliary system. Extrahepatic anomalies also may be identified. The outline of a triangle 3 mm or greater in thickness of a cone-shaped fibrotic mass cranial to the portal vein is diagnostic of biliary atresia. The &#8220;ghost&#8221; triad of gallbladder length less than 1.9 cm, lack of a smooth (complete echogenic) mucosal lining, and an indistinct wall and irregular or lobular contour of the gallbladder on ultrasonography has also been proposed as diagnostic for biliary atresia."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 45-year-old woman presents with jaundice. She has a total bilirubin concentration of 6 mg/dL and a direct bilirubin concentration of 4.1 mg/dL. Eight months earlier, she had laparoscopic cholecystectomy for biliary colic. MRCP demonstrates bile duct dilation. What is the most likely site of stricture formation in this scenario?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Bile duct",
+         "option1": "B. Common hepatic duct",
+         "option2": "C. Cystic duct",
+         "option3": "D. Left hepatic duct",
+         "option4": "E. Right hepatic duct"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00066-4\" target=\"_blank\"><font color='#0000FF'><b>ch66<\/b><\/font><\/a>)<br>Strictures that develop after laparoscopic cholecystectomy tend to occur in the common hepatic duct. Symptoms that present several months after surgery are often the result of thermal injury to the bile duct, as may occur when cautery is used to control hemorrhage."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding EUS is true?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. EUS is more sensitive than ERCP, CT, and MRI in detecting pancreatic tumors.",
+         "option1": "B. EUS has a sensitivity of 70% in the detection of common bile duct stones.",
+         "option2": "C. EUS can detect SOD in as many as 40% of patients.",
+         "option3": "D. EUS has a sensitivity of detecting lesions in the right lobe of the liver of approximately 75%."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>EUS provides detailed pancreatic imaging due to its proximity within the gastroduodenal lumen and the high-resolution imaging. The sensitivity of EUS for bile duct stones is greater than 90%, although it is not a modality for detecting SOD. EUS is not very good for detecting lesions in the right lobe of the liver given the distance from the right lobe, so it is poorly sensitive in that regard."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding RPC is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Ampullary papillitis and SOD have been described in these patients.",
+         "option1": "B. Ova and parasites are often found within the stones of patients with RPC.",
+         "option2": "C. Cholangiocarcinoma develops in more than 30% of patients with RPC.",
+         "option3": "D. RPC is associated with immunoglobulin deficiencies, particularly IgA deficiency."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00068-8\" target=\"_blank\"><font color='#0000FF'><b>ch68<\/b><\/font><\/a>)<br>Ampullary papillitis and SOD have been described in patients with RPC. Ova and parasites are typically not found within the stones of patients with RPC. Cholangiocarcinoma develops in approximately 3% of patients with RPC. RPC is not associated with IgA deficiency."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Adenomyomatosis of the gallbladder:",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Carries a significant risk of malignancy that increases when a villous component is present",
+         "option1": "B. Is characterized by excessive proliferation of surface epithelium with invaginations into a thickened muscularis",
+         "option2": "C. Is characterized by multiple small (&lt;3 mm) adenomas lining the lumen of the gallbladder",
+         "option3": "D. Often is a cause of biliary colic in patients with gallstones",
+         "option4": "E. Should be treated with cholecystectomy"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>Adenomyomatosis is characterized by excessive proliferation of surface epithelium with invaginations into a thickened muscularis. Despite its name, this condition is not associated with adenomas and is not thought to be a premalignant condition. As many as one half of resected gallbladders with adenomyomatosis have concomitant gallstones; in these cases, biliary colic is thought to be due to the gallstones rather than to the adenomyomatosis. In simple, uncomplicated cases, this condition does not warrant cholecystectomy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 23-year-old Hispanic woman presents with right upper quadrant pain and fever five days after an uneventful laparoscopic cholecystectomy for symptomatic gallstone disease. A transabdominal ultrasound scan detects a 4- <font face=\"Arial\" size=\"15\">&#215;<\/font> 3-cm fluid collection in the gallbladder fossa. A HIDA scan demonstrates tracer in the same region as the fluid collection. Which of the following statements is most correct?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. It is likely that this patient will need a surgical procedure to correct the problem.",
+         "option1": "B. The patient should be placed on antibiotics and, with time, has a 90% chance that this issue will resolve.",
+         "option2": "C. Endoscopic retrograde cholangiography with stenting is necessary and has a greater than 80% chance of resolving the problem.",
+         "option3": "D. The fluid collection must be drained percutaneously before any other interventions are considered."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>This patient has a bile leak after cholecystectomy, and the most likely cause is a cystic stump leak or a duct of Luschka leak. It is usually not necessary to perform surgery, and ERCP with biliary stent placement is successful more than 80% of the time. The fluid collection may need to be drained, but it is not unreasonable to have the stent placed before draining the fluid collection."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding ampullary carcinoma is most correct?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Ampullectomy is indicated for those with carcinoma limited to the duodenal wall.",
+         "option1": "B. Endoscopic biopsies are usually insufficient to make the diagnosis of ampullary carcinoma when a mass is endoscopically identified.",
+         "option2": "C. Pancreatitis is the most common presentation for patients with ampullary malignancies.",
+         "option3": "D. Transduodenal resection of ampullary carcinomas is associated with an inferior survival outcome compared with pancreaticoduodenectomy."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br>Local resection of ampullary carcinoma, either by ampullectomy or transduodenal resection, is associated with an inferior survival outcome compared with pancreaticoduodenectomy. Pancreatitis is not a common presentation in these patients, who typically present with jaundice. Endoscopic biopsies are usually sufficient to obtain a histologic diagnosis."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 74-year-old man presents to the emergency department with right upper quadrant abdominal pain for three days, a fever as high as 103<font face=\"Arial\" size=\"15\">&#176;<\/font>F, blood pressure of 95/55 mm Hg, and a heart rate of 110 beats per minute. Laboratory studies are notable for a white blood cell count of 22,000/mm<font face=\"GG Superscript\" size=\"18\">3<\/font>, a total bilirubin concentration of 1.2 mg/dL, and an ALT level of 100 IU/L. A CT scan is performed (<a href=\"asfunction:_root.loadImage,data/images/07-15-722.jpg,data/pdf/07-15-722.pdf,data/images/Browser/07-15-722.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). Given the CT findings, which answer is most correct?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Cholecystectomy should be delayed to decrease the amount of inflammation surrounding the gallbladder and decrease the surgical risks.",
+         "option1": "B. The patient has a typical case of uncomplicated acute cholecystitis.",
+         "option2": "C. This is a common complication of acute cholecystitis.",
+         "option3": "D. The risk of gallbladder perforation is high.",
+         "option4": "E. This condition is typically more common in young women."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00065-2\" target=\"_blank\"><font color='#0000FF'><b>ch65<\/b><\/font><\/a>)<br>This patient has emphysematous cholecystitis, as evidenced by air in the gallbladder wall, which is caused by infection of the gallbladder wall with gas-forming organisms. This is a rare complication of acute cholecystitis, occurring in less than 1% of cases. The risk of gallbladder perforation is high, and broad-spectrum antibiotics should therefore be initiated immediately, with plans for early cholecystectomy. It more often occurs in diabetic persons or older men who do not have gallstones in whom atherosclerosis of the cystic artery with resulting ischemia may be the initiating event."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "On routine laparoscopic cholecystectomy, a patient is found to have a T1a gallbladder adenocarcinoma on the pathologic specimen. Which of the following statements is most correct?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Adjuvant chemotherapy is indicated to improve long-term survival.",
+         "option1": "B. The five-year survival rate is 85% to 100%, and no further treatment is necessary.",
+         "option2": "C. Exploratory laparotomy and lymph node dissection is necessary to complete staging.",
+         "option3": "D. Pancreaticoduodenectomy should be performed with the intent to remove all possible malignant tissue."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00069-X\" target=\"_blank\"><font color='#0000FF'><b>ch69<\/b><\/font><\/a>)<br>A T1a gallbladder cancer is confined to the duodenal wall, invading only the lamina propria. The five-year survival rate of patients with T1a gallbladder cancer is between 85% and 100%. Adjuvant chemotherapy is not recommended. Re-exploration for lymph node metastases is usually not necessary to complete surgical staging. A pancreaticoduodenectomy is not indicated."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements regarding choledocholithiasis is most correct?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. The success rate of mechanical lithotripsy is 80% to 90%.",
+         "option1": "B. Extracorporeal shock wave lithotripsy is inappropriate for patients with large common duct stones.",
+         "option2": "C. Balloon dilation of the biliary sphincter carries a risk of pancreatitis similar to that of sphincterotomy.",
+         "option3": "D. A balloon is always indicated as a first tool for the removal of a stone given that it is safer and less traumatic than a basket."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00070-6\" target=\"_blank\"><font color='#0000FF'><b>ch70<\/b><\/font><\/a>)<br>Mechanical lithotripsy is usually highly effective for achieving stone removal with success rates of 80% to 90% in most series. The use of a balloon or basket is a personal preference of the operator, and a basket is no more traumatic when used appropriately. Sphincteroplasty of the sphincter of Oddi carries a higher risk of pancreatitis than sphincterotomy. Extracorporeal shock wave lithotripsy can be performed safely for some patients with large bile duct stones."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "An 80-year-old man admitted with septic shock from a urinary tract infection has a cardiac arrest and is resuscitated after 20 minutes. Two days later, his white blood cell count doubles and there is abdominal tenderness on examination. A portable abdominal ultrasound scan is performed. In addition to a positive Murphy&#8217;s sign, the following ultrasound image is obtained (<a href=\"asfunction:_root.loadImage,data/images/07-16-725.jpg,data/pdf/07-16-725.pdf,data/images/Browser/07-16-725.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>). What is the most likely diagnosis?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Acalculous cholecystitis",
+         "option1": "B. Ascending cholangitis",
+         "option2": "C. Calculous cholecystitis",
+         "option3": "D. Emphysematous cholecystitis",
+         "option4": "E. Secondary sclerosing cholangitis"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00067-6\" target=\"_blank\"><font color='#0000FF'><b>ch67<\/b><\/font><\/a>)<br>In the evaluation of patients with suspected acute acalculous cholecystitis, ultrasonography offers the distinct advantages of being widely available and easily transportable to the bedside. In the image presented with this question, there is thickening of the gallbladder wall to 17 mm (denoted by asterisks) without the presence of stones, characteristic of acute acalculous cholecystitis. Other characteristic features during ultrasonography are a sonographic Murphy&#8217;s sign and pericholecystic fluid."
+   }
+]

@@ -1,0 +1,77 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Her thought content can best be described as significant for which of the following symptoms?",
+      "choices":{  
+         "option0":"A. Delusions",
+         "option1":"B. Compulsions",
+         "option2":"C. Ideas of reference",
+         "option3":"D. Obsession",
+         "option4":"E. Paranoia",
+         "@option":"3"
+      },
+      "rationale":"Thought content can include obsessional thoughts, which can be described as  unwelcomed, or intrusive thoughts.  Obsessional thoughs are repetitive ones that interfere with the patient’s consciousness. An example of this in the video is her repetitive fear that she will say bad words to others. (9)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Decreased activation in which area of the brain has been shown in this disorder?",
+      "choices":{  
+         "option0":"A. Amygdala",
+         "option1":"B. Caudate nucleus",
+         "option2":"C. Cerebellum",
+         "option3":"D. Parietal lobe",
+         "option4":"E. Substantia nigra",
+        "@option":"1"
+      },
+      "rationale":"The caudate nucleus plays a role in the modulation of motor actions. Studies have shown decreased activation of it in those with obsessive compulsive behavior. (929)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which medication is the most appropriate initial U.S. Food and Drug Administration (FDA)-approved treatment to alleviate her symptoms?",
+      "choices":{  
+         "option0":"A. Aripiprazole",
+         "option1":"B. Escitalopram",
+         "option2":"C. Risperidone",
+         "option3":"D. Sertraline",
+         "option4":"E. Venlafaxine",
+         "@option":"3"
+      },
+      "rationale":"Fluvoxamine, paroxetine, sertraline, and fluoxetine are all approved for the treatment of obsessive compulsive behavior (OCD) in those over 18 years old. While atypical antipsychotics, such as risperidone or aripiprazole, might be added to a selective serotonin reuptake inhibitor (SSRI) for those who fail to obtain adequate symptom relief, it is not the initial first step in medication treatment. Though escitalopram is also an SSRI, it is not approved for OCD treatment (approval included MDD and GAD). (627)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"After failing to respond to a midlevel dosing range of the medication above, which of the following is the most appropriate next step?",
+      "choices":{  
+         "option0":"A. Add an atypical antipsychotic",
+         "option1":"B. Augment it with lithium",
+         "option2":"C. Combine it with the addition of a second selective serotonin reuptake inhibitor (SSRI)",
+         "option3":"D. Start a benzodiazepine",
+         "option4":"E. Titrate the dose up furthe",
+         "@option":"4"
+      },
+      "rationale":"Studies show that maximum doses of SSRIs are typically needed to treat obsessive compulsive behavior (OCD) and that it might take several months to see a response. If symptoms persist after treatment with a maximum dose of an SSRI and after waiting a few months on it, then a low dose of an atypical antipsychotic, such as risperidone, can often be beneficial. (627)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"In addition to her medication, which would be the best evidence-based psychotherapeutic approach to help her?",
+      "choices":{  
+         "option0":"A. Allow her to practice cursing at others by starting to do so during session",
+         "option1":"B. Ask her family to prevent her from using the phone",
+         "option2":"C. Distract her by teaching her to use her five senses ",
+         "option3":"D. Have her pick up the phone and stop her from going on a train afterward",
+         "option4":"E. Learn to accept that she has an illness and to connect again with others",
+         "@option":"3"
+      },
+      "rationale":"Exposure and response prevention, ERP, a type of cognitive behavioral therapy, CBT, has the most evidence in the treatment of obsessive compulsive behavior (OCD). Studies in children show the combination of CBT with sertraline led to superior results compared to either treatment alone. To help her obsessive thoughts about calling up strangers and saying profanities toward them, picking up the phone in session and then speaking with others should be practiced. To decrease her anxiety, she would normally flee and walk around the block or go on a train to get rid of her intrusive thoughts. This act of fleeing should be prevented, and she should learn to sit with her anxiety so that she can ultimately see it decrease. Option C might be useful and is a coping skill taught in a variety of therapies, including DBT, though is not part of the evidence-based gold standard for OCD treatment. Assigning oneself in the sick role and re-establishing connections with others, is a part of IPT treatment. (205)",
+      "@activityType":"MCQ"
+   }
+  ]

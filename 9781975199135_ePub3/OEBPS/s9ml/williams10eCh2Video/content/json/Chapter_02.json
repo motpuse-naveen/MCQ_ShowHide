@@ -1,0 +1,78 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What are the signs of anxiety on her mental status examination that the patient displays in this video?",
+      "choices":{  
+         "option0":"A. Handwringing",
+         "option1":"B. Pacing",
+         "option2":"C. Postural tremor",
+         "option3":"D. Psychomotor retardation",
+         "option4":"E. Tearfulness",
+         "@option":"0"
+      },
+      "rationale":"Increased motor activity on mental status examination can be a sign of anxiety. Handwringing is the only symptom listed above present in the video. Other symptoms such as tearfulness and psychomotor retardation can be signs of anxiety, though also can be from depression, and were not present in this video. (430)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is her most likely psychiatric diagnosis based on DSM\u20135?",
+      "choices":{  
+         "option0":"A. Adjustment disorder with anxiety",
+         "option1":"B. Generalized anxiety disorder ",
+         "option2":"C. Posttrauamtic stress disorder ",
+         "option3":"D. Substance use ",
+         "option4":"E. Unspecified depressive disorder",
+         "@option":"0"
+      },
+      "rationale":"An adjustment disorder is diagnosed when the symptoms follow a stressor. Up to 3 months may elapse between a stressor and symptoms. Depression, anxiety, and mixed features are common in adults with adjustment disorders. The patient’s main complaint is anxiety. Adjustment disorders can present with generalized anxiety, panic symptoms, and increased motor activity, but given the acute stressor, an adjustment disorder is a better fit for her diagnosis than a generalized anxiety disorder. Given that the intensity of the symptoms seems in excess of what one would expect for the move and impair her ability to function at work and socially, it would be considered a disorder. While no absolute criteria help distinguish an adjustment disorder from other conditions, clinical judgment is typically necessary and the history of a stressor must be present. (429, 430, 433)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is most likely to be her prognosis?",
+      "choices":{  
+         "option0":"A. Development of a conduct disorder ",
+         "option1":"B. Persistent symptoms for at least a year",
+         "option2":"C. Progression to an inpatient psychiatric admission",
+         "option3":"D. Return to previous level of functioning in 3 months",
+         "option4":"E. Worsening depression and suicidal thoughts",
+         "@option":"3"
+      },
+      "rationale":"Most cases of adjustment disorder have a favorable prognosis with return to previous level of functioning within 3 months. Though conduct disorder can be a specifier for adjustment disorders, there is no evidence of this in the video, and adjustment disorder with anxiety and depression are more common in adults.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the treatment of choice for this disorder?",
+      "choices":{  
+         "option0":"A. A selective serotonin reuptake inhibitor (SSRI)",
+         "option1":"B. A benzodiazepine",
+         "option2":"C. Crisis intervention and case management ",
+         "option3":"D. Dialectical behavioral therapy",
+         "option4":"E. Family therapy",
+         "@option":"2"
+      },
+      "rationale":"Psychotherapy is the mainstay treatment for adjustment disorders. Group therapy can also be helpful. Typically, crisis interventions and case management are short\u2013term treatment to help resolve symptoms quickly. There is limited data on pharmacologic interventions. Though SSRIs may be useful, they are not the mainstay of treatment and should not be the primary modality utilized. (435)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What are other disorders that should be considered in this differential diagnosis based on the symptoms in this video?",
+      "choices":{  
+         "option0":"A. Borderline personality disorder",
+         "option1":"B. Generalized anxiety disorder ",
+         "option2":"C. Histrionic personality disorder",
+         "option3":"D. Panic disorder",
+         "option4":"E. Parent\u2013child relational disorder ",
+         "@option":"1"
+      },
+      "rationale":"The differential for adjustment disorder should include major depressive disorder, brief psychotic disorder, generalized anxiety disorder, somatic symptom disorder, substance\u2013related disorder, conduct disorder, antisocial personality disorder, and posttraumatic stress disorder. Symptoms reported in this video are more consistent with generalized anxiety disorder compared to the other disorders mentioned in terms of the nervousness, panic symptoms reported, and her restlessness on mental status examination. Though she reported anxiety about her children, there is not enough information to diagnose a parent\u2013child relational disorder. No history of suicidal or self\u2013harm is noted, making borderline personality disorder less likely. Her social problems seem more secondary to adjustment disorder and anxiety, rather than histrionic personality disorder. (433)",
+      "@activityType":"MCQ"
+   }
+   
+]

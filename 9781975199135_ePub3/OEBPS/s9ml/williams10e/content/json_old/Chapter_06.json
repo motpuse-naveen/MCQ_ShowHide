@@ -1,0 +1,122 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" According to the DSM\u20135, what is a criterion that distinguishes a manic from a hypomanic episode?",
+      "choices":{  
+         "option0":"A. Length of the episode",
+         "option1":"B. Number of symptoms",
+         "option2":"C. Level of impairment during a depressive episode",
+         "option3":"D. Insidious vs gradual onset",
+         "option4":"E. The need for hospitalization",
+         "@option":"4"
+      },
+      "rationale":"The main differences between manic and hypomanic episodes are no marked impairment in functioning and no need for hospitalization in the latter. However, a person with bipolar II disorder can have marked impairment and need hospitalization during the depressive episode. The number of symptoms needed to diagnose a manic or hypomanic episode is the same. There is no difference in episode length or onset. (368)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 30\u2013year\u2013old woman presents to her primary care physician with a chief complaint of \"mood swings. Some days I\u2019m up, and some days I\u2019m down.\" She states that she has periods during which she does not \"feel like doing anything. I don\u2019t want to go to work, but I do anyway, and still do a good job.\" During those times, she does not want to spend any more time with people than she has to, and will come home and \"mindlessly watch TV, but I\u2019m not really paying attention to it.\" She has lost some friends because \"I drop off the face of the earth except for work.\" These symptoms last for a few weeks to a few months at a time. She denies changes in sleep or appetite, feeling guilty or worthless, or ever having suicidal ideation. Other times, \"I\u2019m up and ready to go, and feel like I can be the life of the party. I dress better, I feel better, I\u2019m more productive at work, sometimes to the point that I almost overlook some details in order to finish a task.\" During those times, which last at least several weeks, she stays up later than usual, getting about three hours of sleep rather than her usual eight, \"and I\u2019m not tired the next day. It actually feels pretty good!\" She has never seen a therapist or a psychiatrist or been hospitalized, has no chronic medical illnesses, and takes no medications and denies drug use. Vital signs are normal and physical exam is noncontributory. What is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Persistent depressive disorder",
+         "option1":"B. Borderline personality disorder",
+         "option2":"C. Cyclothymia",
+         "option3":"D. Bipolar II disorder",
+         "option4":"E. Bipolar I disorder",
+         "@option":"2"
+      },
+      "rationale":"This patient exhibits symptoms of both depression and hypomania, but does not meet full criteria for either. Because there are some manic symptoms, she cannot be diagnosed with a unipolar depressive disorder. The manic symptoms do not appear to cause marked problems with social or occupational functioning, so she cannot be diagnosed with bipolar I. The depressive symptoms have led to problems with social functioning. However, she does not endorse enough symptoms to meet criteria for major depressive disorder, which also eliminates bipolar I. The diagnosis that most fits is cyclothymia. Though she starts by saying her moods are up and down over a period of days, she later clarifies that the distinct moods last for weeks or months at a time. Mood swings in borderline personality disorder often occur over hours to days. (369)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 21\u2013year\u2013old male college student is brought to the emergency department by his friends, who are concerned that he has stayed up for three days straight, and \"talks so much that he doesn\u2019t make any sense.\" They state that he started seeming \"real giddy\" about a week ago, and since then \"went into god mode.\" They state that he thinks he knows more that anyone on campus, and talks at length about different subjects, \"even though it\u2019s obvious he has no idea what he\u2019s talking about.\" He stays up all night \"writing what he says is a new quantum physics textbook, even though he\u2019s a history major.\" He has overdrawn his credit card from buying multiple 3D printers and materials which he says he needs to \"print out a scale model of the universe.\" He and his friends say that the patient does not use drugs, and UDS is negative. He has had no prior episodes, and no chronic medical or psychiatric conditions. The patient is admitted to the hospital for a week and stabilized on medication. On the day of discharge, he asks how long he needs to stay on medication. What is the most accurate reply?",
+      "choices":{  
+         "option0":"A. At least one month",
+         "option1":"B. At least three months",
+         "option2":"C. At least six months",
+         "option3":"D. At least one year",
+         "option4":"E. Indefinitely",
+         "@option":"1"
+      },
+      "rationale":"An untreated manic episode lasts about three months, so he should be on the medication for at least that amount of time. However, given that he has had one full\u2013blown manic episode, he has a 90% chance of having another, so many clinicians would be hesitant to discontinue medication after that length of time. (371)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":". What factor predicts a better prognosis for a patient with bipolar I disorder?",
+      "choices":{  
+         "option0":"A. Male gender",
+         "option1":"B. Advanced age of onset",
+         "option2":"C. Depressive features",
+         "option3":"D. Interepisode depressive features",
+         "option4":"E. A longer duration of manic episodes",
+         "@option":"1"
+      },
+      "rationale":"While not protective, several factors predict a better outcome in patients with bipolar I disorder. Among them are an advanced age of onset. Others are a short duration of manic episodes, few suicidal thoughts, and few coexisting psychiatric or mental problems. Conversely, male gender, depressive features, and interepisode depressive features are all factors that predict a poor outcome. (372)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 32\u2013year\u2013old woman is brought to the emergency department by her husband after he found her jogging naked down the street in their neighborhood in the middle of the night because she \"says she felt like she needed to exercise right then.\" He reports that she has a 10\u2013year history of bipolar disorder, and that she does well \"except when she is off her medications. We were gone on vacation for two weeks and forgot them. We thought she\u2019d be fine for that amount of time. As soon as we got home two days ago, she took her lithium, but I guess it was too late.\" He notes that she started wanting to spend more and more money on drinks and expensive jewelry and souvenirs while they were away. The patient tells the emergency department all about the vacation, barely stopping to take a breath. They both report that she has not slept more than four hours since returning. What is the most appropriate disposition?",
+      "choices":{  
+         "option0":"A. Emergent admission to a psychiatric facility",
+         "option1":"B. Discharge with follow\u2013up the next day with her psychiatrist",
+         "option2":"C. Admission to a partial hospital program",
+         "option3":"D. Admission to an intensive outpatient program",
+         "option4":"E. Discharge with a prescription for a sedative",
+         "@option":"0"
+      },
+      "rationale":"This patient is floridly manic and putting herself in danger (jogging naked in the middle of the night). The increase in alcohol use is also concerning. She needs acute hospitalization for medication that will break the manic episode as quickly as possible. Rapid titration of medications should be done in a secured medical environment for her safety, and discharge to home, even with a follow up the next day, would not achieve that. She would also not be in a secure environment in an intensive outpatient or partial hospitalization program.  (372)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is the most evidence\u2013based medication for acute bipolar depression?",
+      "choices":{  
+         "option0":"A. Lithium",
+         "option1":"B. Fluoxetine",
+         "option2":"C. Olanzapine",
+         "option3":"D. Quetiapine",
+         "option4":"E. Brexpiprazole",
+         "@option":"3"
+      },
+      "rationale":"Unlike acute monopolar depression, in which an SSRI would most likely be the first line of treatment, in bipolar depression, atypical antipsychotics have shown the most efficacy. Of those medications, quetiapine has the most evidence. Lithium has only limited evidence for bipolar depression. Though olanzapine has positive studies or efficacy, it does not have the best evidence. Brexpiprazole is used as an adjunct for unipolar, not bipolar, depression. (373)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 45\u2013year\u2013old woman is brought by EMS to the emergency department following an acute suicide attempt by overdose on acetaminophen. She states that she has been depressed for the last several months to the point that she has lost her job because \"I can\u2019t get out of bed.\" She is now worried that she soon will not have the money to care for her daughter. \"I\u2019m a single mother. My daughter deserves to have someone who can care for her, and that\u2019s not me.\" She was diagnosed with bipolar disorder fifteen years ago, and has been on trials of valproate, olanzapine, carbamazepine, and lithium. However, she had trouble remembering to take the medications daily. Mania has been well controlled over the last two years with paliperidone palmitate monthly. However, she still has breakthrough episodes of depression, and says that she sees no other way out for herself or her daughter than suicide. She has not had a previous suicide attempt, stating that she has never felt this hopeless before. She is emergently admitted to the hospital. Following medical stabilization, what is the most appropriate treatment?",
+      "choices":{  
+         "option0":"A. Lithium",
+         "option1":"B. Quetiapine",
+         "option2":"C. Electroconvulsive therapy",
+         "option3":"D. Valproate",
+         "option4":"E. Lamotrigine",
+         "@option":"2"
+      },
+      "rationale":"This patient is in the midst of a severe bipolar depression, has made a potentially lethal suicide attempt and is still actively suicidal, which constitutes an acute medical emergency. For those reasons, and because her history has shown that oral medication compliance is difficult for her, electroconvulsive therapy is warranted. If that were not an option, quetiapine would be the medication of choice, as it has the best evidence for bipolar depression. Though lamotrigine also has evidence, the acute nature of the depression would preclude using a medication that will take weeks to titrate. Lithium has limited evidence for bipolar depression, and valproate is indicated for acute mania. (374)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 21\u2013year\u2013old college student presents to the student health center with complaints of depressed mood, decreased appetite, and poor concentration for the last week. She has been attending class, but once lecture concludes, goes straight to her room, studies, and does not spend time with her friends. She denies suicidal ideation and has had no prior suicide attempts. She was diagnosed with bipolar II disorder six months ago during a hypomanic episode and was started on valproate. She is also diagnosed with hypothyroidism for which she is on thyroid replacement therapy. She states that she has been unhappy with the valproate, which is leading to weight gain and contributing to the depression. What is the most appropriate treatment?",
+      "choices":{  
+         "option0":"A. Lithium",
+         "option1":"B. Quetiapine",
+         "option2":"C. Aripiprazole",
+         "option3":"D. Fluoxetine",
+         "option4":"E. Lamotrigine",
+         "@option":"4"
+      },
+      "rationale":"Though lithium could be a viable option for long\u2013term treatment, it has not shown much efficacy in acute bipolar depression. Additionally, a prior diagnosis of hypothyroidism would make lithium a less attractive option given its propensity to cause hypothyroidism. Also, to be avoided, if possible, is a medication that can lead to weight gain, which eliminates most atypical antipsychotics. Fluoxetine and other antidepressants are less effective for bipolar depression than for monopolar depression. Lamotrigine is both effective for acute bipolar depression, and not likely to lead to weight gain. Given that she is still somewhat functioning and is not presenting with a level of depression that would constitute a medical emergency, such as having active suicidal ideation, lamotrigine is an optimal choice. (375).",
+      "@activityType":"MCQ"
+   }   
+]

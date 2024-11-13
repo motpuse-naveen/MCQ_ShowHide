@@ -1,0 +1,569 @@
+.h-zoom
+{
+  position: relative; 
+  margin: 0 auto;
+  /*height:650px;*/
+  height: 100%;
+  width:auto;
+  max-width: 768px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#framecontainer{ 
+  width: 638px;
+  height: 728px;
+  position: relative;
+  margin: auto 0;
+  border: 1px solid #000000;
+}
+
+#mainframe{
+  width: 100%;
+  height: 760px;
+}
+
+#pageHolder{
+  width: 640px;
+  height: 730px;
+  position: relative;
+  margin: auto 0; 
+}
+.zoomImageContainer {
+    position: relative;
+        cursor: pointer;
+}
+#zoomContainer {
+text-align: center;
+}
+#zoomContainer img {
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+
+.popup
+{
+    position: absolute;
+    width: 580px;
+    height:5000px;
+    overflow: auto;
+    background-color: rgba(232, 232, 232, 0.92);
+    padding: 5px;
+    padding: 5px;
+    top: 15%;
+}
+.commentParagraph{
+	border: 1px solid black;
+  background: #d0cdcd;
+  padding: 10px 0px 0px 10px;
+}
+.zoom .notselected{
+  background: white;
+  z-index: 2;
+}
+
+.zoom .selected{
+background: rgb(254,252,234); /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, rgba(254,252,234,1) 33%, rgba(241,218,54,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, rgba(254,252,234,1) 33%,rgba(241,218,54,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, rgba(254,252,234,1) 33%,rgba(241,218,54,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}	
+.zoom .notselected{
+	background-color: FFF !important;
+}
+.zoom > div{
+	/*background-color: FFF;*/
+	border: 2px solid black;
+	border-radius: 25px;
+	text-align: center;
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+     cursor: pointer;
+     line-height: 23px;
+     width: 23px;
+     height:23px;
+}
+
+
+/* ------------------------------------------------------------------------- MOdel Css ------------------------------------------------------------*/
+
+.modalbg {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0);
+  z-index: 99999;
+  -moz-transition: all 0.1s ease-out;
+  -webkit-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+  -webkit-transition-delay: 0.1s;
+  -moz-transition-delay: 0.1s;
+  -o-transition-delay: 0.1s;
+  -transition-delay: 0.1s;
+  display: block;
+  /*pointer-events: none;*/
+  background: rgba(0, 0, 0, 0.75);
+}
+.modalbg .dialog {
+  max-width: 90%;
+  position: relative;
+  top: 40px;
+  /* margin: 10% auto; */
+  /*margin: 40px auto;*/
+  margin: auto;
+  padding: 0px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  /*background: #fff;*/
+  /*background: -moz-linear-gradient(#fff, #ccc);*/
+  /*background: -webkit-linear-gradient(#fff, #ccc);*/
+  /*background: -o-linear-gradient(#fff, #ccc);*/
+  /*box-shadow: 0 0 10px #000;*/
+  /*-moz-box-shadow: 0 0 10px #000;*/
+  /*-webkit-box-shadow: 0 0 10px #000;*/
+  background: transparent;
+}
+.modalbg .dialog_body {
+  max-height: 870px;
+  overflow: auto;
+}
+
+.titleContainer{
+	position: absolute;
+  font-weight: 600;
+  top: -34px;
+  left:60px;
+  font-size: 20px;
+}
+.modalbg .dialog .ie7 {
+  filter: progid:DXImageTransform.Microsoft.Shadow(color='#000', Direction=135, Strength=3);
+}
+.modalbgAnimate {
+  display: block;
+  pointer-events: auto;
+  background: rgba(4, 10, 30, 0.4);
+  -moz-transition: all 0.5s ease-out;
+  -webkit-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+/*  -moz-transition-property: bottom, top;
+  -webkit-transition-property: bottom, top;
+  -o-transition-property: bottom, top;
+  transition-property: bottom, top;*/
+}
+.modalbgAnimate .dialog {
+  bottom: 130px;
+  /*top: -70px;*/
+  -moz-transition: all 0.1s ease-out;
+  -webkit-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+  -webkit-transition-delay: 0.1s;
+  -moz-transition-delay: 0.1s;
+  -o-transition-delay: 0.1s;
+  -transition-delay: 0.1s;
+}
+.close {
+  background: #606061;
+  color: #FFFFFF;
+  line-height: 25px;
+  position: absolute;
+  right: -12px;
+  text-align: center;
+  top: -10px;
+  width: 24px;
+  text-decoration: none;
+  font-weight: bold;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #000;
+  -moz-box-shadow: 0 0 10px #000;
+  -webkit-box-shadow: 0 0 10px #000;
+  -moz-transition: all 0.1s ease-out;
+  -webkit-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+  -webkit-transition-delay: 0.1s;
+  -moz-transition-delay: 0.1s;
+  -o-transition-delay: 0.1s;
+  -transition-delay: 0.1s;
+}
+.close .ie7 {
+  filter: progid:DXImageTransform.Microsoft.Shadow(color='#000', Direction=135, Strength=3);
+}
+.close:hover {
+  background: #00d9ff;
+  -moz-transition: all 0.5s ease-out;
+  -webkit-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+  cursor: pointer;
+}
+.fineprint {
+  font-style: italic;
+  font-size: 10px;
+  color: #646;
+}
+
+/*.button.commentButton {
+	background:url(../img/zoom.svg);	
+  width:40px;
+	height: 40px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0px;
+  font-size: 20px;
+  font-family: 'Yanone Kaffeesatz', Arial, sans-serif;
+  text-decoration: none;
+  font-weight: 200;
+  cursor: pointer;
+  position: absolute;
+  box-shadow: 1px 1px 1px #fff;
+  -moz-box-shadow: 1px 1px 1px #fff;
+  -webkit-box-shadow: 1px 1px 1px #fff;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+  text-align: center;
+  top: -32px;
+  right: 10px;
+  left: auto;
+}*/
+
+.button.commentButton {
+    /*background: url(../img/zoom.svg);*/
+ /*background: url(../img/zoom.svg);*/
+    width: 100%;
+    height: 72%;
+    border: none;
+    background-repeat: no-repeat;
+    background-size: 10% 10%;
+    background-position: 10% 96%;
+    margin: 0px;
+    font-size: 20px;
+    font-family: 'Yanone Kaffeesatz', Arial, sans-serif;
+    text-decoration: none;
+    font-weight: 200;
+    cursor: pointer;
+    position: absolute;
+    box-shadow: 1px 1px 1px #fff;
+    -moz-box-shadow: 1px 1px 1px #fff;
+    -webkit-box-shadow: 1px 1px 1px #fff;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+    top: 0px;
+    /*left: 25%;*/
+    box-shadow: none;
+    min-height: 200px;
+    /*max-height: 40%;*/
+   -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+
+}
+
+ .zoom_popup{
+    width: 150px;
+    position: absolute;
+    display: none;
+ }
+
+/*.slider {
+  border-radius: 6px;
+  box-sizing: border-box;
+  height: 50px;
+  position: relative;
+  top: 36px; 
+  width: 160px;
+  float: right;
+  margin: -25px 60px 10px 0px;
+}
+
+.sliderBar {
+    position: relative;
+    width: 90%;
+    margin: 22px auto 0;
+}
+
+.sliderRange {
+    background: white !important;
+}
+
+.sliderCustomize {
+    height: 6px;
+    box-sizing: border-box;
+
+    border: 1px solid #940202;
+    border-radius: 6px;
+  
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.3) inset;
+}
+
+.customPlayhead {
+   
+    background: #F2100E none repeat scroll 0 0 !important;
+    border: 5px solid #fff !important;
+    border-radius: 10px !important;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.75) !important;
+    box-sizing: border-box !important;
+    cursor: pointer !important;
+    height: 19px !important;
+    width: 19px !important;
+    top: -8px !important;
+}*/
+
+/*.zoomWrapper{  
+  width: 524px;
+  height: 560px;
+  top: 10px;
+  overflow: hidden;
+  border: 1px solid #000000;
+  margin: 0 auto;
+  position: relative;
+}*/
+
+@media (max-width: 650px){
+  #mainframe{
+    width: 552px;
+    height: 628px;
+  }
+
+  .h-zoom
+  {
+    height: 600px;
+  }
+  .modalbgAnimate .dialog {
+    top: -142px;
+  }
+  .modalbg .dialog_body {
+    max-height: 226px;
+  }
+  .button {   
+      left: 73.5%;
+  }
+  .titleContainer {   
+    left: 10%;
+  }
+}
+
+@media (max-width: 510px){
+  #mainframe{
+   /* width: 400px;
+    height: 450px;*/
+    width: 486px;
+    height: 553px;
+  }
+  .button { 
+    padding: 5px;
+    font-size: 18px;    
+ /*   position: absolute;    
+    bottom: -50%;*/
+    left: 78%;
+  }
+  .h-zoom
+  {
+    height: 400px;
+  }
+  .modalbg .dialog_body{
+    max-height: 310px;
+  }   
+  #firstname { 
+    background-color: yellow;
+  }
+  .titleContainer {    
+    top: -37px;
+    left: 26px;
+  }
+}
+
+@media (max-width: 390px){
+  .titleContainer {
+    top: -52px;
+    left: 4px;
+  }
+  #mainframe {
+    width: 368px;
+    height: 422px;
+  }
+  .button {
+    /*bottom: -18%;*/
+    left: 71%;
+  }
+}
+
+@media (max-width: 340px){ 
+  #mainframe{
+    width: 100%;
+    height: 308px;
+  }
+  .titleContainer {
+    font-size: 15px;
+    left: 0px;
+    margin-top: 9px;
+  } 
+  .button{
+    left: 62%;
+    font-size: 15px;
+    bottom: 5px;
+  }  
+  .h-zoom
+  {
+    height: 260px;
+  }
+
+  .modalbg .dialog_body{
+    max-height: 166px;
+  }
+} 
+
+
+/* Portrait and Landscape 5, 5S, 5C and 5SE */
+ /*and (max-device-width: 568px)*/
+@media only screen 
+  and (min-device-width: 320px)  
+  and (-webkit-min-device-pixel-ratio: 2) {
+  .h-zoom
+  {
+    height: 100%;
+  }
+  .titleContainer {
+    font-size: 15px;
+    width: 270px;
+  }
+
+  #mainframe{
+    width: 290px;
+    height: 450px;
+    margin-top: 20px;
+  }
+  .button { 
+    padding: 5px;
+    font-size: 15px;    
+  /*  position: absolute;    
+    bottom: 17%;*/
+    left: 62%;
+  }
+   
+  .modalbg .dialog_body{
+    max-height: 800px;
+  }
+  .modalbg .dialog {
+    max-width: 90%;
+	  top: 35px; 
+  }
+  .close{
+		line-height: 35px;
+	    width: 34px;
+		border-radius: 25px;
+		right: -16px;
+		top: -16px;
+		font-size: 22px;
+        cursor: pointer;
+	}
+}
+/*end  iPhone 5, 5S, 5C and 5SE*/
+
+/* Portrait and Landscape iPhone 6, 6S, 7 and 8*/
+ /*and (max-device-width: 667px) */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+  .h-zoom
+  {
+    height: 100%;
+  }
+  .titleContainer {
+    font-size: 15px;
+    width: 270px;
+  }
+
+  #mainframe{
+    width: 350px;
+    height: 450px;
+    margin-top: 20px;
+  }
+
+  .button { 
+    padding: 5px;
+    font-size: 15px;    
+   /* position: absolute;    
+    bottom: -15%;*/
+    left: 62%;
+  }
+      
+}
+/*end  iPhone 6, 6S, 7 and 8*/
+
+/* Portrait and Landscape iPhone 6+, 7+ and 8+ */
+ /*and (max-device-width: 736px) */
+@media only screen 
+  and (min-device-width: 414px)  
+  and (-webkit-min-device-pixel-ratio: 3) {
+  .h-zoom
+  {
+    height: 100%;
+  }  
+
+  .titleContainer {
+    font-size: 18px;
+    top: -40px;
+    left: 3px;
+    width: 360px;
+  }
+
+  #mainframe{
+    width: 380px;
+    height: 450px;
+    margin-top: 20px;
+  }
+
+  .button { 
+    padding: 5px;
+    font-size: 18px;    
+   /* position: absolute;    
+    bottom: -5%;*/
+    left: 70.5%;
+  }
+}
+
+/* ipad Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+  #mainframe{
+    width: 640px;
+    height: 730px;
+  }
+  .titleContainer{
+    position: absolute;
+    width: 100%;
+    font-weight: 600;
+    top: -34px;
+    left:60px;
+    font-size: 20px;
+  }
+  .button { 
+    padding: 5px;
+    font-size: 20px;    
+/*    position: absolute;    
+    bottom: -8%;*/
+    left: 83%
+  }
+}

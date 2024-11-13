@@ -1,0 +1,78 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is her greatest risk factor for developing this illness, as mentioned in the video?",
+      "choices":{  
+         "option0":"A. A parent with an eating disorder",
+         "option1":"B. Cheerleading",
+         "option2":"C. Comorbidity with obsessive compulsive disorder",
+         "option3":"D. Conflicts with peers",
+         "option4":"E. High exposure to social media",
+         "@option":"0"
+      },
+      "rationale":"Though the exact cause of eating disorders remains unclear, it is thought that combination of biologic, psychological, and social factors leads to their development. Family studies have demonstrated that individuals with a family history of eating disorders are more likely than those with no family history to receive a diagnosis of an eating disorder. The patient mentioned that her mother also purges in the video. Having a first\u2013degree relative with an eating disorder leads to an 11 × greater risk of developing one. Despite the vast exposure to media in western culture, with a strong emphasis on thinness, eating disorders are relatively rare illnesses and media alone does not cause eating disorders. Having comorbid obsessive compulsive disorder is thought to be a psychological risk factor in the development of anorexia nervosa, not for bulimia nervosa and she does not report nonfood or weight\u2013related obsessions or compulsions in the video. (479)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which best fits her eating disorder diagnosis?",
+      "choices":{  
+         "option0":"A. Anorexia nervosa, binge/purge subtype",
+         "option1":"B. restrictive food intake disorder",
+         "option2":"C. Bulimia nervosa",
+         "option3":"D. Purging disorder",
+         "option4":"E. Unspecified feeding or eating disorder",
+         "@option":"2"
+      },
+      "rationale":"Self\u2013induced vomiting, a form of purging, is described in the video. Vomiting as a compensatory behavior to prevent weight gain and implied overevaluation of oneself, based on weight and shape, are required criteria for bulimia nervosa. Binging is also a necessary criterion for bulimia nervosa and though not mentioned in the video, her symptoms still fit a diagnosis of bulimia best based on her weight. Bulimia can be differentiated from anorexia nervosa, binge/purge subtype since the weight is normal in bulimia, whereas with anorexia, the patient would be significantly underweight. (472)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which labs should she have checked most urgently?",
+      "choices":{  
+         "option0":"A. Amylase and lipase",
+         "option1":"B. Complete blood count",
+         "option2":"C. Electrolytes",
+         "option3":"D. Estrogen and progesterone",
+         "option4":"E. Thyroid hormones",
+         "@option":"2"
+      },
+      "rationale":"Bulimia nervosa can result in electrolyte abnormalities. Even though she appears at a healthy weight in the video, eating disorders, including purging behavior can be deadly. Purging can lead to hypokalemia, which can cause arrhythmias and death. (473, 374)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which U.S. Food and Drug Administration (FDA)\u2013approved medication would be most helpful in decreasing her purging behavior?",
+      "choices":{  
+         "option0":"A. Amitriptyline",
+         "option1":"B. Aripiprazole",
+         "option2":"C. Bupropion",
+         "option3":"D. Citalopram",
+         "option4":"E. Fluoxetine",
+         "@option":"4"
+      },
+      "rationale":"Fluoxetine is FDA approved for the treatment of bulimia and can help decrease binging and purging episodes independent of the presence of a mood disorder. Often higher doses are needed (i.e., 60 to 80 mg) to treat bulimia (as well as binge\u2013eating disorder). Tricyclic antidepressants should be avoided due to cardiac issues and though other selective serotonin reuptake inhibitors (SSRIs) might be helpful, citalopram is a riskier choice in terms of a greater risk of an increase in the QTc interval. Bupropion should not be used for bulimia, as there is a black box warning for increased seizure risk when utilized in someone with an eating disorder. (477,478)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which psychotherapy would be most helpful to treat her eating disorder?",
+      "choices":{  
+         "option0":"A. Cognitive behavioral therapy",
+         "option1":"B. Cognitive remediation therapy ",
+         "option2":"C. Interpersonal psychotherapy",
+         "option3":"D. Multifamily",
+         "option4":"E. Supportive",
+         "@option":"0"
+      },
+      "rationale":"CBT\u2013E, cognitive behavioral therapy enhanced, has the most evidence base for success in the treatment of bulimia nervosa. It involves keeping track of food logs, along with eating disorder behaviors, thoughts, and feelings, linking them together to see a pattern that can be changed. Though the other treatments mentioned, including interpersonal psychotherapy and multifamily therapy, along with others such as family\u2013based treatment (though more so for anorexia) and dialectal behavioral therapy, might be helpful in treating bulimia nervosa, the most evidence base exists for CBT\u2013E. Studies have looked at cognitive remediation therapy in the treatment of anorexia nervosa. CBT\u2013E has been shown to decrease binging and purging behaviors and when combined with medication treatment, can improve remission rates further. (477, 478)",
+      "@activityType":"MCQ"
+   }
+   
+   ]

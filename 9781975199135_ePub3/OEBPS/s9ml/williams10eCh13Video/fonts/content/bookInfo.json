@@ -1,0 +1,83 @@
+var	books  = {
+   "@title": "Sleisenger &  Fordtran's Gastrointestinal and Liver Disease<br>Review and Assessment",
+   "@testModeTimeInSec": "120",
+   "content": [
+      {
+         "@objName": "Chapter 1: BIOLOGY OF THE GASTROINTESTINAL TRACT AND LIVER DISEASE",
+         "chapterName": "Chapter 1: BIOLOGY OF THE GASTROINTESTINAL TRACT AND LIVER DISEASE",
+         "chapterAuthors": "Satish Rattan",
+         "chapterURL": "content/json/Chapter_01.json",
+		 "Exam":"1"
+      },
+      {
+         "@objName": "Chapter 2: NUTRITION IN GASTROENTEROLOGY",
+         "chapterName": "Chapter 2: NUTRITION IN GASTROENTEROLOGY",
+         "chapterAuthors": "David Kastenberg, Leo C. Katz, Emily Rubin, Spodik",
+         "chapterURL": "content/json/Chapter_02.json",
+		"Exam":"1"
+      },
+      {
+         "@objName": "Chapter 3: TOPICS INVOLVING MULTIPLE ORGANS",
+         "chapterName": "Chapter 3: TOPICS INVOLVING MULTIPLE ORGANS",
+         "chapterAuthors": "Cuckoo Choudhary, Malliah, Ritchie, Ivan Rudolph, Bridget J. Seymour",
+         "chapterURL": "content/json/Chapter_03.json",
+		"Exam":"1"
+      },
+      {
+         "@objName": "Chapter 4: ESOPHAGUS",
+         "chapterName": "Chapter 4: ESOPHAGUS",
+         "chapterAuthors": "Sidney Cohen, Anthony J. DiMarino, Jr., Goldstein, Herdman, Susie Rivera",
+         "chapterURL": "content/json/Chapter_04.json",
+		 "Exam":"1"
+      },
+      {
+         "@objName": "Chapter 5: STOMACH AND DUODENUM",
+         "chapterName": "Chapter 5: STOMACH AND DUODENUM",
+         "chapterAuthors": "Howard S. Kroop, Braun, Robert M. Coben, Jorge A. Prieto",
+         "chapterURL": "content/json/Chapter_05.json",
+		 "Exam":"1"
+      },
+      {
+         "@objName": "Chapter 6: PANCREAS",
+         "chapterName": "Chapter 6: PANCREAS",
+         "chapterAuthors": "David Loren, Bob Etemad, Kavanaugh, Thomas Kowalski, Jason N. Rogart",
+         "chapterURL": "content/json/Chapter_06.json",
+		 "Exam":"1"
+      },
+      {
+         "@objName": "Chapter 7: BILIARY TRACT",
+         "chapterName": "Chapter 7: BILIARY TRACT",
+         "chapterAuthors": "David Loren, Bob Etemad, Kavanaugh, Thomas Kowalski, Jason N. Rogart",
+         "chapterURL": "content/json/Chapter_07.json",
+		 "Exam":"1"
+      },
+      {
+         "@objName": "Chapter 8: LIVER",
+         "chapterName": "Chapter 8: LIVER",
+         "chapterAuthors": "Steven K. Herrine, Jonathan Fenkel, Hie-Won Hann, Nikroo Hashemi, Victor Navarro, Simona Rossi",
+         "chapterURL": "content/json/Chapter_08.json",
+		"Exam":"1"
+      },
+      {
+         "@objName": "Chapter 9: SMALL AND LARGE INTESTINE",
+         "chapterName": "Chapter 9: SMALL AND LARGE INTESTINE",
+         "chapterAuthors": "Anthony Infantolino, Jeffrey A. Abrams, Mitchell Conn, Michael DiMarino, Steven Greenfield, Kozuch, Nicholas Orfanidis",
+         "chapterURL": "content/json/Chapter_09.json",
+		 "Exam":"2"
+      },
+      {
+         "@objName": "Chapter 10: PALLIATIVE, COMPLEMENTARY AND ALTERNATIVE MEDICINE",
+         "chapterName": "Chapter 10: PALLIATIVE, COMPLEMENTARY AND ALTERNATIVE MEDICINE",
+         "chapterAuthors": "David Kastenberg, Leo C. Katz, Emily Rubin, Spokik",
+         "chapterURL": "content/json/Chapter_10.json",
+		 "Exam":"2"
+      },
+      {
+         "@objName": "Chapter 11: All Available Activities",
+         "chapterName": "Chapter 11: All Available Activities",
+         "chapterAuthors": "Amit Jain",
+         "chapterURL": "content/json/Chapter_11.json",
+		 "Exam":"3"
+      }
+   ]
+}

@@ -1,0 +1,134 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 26\u2013year\u2013old man with a diagnosis of schizophrenia has been hospitalized on the inpatient psychiatric unit for the last five days. This is his sixth hospitalization in four years. He has been on haloperidol, risperidone, quetiapine, and asenapine, each of which was started during a hospitalization. He continued taking the medications until he felt better, then stopped because \"I didn\u2019t need it anymore.\" He has been asked numerous times over the last three years if he would like to take a long\u2013acting injection instead, and each time he refuses because \"I don\u2019t want any needles. They hurt.\" His mother asks the physician to \"give him a shot, or he can\u2019t come back to live at my house.\" The treatment team relays this to the patient, who still refuses an injection, but consents to oral medication. The psychiatrist prescribes the oral medication. What ethical principle is demonstrated by the psychiatrist\u2019s action?",
+      "choices":{  
+         "option0":"A. Autonomy",
+         "option1":"B. Beneficence",
+         "option2":"C. Nonmaleficence",
+         "option3":"D. Justice",
+         "@option":"0"
+      },
+      "rationale":"Though the patient could likely be better served both medically and socially by taking a long\u2013acting injection, he is given the choice between an LAI and an oral medication, which was respected by the psychiatrist. This situation demonstrates the ethical principle of autonomy. Had his wishes been overridden, that could be seen by some as a demonstration of beneficence, whether or not such an action was legally allowed. The principles of nonmaleficence and justice are not relevant in this scenario, as presumably the LAI would not harm the patient and distribution of social benefits is not in question. (829)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" An 86\u2013year\u2013old woman in the ICU with acute pneumonia awakens, panicked and confused, during the first night of hospitalization and starts to pull at her IV lines. This is noticed by nursing staff, who talk gently to her and get her to stop. She does not seem to understand the need for the treatment and why it is given intravenously. A few minutes later, the patient removes an IV line that contains an antibiotic which must be given intravenously. The patient\u2019s son is called to talk with his mother in hopes of convincing her to stop removing the IV lines so that she does not have to be physically restrained. After a few minutes, the son tells the staff that his mother would prefer an oral antibiotic and to remove the IVs. Temp is 38.9C (102.1F), pulse 89, respirations 22 and BP 140/92. Complying with the son\u2019s request would constitute a breach of what ethical principle?",
+      "choices":{  
+         "option0":"A. Autonomy",
+         "option1":"B. Beneficence",
+         "option2":"C. Nonmaleficence",
+         "option3":"D. Justice",
+         "@option":"1"
+      },
+      "rationale":"Complying with the son\u2019s request would be in accordance with the ethical principle of autonomy. However, it would be a breach of beneficence, which involves acting in the patient\u2019s best interests. In this case, the IV antibiotics are deemed medically necessary, and to not give them when she is acutely ill would be a breach of fiduciary responsibility to the patient. The ethical course would be to override the patient\u2019s autonomy until no longer medically necessary, or until she has a rational understanding of the need for treatment its risks and benefits. (829)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 45\u2013year\u2013old man presents to an urgent care with a complaint of right leg pain since falling off of a ladder at home the day before. He is able to bear weight on the leg and rates the pain as a 5 out of 10. He states that he took ibuprofen twice yesterday and once today with moderate effect, but that he needs something stronger so that he can return to his job tomorrow at the post office. He has no medical illnesses and is on no other medications. Vital signs are temp 37.1C (98.8F), pulse 90, respirations 19, BP 130/85. Physical exam reveals diffuse tenderness over the anterior aspect of the right quadriceps, with noticeable bruising and abrasions. He has full range of motion. After the exam, he insists that he needs a narcotic for pain. The physician explains that narcotics can be addictive, so they need to be reserved for the most severe pain. What ethical principle was most demonstrated in the physician\u2019s response?",
+      "choices":{  
+         "option0":"A. Autonomy",
+         "option1":"B. Beneficence",
+         "option2":"C. Nonmaleficence",
+         "option3":"D. Justice",
+         "@option":"2"
+      },
+      "rationale":"Nonmaleficence is expressed by the maxim, \"First, do no harm.\" In this scenario, the physician first sought to avoid creating risk for the patient. Had the physician then given the patient a choice between standard\u2013of\u2013care treatment and a narcotic, that would have been showing respect for autonomy. Though beneficence is also a background factor, it is not the best answer here because that reasoning was not explicitly expressed by the physician. (829)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" The American Psychiatric Association\u2019s Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry stipulates that sexual relations with a patient are acceptable under what circumstances?",
+      "choices":{  
+         "option0":"A. If the appointments are for medication management only and involve no therapy",
+         "option1":"B. Two years after termination of the doctor\u2013patient relationship",
+         "option2":"C. Five years after termination of the doctor\u2013patient relationship",
+         "option3":"D. If the relationship ended in marriage",
+         "option4":"E. Sexual relations with a patient are never acceptable",
+         "@option":"4"
+      },
+      "rationale":"The APA code of ethics states that \"Sexual activity with a current or former patient is unethical.\" Under that code, there are no circumstances in which sexual activity with a patient is acceptable. (830)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A psychiatrist has been treating a 9\u2013year\u2013old boy for ADHD, combined type, over the last ten months. A trial of methylphenidate resulted in the patient\u2019s grades improving from Ds to Bs, and he is no longer getting in trouble in class for excessive talking. As a result, appointment frequency was reduced from monthly for the first six months to every two months. History during the visit today reveals that the child continues to do well and has made a couple of As at school. He has no medical issues and takes no other medications. Vital signs are normal and physical exam reveals no abnormalities. At the end of the visit, the patient\u2019s mother, who divorced two months ago, asks the physician, who is also single, out on a date. According to The American Psychiatric Association\u2019s Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry, what would be the most appropriate response by the psychiatrist?",
+      "choices":{  
+         "option0":"A. \"Thank you for asking, but it is unethical for me to date a family member of a patient.\"",
+         "option1":"B. \"I cannot ethically do so right now, but if your son\u2019s medication management is turned over to his pediatrician, I can then.\"",
+         "option2":"C. \"I would like to, but only if your son is comfortable with the idea.\"",
+         "option3":"D. \"The divorce only occurred two months ago. Let\u2019s give it more time. If you\u2019re still interested in four months, I would love to.\"",
+         "option4":"E. \"I would like to go on a date with you, but I have to run it by the office\u2019s risk management team first.\"",
+         "@option":"0"
+      },
+      "rationale":"According to The American Psychiatric Association\u2019s Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry, sexual activity with a patient\u2019s family member is as unethical as sexual activity with a patient. Child and adolescent psychiatrists usually consider treatment of the family as part of the treatment of the patient, so ethical guidelines would apply to sexual relationships with family members as well. The time course of treatment of the patient is irrelevant, as the Principles state that \"Sexual activity with a current or former patient is unethical.\" (830)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A boundary crossing becomes a boundary violation once what circumstance occurs?",
+      "choices":{  
+         "option0":"A. The patient suffers any type of harm",
+         "option1":"B. Sexual activity occurs in the relationship",
+         "option2":"C. The physician benefits at the patient\u2019s expense",
+         "option3":"D. The situation could lead to legal ramifications",
+         "option4":"E. Clinic or hospital bylaws and guidelines are broken",
+         "@option":"2"
+      },
+      "rationale":"A boundary violation is a boundary crossing that is exploitative, in which the doctor\u2019s needs are gratified at the expense of the patient. A boundary violation does not have to include patient harm. If a physician enters into a business relationship with a patient, that is usually considered a boundary violation, even though the patient is ostensibly unharmed and may even benefit. While sexual activity with a patient is always a boundary violation, there are violations in which sex is not involved. Not all violations would lead to legal consequences, such as with the business relationship described above. A boundary violation does not necessarily involve breaking clinic or hospital policy, and vice versa. (830)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 23\u2013year\u2013old male is brought to the emergency department by EMS following a motor vehicle accident in which he was the driver. On arrival, he is stuporous and unable to respond. GCS is 5. A UDS is positive for amphetamines and fentanyl, and blood alcohol content is .28%. The patient\u2019s girlfriend, who was also in the vehicle, is brought into the ED and taken immediately to surgery for injuries sustained in the accident. Thirty minutes later, the driver dies. The girlfriend\u2019s parents are upset and demand that the driver be alcohol tested, as they suspect he was driving while drunk because \"we know he\u2019s done that before.\" How should the hospital respond to the parents\u2019 request?",
+      "choices":{  
+         "option0":"A. Tell the parents that the driver was drug and alcohol tested, but do not release results",
+         "option1":"B. Release the information about the drug and alcohol tests, as the patient has died",
+         "option2":"C. Advise the parents to get a court order to see the driver\u2019s medical record",
+         "option3":"D. Withhold any information unless given permission by driver\u2019s the next of kin",
+         "option4":"E. Give the parents only the results of the alcohol test, as they only mentioned prior alcohol use",
+         "@option":"2"
+      },
+      "rationale":"Patient confidentiality extends even after the patient has died. Release of information decisions then fall to the next of kin. (831)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Administrative staff tell a psychiatrist at an outpatient clinic that they have witnessed the psychiatrist\u2019s colleague coming to work smelling of alcohol on three occasions over the past month. They have received no patient complaints. The psychiatrist talks with the colleague, who promises that \"it won\u2019t happen again.\" Two weeks later, the colleague comes to work intoxicated. How should the psychiatrist respond?",
+      "choices":{  
+         "option0":"A. Talk with the colleague to let them know that this will be reported if it happens again",
+         "option1":"B. Ask the staff if any patients have complained, and if so, report the colleague to the state medical board",
+         "option2":"C. Report the colleague to the state medical board",
+         "option3":"D. Report the colleague to the police",
+         "option4":"E. Offer to take the colleague to an alcohol and drug rehabilitation center",
+         "@option":"2"
+      },
+      "rationale":"An impaired physician should be reported to the proper authority (state medical board, office manager, department chair, etc.) and relieved of duty in order to reduce the risk of harm to patients. Though many physicians say that they will only talk with the colleague first when presented with a similar scenario, the ethical obligation is to report. (832)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 23\u2013year\u2013old man is discharged from his first hospitalization with a diagnosis of schizophrenia. While inpatient, he was given prn IM haloperidol for acute agitation. He was discharged on paliperidone palmitate. One month later, when his next injection is due, his insurance company denies the prior authorization, stating that he has not tried a generic long\u2013acting injection first. The patient has been stable on the current medication and would like to continue it. How should the outpatient physician respond to the insurance company\u2019s decision?",
+      "choices":{  
+         "option0":"A. Tell the insurance company that the patient has tried and injectable formulation of haloperidol, which did not lead to schizophrenia symptom management",
+         "option1":"B. Tell the insurance company that the patient will relapse if he does not continue the current medication",
+         "option2":"C. Ask for a peer\u2013to\u2013peer consultation to make an appeal for the paliperidone palmitate",
+         "option3":"D. Change the patient\u2019s medication to haloperidol decanoate therapy",
+         "option4":"E. Report the situation to the patient\u2019s local and federal elected representatives",
+         "@option":"2"
+      },
+      "rationale":"The AMA Council of Ethical and Judicial Affairs states that physicians have an obligation to advocate for patient care that they deem appropriate. In this case, advocacy should first come in the form of appealing the insurance company\u2019s decision by asking for a peer\u2013to\u2013peer conversation. Though the patient has technically been exposed to IM haloperidol, to report that as having tried the decanoate formulation would be deceptive. Likewise, it is unknown if the patient would relapse if given haloperidol decanoate instead of paliperidone palmitate. Simply changing to haloperidol decanoate, though possibly effective, is not advocating for the patient for whom the current medication regimen has proven effective. Speaking with the patient\u2019s elected representative could be helpful but is not likely to be so in the time frame needed. (831).",
+      "@activityType":"MCQ"
+   }   
+]

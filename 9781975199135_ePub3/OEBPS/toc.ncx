@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+	<head>
+		<meta name="dtb:uid" content="978-1-975199-13-5"/>
+		<meta name="dtb:depth" content="2"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>Kaplan &#38; Sadock&#8217;s Study Guide and Self-Examination Review in Psychiatry, 10th edition</text></docTitle>
+	<docAuthor><text>Eric R. Williams, M.D. and Lindsay Moskowitz, M.D., L.L.C.</text></docAuthor>
+	<navMap>
+		<navPoint class="chapter" id="cvi" playOrder="1">
+			<navLabel><text>Cover</text></navLabel>
+			<content src="s9ml/front_matter/cvi.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="tp" playOrder="2">
+			<navLabel><text>Title Page</text></navLabel>
+			<content src="s9ml/front_matter/tp.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="cop" playOrder="3">
+			<navLabel><text>Copyright</text></navLabel>
+			<content src="s9ml/front_matter/cop.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="pre" playOrder="4">
+			<navLabel><text>Preface</text></navLabel>
+			<content src="s9ml/front_matter/pre.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="toc" playOrder="5">
+			<navLabel><text>Contents</text></navLabel>
+			<content src="s9ml/front_matter/toc.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="p01" playOrder="6">
+			<navLabel><text>A. CLINICAL PSYCHIATRY</text></navLabel>
+			<content src="s9ml/part001/p01.xhtml"/>
+		<navPoint class="chapter" id="ch001" playOrder="7">
+			<navLabel><text>Chapter 1. Examination and Diagnosis of the Psychiatric Patient</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-1" playOrder="8">
+			<navLabel><text>Chapter 1: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz01/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch002" playOrder="9">
+			<navLabel><text>Chapter 2. Neurodevelopmental Disorders and Other Childhood Disorders</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-2" playOrder="10">
+			<navLabel><text>Chapter 2: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz02/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch003" playOrder="11">
+			<navLabel><text>Chapter 3. Neurocognitive Disorders</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-3" playOrder="12">
+			<navLabel><text>Chapter 3: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz03/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch004" playOrder="13">
+			<navLabel><text>Chapter 4. Substance Use and Addictive Disorders</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-4" playOrder="14">
+			<navLabel><text>Chapter 4: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz04/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch005" playOrder="15">
+			<navLabel><text>Chapter 5. Schizophrenia Spectrum and Other Psychotic Disorders</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-5" playOrder="16">
+			<navLabel><text>Chapter 5: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz05/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch006" playOrder="17">
+			<navLabel><text>Chapter 6. Bipolar Disorders</text></navLabel>
+			<content src="s9ml/chapter006/ch006.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-6" playOrder="18">
+			<navLabel><text>Chapter 6: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz06/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch007" playOrder="19">
+			<navLabel><text>Chapter 7. Depressive Disorder</text></navLabel>
+			<content src="s9ml/chapter007/ch007.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-7" playOrder="20">
+			<navLabel><text>Chapter 7: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz07/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch008" playOrder="21">
+			<navLabel><text>Chapter 8. Anxiety Disorders</text></navLabel>
+			<content src="s9ml/chapter008/ch008.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-8" playOrder="22">
+			<navLabel><text>Chapter 8: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz08/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch009" playOrder="23">
+			<navLabel><text>Chapter 9. Obsessive-Compulsive and Related Disorders</text></navLabel>
+			<content src="s9ml/chapter009/ch009.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-9" playOrder="24">
+			<navLabel><text>Chapter 9: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz09/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch010" playOrder="25">
+			<navLabel><text>Chapter 10. Trauma- and Stressor-Related Disorders</text></navLabel>
+			<content src="s9ml/chapter010/ch010.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-10" playOrder="26">
+			<navLabel><text>Chapter 10: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz10/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch011" playOrder="27">
+			<navLabel><text>Chapter 11. Dissociative Disorders</text></navLabel>
+			<content src="s9ml/chapter011/ch011.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-11" playOrder="28">
+			<navLabel><text>Chapter 11: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz11/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch012" playOrder="29">
+			<navLabel><text>Chapter 12. Somatic Symptom and Related Disorders</text></navLabel>
+			<content src="s9ml/chapter012/ch012.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-12" playOrder="30">
+			<navLabel><text>Chapter 12: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz12/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch013" playOrder="31">
+			<navLabel><text>Chapter 13. Feeding and Eating Disorders</text></navLabel>
+			<content src="s9ml/chapter013/ch013.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-13" playOrder="32">
+			<navLabel><text>Chapter 13: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz13/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch014" playOrder="33">
+			<navLabel><text>Chapter 14. Elimination Disorders</text></navLabel>
+			<content src="s9ml/chapter014/ch014.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-14" playOrder="34">
+			<navLabel><text>Chapter 14: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz14/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch015" playOrder="35">
+			<navLabel><text>Chapter 15. Sleep&#x2013;Wake Disorders</text></navLabel>
+			<content src="s9ml/chapter015/ch015.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-15" playOrder="36">
+			<navLabel><text>Chapter 15: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz15/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch016" playOrder="37">
+			<navLabel><text>Chapter 16. Human Sexuality and Sexual Dysfunctions</text></navLabel>
+			<content src="s9ml/chapter016/ch016.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-16" playOrder="38">
+			<navLabel><text>Chapter 16: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz16/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch017" playOrder="39">
+			<navLabel><text>Chapter 17. Gender Dysphoria, Gender Identity, and Related Conditions</text></navLabel>
+			<content src="s9ml/chapter017/ch017.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-17" playOrder="40">
+			<navLabel><text>Chapter 17: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz17/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch018" playOrder="41">
+			<navLabel><text>Chapter 18. Disruptive, Impulse Control, and Conduct Disorders</text></navLabel>
+			<content src="s9ml/chapter018/ch018.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-18" playOrder="42">
+			<navLabel><text>Chapter 18: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz18/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch019" playOrder="43">
+			<navLabel><text>Chapter 19. Personality Disorders</text></navLabel>
+			<content src="s9ml/chapter019/ch019.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-19" playOrder="44">
+			<navLabel><text>Chapter 19: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz19/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch020" playOrder="45">
+			<navLabel><text>Chapter 20. Other Conditions that May Be a Focus of Clinical Attention</text></navLabel>
+			<content src="s9ml/chapter020/ch020.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-20" playOrder="46">
+			<navLabel><text>Chapter 20: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz20/index.xhtml"/>
+		</navPoint>
+		</navPoint>
+		<navPoint class="chapter" id="p02" playOrder="47">
+			<navLabel><text>B. TREATMENT ACROSS THE LIFESPAN</text></navLabel>
+			<content src="s9ml/part002/p02.xhtml"/>
+		<navPoint class="chapter" id="ch021" playOrder="48">
+			<navLabel><text>Chapter 21. Psychopharmacology</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-21" playOrder="49">
+			<navLabel><text>Chapter 21: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz21/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch022" playOrder="50">
+			<navLabel><text>Chapter 22. Other Somatic Therapies</text></navLabel>
+			<content src="s9ml/chapter022/ch022.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-22" playOrder="51">
+			<navLabel><text>Chapter 22: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz22/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch023" playOrder="52">
+			<navLabel><text>Chapter 23. Psychotherapy</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-23" playOrder="53">
+			<navLabel><text>Chapter 23: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz23/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch024" playOrder="54">
+			<navLabel><text>Chapter 24. Psychiatric Rehabilitation and Other Interventions</text></navLabel>
+			<content src="s9ml/chapter024/ch024.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-24" playOrder="55">
+			<navLabel><text>Chapter 24: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz24/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch025" playOrder="56">
+			<navLabel><text>Chapter 25. Consult to Other Disciplines</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-25" playOrder="57">
+			<navLabel><text>Chapter 25: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz25/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch026" playOrder="58">
+			<navLabel><text>Chapter 26. Level of Care</text></navLabel>
+			<content src="s9ml/chapter026/ch026.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-26" playOrder="59">
+			<navLabel><text>Chapter 26: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz26/index.xhtml"/>
+		</navPoint>
+		</navPoint>
+		<navPoint class="chapter" id="p03" playOrder="60">
+			<navLabel><text>C. OTHER ISSUES RELEVANT TO PSYCHIATRY</text></navLabel>
+			<content src="s9ml/part003/p03.xhtml"/>
+		<navPoint class="chapter" id="ch027" playOrder="61">
+			<navLabel><text>Chapter 27. Ethics and Professionalism</text></navLabel>
+			<content src="s9ml/chapter027/ch027.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-27" playOrder="62">
+			<navLabel><text>Chapter 27: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz27/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch028" playOrder="63">
+			<navLabel><text>Chapter 28. Forensic and Legal Issues</text></navLabel>
+			<content src="s9ml/chapter028/ch028.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-28" playOrder="64">
+			<navLabel><text>Chapter 28: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz28/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch029" playOrder="65">
+			<navLabel><text>Chapter 29. End-of-Life Issues and Palliative Care</text></navLabel>
+			<content src="s9ml/chapter029/ch029.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-29" playOrder="66">
+			<navLabel><text>Chapter 29: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz29/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch030" playOrder="67">
+			<navLabel><text>Chapter 30. Community Psychiatry</text></navLabel>
+			<content src="s9ml/chapter030/ch030.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-30" playOrder="68">
+			<navLabel><text>Chapter 30: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz30/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch031" playOrder="69">
+			<navLabel><text>Chapter 31. Global and Cultural Issues in Psychiatry</text></navLabel>
+			<content src="s9ml/chapter031/ch031.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-31" playOrder="70">
+			<navLabel><text>Chapter 31: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz31/index.xhtml"/>
+		</navPoint>
+		</navPoint>
+		<navPoint class="chapter" id="p04" playOrder="71">
+			<navLabel><text>D. CONTRIBUTIONS FROM THE SCIENCES AND SOCIAL SCIENCES TO PSYCHIATRY</text></navLabel>
+			<content src="s9ml/part004/p04.xhtml"/>
+		<navPoint class="chapter" id="ch032" playOrder="72">
+			<navLabel><text>Chapter 32. Normal Development and Aging</text></navLabel>
+			<content src="s9ml/chapter032/ch032.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-32" playOrder="73">
+			<navLabel><text>Chapter 32: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz32/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch033" playOrder="74">
+			<navLabel><text>Chapter 33. Contributions from the Neurosciences</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-33" playOrder="75">
+			<navLabel><text>Chapter 33: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz33/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="ch034" playOrder="76">
+			<navLabel><text>Chapter 34. Contributions from the Behavioral and Social Sciences</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-34" playOrder="77">
+			<navLabel><text>Chapter 34: Interactive Quiz</text></navLabel>
+			<content src="Quiz/quiz34/index.xhtml"/>
+		</navPoint>
+		</navPoint>
+		<navPoint class="chapter" id="bm1" playOrder="78">
+			<navLabel><text>Randomly-Generated Practice Quiz</text></navLabel>
+			<content src="s9ml/williams10e/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm2" playOrder="79">
+			<navLabel><text>Videos</text></navLabel>
+			<content src="s9ml/williams10eCh1Video/index.xhtml"/>
+		<navPoint class="chapter" id="bm3" playOrder="80">
+			<navLabel><text>Video 1</text></navLabel>
+			<content src="s9ml/williams10eCh1Video/index.xhtml#s1"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm4" playOrder="81">
+			<navLabel><text>Video 2</text></navLabel>
+			<content src="s9ml/williams10eCh2Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm5" playOrder="82">
+			<navLabel><text>Video 3</text></navLabel>
+			<content src="s9ml/williams10eCh3Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm6" playOrder="83">
+			<navLabel><text>Video 4</text></navLabel>
+			<content src="s9ml/williams10eCh4Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm7" playOrder="84">
+			<navLabel><text>Video 5</text></navLabel>
+			<content src="s9ml/williams10eCh5Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm8" playOrder="85">
+			<navLabel><text>Video 6</text></navLabel>
+			<content src="s9ml/williams10eCh6Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm9" playOrder="86">
+			<navLabel><text>Video 7</text></navLabel>
+			<content src="s9ml/williams10eCh7Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm10" playOrder="87">
+			<navLabel><text>Video 8</text></navLabel>
+			<content src="s9ml/williams10eCh8Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm11" playOrder="88">
+			<navLabel><text>Video 9</text></navLabel>
+			<content src="s9ml/williams10eCh9Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm12" playOrder="89">
+			<navLabel><text>Video 10</text></navLabel>
+			<content src="s9ml/williams10eCh10Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm13" playOrder="90">
+			<navLabel><text>Video 11</text></navLabel>
+			<content src="s9ml/williams10eCh11Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm14" playOrder="91">
+			<navLabel><text>Video 12</text></navLabel>
+			<content src="s9ml/williams10eCh12Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm15" playOrder="92">
+			<navLabel><text>Video 13</text></navLabel>
+			<content src="s9ml/williams10eCh13Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm16" playOrder="93">
+			<navLabel><text>Video 14</text></navLabel>
+			<content src="s9ml/williams10eCh14Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm17" playOrder="94">
+			<navLabel><text>Video 15</text></navLabel>
+			<content src="s9ml/williams10eCh15Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm18" playOrder="95">
+			<navLabel><text>Video 16</text></navLabel>
+			<content src="s9ml/williams10eCh16Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm19" playOrder="96">
+			<navLabel><text>Video 17</text></navLabel>
+			<content src="s9ml/williams10eCh17Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm20" playOrder="97">
+			<navLabel><text>Video 18</text></navLabel>
+			<content src="s9ml/williams10eCh18Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm21" playOrder="98">
+			<navLabel><text>Video 19</text></navLabel>
+			<content src="s9ml/williams10eCh19Video/index.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="bm22" playOrder="99">
+			<navLabel><text>Video 20</text></navLabel>
+			<content src="s9ml/williams10eCh20Video/index.xhtml"/>
+		</navPoint>
+		</navPoint>
+		<navPoint class="chapter" id="index" playOrder="100">
+			<navLabel><text>Index</text></navLabel>
+			<content src="s9ml/index/index.xhtml"/>
+		</navPoint>
+	</navMap>
+	<pageList>
+		<pageTarget type="normal" id="pagetargetiii" value="iii">
+			<navLabel><text>iii</text></navLabel>
+			<content src="s9ml/front_matter/tp.xhtml#pageiii"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetargetiv" value="iv">
+			<navLabel><text>iv</text></navLabel>
+			<content src="s9ml/front_matter/cop.xhtml#pageiv"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetargetv" value="v">
+			<navLabel><text>v</text></navLabel>
+			<content src="s9ml/front_matter/pre.xhtml#pagev"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetargetvi" value="vi">
+			<navLabel><text>vi</text></navLabel>
+			<content src="s9ml/front_matter/pre.xhtml#pagevi"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetargetvii" value="vii">
+			<navLabel><text>vii</text></navLabel>
+			<content src="s9ml/front_matter/toc.xhtml#pagevii"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetargetviii" value="viii">
+			<navLabel><text>viii</text></navLabel>
+			<content src="s9ml/front_matter/toc.xhtml#pageviii"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget1" value="1">
+			<navLabel><text>1</text></navLabel>
+			<content src="s9ml/part001/p01.xhtml#page1"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget2" value="2">
+			<navLabel><text>2</text></navLabel>
+			<content src="s9ml/part001/p01.xhtml#page2"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget3" value="3">
+			<navLabel><text>3</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page3"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget4" value="4">
+			<navLabel><text>4</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page4"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget5" value="5">
+			<navLabel><text>5</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page5"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget6" value="6">
+			<navLabel><text>6</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page6"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget7" value="7">
+			<navLabel><text>7</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page7"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget8" value="8">
+			<navLabel><text>8</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page8"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget9" value="9">
+			<navLabel><text>9</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page9"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget10" value="10">
+			<navLabel><text>10</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page10"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget11" value="11">
+			<navLabel><text>11</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page11"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget12" value="12">
+			<navLabel><text>12</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page12"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget13" value="13">
+			<navLabel><text>13</text></navLabel>
+			<content src="s9ml/chapter001/ch001.xhtml#page13"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget14" value="14">
+			<navLabel><text>14</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page14"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget15" value="15">
+			<navLabel><text>15</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page15"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget16" value="16">
+			<navLabel><text>16</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page16"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget17" value="17">
+			<navLabel><text>17</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page17"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget18" value="18">
+			<navLabel><text>18</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page18"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget19" value="19">
+			<navLabel><text>19</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page19"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget20" value="20">
+			<navLabel><text>20</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page20"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget21" value="21">
+			<navLabel><text>21</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page21"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget22" value="22">
+			<navLabel><text>22</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page22"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget23" value="23">
+			<navLabel><text>23</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page23"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget24" value="24">
+			<navLabel><text>24</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page24"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget25" value="25">
+			<navLabel><text>25</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page25"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget26" value="26">
+			<navLabel><text>26</text></navLabel>
+			<content src="s9ml/chapter002/ch002.xhtml#page26"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget27" value="27">
+			<navLabel><text>27</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page27"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget28" value="28">
+			<navLabel><text>28</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page28"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget29" value="29">
+			<navLabel><text>29</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page29"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget30" value="30">
+			<navLabel><text>30</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page30"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget31" value="31">
+			<navLabel><text>31</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page31"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget32" value="32">
+			<navLabel><text>32</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page32"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget33" value="33">
+			<navLabel><text>33</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page33"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget34" value="34">
+			<navLabel><text>34</text></navLabel>
+			<content src="s9ml/chapter003/ch003.xhtml#page34"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget35" value="35">
+			<navLabel><text>35</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page35"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget36" value="36">
+			<navLabel><text>36</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page36"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget37" value="37">
+			<navLabel><text>37</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page37"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget38" value="38">
+			<navLabel><text>38</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page38"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget39" value="39">
+			<navLabel><text>39</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page39"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget40" value="40">
+			<navLabel><text>40</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page40"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget41" value="41">
+			<navLabel><text>41</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page41"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget42" value="42">
+			<navLabel><text>42</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page42"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget43" value="43">
+			<navLabel><text>43</text></navLabel>
+			<content src="s9ml/chapter004/ch004.xhtml#page43"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget44" value="44">
+			<navLabel><text>44</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml#page44"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget45" value="45">
+			<navLabel><text>45</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml#page45"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget46" value="46">
+			<navLabel><text>46</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml#page46"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget47" value="47">
+			<navLabel><text>47</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml#page47"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget48" value="48">
+			<navLabel><text>48</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml#page48"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget49" value="49">
+			<navLabel><text>49</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml#page49"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget50" value="50">
+			<navLabel><text>50</text></navLabel>
+			<content src="s9ml/chapter005/ch005.xhtml#page50"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget51" value="51">
+			<navLabel><text>51</text></navLabel>
+			<content src="s9ml/chapter006/ch006.xhtml#page51"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget52" value="52">
+			<navLabel><text>52</text></navLabel>
+			<content src="s9ml/chapter006/ch006.xhtml#page52"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget53" value="53">
+			<navLabel><text>53</text></navLabel>
+			<content src="s9ml/chapter006/ch006.xhtml#page53"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget54" value="54">
+			<navLabel><text>54</text></navLabel>
+			<content src="s9ml/chapter007/ch007.xhtml#page54"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget55" value="55">
+			<navLabel><text>55</text></navLabel>
+			<content src="s9ml/chapter007/ch007.xhtml#page55"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget56" value="56">
+			<navLabel><text>56</text></navLabel>
+			<content src="s9ml/chapter007/ch007.xhtml#page56"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget57" value="57">
+			<navLabel><text>57</text></navLabel>
+			<content src="s9ml/chapter007/ch007.xhtml#page57"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget58" value="58">
+			<navLabel><text>58</text></navLabel>
+			<content src="s9ml/chapter007/ch007.xhtml#page58"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget59" value="59">
+			<navLabel><text>59</text></navLabel>
+			<content src="s9ml/chapter008/ch008.xhtml#page59"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget60" value="60">
+			<navLabel><text>60</text></navLabel>
+			<content src="s9ml/chapter008/ch008.xhtml#page60"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget61" value="61">
+			<navLabel><text>61</text></navLabel>
+			<content src="s9ml/chapter008/ch008.xhtml#page61"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget62" value="62">
+			<navLabel><text>62</text></navLabel>
+			<content src="s9ml/chapter009/ch009.xhtml#page62"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget63" value="63">
+			<navLabel><text>63</text></navLabel>
+			<content src="s9ml/chapter009/ch009.xhtml#page63"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget64" value="64">
+			<navLabel><text>64</text></navLabel>
+			<content src="s9ml/chapter009/ch009.xhtml#page64"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget65" value="65">
+			<navLabel><text>65</text></navLabel>
+			<content src="s9ml/chapter010/ch010.xhtml#page65"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget66" value="66">
+			<navLabel><text>66</text></navLabel>
+			<content src="s9ml/chapter010/ch010.xhtml#page66"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget67" value="67">
+			<navLabel><text>67</text></navLabel>
+			<content src="s9ml/chapter010/ch010.xhtml#page67"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget68" value="68">
+			<navLabel><text>68</text></navLabel>
+			<content src="s9ml/chapter011/ch011.xhtml#page68"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget69" value="69">
+			<navLabel><text>69</text></navLabel>
+			<content src="s9ml/chapter011/ch011.xhtml#page69"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget70" value="70">
+			<navLabel><text>70</text></navLabel>
+			<content src="s9ml/chapter011/ch011.xhtml#page70"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget71" value="71">
+			<navLabel><text>71</text></navLabel>
+			<content src="s9ml/chapter011/ch011.xhtml#page71"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget72" value="72">
+			<navLabel><text>72</text></navLabel>
+			<content src="s9ml/chapter012/ch012.xhtml#page72"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget73" value="73">
+			<navLabel><text>73</text></navLabel>
+			<content src="s9ml/chapter012/ch012.xhtml#page73"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget74" value="74">
+			<navLabel><text>74</text></navLabel>
+			<content src="s9ml/chapter012/ch012.xhtml#page74"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget75" value="75">
+			<navLabel><text>75</text></navLabel>
+			<content src="s9ml/chapter012/ch012.xhtml#page75"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget76" value="76">
+			<navLabel><text>76</text></navLabel>
+			<content src="s9ml/chapter012/ch012.xhtml#page76"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget77" value="77">
+			<navLabel><text>77</text></navLabel>
+			<content src="s9ml/chapter013/ch013.xhtml#page77"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget78" value="78">
+			<navLabel><text>78</text></navLabel>
+			<content src="s9ml/chapter013/ch013.xhtml#page78"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget79" value="79">
+			<navLabel><text>79</text></navLabel>
+			<content src="s9ml/chapter013/ch013.xhtml#page79"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget80" value="80">
+			<navLabel><text>80</text></navLabel>
+			<content src="s9ml/chapter013/ch013.xhtml#page80"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget81" value="81">
+			<navLabel><text>81</text></navLabel>
+			<content src="s9ml/chapter013/ch013.xhtml#page81"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget82" value="82">
+			<navLabel><text>82</text></navLabel>
+			<content src="s9ml/chapter013/ch013.xhtml#page82"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget83" value="83">
+			<navLabel><text>83</text></navLabel>
+			<content src="s9ml/chapter014/ch014.xhtml#page83"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget84" value="84">
+			<navLabel><text>84</text></navLabel>
+			<content src="s9ml/chapter014/ch014.xhtml#page84"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget85" value="85">
+			<navLabel><text>85</text></navLabel>
+			<content src="s9ml/chapter014/ch014.xhtml#page85"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget86" value="86">
+			<navLabel><text>86</text></navLabel>
+			<content src="s9ml/chapter014/ch014.xhtml#page86"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget87" value="87">
+			<navLabel><text>87</text></navLabel>
+			<content src="s9ml/chapter015/ch015.xhtml#page87"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget88" value="88">
+			<navLabel><text>88</text></navLabel>
+			<content src="s9ml/chapter015/ch015.xhtml#page88"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget89" value="89">
+			<navLabel><text>89</text></navLabel>
+			<content src="s9ml/chapter015/ch015.xhtml#page89"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget90" value="90">
+			<navLabel><text>90</text></navLabel>
+			<content src="s9ml/chapter015/ch015.xhtml#page90"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget91" value="91">
+			<navLabel><text>91</text></navLabel>
+			<content src="s9ml/chapter015/ch015.xhtml#page91"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget92" value="92">
+			<navLabel><text>92</text></navLabel>
+			<content src="s9ml/chapter016/ch016.xhtml#page92"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget93" value="93">
+			<navLabel><text>93</text></navLabel>
+			<content src="s9ml/chapter016/ch016.xhtml#page93"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget94" value="94">
+			<navLabel><text>94</text></navLabel>
+			<content src="s9ml/chapter016/ch016.xhtml#page94"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget95" value="95">
+			<navLabel><text>95</text></navLabel>
+			<content src="s9ml/chapter016/ch016.xhtml#page95"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget96" value="96">
+			<navLabel><text>96</text></navLabel>
+			<content src="s9ml/chapter016/ch016.xhtml#page96"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget97" value="97">
+			<navLabel><text>97</text></navLabel>
+			<content src="s9ml/chapter017/ch017.xhtml#page97"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget98" value="98">
+			<navLabel><text>98</text></navLabel>
+			<content src="s9ml/chapter017/ch017.xhtml#page98"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget99" value="99">
+			<navLabel><text>99</text></navLabel>
+			<content src="s9ml/chapter018/ch018.xhtml#page99"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget100" value="100">
+			<navLabel><text>100</text></navLabel>
+			<content src="s9ml/chapter018/ch018.xhtml#page100"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget101" value="101">
+			<navLabel><text>101</text></navLabel>
+			<content src="s9ml/chapter018/ch018.xhtml#page101"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget102" value="102">
+			<navLabel><text>102</text></navLabel>
+			<content src="s9ml/chapter019/ch019.xhtml#page102"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget103" value="103">
+			<navLabel><text>103</text></navLabel>
+			<content src="s9ml/chapter019/ch019.xhtml#page103"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget104" value="104">
+			<navLabel><text>104</text></navLabel>
+			<content src="s9ml/chapter019/ch019.xhtml#page104"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget105" value="105">
+			<navLabel><text>105</text></navLabel>
+			<content src="s9ml/chapter019/ch019.xhtml#page105"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget106" value="106">
+			<navLabel><text>106</text></navLabel>
+			<content src="s9ml/chapter019/ch019.xhtml#page106"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget107" value="107">
+			<navLabel><text>107</text></navLabel>
+			<content src="s9ml/chapter019/ch019.xhtml#page107"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget108" value="108">
+			<navLabel><text>108</text></navLabel>
+			<content src="s9ml/chapter020/ch020.xhtml#page108"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget109" value="109">
+			<navLabel><text>109</text></navLabel>
+			<content src="s9ml/chapter020/ch020.xhtml#page109"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget110" value="110">
+			<navLabel><text>110</text></navLabel>
+			<content src="s9ml/chapter020/ch020.xhtml#page110"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget111" value="111">
+			<navLabel><text>111</text></navLabel>
+			<content src="s9ml/chapter020/ch020.xhtml#page111"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget112" value="112">
+			<navLabel><text>112</text></navLabel>
+			<content src="s9ml/chapter020/ch020.xhtml#page112"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget113" value="113">
+			<navLabel><text>113</text></navLabel>
+			<content src="s9ml/part002/p02.xhtml#page113"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget114" value="114">
+			<navLabel><text>114</text></navLabel>
+			<content src="s9ml/part002/p02.xhtml#page114"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget115" value="115">
+			<navLabel><text>115</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page115"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget116" value="116">
+			<navLabel><text>116</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page116"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget117" value="117">
+			<navLabel><text>117</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page117"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget118" value="118">
+			<navLabel><text>118</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page118"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget119" value="119">
+			<navLabel><text>119</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page119"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget120" value="120">
+			<navLabel><text>120</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page120"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget121" value="121">
+			<navLabel><text>121</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page121"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget122" value="122">
+			<navLabel><text>122</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page122"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget123" value="123">
+			<navLabel><text>123</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page123"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget124" value="124">
+			<navLabel><text>124</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page124"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget125" value="125">
+			<navLabel><text>125</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page125"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget126" value="126">
+			<navLabel><text>126</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page126"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget127" value="127">
+			<navLabel><text>127</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page127"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget128" value="128">
+			<navLabel><text>128</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page128"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget129" value="129">
+			<navLabel><text>129</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page129"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget130" value="130">
+			<navLabel><text>130</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page130"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget131" value="131">
+			<navLabel><text>131</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page131"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget132" value="132">
+			<navLabel><text>132</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page132"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget133" value="133">
+			<navLabel><text>133</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page133"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget134" value="134">
+			<navLabel><text>134</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page134"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget135" value="135">
+			<navLabel><text>135</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page135"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget136" value="136">
+			<navLabel><text>136</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page136"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget137" value="137">
+			<navLabel><text>137</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page137"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget138" value="138">
+			<navLabel><text>138</text></navLabel>
+			<content src="s9ml/chapter021/ch021.xhtml#page138"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget139" value="139">
+			<navLabel><text>139</text></navLabel>
+			<content src="s9ml/chapter022/ch022.xhtml#page139"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget140" value="140">
+			<navLabel><text>140</text></navLabel>
+			<content src="s9ml/chapter022/ch022.xhtml#page140"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget141" value="141">
+			<navLabel><text>141</text></navLabel>
+			<content src="s9ml/chapter022/ch022.xhtml#page141"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget142" value="142">
+			<navLabel><text>142</text></navLabel>
+			<content src="s9ml/chapter022/ch022.xhtml#page142"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget143" value="143">
+			<navLabel><text>143</text></navLabel>
+			<content src="s9ml/chapter022/ch022.xhtml#page143"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget144" value="144">
+			<navLabel><text>144</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml#page144"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget145" value="145">
+			<navLabel><text>145</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml#page145"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget146" value="146">
+			<navLabel><text>146</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml#page146"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget147" value="147">
+			<navLabel><text>147</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml#page147"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget148" value="148">
+			<navLabel><text>148</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml#page148"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget149" value="149">
+			<navLabel><text>149</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml#page149"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget150" value="150">
+			<navLabel><text>150</text></navLabel>
+			<content src="s9ml/chapter023/ch023.xhtml#page150"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget151" value="151">
+			<navLabel><text>151</text></navLabel>
+			<content src="s9ml/chapter024/ch024.xhtml#page151"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget152" value="152">
+			<navLabel><text>152</text></navLabel>
+			<content src="s9ml/chapter024/ch024.xhtml#page152"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget153" value="153">
+			<navLabel><text>153</text></navLabel>
+			<content src="s9ml/chapter024/ch024.xhtml#page153"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget154" value="154">
+			<navLabel><text>154</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml#page154"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget155" value="155">
+			<navLabel><text>155</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml#page155"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget156" value="156">
+			<navLabel><text>156</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml#page156"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget157" value="157">
+			<navLabel><text>157</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml#page157"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget158" value="158">
+			<navLabel><text>158</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml#page158"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget159" value="159">
+			<navLabel><text>159</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml#page159"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget160" value="160">
+			<navLabel><text>160</text></navLabel>
+			<content src="s9ml/chapter025/ch025.xhtml#page160"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget161" value="161">
+			<navLabel><text>161</text></navLabel>
+			<content src="s9ml/chapter026/ch026.xhtml#page161"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget162" value="162">
+			<navLabel><text>162</text></navLabel>
+			<content src="s9ml/chapter026/ch026.xhtml#page162"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget163" value="163">
+			<navLabel><text>163</text></navLabel>
+			<content src="s9ml/part003/p03.xhtml#page163"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget164" value="164">
+			<navLabel><text>164</text></navLabel>
+			<content src="s9ml/part003/p03.xhtml#page164"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget165" value="165">
+			<navLabel><text>165</text></navLabel>
+			<content src="s9ml/chapter027/ch027.xhtml#page165"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget166" value="166">
+			<navLabel><text>166</text></navLabel>
+			<content src="s9ml/chapter027/ch027.xhtml#page166"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget167" value="167">
+			<navLabel><text>167</text></navLabel>
+			<content src="s9ml/chapter027/ch027.xhtml#page167"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget168" value="168">
+			<navLabel><text>168</text></navLabel>
+			<content src="s9ml/chapter027/ch027.xhtml#page168"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget169" value="169">
+			<navLabel><text>169</text></navLabel>
+			<content src="s9ml/chapter027/ch027.xhtml#page169"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget170" value="170">
+			<navLabel><text>170</text></navLabel>
+			<content src="s9ml/chapter028/ch028.xhtml#page170"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget171" value="171">
+			<navLabel><text>171</text></navLabel>
+			<content src="s9ml/chapter028/ch028.xhtml#page171"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget172" value="172">
+			<navLabel><text>172</text></navLabel>
+			<content src="s9ml/chapter028/ch028.xhtml#page172"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget173" value="173">
+			<navLabel><text>173</text></navLabel>
+			<content src="s9ml/chapter028/ch028.xhtml#page173"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget174" value="174">
+			<navLabel><text>174</text></navLabel>
+			<content src="s9ml/chapter028/ch028.xhtml#page174"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget175" value="175">
+			<navLabel><text>175</text></navLabel>
+			<content src="s9ml/chapter028/ch028.xhtml#page175"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget176" value="176">
+			<navLabel><text>176</text></navLabel>
+			<content src="s9ml/chapter029/ch029.xhtml#page176"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget177" value="177">
+			<navLabel><text>177</text></navLabel>
+			<content src="s9ml/chapter029/ch029.xhtml#page177"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget178" value="178">
+			<navLabel><text>178</text></navLabel>
+			<content src="s9ml/chapter029/ch029.xhtml#page178"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget179" value="179">
+			<navLabel><text>179</text></navLabel>
+			<content src="s9ml/chapter029/ch029.xhtml#page179"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget180" value="180">
+			<navLabel><text>180</text></navLabel>
+			<content src="s9ml/chapter030/ch030.xhtml#page180"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget181" value="181">
+			<navLabel><text>181</text></navLabel>
+			<content src="s9ml/chapter030/ch030.xhtml#page181"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget182" value="182">
+			<navLabel><text>182</text></navLabel>
+			<content src="s9ml/chapter030/ch030.xhtml#page182"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget183" value="183">
+			<navLabel><text>183</text></navLabel>
+			<content src="s9ml/chapter031/ch031.xhtml#page183"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget184" value="184">
+			<navLabel><text>184</text></navLabel>
+			<content src="s9ml/chapter031/ch031.xhtml#page184"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget185" value="185">
+			<navLabel><text>185</text></navLabel>
+			<content src="s9ml/part004/p04.xhtml#page185"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget186" value="186">
+			<navLabel><text>186</text></navLabel>
+			<content src="s9ml/part004/p04.xhtml#page186"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget187" value="187">
+			<navLabel><text>187</text></navLabel>
+			<content src="s9ml/chapter032/ch032.xhtml#page187"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget188" value="188">
+			<navLabel><text>188</text></navLabel>
+			<content src="s9ml/chapter032/ch032.xhtml#page188"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget189" value="189">
+			<navLabel><text>189</text></navLabel>
+			<content src="s9ml/chapter032/ch032.xhtml#page189"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget190" value="190">
+			<navLabel><text>190</text></navLabel>
+			<content src="s9ml/chapter032/ch032.xhtml#page190"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget191" value="191">
+			<navLabel><text>191</text></navLabel>
+			<content src="s9ml/chapter032/ch032.xhtml#page191"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget192" value="192">
+			<navLabel><text>192</text></navLabel>
+			<content src="s9ml/chapter032/ch032.xhtml#page192"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget193" value="193">
+			<navLabel><text>193</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page193"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget194" value="194">
+			<navLabel><text>194</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page194"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget195" value="195">
+			<navLabel><text>195</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page195"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget196" value="196">
+			<navLabel><text>196</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page196"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget197" value="197">
+			<navLabel><text>197</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page197"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget198" value="198">
+			<navLabel><text>198</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page198"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget199" value="199">
+			<navLabel><text>199</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page199"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget200" value="200">
+			<navLabel><text>200</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page200"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget201" value="201">
+			<navLabel><text>201</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page201"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget202" value="202">
+			<navLabel><text>202</text></navLabel>
+			<content src="s9ml/chapter033/ch033.xhtml#page202"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget203" value="203">
+			<navLabel><text>203</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page203"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget204" value="204">
+			<navLabel><text>204</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page204"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget205" value="205">
+			<navLabel><text>205</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page205"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget206" value="206">
+			<navLabel><text>206</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page206"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget207" value="207">
+			<navLabel><text>207</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page207"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget208" value="208">
+			<navLabel><text>208</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page208"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget209" value="209">
+			<navLabel><text>209</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page209"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget210" value="210">
+			<navLabel><text>210</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page210"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget211" value="211">
+			<navLabel><text>211</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page211"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget212" value="212">
+			<navLabel><text>212</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page212"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget213" value="213">
+			<navLabel><text>213</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page213"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget214" value="214">
+			<navLabel><text>214</text></navLabel>
+			<content src="s9ml/chapter034/ch034.xhtml#page214"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget215" value="215">
+			<navLabel><text>215</text></navLabel>
+			<content src="s9ml/index/index.xhtml#page215"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget216" value="216">
+			<navLabel><text>216</text></navLabel>
+			<content src="s9ml/index/index.xhtml#page216"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget217" value="217">
+			<navLabel><text>217</text></navLabel>
+			<content src="s9ml/index/index.xhtml#page217"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget218" value="218">
+			<navLabel><text>218</text></navLabel>
+			<content src="s9ml/index/index.xhtml#page218"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget219" value="219">
+			<navLabel><text>219</text></navLabel>
+			<content src="s9ml/index/index.xhtml#page219"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget220" value="220">
+			<navLabel><text>220</text></navLabel>
+			<content src="s9ml/index/index.xhtml#page220"/>
+		</pageTarget>
+		<pageTarget type="normal" id="pagetarget221" value="221">
+			<navLabel><text>221</text></navLabel>
+			<content src="s9ml/index/index.xhtml#page221"/>
+		</pageTarget>
+	</pageList>
+</ncx>

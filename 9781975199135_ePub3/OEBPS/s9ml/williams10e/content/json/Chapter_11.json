@@ -1,0 +1,152 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A wife brings her husband to the ER presenting with unusual behavior. She noted he doesn\u2019t remember her or his name, his job, and is acting like a child. Which diagnosis is most likely?",
+      "choices":{  
+         "option0":"A. Acute stress disorder",
+         "option1":"B. Dissociative amnesia",
+         "option2":"C. Dissociative fugue",
+         "option3":"D. Malingering",
+         "option4":"E. Transient global amenia",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is B. Dissociative amnesia (pg 438). This case presents a classic description of dissociative amenia, including a patient with a history of an acute trauma and physical symptoms including alterations in consciousness, a trance state, age regression, anterograde dissociative amnesia, etc. Dissociative fugue involves a sudden, unexpected travel away from the usual place where the person resides, along with the amnesia and identify confusion. While there is no absolute way to differentiates dissociative amnesia from a factitious disorder or malingering, often there is a history of the individual trying to escape legal, financial, or personal difficulties.  Often these patients will confess spontaneously when confronted. While dissociative amnesia can be a part of an acute stress disorder, the other acute stress features are not also present in this case. Transient global amnesia involves a sudden onset of complete anterograde amnesia, along with retrograde amenia, while there is preservation of personal identity and an anxious awareness of the memory loss.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which symptom is more indicative of a seizure disorder rather than a dissociative amnesia?",
+      "choices":{  
+         "option0":"A. Alterations in consciousness",
+         "option1":"B. Ongoing depersonalization",
+         "option2":"C. Persistence of memory impairment",
+         "option3":"D. Sudden wandering and traveling away from a main residence",
+         "option4":"E. Quick resolution of bizarre behaviors",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Quick resolution of bizarre behaviors (p 438, p 439).  While seizures should be part of the differential diagnosis for dissociate amnesia and in some cases the diagnosis can only be clarified by EEG monitoring, for the most part the clinical presentation of seizures differs from dissociate amnesia. With seizure there are clear\u2013cut ictal events and the patient can show wandering, semi\u2013purposeful, or bizarre behavior and memory, problems but rarely do after post ictal event. Changes in consciousness and depersonalization can be seen with dissociative amnesia and a sudden change in residence can be seen this dissociative fugue.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following DSM\u20135 criteria for Depersonalization/Derealization Disorder is only present for derealization symptoms and not for depersonalization?",
+      "choices":{  
+         "option0":"A. Detachment from surroundings",
+         "option1":"B. Feelings of observing oneself",
+         "option2":"C. Perceptual distortions",
+         "option3":"D. Sense of unreality",
+         "option4":"E. Time distortion",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Detachment from surroundings (pg 441). While feelings that things aren\u2019t real can be a part of depersonalization or derealization symptoms, the only other DSM\u20135 criteria to describe derealization includes feeling detaches from one\u2019s surroundings. Depersonalization symptoms including feeling detached from oneself and feeling as if observing oneself, along with time and perceptual distortions.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which personality traits are most commonly seen with dissociative identity disorder?",
+      "choices":{  
+         "option0":"A. Avoidant",
+         "option1":"B. Borderline",
+         "option2":"C. Obsessive\u2013compulsive ",
+         "option3":"D. Narcissistic",
+         "option4":"E. Schizotypal",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Obsessive Compulsive (pg 444).  OCD symptoms along with obsessive\u2013compulsive personality traits are most commonly seen in dissociative identify disorder. Compulsive checking, handwashing, and counting often occur in those with dissociative phenomena, abuse, and PTSD symptoms.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient is evaluated in the emergency room after being brought in off the street and was found to be in a trance\u2013like state. The patient is unable to identify their age or address. Upon cognitive testing, the patient replies 2+2 is 5 and hands the doctor a key when asked to hand a pencil. When asked to point to the color green, the patient points to something gray. The patient reports feeling confused due to hearing voices and seeing strange things. These symptoms best fit which of the following diagnoses?",
+      "choices":{  
+         "option0":"A. Depersonalization disorder",
+         "option1":"B. Derealization disorder",
+         "option2":"C. Dissociative identity disorder",
+         "option3":"D. Ganser syndrome",
+         "option4":"E. Transient global amnesia",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Ganser syndrome (pg 445). Ganser syndrome is characterized by giving approximate answers and often the correct answer is passed over for a related, but incorrect one. It also includes clouding of consciousness or conversion symptoms, along with dissociative symptoms, such as amnesia, along with trance\u2013like behaviors, and in half of the cases visual and auditory hallucinations are also reported. In dissociative identify disorder, acute forms of amnesia along with a fugue episode can be present. These patients report multiple forms of complex amenia including recurrent blackouts an have fluctuations in skills, habits and knowledge. Depersonalization disorder is the persistent feeling of detachment or estranged from one\u2019s self. Derealization involves feelings of unreality or being detached from one\u2019s environment. Transient global amnesia includes a sudden onset of complete anterograde amnesia, along with pronounced retrograde amnesia but preservation of memory for personal identity is intact.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"While often a treatment refractory group, those with depersonalization and derealization disorders appear to partially benefit from which of the following medication treatments?",
+      "choices":{  
+         "option0":"A. Atypical antipsychotics",
+         "option1":"B. Mood stabilizers",
+         "option2":"C. Serotonin reupdate inhibitors",
+         "option3":"D. Tricyclic antidepressants ",
+         "option4":"E. Typical antipsychotics",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Serotonin reuptake inhibitors (pg 446). Those with depersonalization and derealization disorders might partially respond to medication including serotonin reupdate inhibitors, benzodiazepines, and stimulants. Also, there is some evidence for opioid antagonists and cognitive enhancers in helping with depersonalization and derealization disorders. There is absolutely no empirical evidence to support the use of either typical or atypical antipsychotics and these medications may increase feelings of emotional deadness.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is the first step in psychotherapy in treating a patient with dissociative identity disorder?",
+      "choices":{  
+         "option0":"A. Establishing safety and symptom stabilization",
+         "option1":"B. Fusion and integration of all states",
+         "option2":"C. Improved communication and collaboration with self\u2013states",
+         "option3":"D. Hypnotherapeutic interventions",
+         "option4":"E. Processing of traumatic memories and life experiences",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Establishing safety and symptom stabilization (pg 446). Psychotherapy using a phasic model to treat the complex posttraumatic disorder is mainstay treatment for dissociative identify disorder. Phase one consists of stabilization of the dissociative symptoms and comorbid symptoms and establishing safety. Phase 2 involves working on the traumatic memories and making sure the patient is stabilized and aware of the risk of acute worsening of PTSD symptoms. Phase 3 involves fusion, re\u2013integration, and recovery. While hypnotherapy can alleviate some symptoms such as flashbacks and dissociative hallucinations, some controversies exists and it should not be the first step in psychotherapy.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":"Limitations of dialectical behavioral therapy for treatment of dissociative identity disorder include a lack of focus in which of the following areas?",
+      "choices":{  
+         "option0":"A. Affect regulation",
+         "option1":"B. Depersonalization/derealization and flashbacks",
+         "option2":"C. Distress tolerance ",
+         "option3":"D. Safety and wellness",
+         "option4":"E. Therapy\u2013interfering behaviors",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Depersonalization/derealization and flashbacks (pg 447). Dialectical behavioral therapy (DBT) was developed for the treatment of borderline personality disorder. Given many patients with borderline personality disorder report trauma histories, it has been thought that DBT might help those with dissociative identity disorder as well. DBT focuses on safety, therapy\u2013interfering behaviors, affect regulation strategies, distress tolerance, and radical acceptance, all of which can be helpful in the treatment of dissociative identity disorder.  However, one limitation is that it does not directly focus on the main symptoms of dissociative identity disorder, including depersonalization/derealization and dissociative amnesia, along with flashbacks, and trauma\u2013based symptoms.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which somatic treatment strategy is most useful for patients with dissociative identity disorder?",
+      "choices":{  
+         "option0":"A. SSRI treatment should be initiated as first\u2013line therapy",
+         "option1":"B. Stick with smaller doses of alpha antagonists to best help with nightmares ",
+         "option2":"C. Treat comorbid symptoms present across most personalities",
+         "option3":"D. Use typical antipsychotics to decrease anxiety and flashbacks",
+         "option4":"E. Utilize ECT for those with persistent psychotic features",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Treat comorbid symptoms present across multiple personalities (pg 448). Various medications might be useful in the treatment of dissociative identity disorder. Often nightmares are responsive to higher doses of alpha\u2013adrenergic antagonists, such as prazosin, if tolerated. Antidepressant medications including SSRIs, tricyclics, and MAOIs can be helpful in reducing depression and stabilizing mood. Atypical neuroleptics are more effective and better tolerated compared to typical ones for helping with severe anxiety and PTSD symptoms. However, the most effective strategy is to target comorbid symptoms that are present across most or all personalities.  Given rapid symptom fluctuations in this disorder, it is important to avoid chasing each symptom with a new medication or change in dose.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"After depression and anxiety, which of the following is the 3rd most commonly reported psychiatric symptom? ",
+      "choices":{  
+         "option0":"A. Attentional/focusing issues",
+         "option1":"B. Auditory/visual hallucinations",
+         "option2":"C. Body checking/restricting",
+         "option3":"D. Delusions/paranoia",
+         "option4":"E. Depersonalization/derealization",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Depersonalization/derealization (pg 449). Transient experiences of depersonalization/derealization can be prevalent in both normal and clinical populations and is the 3rd most commonly reported psychiatric symptom following depression and anxiety. A lifetime prevalence is estimated to be anywhere from 26 to 74%.",
+      "@activityType":"MCQ"
+   }   
+]

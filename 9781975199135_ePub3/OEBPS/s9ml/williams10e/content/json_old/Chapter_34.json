@@ -1,0 +1,554 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 7\u2013year\u2013old boy is shown two identical glasses of water. When asked which glass has more water, he says they have the same amount. The water in one glass is then poured into a taller, thinner glass in front of him. When asked which glass has more water, he says the taller glass. The water in the tall glass is poured back into the original glass, and he says the amount of water in the two glasses is the same. What cognitive development skill does this show that the child has not yet achieved?",
+      "choices":{  
+         "option0":"A. Inductive reasoning",
+         "option1":"B. Deductive reasoning",
+         "option2":"C. Reversibility",
+         "option3":"D. Conservation",
+         "option4":"E. Operational thought",
+         "@option":"3"
+      },
+      "rationale":"The child has not yet understood the concept of conservation, which is the principle that an object maintains its overall size or volume even if the shape or distribution changes. Reversibility is the understanding that some things can be changed into another state, then back again, such as ice to water. A child who has developed operational thought is able to see things from the point of view of someone else. Deductive reasoning involves using logic to go from the general to the specific, while inductive reasoning moves in the opposite direction. (1008\u20131009)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 6\u2013month\u2013old child is continuously amused when her father places his hands in front of his face, then moves them to reveal his face. This goes on for a full minute, after which the father is exasperated with the child\u2019s wanting to repeat the game. When he does the same actions a month later, his daughter shows little interest. What is the most likely explanation of the child\u2019s change in reaction?",
+      "choices":{  
+         "option0":"A. The child has become habituated to the game with her father but would engage with her mother",
+         "option1":"B. The child is no longer able to pay attention to one stimulus for that length of time",
+         "option2":"C. The child is now able to crawl away and seek novel stimulation",
+         "option3":"D. The child realizes her father is still there even when his hands are closed",
+         "option4":"E. The child now experiences the game as frightening instead of amusing",
+         "@option":"3"
+      },
+      "rationale":"A child learns object permanence between 7 and 8 months old. Prior to that time, a child does not understand that something still exists even though she cannot see it. Once they develop object permanence, her father revealing his face behind his hands is no longer a surprise, so the game then has little meaning. (1007)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" After several weeks of therapy, a patient and therapist discover the patient\u2019s core belief of \"I\u2019m a failure.\" They are most likely engaging in what psychotherapeutic modality?",
+      "choices":{  
+         "option0":"A. Psychodynamic psychotherapy",
+         "option1":"B. Supportive therapy",
+         "option2":"C. Interpersonal therapy",
+         "option3":"D. Cognitive therapy",
+         "option4":"E. Dialectical behavior therapy",
+         "@option":"3"
+      },
+      "rationale":"One of the aims of cognitive therapy is to get to the patient\u2019s core belief, which is thought to be the ultimate driving force of thoughts, behaviors and emotions. Patients can talk about feelings of being a failure, but only in cognitive therapy is it called the core belief and is a focus of treatment. (1010)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Much like monkeys separated from their mothers and isolated at birth, babies who were separated from their mothers and placed in a hospital or other institution for prolonged periods of time eventually demonstrated what behavioral response?",
+      "choices":{  
+         "option0":"A. Anger",
+         "option1":"B. Hyperactivity",
+         "option2":"C. Acting out",
+         "option3":"D. Withdrawal",
+         "option4":"E. Anxiety",
+         "@option":"3"
+      },
+      "rationale":"Harry Harlow\u2019s famous monkey experiment showed that when monkeys were separated from their mother at birth, they became withdrawn, unable to mate or relate to peers, and incapable of caring for their offspring. Similarly, human babies become depressed and withdrawn when separated from their mother, as was described by René Spitz when he studied children who were hospitalized or institutionalized. (1013)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 60\u2013year\u2013old man starts a new oral medication for cancer treatment that he is supposed to take every morning with food. On the first morning, he takes the medication as he reads the newspaper, and five minutes later starts to retch and vomit. This occurs every day of the 30 days he is on the medication. As he walks to the store one afternoon, he passes a newspaper stand and vomits. The newspaper represents what element in classical (Pavlovian) conditioning?",
+      "choices":{  
+         "option0":"A. Conditioned response",
+         "option1":"B. Conditioned stimulus",
+         "option2":"C. Unconditioned response",
+         "option3":"D. Unconditioned stimulus",
+         "@option":"1"
+      },
+      "rationale":"In classical conditioning, two stimuli, in this case the medication and the newspaper, lead to the same response, vomiting. The natural (unconditioned) stimulus is the medication, which causes the natural (unconditioned) response, vomiting. Newspapers do not usually trigger vomiting, and only do so in this man because it has been consistently paired with the natural trigger prior to the unconditioned response. He has become conditioned to the newspaper (the conditioned stimulus), which now produces a response that does not usually occur, making vomiting specifically to the newspaper a conditioned response. (1014)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 13\u2013year\u2013old girl presents with her mother to the outpatient clinic for a routine physical exam. While alone with the doctor, she talks about how her mother \"nags me all the time about doing my homework. I tell her I\u2019m going to do it eventually, but she keeps bothering me until I finally do it just to get her to be quiet.\" The child\u2019s mother is training her daughter by what method of operant conditioning?",
+      "choices":{  
+         "option0":"A. Positive reinforcement",
+         "option1":"B. Negative reinforcement",
+         "option2":"C. Positive punishment",
+         "option3":"D. Negative punishment\u2019",
+         "@option":"1"
+      },
+      "rationale":"Reinforcement always increases a behavior, and punishment decreases it. Positive is applying something and negative is taking it away. In this case, the behavior of doing the homework is reinforced by taking something negative (the nagging) away, so it is negative reinforcement. Positive reinforcement would be giving her extra money or privileges for doing her homework, which would also increase the likelihood of her daughter getting it done. Conversely, positive punishment would be placing her on restriction (applying something) for not doing her homework, in hopes of reducing the behavior of not getting the work done. Negative punishment would be taking away her cell phone (removing something) to reduce the behavior of not doing her work. (1014\u20131015)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 17\u2013year\u2013old girl who was diagnosed with social anxiety disorder a week ago comes to the outpatient clinic for therapy. She is afraid to shake hands with others because she fears she will \"catch a disease from their germs.\" She describes a racing pulse, sweaty palms, feeling like she will vomit, and shortness of breath \"when I even think about touching someone else.\" The therapist teaches her how to engage in deep breathing, then has her imagine shaking hands with someone else. As her anxiety builds, the therapist guides her through the breathing techniques. This progresses to her watching videos of people shaking hands, followed by shaking hands with gloves on, to finally shaking hands without gloves, while pairing the anxiety with deep breathing each time. What technique is being used to decrease her anxiety?",
+      "choices":{  
+         "option0":"A. Extinction",
+         "option1":"B. Preparedness",
+         "option2":"C. State\u2013dependent learning",
+         "option3":"D. Reinstatement",
+         "option4":"E. Counterconditioning",
+         "@option":"4"
+      },
+      "rationale":"In this example of counterconditioning through systematic desensitization, the conditioned stimulus (shaking hands) is paired with a new stimulus (deep breathing), whereas before, the conditioned stimulus was paired with extreme anxiety. Extinction would involve unpairing the conditioned stimulus and the unconditioned stimulus through a technique such as exposure therapy. Preparedness is the concept that organisms have a predisposition to associate certain stimuli with fear or anxiety. Reinstatement occurs when the current context is associated again with the unconditioned stimulus, leading to a return in fear or anxiety. State\u2013dependent learning is the concept that retention of information is best when tested in the same state in which it was learned. (1016\u20131017)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Parents wish to increase the frequency of their 14\u2013year\u2013old son cleaning his room and decide to use a reinforcer of allowing an extra 30 minutes of video game time before bed. Which reinforcement schedule is most likely to result in the highest number of times he cleans his room?",
+      "choices":{  
+         "option0":"A. Rewarding him every seventh time he cleans the room",
+         "option1":"B. Rewarding him on average every seventh time, but varying the number of times needed",
+         "option2":"C. Rewarding him once every seven days",
+         "option3":"D. Rewarding him on average every seven days, but varying the number of days",
+         "@option":"1"
+      },
+      "rationale":"Variable ratio reinforcement schedules, in which the desired behavior is reinforced after an average but unpredictable number of times, generates the highest rate of behavior. In a fixed ratio schedule, the reinforcement occurs after a certain number of times the behavior occurs, which leads to increasing rates of behavior up until the reinforcer is delivered, followed by a drop off. In a fixed interval schedule, the reinforcer is delivered for the first response after a certain length of time. This leads to the lowest rate of desired behavior, as the deliverance of the reinforcer is completely predictable and only depends on the behavior being done once. In a variable interval schedule, behaviors are reinforced after an average but unpredictable length of time, leading to a higher behavior rate than on a fixed interval schedule, but lower than on a ratio schedule. (1018)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 7\u2013year\u2013old boy tells his parents he does not want to eat his vegetables, but instead would rather have ice cream. They try to convince him to eat the vegetables, but he refuses. Using the Premack principle, how should the parents respond to get him to engage in the desired behavior?",
+      "choices":{  
+         "option0":"A. Make him stay at the table until he eats his vegetables",
+         "option1":"B. Stop saying anything about the situation and carry on with the meal",
+         "option2":"C. Tell him he can have ice cream once he eats his vegetables",
+         "option3":"D. Tell him he cannot have ice cream today, but that he possibly can tomorrow",
+         "option4":"E. Ask him to eat just half the amount of the vegetables",
+         "@option":"2"
+      },
+      "rationale":"The Premack principle states a person may engage in a less\u2013preferred behavior if it grants access to a more\u2013preferred one. The child\u2019s more\u2013preferred behavior is eating ice cream. To follow the principle, the parents should tell him that engaging in the less preferred behavior (eating his vegetables) will result in getting ice cream. (1019)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 45\u2013year\u2013old man reports to his supervisor for his quarterly performance review. Despite meeting his sales goals, he is yelled at by his boss, who is known to be unusually harsh. He increases his sales for the next quarter and experiences the same result by his boss. This continues for the next three quarters, and his production becomes substandard to the point he no longer meets his goals. The man is then transferred to a new boss. According to learned helplessness, how will the man most likely perform prior to his next review?",
+      "choices":{  
+         "option0":"A. He will sell just enough to meet the goal",
+         "option1":"B. He will sell more than he ever has",
+         "option2":"C. His sales will remain subpar",
+         "option3":"D. His sales will drop substantially",
+         "@option":"2"
+      },
+      "rationale":"In the learned helplessness model, an individual repeatedly exposed to an aversive stimulus with no way to avoid it will have difficulty learning behaviors to escape the situation even when escape is possible. In this situation, the new boss presumably would not deliver the aversive stimulus of yelling if the man performs as expected. Because he has learned that his actions are not connected to the deliverance of the negative stimulus, he is much less likely to change his behavior to try to effect change. Therefore, he will continue performing at a subpar level. (1020)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 25\u2013year\u2013old man presents to the emergency department one evening by EMS following an accident in which the all\u2013terrain vehicle he was riding flipped over after he ran over a large branch. He was thrown backwards from the vehicle, landed on his head and lost consciousness. He has no prior medical illnesses and is on no medications. He is a graduate student at the local university. A head CT in the ED shows a lesion in the medial portion of the temporal lobe. When asked if he remembers the accident, he says he does not. He is likely to have difficulty answering which of the following memory questions?",
+      "choices":{  
+         "option0":"A. \"What is your birthdate?\"",
+         "option1":"B. \"Can you repeat these three words? Flag, ball, tree.\"",
+         "option2":"C. \"Who was the first president of the United States?\"",
+         "option3":"D. \"What did you have for lunch this afternoon?\"",
+         "option4":"E. \"What are you studying in school?\"",
+         "@option":"3"
+      },
+      "rationale":"Damage to the medial portion of the temporal lobe can lead to amnesia, both anterograde and retrograde. Retrograde deficits are often most severe for information most recently learned. Immediate memory is usually preserved, which is why he should be able to repeat three words. The most recent non\u2013immediate information he is asked to recall is what he had for lunch earlier in the day. The other questions involve memories that were consolidated years ago. (1024)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Two friends recount during a conversation where they were and what they were doing when they heard the news several years ago that the Twin Towers fell on 9/11/2001 in the United States. They were both in their 20s at the time and recall the disbelief upon first hearing the news. One of them states she was driving to work, talking with her mother on the phone about the next family vacation. The other states he was in his physiology class, listening to his professor talk about the heart. Besides the hippocampus, what brain structure is activated in the production of the memories of this event as compared to memories of routine events?",
+      "choices":{  
+         "option0":"A. Amygdala",
+         "option1":"B. Dentate gyrus",
+         "option2":"C. Subiculum",
+         "option3":"D. Parahippocampal cortex",
+         "option4":"E. Entorhinal cortex",
+         "@option":"0"
+      },
+      "rationale":"The hippocampus, dentate gyrus, subiculum, parahippocampal cortices and entorhinal cortices are all normally crucial for any memory. However, memories for emotional or arousing events include the activation of the amygdala. (1024)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Amnesia due to Korsakoff syndrome results from alcoholic damage and thiamine deficiency to the frontal lobe and what other region of the brain?",
+      "choices":{  
+         "option0":"A. Telencephalon",
+         "option1":"B. Diencephalon",
+         "option2":"C. Metencephalon",
+         "option3":"D. Mesencephalon",
+         "option4":"E. Myencephalon",
+         "@option":"1"
+      },
+      "rationale":"The diencephalon, which consists of the thalamus, hypothalamus, epithalamus and subthalamus is damaged in Korsakoff syndrome. The frontal lobe damage seen in Korsakoff syndrome produces problems with cognition as well as memory retrieval and evaluation. The diencephalon damage adds problems with being able to remember items of one type after switching categories of information to be recalled, as well as the ability to hold verbal and visual information in mind and sustaining mental control. (1025\u20131026)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A person with severe amnesia would be expected to be able to remember which of the following?",
+      "choices":{  
+         "option0":"A. The name of their spouse",
+         "option1":"B. How to get from their house to their favorite store",
+         "option2":"C. The melody of their favorite song",
+         "option3":"D. How to ride a bicycle",
+         "option4":"E. What they did last New Year\u2019s Eve",
+         "@option":"3"
+      },
+      "rationale":"Amnesia affects only declarative (explicit), not procedural (implicit) memory. Declarative memory is divided into episodic (specific events in a person\u2019s history) and semantic memory (recall of facts and concepts). Procedural memory involves being able to carry out muscle actions without much conscious thought, such as with riding a bicycle. (1027, 1028)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 40\u2013year\u2013old female with amnesia is shown a picture of a woman in a bright red dress holding an umbrella on a rainy day. Also in the scene is a lake with ducks and a boat in the distance. The next day, she is asked to read out loud a set of words as quickly as possible. The set includes the words \"duck,\" \"umbrella,\" and \"dress.\" A patient without amnesia would read words represented in the picture more quickly than neutral words, and remember being shown the picture. How will this patient most likely perform?",
+      "choices":{  
+         "option0": "~Quicker reading speed~Remember picture",
+         "option1": "<b>A.</b>~ Yes~ No",
+         "option2": "<b>B.</b>~ Yes~ Yes",
+         "option3": "<b>C.</b>~ No~ Yes",
+         "option4": "<b>D.</b>~ No~ No",
+         "@option": "1"
+      },
+      "rationale":"The patient is participating in an experiment to measure the effect of priming, which is the facilitation of the ability to detect or identify a particular stimulus based on a specific recent experience. Studies have shown that the effect of this type of priming remains intact in participants with amnesia, as demonstrated by increased reading speed of words represented in the priming picture. However, as expected, the participant would not remember being shown the picture. (1027)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 45\u2013year\u2013old man presents to the outpatient clinic with a complaint of difficulty remembering names, facts and events. He states this has been a problem \"for as long as I can remember.\" He works as a welder and denies that it impacts his job. \"It\u2019s just embarrassing to forget things and it bothers me.\" He has no chronic medical illnesses and is on no prescription medications. He takes over\u2013the\u2013counter gingko biloba \"because I heard it might help with memory.\" Vital signs are within normal limits. BMI is 31. Physical exam is noncontributory. The physician orders a memory assessment, which should also include what test?",
+      "choices":{  
+         "option0":"A. Visual field studies",
+         "option1":"B. Audiological exam",
+         "option2":"C. Polysomnogram",
+         "option3":"D. Intellectual function",
+         "option4":"E. Adaptive functioning",
+         "@option":"3"
+      },
+      "rationale":"General intellectual functioning testing should be a part of any neuropsychological examination, including one focused on memory. This would give information about the patient\u2019s test\u2013taking ability and help test certain types of memory impairment. Though disrupted sleep due to obstructive sleep apnea could impact memory, this is less likely the etiology for him as the problem is longstanding. Audiological and visual exams should always be performed in children with learning difficulties, as should adaptive functioning. (1030\u20131032)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A researcher wishes to assess a person\u2019s ability to learn new information, and designs a test that involves the participant trying to remember a string of words. What would be a necessary part of the testing procedure for it to be sensitive to detecting deficits in new learning?",
+      "choices":{  
+         "option0":"A. Distracting the test taker between the learning and recall phases of the test",
+         "option1":"B. Ensuring the test taker knows the meaning of the words used in the test",
+         "option2":"C. Consistency in the number of syllables in each word used in the test",
+         "option3":"D. Presenting words with at least a five\u2013second pause between them",
+         "option4":"E. Presenting the words both visually and audially",
+         "@option":"0"
+      },
+      "rationale":"Memory tests can properly assess impairment in new learning ability using one of two strategies. The first is to present more information than can be held in immediate memory. This may be asking the test taker to memorize a string of 14 digits or learn pairs of unrelated words. The second strategy is to distract the test taker between the learning and recall phases, such as is done in the mental status exam with the five\u2013minute recall of three words.  (1032)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In self\u2013reports of memory difficulty, how do patients with depression report their performance with new\u2013learning capacity and immediate and remote recall?",
+      "choices":{  
+         "option0": "~New\u2013learning~Immediate~Remote",
+         "option1": "<b>A.</b>~ Impaired~ Normal~ Normal",
+         "option2": "<b>B.</b>~ Normal~ Impaired~ Normal",
+         "option3": "<b>C.</b>~ Normal~ Normal~ Impaired",
+         "option4": "<b>D.</b>~ Impaired~ Impaired~ Normal",
+         "option5": "<b>E.</b>~ Normal~ Impaired~ Impaired",
+         "option6": "<b>F.</b>~ Impaired~ Normal~ Impaired",
+         "option7": "<b>G.</b>~ Impaired~ Impaired~ Impaired",
+         "@option": "7"
+      },
+      "rationale":"Patients with depression who report problems with memory as a symptom tend to endorse difficulty in all three domains of new\u2013learning capacity, immediate, and remote recall. In contrast, patients with amnesia do not report difficulty with immediate and remote memory, as those domains are not usually deficient. (1032)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 56\u2013year\u2013old man presents to the emergency department with his wife, who reports her husband was accused of embezzling at his job a month ago, and that he has a court hearing tomorrow. She states they were walking to the car when he slipped on a patch of ice, hit his head, and blacked out. \"When he came to, he couldn\u2019t remember anything, not even who I was, and we\u2019ve been married for 30 years!\" The man tells the physician he does not know where he is and does not know the lady who brought him to the ED. What question should the examiner ask that would lead to the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. \"What is your name?\"",
+         "option1":"B. \"Who is the lady with you today?\"",
+         "option2":"C. \"Who was the first president of the United States?\"",
+         "option3":"D. \"Where were you born?\"",
+         "option4":"E. \"Where do you work?\"",
+         "@option":"0"
+      },
+      "rationale":"In contrast to an individual with psychogenic amnesia or who is malingering, patients with neurogenic amnesia do not forget their name. A patient with neurogenic amnesia would also likely remember their city of birth, which could be used as a question to detect psychogenic amnesia or malingering. However, that is not as specific as asking the person\u2019s name. (1033)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 50\u2013year\u2013old woman who is president of a major manufacturing company starts a mentorship program for early\u2013career female managers with a goal of \"getting more women into the top positions in business.\" According to Erik Erikson\u2019s model, she is working on what developmental task?",
+      "choices":{  
+         "option0":"A. Avoiding isolation",
+         "option1":"B. Mastering integrity",
+         "option2":"C. Avoiding despair",
+         "option3":"D. Mastering generativity",
+         "option4":"E. Mastering intimacy",
+         "@option":"3"
+      },
+      "rationale":"The developmental task of generativity involves guiding the next generation, which could be accomplished by serving as a mentor. Erikson felt this stage occurred between young adulthood and senior adulthood. The developmental task of isolation vs intimacy begins in adolescence and is centered on being able to become involved with a partner. Integrity vs despair occurs in old age and is centered on feeling whether or not one is at peace with the life they have lived. (1035\u20131036).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What part of the brain is most responsible for feelings of attachment and pairing meaning to past experiences?",
+      "choices":{  
+         "option0":"A. Medial temporal lobe",
+         "option1":"B. Amygdala",
+         "option2":"C. Anterior cingulate gyrus",
+         "option3":"D. Hippocampus",
+         "option4":"E. Diencephalon",
+         "@option":"2"
+      },
+      "rationale":"The anterior cingulate gyrus is the area of the brain most responsible for making the past meaningful, and creates attachment by linking memory and the capacity to react and reunite with others. Regarding memory, the amygdala is instrumental in memories with a high arousal or emotional content. The medial portion of the temporal lobe, diencephalon and hippocampus can all lead to amnesia if damaged. (1037)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 30\u2013year\u2013old man who has constant urges to steal to \"see if I can get away with it\" applies for a job with a department store chain to devise ways to decrease vulnerability to merchandise theft. This is an example of what defense mechanism?",
+      "choices":{  
+         "option0":"A. Repression",
+         "option1":"B. Altruism",
+         "option2":"C. Sublimation",
+         "option3":"D. Displacement",
+         "option4":"E. Suppression",
+         "@option":"2"
+      },
+      "rationale":"Sublimation involves channeling an unacceptable urge or impulse into an acceptable outlet. It is generally not acceptable to steal, but it is acceptable to act as a consultant to help businesses mitigate theft. Repression results when a person unconsciously forgets a threatening stimulus, whereas suppression occurs voluntarily. Displacement occurs when an impulse towards someone is redirected to a powerless substitute target. Altruism involves satisfying one\u2019s needs by helping others. (1040)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following defense mechanisms is considered immature?",
+      "choices":{  
+         "option0":"A. Humor",
+         "option1":"B. Sublimation",
+         "option2":"C. Suppression",
+         "option3":"D. Anticipation",
+         "option4":"E. Projection",
+         "@option":"4"
+      },
+      "rationale":"Defense mechanisms are responses to anxiety. Healthy, or mature, defense mechanisms are conscious, rooted in reality and are often constructive. They include humor, altruism, sublimation, suppression, and anticipation. Immature defense mechanisms are out of touch with reality, can be socially undesirable, and can lead to problems with effective coping. Examples include projection, passive\u2013aggression, regression and somatization. (1066)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In a famous ethology experiment, researcher Konrad Lentz discovered that if he was the first moving object a newly hatched gosling saw, the gosling responded to him as if he were its mother. This is an example of what ethological concept?",
+      "choices":{  
+         "option0":"A. Displacement activity",
+         "option1":"B. Priming",
+         "option2":"C. Redirection activity",
+         "option3":"D. Instinct",
+         "option4":"E. Imprinting",
+         "@option":"4"
+      },
+      "rationale":"Imprinting occurs during a particular developmental window during which a young animal is highly sensitive to a particular stimulus. In this case, the young gosling is highly sensitive to the movement of an organism, which it then follows as its mother. Priming is the facilitation of the ability to detect or identify a particular stimulus based on a specific recent experience. Redirection activity occurs when an animal is attacked by the dominant animal, and then fights a less\u2013dominant organism instead. Instinct is a developmental process resulting in species\u2013typical behavior. The imprinting of the gosling is instinctual, but does not explain the specific behavior. Displacement activity occurs when an animal cannot choose between two competing drives, such as fight or flight, and engages in an unrelated activity instead. (1042)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In ethological studies, young rhesus monkeys who were fearful and anxious after being socially isolated or separated showed the strongest response to what source of comfort?",
+      "choices":{  
+         "option0":"A. Food and nourishment",
+         "option1":"B. Visual stimulation",
+         "option2":"C. Aural stimulation",
+         "option3":"D. Physical touch",
+         "option4":"E. Increased physical space",
+         "@option":"3"
+      },
+      "rationale":"In one of Harry Harlow\u2019s experiments, young rhesus monkeys separated from their mother preferred a cloth\u2013covered surrogate to a wire surrogate that provided food. Seeing or hearing other monkeys, but not being able to touch them, did not relieve fear and anxiety, and they tended to isolate themselves. In one of Stephen Soumi\u2019s experiments, isolated monkeys could sometimes be rehabilitated if exposed to \"therapist\" monkeys who initiated gentle physical contact. (1043\u20131044)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" The administration of the drug reserpine in both animals and humans can produce symptoms of what psychiatric illness?",
+      "choices":{  
+         "option0":"A. Anxiety",
+         "option1":"B. Psychosis",
+         "option2":"C. Depression",
+         "option3":"D. Mania",
+         "option4":"E. Delirium",
+         "@option":"2"
+      },
+      "rationale":"Reserpine is a catecholamine\u2013depleting drug that was originally used to treat hypertension, and later used as an antipsychotic. It is now rarely used because of a possible side effect of severe depression. (1046)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 57\u2013year\u2013old man presents to the outpatient clinic with a complaint of feeling \"tired and run down, and I have headaches and stomach aches every night.\" He has felt this way for the past three weeks, and denies having these symptoms together for this amount of time before. He works two jobs, one from the morning to afternoon as a clerk at an office supply store, and one in the late afternoon to late night as a security guard in a mall. He takes lisinopril for hypertension diagnosed three years ago. When the physician comments on stress from work being a contributing factor, he states he is a first\u2013generation immigrant, and that people in his home country are used to his work hours. How should the physician respond?",
+      "choices":{  
+         "option0":"A. \"I really think you\u2019re worn out from constant work.\"",
+         "option1":"B. \"Let\u2019s get some lab work to help see what\u2019s going on.\"",
+         "option2":"C. \"What do you think is causing your symptoms?\"",
+         "option3":"D. \"Would you like to get a second opinion?\"",
+         "option4":"E. \"Is everyone in your home country tired with headaches?\"",
+         "@option":"2"
+      },
+      "rationale":"For any patient, not just someone who emigrated from another country, a patient\u2019s idiom of distress can be culturally bound. The patient should be asked about their cultural identity to avoid misconceptions based on stereotypes or inadequate information. One way to obtain an explanation of a patient\u2019s illness is to ask the patient what they believe is the cause of their symptoms. (1048)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Data from the National Comorbidity Study shows that, in comparison to whites, African Americans have what relative risk for developing substance use, anxiety and depressive disorders and what degree of persistence once a mental illness is developed?",
+      "choices":{  
+         "option0": "~Relative risk~Persistence",
+         "option1": "<b>A.</b>~ Lower~ Lower",
+         "option2": "<b>B.</b>~ Lower~ Higher",
+         "option3": "<b>C.</b>~ Higher~ Lower",
+         "option4": "<b>D.</b>~ Higher~ Higher",
+         "@option": "2"
+      },
+      "rationale":"Though African Americans were found to have lower rates of substance use disorder, anxiety and depression that whites, they tend to have more persistent disorders. A notable exception is schizophrenia, in which African Americans are diagnosed at three time the rate of whites. (1050)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 17\u2013year\u2013old girl is preparing her Indian dress for her senior prom. Her great grandparents emigrated from India to the US prior to the birth of her parents. She has been raised in a traditionally Indian home, in which the family members speak both English and Hindi. She never hesitates to tell someone that she is \"Indian first, American second.\" That declaration refers to what aspect of her identity?",
+      "choices":{  
+         "option0":"A. Race",
+         "option1":"B. Ethnicity",
+         "option2":"C. Culture",
+         "option3":"D. Nationality",
+         "@option":"1"
+      },
+      "rationale":"Ethnicity is the subjective sense of belonging to a group of people who share commonalities including heritage, homeland, history, values, and is what the girl is expressing in her statement. Race is a grouping of people largely based on physical characteristics. Culture is a set of meanings, norms, beliefs, values, and behavior patterns shared by people. (One of the aspects of ethnicity is a shared culture.) Nationality is the country of one\u2019s citizenship, often the same as their place of birth. (1047)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Sigmund Freud\u2019s infant through adolescent stages focused on what aspect of child development?",
+      "choices":{  
+         "option0":"A. Physical",
+         "option1":"B. Cognitive",
+         "option2":"C. Moral",
+         "option3":"D. Sexual",
+         "option4":"E.  Social",
+         "@option":"3"
+      },
+      "rationale":"Freud\u2019s stages of child development were focused on sexuality and libidinal energy, which he postulated shifted around different parts of the body at different ages of an individual. The oral stage involved erotic activity from chewing biting and sucking, the anal stage focused on bowel function, and the phallic stage focused on urination. After the latent stage, in which he theorized that erotic activity was relatively dormant, came the genital stage in which erotic activity is focused on the penis, vagina and clitoris. (1061)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 35\u2013year\u2013old woman presents to a therapist for psychoanalysis to \"work out some anxiety I think stems from my childhood.\" During the session, the therapist will encourage her to talk about what aspect of her life?",
+      "choices":{  
+         "option0":"A. Her relationship with her mother",
+         "option1":"B. The effect anxiety has on sexual functioning",
+         "option2":"C. Her identity as someone with anxiety",
+         "option3":"D. The effect of her upbringing on her adult life",
+         "option4":"E. Anything she can think of to say about any subject",
+         "@option":"4"
+      },
+      "rationale":"The cornerstone of psychoanalysis is free association, in which the patient says whatever comes to mind. The goal is to analyze the feelings towards the therapist, called transference, and the resultant resistance to free association. \"Tell me about your mother\" is a pop\u2013culture punchline often associated with psychoanalysis, but, by definition, would not be free association as it is directive. The same directiveness would result from asking the patient any pointed question. (1069)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Erik Erikson\u2019s psychosocial stages focused on what aspect of an individual\u2019s development?",
+      "choices":{  
+         "option0":"A. Identity",
+         "option1":"B. Personality",
+         "option2":"C. Attachment",
+         "option3":"D. Cognition",
+         "option4":"E. Morality",
+         "@option":"0"
+      },
+      "rationale":"Erik Erikson\u2019s developmental stages centered around identity, identity crisis and identity confusion. He postulated that identity was \"in the inner core of the individual,\" and that it emerged at the end of adolescence. (1072)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" According to positive psychology, what is the factor most associated with being extremely happy?",
+      "choices":{  
+         "option0":"A. Interpersonal relationships",
+         "option1":"B. Having at least a high school diploma or GED",
+         "option2":"C. A marriage lasting over 10 years",
+         "option3":"D. Age between 30 and 60 years ",
+         "option4":"E. Having a career versus a job",
+         "@option":"0"
+      },
+      "rationale":"The strongest correlation to extreme happiness is good relationships with other people, to the extent that relationships may be a necessary condition for extreme happiness. Employment (not necessarily a career vs a job) and being married (not necessarily for 10 years or more) are robustly correlated with happiness. Education and age have a small association with happiness. (1090\u20131091)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 56\u2013year\u2013old woman tells her 57\u2013year\u2013old husband that her sister, who lives in the same town, had her first grandchild. \"I\u2019m so happy! I get to be a great\u2013aunt!\" According to positive psychology, which of the following responses would correlate with a satisfactory marriage?",
+      "choices":{  
+         "option0":"A. \"That\u2019s good to hear.\"",
+         "option1":"B. \"Do you think her daughter is ready to care for a child?\"",
+         "option2":"C. \"That\u2019s good news. I bet your sister is thrilled!\"",
+         "option3":"D. \"It\u2019s been a long day. Let\u2019s go out for dinner.\"",
+         "@option":"2"
+      },
+      "rationale":"According to positive psychology, positive communication is strongly correlated with a good relationship. In a marriage, positive communication is shown through active\u2013constructive responses which are enthusiastic, such as \"That\u2019s good news. I bet your sister is thrilled!\" A majority of the other types of responses have been correlated with marital dissatisfaction. These include active\u2013destructive, which focus on the potential downside; passive\u2013constructive, which are muted responses; and passive destructive, which convey disinterest. (1091)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Increased income has been shown to significantly increase life satisfaction in which of the following circumstances?",
+      "choices":{  
+         "option0":"A. The increase is attained as a result of a promotion at work",
+         "option1":"B. The individual feels they have earned the increase in income",
+         "option2":"C. The individual donates the amount of the increase to charity",
+         "option3":"D. The increase lifts the individual out of extreme poverty",
+         "option4":"E. The increase allows the individual to save money for emergencies",
+         "@option":"3"
+      },
+      "rationale":"Increase in income has a small correlation to life satisfaction with one exception – when the increase allows the person to be able to meet their basic needs. Once the person is no longer in extreme poverty, employment and engagement on the job are much more strongly correlated with happiness. (1091).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 34\u2013year\u2013old woman presents to the outpatient clinic with a complaint of \"being in a funk\" for the past week. She has been diagnosed with major depressive disorder twice before, with the last time being two years ago. She has been on escitalopram each time and stopped it after she felt better. She is on no medications and has no chronic medical illnesses. She has never had therapy \"because the medicine worked so well. I just don\u2019t want to be dependent on it. I\u2019d may be open to therapy, though\" She denies current or past suicidal ideation, continues to go to work, and denies problems with sleep or appetite. \"I just feel negative.\" After explaining positive psychology to her, she states she would be willing to try it. What would be a possible focus in therapy?",
+      "choices":{  
+         "option0":"A. Exploring her feelings about being dependent on medication",
+         "option1":"B. Congratulating her for wanting to engage in therapy",
+         "option2":"C. Having her write out what is going well in her life",
+         "option3":"D. Reflecting on the difference between feeling depressed and feeling happy",
+         "option4":"E. Helping her learn to live with occasional bouts of depression",
+         "@option":"2"
+      },
+      "rationale":"Positive psychology looks at strengths and areas of competence in one\u2019s life, as opposed to deficiencies, weaknesses and problems. Therefore, therapy is not likely to focus on learning to live with depression or what she does not like about medication. Congratulating her on wanting to engage in therapy does not examine her strengths, nor does reflecting on the difference between feeling depressed and happy. Having her think about and write down what is going well in her life could be a technique employed as an intervention. As noted in the stem, the patient should first be assessed to see how open they are to therapy in general and to positive psychology specifically before beginning an intervention. (1092\u20131093).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In addition to a willingness of the patient to engage, the effectiveness of positive psychotherapy is dependent on what factor?",
+      "choices":{  
+         "option0":"A. The relationship between the therapist and patient",
+         "option1":"B. The patient\u2019s ability to be introspective",
+         "option2":"C. The degree of severity of the patient\u2019s symptoms",
+         "option3":"D.  The patient\u2019s willingness to help others",
+         "option4":"E.  The type of illness the patient has",
+         "@option":"0"
+      },
+      "rationale":"A person can engage in positive psychotherapy whether or not they have a mental health issue. Some techniques do not require a high propensity for introspection, such as noticing and recording things that are going well in someone\u2019s life. Helping other people can be a therapeutic technique, but is not the only technique. The common thread among positive psychotherapies is the therapeutic alliance, or relationship between the therapist and the patient. (1093)",
+      "@activityType":"MCQ"
+   }  
+]

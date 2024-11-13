@@ -1,0 +1,76 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the patient\u2019s report of symptoms, which of the following antidepressants should be avoided when considering psychopharmacologic treatment?",
+      "choices":{  
+         "option0":"A. Mirtazapine",
+         "option1":"B. Venlafaxine",
+         "option2":"C. Bupropion",
+         "option3":"D. Citalopram",
+         "option4":"E. Vilazodone",
+         "@option":"0"
+      },
+      "rationale":"One of the patient\u2019s symptoms, and complaints, is weight gain. He notes that he has gained about 20 pounds over the past few months, so mirtazapine should be avoided, given that weight gain is a common side effect. Bupropion would be relatively contraindicated if he had a seizure history, and venlafaxine if he had a history of severe hypertension. Citalopram and vilazodone are not contraindicated for the patient at this time. (389)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the information presented in the video, what is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Persistent depressive disorder",
+         "option1":"B. Major depressive disorder",
+         "option2":"C. Alcohol\u2013induced depressive disorder",
+         "option3":"D. Depressive disorder due to another medical condition",
+         "@option":"1"
+      },
+      "rationale":"The patient reports drinking alcohol most nights, which could contribute to some of his symptoms of depression, and certainly is not helping with his mood in the long run. To get a better understanding of how much the alcohol is contributing, the patient needs to be asked about the time course of alcohol in relation to current symptoms. Regardless of alcohol use, the symptoms are better explained by a depressive disorder that is not substance\u2013induced, given the number of symptoms of major depressive disorder and family history (criterion C of substance/medication\u2013induced depressive disorder in the DSM\u20135\u2013TR) (278). The patient could have persistent depressive disorder and a resultant double depression, but to make this diagnosis, we would need to know more about the length of time of his symptoms, as well as about symptoms of self\u2013esteem and hopelessness. We do not know from the video which lab tests were done when the patient went to the urgent care center and which medical conditions were screened for. The symptoms presented in the video completely fit that of major depressive disorder. (380\u2013382)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which of his symptoms is more indicative of atypical features of depression?",
+      "choices":{  
+         "option0":"A. Energy",
+         "option1":"B. Appetite",
+         "option2":"C. Sleep",
+         "option3":"D. Guilt",
+         "option4":"E. Interest",
+         "@option":"1"
+      },
+      "rationale":"Atypical features of depression are generally the opposite of neurovegetative symptoms of low energy, inattention, insomnia, and poor appetite and weight loss. This patient overeats with fast food and as a result, has gained weight. His other symptoms of major depressive disorder are typical neurovegetative. (382)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Assuming the patient\u2019s symptoms began about 4 weeks ago, and the patient maintains his current feelings toward treatment, what is the expected length of his current episode?",
+      "choices":{  
+         "option0":"A. 1 to 3 months",
+         "option1":"B. 3 to 6 months",
+         "option2":"C. 6 to 12 months",
+         "option3":"D. 13 to 18 months",
+         "option4":"E. 19 to 24 months",
+         "@option":"2"
+      },
+      "rationale":"The patient is currently resistant to the idea of either psychotherapeutic or psychopharmacologic treatment. Left untreated, a major depressive episode lasts 6 to 13 months, while a treated episode lasts around 3 months. (387)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the patient\u2019s chief complaint, which antidepressant may be especially helpful?",
+      "choices":{  
+         "option0":"A. Clomipramine",
+         "option1":"B. Brexpiprazole",
+         "option2":"C. Buspirone",
+         "option3":"D. Bupropion",
+         "option4":"E. Duloxetine",
+         "@option":"4"
+      },
+      "rationale":"The patient\u2019s chief complaint is not depression, but back and stomach pain. In addition to approval for major depressive disorder, duloxetine is also approved for chronic musculoskeletal pain and fibromyalgia, though the Synopsis only discusses its use for neuropathic pain associated with diabetes (634). Clomipramine may be especially helpful for obsessive compulsive disorder (OCD). Brexpiprazole and buspirone are adjuncts for depression, not monotherapy. Escitalopram may be more useful for patients who concomitantly smoke tobacco or have attention deficit hyperactivity disorder (ADHD). (137, 310)",
+      "@activityType":"MCQ"
+   }
+   ]

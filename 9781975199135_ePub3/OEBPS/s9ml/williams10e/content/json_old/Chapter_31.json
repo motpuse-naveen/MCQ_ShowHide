@@ -1,0 +1,108 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" The World Health Organization estimates that more than what percentage of individuals worldwide develop at least one or more mental disorders over the course of their lifetime?",
+      "choices":{  
+         "option0":"A. 5",
+         "option1":"B. 10",
+         "option2":"C. 25",
+         "option3":"D. 50",
+         "option4":"E. 70",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. 25 (pg 875). More than 25% of individual worldwide develop one or more mental disorders in their lifetime. Depression and generalized anxiety disorder are the most prevalent diagnoses. Though disorders differ in prevalence depending on sex, there was no sex differences in the proportion of people having at least one mental disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which are the most common demographics for a person who commits suicide in China?",
+      "choices":{  
+         "option0":"A. Elderly male in a high socioeconomic class",
+         "option1":"B. Elderly female in a low socioeconomic class",
+         "option2":"C. Young female in a rural area",
+         "option3":"D. Young female in urban area",
+         "option4":"E. Young male in an urban area",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option B. Young female in a rural area (pg 875).  In China, suicide is the leading cause of death for people between 15\u201334 years old. China is the only country where suicide rates in women are consistently higher than those in men, especially in rural areas.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which psychiatric disorder is rated among the most disabling in both developed and developing countries?",
+      "choices":{  
+         "option0":"A. Attention deficit hyperactivity disorder ",
+         "option1":"B. Bipolar disorder",
+         "option2":"C. Intermittent explosive disorder",
+         "option3":"D. Panic disorder",
+         "option4":"E. Specific phobiae",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Bipolar disorder (pg 876). According to the Disorder\u2013Specific Global Sheehan Disability Scale Ratings for commonly occurring mental and chronic physical disorders in developed and developing countries, bipolar disorder and depression are the top two mental disorders rated the highest for being severely disabling.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which disease is estimated to be the leading cause of disability for the future?",
+      "choices":{  
+         "option0":"A. Cataracts",
+         "option1":"B. Cerebrovascular disorder",
+         "option2":"C. Generalized anxiety disorder",
+         "option3":"D. HIV/AIDS",
+         "option4":"E. Unipolar Depression",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. HIV/AIDS (pg 877). According to the DALY scale, the Leading Cause of Disability\u2013Adjusted Life Year worldwide estimated for the year 2030, HIV/AIDS is the leading cause of disability at 12.1%, with depression coming in at number two at 5.7%",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient with a mental illness and which of the following demographic factors is statistically speaking most likely to report feeling discriminated against?",
+      "choices":{  
+         "option0":"A. A male in a rural area",
+         "option1":"B. A male in the social area",
+         "option2":"C. A woman in a rural area",
+         "option3":"D. A woman in the family setting",
+         "option4":"E. A woman in the job area",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. A woman in the family setting (pg 878). A study caried out in India by the WPA (World Psychiatric Association) found that women and people living in urban areas were the most stigmatized. Men experienced more discriminating in the job area, whereas women experienced more discrimination within the family and social areas.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Even after controlling for substance use, patients with which of the following types of psychiatric disorders are at increased risk of diabetes, heart disease, gastrointestinal disorders, and malignant neoplasms?",
+      "choices":{  
+         "option0":"A. Anxiety",
+         "option1":"B. Attention deficit",
+         "option2":"C. Eating",
+         "option3":"D. Personality",
+         "option4":"E. Psychotic",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Psychotic (pg 879). Those with mental disorders have a higher prevalence of physical disease compared with the general population. Even after controlling for comorbid substance use disorders, those patients with psychotic disorders were found to be more likely than others to develop diabetes, hypertension, heart disease, asthma, gastrointestinal disorders, skin infections, malignant neoplasms, and acute respiratory disorders.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A strong prospective association exists between depression and which of the following medical illnesses?",
+      "choices":{  
+         "option0":"A. Asthma",
+         "option1":"B. Irritable bowel disorder",
+         "option2":"C. Myocardial infarctions",
+         "option3":"D. Renal failure",
+         "option4":"E. Seizure",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Myocardial infarctions (pg 879). A strong prospective association exists between depression and coronary heart disease, including fatal myocardial infarctions. It should also be noted though that after having a myocardial infarction, the risk of depression increases.",
+      "@activityType":"MCQ"
+   }
+]
+   

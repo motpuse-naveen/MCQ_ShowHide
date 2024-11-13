@@ -1,0 +1,75 @@
+[ 
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Assuming that the patient does not use substances, he has had these symptoms for around 3 months, and medical workup for organic causes is negative, what is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Autism spectrum disorder",
+         "option1":"B. Schizophrenia",
+         "option2":"C. Brief psychotic disorder",
+         "option3":"D. Schizotypal personality disorder",
+         "option4":"E. Delusional disorder",
+         "@option":"1"
+      },
+      "rationale":"The patient is showing signs and symptoms of schizophrenia. Current symptoms include auditory (and possibly visual) hallucinations, delusions, and negative symptoms. He is likely experiencing a disruption of social functioning (with his roommate) and occupational functioning (school) (341). Brief psychotic disorder, by definition, lasts less than 1 month (344). Though his affect is consistent with someone who is acutely depressed, depression does not usually present with delusions. Likewise, though he is presenting with atypical social interaction, including poor eye contact and stilted speech, autism spectrum disorder also does not present with primary hallucinations or delusions (125). Patients with delusional disorder do not have sustained or prominent hallucinations (345). Schizotypal personality disorder does not involve psychosis (567). One of the first rule-outs for this presentation is substance use, so a urine drug screen should be obtained immediately, and he should then have a full medical workup before making a diagnosis of schizophrenia.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the patient\u2019s gender and assumed age based on his current educational placement, how does the timing of his presentation relate to the average age of presentation of his symptoms?",
+      "choices":{  
+         "option0":"A. 10 to 15 years later than average",
+         "option1":"B. 5 to 10 years earlier than average",
+         "option2":"C. In line with the average age",
+         "option3":"D. 5 to 10 years earlier than average",
+         "option4":"E. 10 to 15 years earlier than average",
+         "@option":"2"
+      },
+      "rationale":"The patient in the video states that he has been in college since at least his freshman year, which would make him at least 18 years old. Schizophrenia usually presents prior to age 25 years. Childhood-onset schizophrenia, which occurs before age 13 years, is rare (207). Onset after age 45 years is considered late-onset schizophrenia and is more frequent in women. (340)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"How would this patient\u2019s thought process, at its most impaired, best be described when documenting the mental status examination?",
+      "choices":{  
+         "option0":"A. Linear",
+         "option1":"B. Circumstantial",
+         "option2":"C. Tangential",
+         "option3":"D. Derailment",
+         "option4":"E. Thought blocking",
+         "@option":"3"
+      },
+      "rationale":"The patient begins the interview with short, linear answers. (\"Where are you at school?\" \"State College.\" \"How long have you been at State College?\" \"My freshman year.\") His thought process then becomes circumstantial when asked what courses he is taking. He talks about high school courses and changing majors. This quickly devolves into derailment when he talks about \"the totality of life\" and the microwave oven. At that point, the words form sentences, but the ideas do not connect. At the end, he abruptly stops talking when asked if he came to the appointment with anyone else, but this is likely due to responding to hallucinations, not from being unable to complete a thought, so it would not be considered thought blocking. (10)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"How would this patient\u2019s range of affect best be described?",
+      "choices":{  
+         "option0":"A. Restricted",
+         "option1":"B. Labile",
+         "option2":"C. Normal",
+         "option3":"D. Flat",
+         "@option":"0"
+      },
+      "rationale":"The patient displays changes in affect when annoyed (asked why his parents called and how long he has been in college) and when he talks about being spared by \"them,\" during which he looks slightly gleeful. Therefore, he displays more than a flat range of affect. However, this range is diminished. He does not look as annoyed as someone may be in his situation, and does not look as relieved as someone would who is escaping from \"them.\" Furthermore, his affect does not change much when talking about presumably neutral topics, such as the courses he is taking. Therefore, his affect cannot be described as normal. He does not abruptly and unexpectedly shift in affect, so it would not be described as labile. The most accurate description is restricted. (9)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"At what point in the interview does the patient demonstrate being affected by a delusion?",
+      "choices":{  
+         "option0":"A. Requesting the interviewer to stop talking at the end of the interview",
+         "option1":"B. Recounting his high school courses",
+         "option2":"C. Talking about the microwave",
+         "option3":"D. Looking around the room at the end of the interview",
+         "@option":"2"
+      },
+      "rationale":"Delusions are a \"false belief based on incorrect inference about external reality that is firmly held despite objective and obvious contradictory proof or evidence and despite the fact that other members of the culture do not share that belief\" (1138). An example is when the patient starts talking about the microwave being an omen of \"them\" coming for humanity, which is both bizarre and persecutory. Requesting the interviewer to stop talking and looking around the room at the end of the interview are most likely the result of experiencing auditory and/or visual hallucinations, which are \"false sensory perceptions occurring in the absence of any relevant external stimulation of the sensory modality involved\" (1140). Recounting his high school courses and fiddling with his hoodie are not evidence of unusual thought content.",
+      "@activityType":"MCQ"
+   }
+   ]

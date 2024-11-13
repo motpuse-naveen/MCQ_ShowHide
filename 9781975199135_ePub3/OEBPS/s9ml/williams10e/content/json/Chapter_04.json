@@ -1,0 +1,589 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient experiencing liver failure from alcohol, cravings to use again in spite of losing their job and marriage, and getting DUIs, would be classified as having which of the following alcohol disorders in the DSM\u20135?",
+      "choices":{  
+         "option0":"A. Abuse",
+         "option1":"B. Addiction",
+         "option2":"C. Dependence",
+         "option3":"D. Intoxication",
+         "option4":"E. Use",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E \u2013 Use (pg 1, 2)\u2013  In the past, various DSM terms have been used to refer to those with substance abuse. Alcohol/Substance dependence and abuse were terms used in previous DSM additions. The word addiction, or addict is not an official medical term. Substance use disorder is a DSM\u20135 term referring to prolonged use and abuse of a substance and the specific substance should be specified. Criteria include 2 or more of physiological symptoms, symptoms of addition, and/or psychological sequelae of use for a period of 12 months, leading to psychosocial impairment. Some symptoms include tolerance, withdrawal, cravings, using more than intended, difficulty stopping, etc. along with those mentioned above such as using in spite of health problems or adverse social or occupational consequences.  Substance intoxication is the diagnosis used to describe specific signs or symptoms from recent exposure to the substance.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The frequency of suicide in those with substance abuse is second only to which of the following psychiatric disorders?",
+      "choices":{  
+         "option0":"A. Bipolar",
+         "option1":"B. Eating",
+         "option2":"C. Generalized anxiety",
+         "option3":"D. Major depressive",
+         "option4":"E. Panic",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Major depressive (272). Approximately 1/3 to ½ of those with opioid abuse or dependence and about 40% of those with alcohol abuse or dependence meet criteria for a major depressive disorder. Those with substance use alone are 20 times more likely to die by suicide than the general population, with a total of around 15% of those with alcohol abuse or dependence committing suicide. The frequency of suicide in substance use is only secondary to that in major depressive disorder. </ANS>",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following pharmacologic agents is designed at helping tobacco dependence?",
+      "choices":{  
+         "option0":"A. Acamprosate",
+         "option1":"B. Disulfuram",
+         "option2":"C. Levomethadyl acetate",
+         "option3":"D. Naltrexone",
+         "option4":"E. Varenicline",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Varenicline (pg 273).  Along with nicotine delivery devices, and bupropion, varenicline can help with tobacco dependence. Acamprosate, disulfiram, and naltrexone can help with alcoholism. Levomethadyl acetate can help with heroin addiction.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"In the United States, which ethnic or racial group has the highest lifetime rate of substance use?",
+      "choices":{  
+         "option0":"A. African Americans",
+         "option1":"B. American Indians",
+         "option2":"C. Asians",
+         "option3":"D. Caucasians",
+         "option4":"E. Hispanics",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. American Indians (pg 274). In the U.S. the highest lifetime rate of substance use is among American Indians or Alaska Natives. Caucasians have higher rates compared to African Americans.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The locus ceruleus likely mediates the effects of which of the following drugs?",
+      "choices":{  
+         "option0":"A. Amphetamines",
+         "option1":"B. Benzodiazepines",
+         "option2":"C. Cannabis",
+         "option3":"D. Nicotine",
+         "option4":"E. Opioids",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Opioids (p 274). The locus ceruleus, the largest group of adrenergic neurons, is thought to mediate the effects of the opiates and opioids. The dompaminergic neurons in the ventral tegmental are (VTA) are involved with the sensation of reward and may represent a mediation of the effects of amphetamines and cocaine.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which range of blood alcohol concentration is considered to be the legal definition of intoxication in most states in the U.S., as levels in this range have been shown to increase incoordination and cause errors in judgment.",
+      "choices":{  
+         "option0":"A. 20\u201340mg/dl",
+         "option1":"B. 40\u201360mg/dil",
+         "option2":"C. 80\u2013100mg/dl",
+         "option3":"D. 200\u2013250mg/dl",
+         "option4":"E. &gt;300mg/dl",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. 80\u2013100mg/dl (276). The legal definition of intoxication in most states in the U.S. is a blood alcohol concentration of 80\u2013100mg ethanol per decliliter, or 0.08\u20130.10 g/dl. At levels between 80\u2013200mg/dl typically incoordination is increased and judgment errors are more likely to occur, along with mood instability and a deterioration in cognitive status. Levels of 20\u201330mg/dl can lead to slowed motor performance and decreased ability to think. Levels of 30\u201380mg/dl can lead to increased motor and cognitive problems.  Nystagmus, slurred speech, and blackouts can occur at levels between 200\u2013300 mg/dl and above 300mg/dl vital signs are impaired and death can occur.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following signs or symptoms can be noted in alcohol withdrawal? ",
+      "choices":{  
+         "option0":"A. Bradycardia",
+         "option1":"B. Hypotension",
+         "option2":"C. Miotic pupils",
+         "option3":"D. Renal failure",
+         "option4":"E. Tremors",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Tremors pg (276). Classic signs of alcohol withdrawal include irritability, nausea, vomiting, and autonomic hyperactivity, including sweating, facial flushing, mydriasis, tachycardia, and hypertension. An alcohol withdrawal tremor can look like wither a physiologic tremors (i.e. continuous, high amplitude, more than 8 Hz) or a familial tremor (i.e.bursts of activity, slower than 8 Hz).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Long\u2013term severe alcohol abuse can result in a seizure by lowering which of the following lab values?",
+      "choices":{  
+         "option0":"A. Albumin",
+         "option1":"B. Ca",
+         "option2":"C. Obtain hearing testing",
+         "option3":"D. K",
+         "option4":"E. Na",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E\u2013 Na (pg 276). Seizures in long\u2013term alcohol abuse can be caused by hyponatremia, as well as by hypoglcyemia and hypomagnesemia",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A psychiatrist refers a middle\u2013aged, alcoholic patient for a neurology evaluation after gait abnormalities were noted along with confusion and delusions. No signs of withdrawal are noted on exam and the patient does not appear acutely intoxicated and has mostly a linear thought process. Findings from the neurologist include normal vital signs, bilateral nystagmus, and pupils reacting unevenly to light.  These findings are most consistent with which diagnosis?",
+      "choices":{  
+         "option0":"A. Alcohol\u2013induced psychotic disorder",
+         "option1":"B. Delirium tremens",
+         "option2":"C. Korsakoff syndrome",
+         "option3":"D. Unspecified alcohol\u2013related disorder",
+         "option4":"E. Wernicke encephalopathy",
+
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Wernicke encephalopathy (pg 277). Wernicke encephalopathy is an acute neurologic disorder presenting as ataxia (mostly gait), vestibular dysfunction, confusion and ocular motor abnormalities including nystagmus, gaze palsy, anisocoria (unequal pupal size), etc. Most remit whereas some progress to Korsakoff syndrome, consisting of anterograde amnesia and often confabulation. Symptoms of delirium tremens include confusion and hallucinations though also autonomic findings would be noted including tachycardia, diaphoresis, fever, etc. Alcohol\u2013induced psychotic disorders consist of hallucinations or delusions in the context of heavy drinking or withdrawal. Unspecified alcohol\u2013related disorder is the DSM\u20135 term for alcohol related disorders not meeting criteria for any other diagnoses",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient with heavy alcohol use reports all of the symptoms of a major depressive disorder. Which is the most appropriate initial treatment for most cases?",
+      "choices":{  
+         "option0":"A. An atypical antipsychotic",
+         "option1":"B. A selective serotonin reuptake inhibitor",
+         "option2":"C. Education",
+         "option3":"D. Interpersonal psychotherapy",
+         "option4":"E. Naltrexone",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option B. Education (278). Most alcohol induced depressions, even severe, resolve within a few days to a month of abstinence without treatment. Typically, education and cognitive behavioral therapy are the initial appropriate treatment options and there should be a 2 to 4 week trial of abstinence, education, and CBT before initiation antidepressants.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient presents with alcohol dependence, fatigue, and insomnia, along with confusion noted on mental status exam.  Reports of myoclonus and increased muscle resistance to movement were noted in the primary care doctor\u2019s notes.  This patient should be tested for which of the following vitamin deficiencies?",
+      "choices":{  
+         "option0":"A. Cyanocobalamin",
+         "option1":"B. D",
+         "option2":"C. Folic acid",
+         "option3":"D. Pantothenic acid",
+         "option4":"E. Thiamine",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Thiamine (pg 279). Patients with a history of heavy alcohol use and the above symptoms should be checked for a thiamine deficiency (vitamin B1). Thiamine deficiency can cause pellagra and when it gets the point of alcoholic pellagra encephalopathy with features of Wernicke\u2013Korsakoff, often there is no response to thiamine treatment. Symptoms of alcohol pellagra include general symptoms such as fatigue, anorexia, insomnia, irritability, etc. along with physical findings noted above such as myoclonus and oppositional hypertonia. Confusion ranging from mild to delirium can be noted.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which psychiatric diagnosis is one of the most common comorbid ones with alcohol related disorders?",
+      "choices":{  
+         "option0":"A. Anorexia nervosa",
+         "option1":"B. Antisocial personality",
+         "option2":"C. Attention deficit hyperactivity",
+         "option3":"D. Autism spectrum",
+         "option4":"E. Schizophrenia",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Antisocial personality (pg 280). Antisocial personality disorder, along with other substance related disorders, mood, and anxiety disorders are amongst the most common comorbid conditions with alcohol use disorders. Antisocial personality disorder is particularly common and often precedes the alcohol disorder. Mood disorders are present in around 30\u201340% and anxiety disorders in around 25\u201350% in those with alcohol disorders.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient with alcohol use disorder comes in for treatment for depression and insomnia. The psychiatrist highlights how impairing those symptoms are and then discusses the role that alcohol has played in these problems and that abstinence is possible. This approach is most in line with which of the following therapies?",
+      "choices":{  
+         "option0":"A. Cognitive behavioral ",
+         "option1":"B. Dialectical behavioral",
+         "option2":"C. Interpersonal",
+         "option3":"D. Motivational interviewing",
+         "option4":"E. Twelve step",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Motivational interviewing (pg 281). The above approach is most in line with motivational interviewing. This can help the patient to recognize the adverse consequences of drinking and be motivated to stop. The therapist should explore the adverse consequences of alcohol with the patient in a persistent but nonjudgmental manner",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following is the current standard treatment of choice for alcohol related withdrawal seizures?",
+      "choices":{  
+         "option0":"A. Anticonvulsants",
+         "option1":"B. Antipsychotics",
+         "option2":"C. Barbiturates",
+         "option3":"D. Benzodiazepines",
+         "option4":"E. Mood stabilizers",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Benzodiazepines (pt 281). After having a neurologic evaluation to rule out a comorbid or non\u2013alcohol related cause of the seizure, benzodiazepines (ie\u2013 lorazepam, chlordiazepoxide, diazepam, etc.)  are the treatment of choice that should be used for managing alcohol related withdrawal seizures. Anticonvulsants are not thought to offer additional benefits. Any CNS depressant such as benzodiazepines, barbiturates or alcohol can help minimize alcohol withdrawal, though benzodiazepines are thought to be safer and offer better control of the withdrawal symptoms. While carbamazepine at a dose of 800mg daily has been shown to be as effective as benzodiazepines with less abuse potential and is being used more often now, currently the standard is still a benzodiazepine.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Aside from motivating the patient to remain abstinent, which of the following topics is most helpful to focus on initially during counseling for alcohol rehabilitation?",
+      "choices":{  
+         "option0":"A. Causes of the disorder",
+         "option1":"B. Day\u2013to\u2013day life issues",
+         "option2":"C. Future plans",
+         "option3":"D. Social anxiety",
+         "option4":"E. Underlying depression",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Day\u2013to\u2013day life issues (pg 282).  Treatment for alcohol rehab should be the same regardless of the setting. Initial counseling for the first few months should focus on day\u2013to\u2013day life stressors and helping the patient to function and maintain abstinence. Psychotherapy to get at the root cause of the disorder (i.e. no single even is the sole cause of alcoholism), focusing on depression that caused it (i.e.\u2013  often it is the other way around, the alcohol contributed to the mood disorder), or insight oriented therapy that can provoke anxiety can get in the way of abstinence and is not indicated within the first 3\u20136 months of treatment.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"After detoxification for alcoholism, lingering level of anxiety and insomnia can best be initially treated with which of the following approaches?",
+      "choices":{  
+         "option0":"A. An antidepressant",
+         "option1":"B. An antihistamine",
+         "option2":"C. A benzodiazepine",
+         "option3":"D. Behavior modification",
+         "option4":"E. Melatonin",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Behavior modification (pg 283). After detoxification, unless the patient has an independent psychiatric disorder, an antidepressant or antianxiety meds should not be prescribed. Behavior modification and reassurance are the best approaches to treat residual anxiety and insomnia, as the effect of these medications may be short term and put the patient at risk to escalate the dose. The patient should be counseled that lingering sadness and mood swings can occur for a few months when abstinence begins and that behavioral therapy and continued abstinence is most effective.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following medical conditions is a contraindication to being on naltrexone for treating alcohol dependence?",
+      "choices":{  
+         "option0":"A. Being on metronidazole",
+         "option1":"B. Continued use of alcohol",
+         "option2":"C. Coronary artery disease",
+         "option3":"D. Currently using opioids",
+         "option4":"E. Renal failure",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Currently using opioids (pg 284). Contraindications to using naltrexone include currently using opioids or withdrawing from opioids, or an anticipated need for opioid medications. Liver failure or hepatitis is also a contraindication for use. The other contraindications listed are for alternative medications used to treat alcohol dependence including acamprosate (i.e.  severe renal impairment) or disulfiram (i. e. use with alcohol or metronidazole, coronary artery disease or a severe myocardial infarction)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following is the leading cause of preventable death in the United States?",
+      "choices":{  
+         "option0":"A. Alcohol use",
+         "option1":"B. Car accidents",
+         "option2":"C. Gun violence",
+         "option3":"D. Suicides",
+         "option4":"E. Tobacco use",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Tobacco use (pg 285).  Tobacco use is the leading cause of preventable death in the United States, followed by poor diet/physical inactivity, and the third leading cause is alcohol use, which accounts for 10% of deaths amongst all working adults, and contributes to 25% of all suicides and 31% of automobile fatalities.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Even modest amounts of cannabis can have which of the following physical effects on the brain or body during intoxication?",
+      "choices":{  
+         "option0":"A.  Delayed reaction time",
+         "option1":"B.  Depressed mood",
+         "option2":"C.  Impaired long\u2013term memory",
+         "option3":"D.  Increased goal directed activity",
+         "option4":"E.  Physical tenseness",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Delayed reaction time (pg 288). Cannabis intoxication can impair cognition and performance and result in impaired reaction times and perceptions, along with motor coordination issues. During a classic cannabis \"high,\" many experience mild euphoria and relaxation, not tenseness.  Depression can be a symptom of cannabis withdrawal. Short\u2013term memory impairment is common along with difficulty sustaining goal\u2013directed mental activity.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A cannabis\u2013induced psychotic disorder is most commonly associated with which of the following premorbid psychiatric disorders?",
+      "choices":{  
+         "option0":"A. Anxiety",
+         "option1":"B. Bipolar",
+         "option2":"C. Depressive",
+         "option3":"D. Eating",
+         "option4":"E. Personality",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Personality (pg 289). While transient paranoia is common with cannabis use, a cannabis\u2013induced psychotic disorder is rare and is typically associated with a preexisting personality disorder.  Unlike hallucinogens, cannabis use is rarely associated with a \"bad\u2013trip.\"",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Apathy, low energy, psychomotor retardation, and weight gain are often part of a syndrome associated with which of the following substances?",
+      "choices":{  
+         "option0":"A. Barbiturates ",
+         "option1":"B. Caffeine r",
+         "option2":"C. Cannabis",
+         "option3":"D. Hallucinogens",
+         "option4":"E. Opioids",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Cannabis (289).  Amotivational syndrome can be seen with cannabis use. It is unclear if it reflects effects of cannabis versus traits or those who use cannabis heavily or other factors. Symptoms include apathy, anergia and weight gain, with a slothful appearance.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Synthetic THC\u2019s FDA approval in the U.S. is limited to a few medical conditions, including which of the following indications?",
+      "choices":{  
+         "option0":"A. Chronic insomnia",
+         "option1":"B. Nausea in chemotherapy",
+         "option2":"C. Obstructive sleep apnea",
+         "option3":"D. Treatment resistant back pain",
+         "option4":"E. Weight loss in anorexia nervosa",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Nausea in chemotherapy (pg 290). The FDA has approved dronabinol, a synthetic form of THC, for treatment of chemotherapy related nausea and vomiting. While it is also approved for anorexia related weight loss in HIV, it is not approved for weight loss due to other medical or psychiatric conditions including anorexia nervosa. Dronabinol is being studied as a treatment for obstructive sleep apnea, though is not yet approved. Other countries have approved other synthetic THC versions to help with neuropathic pain and multiple sclerosis.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following medical risks can commonly occur with using higher dosages of cannabis?",
+      "choices":{  
+         "option0":"A. Appetite suppression",
+         "option1":"B. Death",
+         "option2":"C. Diaphoresis",
+         "option3":"D. Mild bradycardia",
+         "option4":"E. Orthostatic hypotension",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Orthostatic hypotension (pg 291).  Orthostatic hypotension is thought to be a common side effect from high doses of cannabis.  Other common side effects include increased appetite, dry mouth and a mild tachycardia. There are no documented cases of death from cannabis intoxication, though the greatest risk with chronic use is of chronic respiratory disease and lung cancer.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following signs or symptoms is common in opioid withdrawal?",
+      "choices":{  
+         "option0":"A. Constipation",
+         "option1":"B. Hypotension",
+         "option2":"C. Lacrimation",
+         "option3":"D. Psychosis",
+         "option4":"E. Pupillary constriction",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Lacrimation (pg 292). Lacrimation, along with piloerection (goosebumps), rhinorrhea, yawning, and muscle cramps are all possible symptoms of opioid withdrawal. Diarrhea rather than constipation can be a symptom of opioid withdrawal as well. Changes in vital signs in opioid withdrawal include hypertension, tachycardia, hypothermia or hyperthermia. Pupillary dilation is noted in opioid withdrawal, not pupillary constriction. Psychotic symptoms including hallucinations can be a sign of delirium tremens in alcohol withdrawal.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient presents to the ER after an overdose on an unknown substance. His pupils appear constricted, and he is sedated with slurred speech and has trouble focusing and answering questions. His vital signs are significant for bradycardia and hypotension and he reports being constipated. Which of the following medications would best reverse this overdose?",
+      "choices":{  
+         "option0":"A. Flumazenil",
+         "option1":"B. N\u2013acetylcysteine",
+         "option2":"C. Naloxone",
+         "option3":"D. Naltrexone",
+         "option4":"E. Varenicline",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Naloxone (pg 293). The above signs and symptoms are consistent with opioid intoxication. Naloxone is a short acting medication given IV that can reverse an opioid overdose. Often repeat doses are needed given the duration of action is short compared to the long half\u2013life of many opioids. Naltrexone is a long acting agent that is used after detox to help prevent a relapse. N\u2013acetylcysteine is used in Tylenol overdoses. Flumazenil is used to reverse benzodiazepine overdoses. Varenicline is used to treat nicotine dependence.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following is a main advantage of opioid substitution therapy?",
+      "choices":{  
+         "option0":"A. Drowsiness is minimal",
+         "option1":"B. Outpatient treatment is guaranteed",
+         "option2":"C. Parental formulations are never needed",
+         "option3":"D. There is no risk of dependence",
+         "option4":"E. Treatment can be done quickly in two weeks",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Drowsiness is minimal (pg 295\u2013296). Opioid substitution therapy, including methadone and buprenorphine can eliminate the need to use opioids in illegal and injectable forms, minimizing HIV and hepatitis risk. Other positives include that they cause minimal euphoria and drowsiness and can help the patient to engage in employment instead of criminal activity to obtain the opioid. These agonists are utilized for both inpatient and outpatient detoxification and buprenorphine comes in a parenteral form. They do still carry risks of dependence and abuse. The combination of buprenorphine plus naloxone can help decrease the risk of diversion and abuse. Often a period of at least 4 weeks is needed with demonstration of stabilization prior to lowering the dose of the agonist.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Meperidine can interact with which of the following classes of psychiatric medications leading to agitation, seizures, coma and death?",
+      "choices":{  
+         "option0":"A. Benzodiazepines",
+         "option1":"B. MAOIs ",
+         "option2":"C. SSRIs",
+         "option3":"D. Stimulants",
+         "option4":"E. TCAs",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. MAOIs (pg 297).  An idiosyncratic drug interaction between meperidine, an opioid, and MAOIs (monoamine oxidase inhibitors) can result in autonomic instability, agitation, seizures, coma and death. These two medications should never be given together.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Suicide attempts and unintentional overdoses are often most lethal with which of the following substances of abuse?",
+      "choices":{  
+         "option0":"A. Alcohol",
+         "option1":"B. Barbiturates",
+         "option2":"C. Benzodiazepines",
+         "option3":"D. Lysergic acid diethylamide (LSD)",
+         "option4":"E. Stimulants",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Barbiturates (pg 299). Barbiturates are lethal in overdose because they lead to respiratory depression. They are a common cause of fatal drug overdoses, especially in children when found in medicine cabinets. They lead to coma, respiratory arrest, cardiovascular failure, and death. In contrast, the benzodiazepines when taken alone have a large margin of safety due to less respiratory suppression. However, most lethal overdoses occur when benzodiazepines are combined with other sedatives, including alcohol.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Bath salts lead to a high by increasing levels of which of the following substances?",
+      "choices":{  
+         "option0":"A. Catecholamines",
+         "option1":"B. Enkephalin",
+         "option2":"C. GABA",
+         "option3":"D. Glutamate",
+         "option4":"E. Oxytocin",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Catecholamines (pg 303). Bath salts release a variety of chemicals including cathinone and cathine. Similar to the mechanism of action of cocaine, the cathinones increase synaptic catecholamine levels by inhibiting dopamine, serotonin and norepineprhine reuptake transporters.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"An adolescent is brought to the ER after disrobing and shouting in the streets. Vital signs are significant for an elevated heart rate and low weight, along with a decreased respiratory rate. Neurological exam is significant for dilated pupils and muscle weakness. Mental stats exam is significant for confusion with complaints of chest pain and the adolescent is profusely diaphoretic. Intoxication with what class of substances is most likely to have caused the above symptoms?",
+      "choices":{  
+         "option0":"A. Alcohol",
+         "option1":"B. Barbiturates",
+         "option2":"C. Hallucinogens",
+         "option3":"D. Opioids",
+         "option4":"E. Stimulants",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Stimulants (pg. 304). The above signs and symptoms are classic for stimulant intoxication, along with others such as euphoria, dangerous sexual behavior, and possible mania.  Alcohol, barbiturates, and opioids are sedatives. Pinpoint pupils are associated with opioid intoxication.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Bruxism and poor dentition can most directly be a result of abusing which of the following substances?",
+      "choices":{  
+         "option0":"A. Clonazepam",
+         "option1":"B. Heroin",
+         "option2":"C. Ketamine",
+         "option3":"D. Methamphetamine",
+         "option4":"E. Psilocybin",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Methamphetamine (pg 307).  With intranasal use, methamphetamine can cause vasoconstriction which can lead to mucosal alteration and bruxism (tooth grinding), resulting in poor dentition, also referred to as \"meth mouth.\"",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 50\u2013year\u2013 old female with a past psych history significant for bulimia nervosa is interested in medication to help her quit smoking. Her medical history is significant for a heart attack in the past and most recently she has been suffering from allergies and rashes. Which of the following medications would best be indicated to help her to quit smoking?",
+      "choices":{  
+         "option0":"A. Bupropion SR",
+         "option1":"B. Nicotine inhaler",
+         "option2":"C. Nicotine patch",
+         "option3":"D. Polacrilex gum",
+         "option4":"E. Vareniciline",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Polacrilex gum (pg 310). Nicotine replacement therapies double the rates of cessation. Nicotine polacrilex gum would be a good choice for this patient since the other medications are contraindicated given her medical and psychiatric history. Bupropion, an antidepressant medication is contraindicated in those with a history of bulimia (or anorexia nervosa), due ot increased risk of seizures. Varenicline, can relieve cravings and withdrawal. It has a small but increased risk of causing cardiovascular events in those with preexisting disease. Nicotine patches should be avoided in this patient as rashes are common adverse side effects. Nicotine nasal spray should also be avoided in this patient as it can cause watery eyes and coughing in up to 70% of patients.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following is a known risk of LSD use?",
+      "choices":{  
+         "option0":"A. Cerebrovascular events",
+         "option1":"B. Chronic hallucinations",
+         "option2":"C. Cross\u2013tolerance with amphetamines",
+         "option3":"D. Hypotension",
+         "option4":"E. Liver failure",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option A. Cerebrovascular events (pg 319).  LSD can cause death via cardiac or cerebrovascular pathology given it is a sympathomimetic, which can lead to hypertension, as well as hyperthermia. There is no evidence that LSD can cause chronic psychosis, though it can lead to chronic depression and anxiety. While cross\u2013tolerance between certain hallucinogens can develop, it is not found to develop between LSD and amphetamines.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient in the ER for cardiovascular monitoring and is being given supportive care for intoxication with an unknown substance. On exam the patient is hypertensive and tachycardic. Nystagmus is noted along with increased salivation. The patient was found walking in the middle of the road and was biting himself and did not appear to be in pain. Which of the following is the most likely substance the patient took?",
+      "choices":{  
+         "option0":"A. Alprazolam",
+         "option1":"B. Caffeine",
+         "option2":"C. Cannabis",
+         "option3":"D. Heroin",
+         "option4":"E. Ketamine",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Ketamine. (pg 320, 321). Ketamine, a dissociative anesthetic agent, causes cardiovascular stimulation. Findings on exam include tachycardias and hypertension along with increased salivation and nystagmus. Dystonic reactions can also be seen. A common complication is a lack of concern for the environment and personal safety.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following substances can lead to flashbacks of the substance\u2013induced experience even long after use?",
+      "choices":{  
+         "option0":"A. Alcohol",
+         "option1":"B. Hallucinogens",
+         "option2":"C. Inhalants",
+         "option3":"D. Opioids",
+         "option4":"E. Stimulants",
+         "@option":"1"
+      },
+      "rationale":"Tbe correct answer is option B. Hallucinogens (pg 322). Long after ingesting hallucinogens, flashbacks of the symptoms can be experienced in 15 to 80 percent of users, known as hallucinogen\u2013persisting perception disorder. DSM\u20135 criteria include reexperiencing symptoms following cessation of use, causing significant distress or functional impairment. Complications of this disorder can include major depression and suicidal ideation, along with panic disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient presents to the emergency room with intense emotions after continued flashbacks of being intoxicated. The patient reports feeling confused, as the last reported substance use was many weeks ago. The patient describes flashbacks of different experiences including seeing flashes of color, seeing trails of images moving, and is hearing sounds. Before diagnosing this patient with a substance\u2013related disorder, which of the following medical or psychiatric diagnoses should be ruled out first?",
+      "choices":{  
+         "option0":"A. Asthma",
+         "option1":"B. Borderline personality disorder",
+         "option2":"C. Hepatic failure",
+         "option3":"D. Migraines",
+         "option4":"E. Schizophrenia",
+         "@option":"3"
+      },
+      "rationale":"Tbe correct answer is option D (pg 322). Migraines. The patient described above has hallucinogen\u2013persisting perception disorder. Migraines and seizures can lead to flashback like experiences and are important medical conditions that should be ruled out prior to diagnosing this disorder. Posttraumatic stress disorder can also cause flashbacks and should be ruled out.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient presenting to the ER with psychosis and agitation is refusing PO intake. The patient reports muscle pain and trouble walking after receiving treatment for PCP intoxication. Which of the following medical conditions has most likely occurred from the treatment?",
+      "choices":{  
+         "option0":"A. A dystonic reaction",
+         "option1":"B. Convulsions",
+         "option2":"C. Hallucinogen persisting perception disorder",
+         "option3":"D. Rhabdomyolysis",
+         "option4":"E. Serotonin syndrome",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Rhabdomyolysis (pg 324). Trapping ionized PCP via urinary acidification has been used for treatment of PCP intoxication. This strategy is no longer recommended because metabolic acidosis can lead to rhabdomyolysis and result in renal failure. Trapping ionized PCP in the stomach via NG suction is also not recommended due to induction of electrolyte imbalances. Administration of charcoal is now the treatment of choice for PCP intoxication.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient is brought to the ER with aggression and amnesia. Exam is significant for nystagmus and decreased reflexes, malodorous breath, and a rash around the nose and mouth. These findings are most consistent with intoxication from which of the following substances?",
+      "choices":{  
+         "option0":"A. Alcohol",
+         "option1":"B. Benzodiazepines",
+         "option2":"C. Hallucinogens",
+         "option3":"D. Opioids",
+         "option4":"E. Inhalants",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Inhalants (pf 326). The diagnostic criteria for inhalant intoxication includes a maladaptive behavioral change and at least two physical symptoms. Behavioral changes can include apathy, impaired judgment or functioning, or aggression.  Physical symptoms include nausea, anorexia, nystagmus, diplopia and decreased reflexes. Rashes around the nose and mother and an unusual breath odor, along with findings of residue on the hands, face, or close, are all signs of inhalant abuse.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following substances of abuse can cause a type of leukoencephalopathy showing diffuse cerebral, cerebellar and brainstem atrophy on CT or MRI?",
+      "choices":{  
+         "option0":"A. Barbiturates",
+         "option1":"B. Hallucinogens",
+         "option2":"C. Inhalants",
+         "option3":"D. Simulants",
+         "option4":"E. Steroids",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Inhalants (pg 327). Chronic inhalants can cause many dangerous medical complications, including death. Chronic inhalant use can lead to a leukoencephalopathy showing diffuse cerebral, cerebellar, and brainstem atrophy on CTs and MRIs and SPECT scans can show changes in blood flow in the cerebral areas.",
+      "@activityType":"MCQ"
+   }
+
+]

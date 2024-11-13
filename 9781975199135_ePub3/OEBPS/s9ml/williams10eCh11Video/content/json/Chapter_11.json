@@ -1,0 +1,77 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the most appropriate disposition for this patient?",
+      "choices":{  
+         "option0":"A. Inpatient admission",
+         "option1":"B. Intensive outpatient treatment",
+         "option2":"C. Partial hospital treatment",
+         "option3":"D. Outpatient care",
+         "option4":"E. Residential care",
+         "@option":"3"
+      },
+      "rationale":"The least restrictive option that provides the most appropriate care should be chosen for disposition. Inpatient hospitalization is reserved for patients who are imminently in danger from self\u2013harm or neglect or are in danger of hurting others, and are unlikely to benefit from other treatments. This patient has expressed suicidal ideation and thoughts of death but states she would not act on them. Though less intensive than inpatient, residential care is used for those who may be at some risk for harm to self or others, and who cannot safely live independently. She is not at relatively low risk for self\u2013harm and lives with a husband who sounds to be supportive. Partial hospitalization is also usually reserved for those who may be at significant risk for harm to self or others. Intensive outpatient is appropriate for patients who are not at imminent risk for harm, have moderate symptoms and mild to moderate functioning, and can live independently or with assistance from a caregiver. This patient may benefit from this level of care, but social factors need to be considered. She is the sole caregiver during the day for her baby and cannot afford long or short\u2013term childcare. Given that the least restrictive option has not been tried, she should first try outpatient care. (825\u2013827)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the life circumstances surrounding the diagnosis, which of the following symptoms, if developed, would be most concerning?",
+      "choices":{  
+         "option0":"A. Extreme loss of appetite",
+         "option1":"B. Nightmares",
+         "option2":"C. Cognitive impairment",
+         "option3":"D. Delusions",
+         "option4":"E. Decreased need for sleep",
+         "@option":"3"
+      },
+      "rationale":"While other symptoms would be concerning, especially a decreased need for sleep (which could herald mania), postpartum psychosis is a psychiatric emergency and would almost certainly result in an inpatient admission due to risk of harm to self and/or the infant. (818)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which of the following medications would be first\u2013line pharmacologic treatment for this patient?",
+      "choices":{  
+         "option0":"A. Escitalopram",
+         "option1":"B. Brexpiprazole",
+         "option2":"C. Clomipramine",
+         "option3":"D. Buspirone",
+         "option4":"E. Lamotrigine",
+         "@option":"0"
+      },
+      "rationale":"Selective serotonin reuptake inhibitors (SSRIs) are usually first\u2013line pharmacotherapy for postpartum depression. Of that class of antidepressants, escitalopram and sertraline concentrations are especially low in breast milk, though studies have not found other antidepressants, including clomipramine, to be present in concentrations high enough to cause harm to the baby. An SSRI is still preferred due to the general improved safety and side effect profile over a tricyclic. Lamotrigine, buspirone, and brexpiprazole are not first\u2013line treatments for any type of depression. (627)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the proper severity specifier for this patient\u2019s diagnosis?",
+      "choices":{  
+         "option0":"A. Mild",
+         "option1":"B. Moderate",
+         "option2":"C. Severe",
+         "option3":"D. Severe with psychotic symptoms",
+         "option4":"E. Other",
+         "@option":"2"
+      },
+      "rationale":"Severity specifiers can be based on the DSM\u20135\u2013TR (mild, moderate, severe) or ICD\u201310 (mild, moderate, severe, severe with psychotic features, other, unspecified). In this case, the specifier is the same for both systems. The patient endorses anhedonia, difficulties with sleep, loss of interest in writing, feelings of guilt, decreased appetite, and suicidal thoughts. Only five symptoms, one of which must be dysphoria or anhedonia, are needed. The illness is classified as severe with six or more symptoms for the DSM\u20135\u2013TR, and with suicidal ideation, feelings of guilt, and several marked and distressing symptoms for ICD\u201310. She has not endorsed psychotic symptoms. She is not presenting with an atypical depression (overeating/oversleeping, etc.) or endorsing previous episodes of depression, so the “other” specifier in the ICD\u201310 would not be used. (381, 382)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"After being offered pharmacotherapy, the patient states that she would like psychotherapy as well. What mode of therapy would be best suited for this patient?",
+      "choices":{  
+         "option0":"A. Cognitive therapy",
+         "option1":"B. Interpersonal therapy",
+         "option2":"C. Behavior therapy",
+         "option3":"D. Psychoanalytically oriented therapy",
+         "option4":"E. Family therapy ",
+         "@option":"4"
+      },
+      "rationale":"The session begins with the interviewer saying that her husband is extremely worried about her, and her acknowledging that fact. However, she does not want to tell him about the problems she is having because she is worried that he will be disappointed in her. She also notes that during a recent argument, “I was yelling so he started yelling. So yeah. That\u2019s our marriage right now.” In this case, family therapy would be first\u2013line treatment given that the mood disorder is contributed to by the family situation and that the depression jeopardizes the marriage and family functioning. Cognitive therapy and interpersonal therapy both have been extensively studied for major depressive disorder and can be helpful, but family therapy is still best suited for this patient. Behavior therapy and psychodynamic therapy do not have as much evidence for depression, but data indicate that they are effective. (392, 393)",
+      "@activityType":"MCQ"
+   }
+   ]

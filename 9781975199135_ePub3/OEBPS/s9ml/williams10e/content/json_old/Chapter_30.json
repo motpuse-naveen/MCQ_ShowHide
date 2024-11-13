@@ -1,0 +1,105 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In addition to promotion of health, what is the main mission of public health programs?",
+      "choices":{  
+         "option0":"A. Lobbying for government funds",
+         "option1":"B. Preventing disease",
+         "option2":"C. Training healthcare providers to work in the community",
+         "option3":"D. Increasing opportunities for research",
+         "option4":"E. Forming partnerships with for\u2013profit healthcare entities",
+         "@option":"1"
+      },
+      "rationale":"Public health consists of organized community efforts with the goals of prevention of disease and promotion of health. Lobbying for government funds to support not\u2013for\u2013profit community healthcare delivery systems is necessary, but not a main mission of public health programs themselves. Similarly, training providers to work in the local area and increasing research are important, but not part of the main mission. (867)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" The teacher of an 8\u2013year\u2013old girl notices that she is often disengaged in class, and stares absently during lessons. She often gets only halfway through her classwork, while her classmates finish the assignments with time to spare. The teacher is concerned that the child may have an attention problem and would like her to get evaluated. In an ideal collaborative care public health model, what would be the next step in the evaluation of this child?",
+      "choices":{  
+         "option0":"A. The school will set up an appointment with the child\u2019s pediatrician",
+         "option1":"B. The teacher will relay the concern to the school nurse",
+         "option2":"C. The child will be seen by a psychiatrist at her pediatrician\u2019s office",
+         "option3":"D. The child will be seen by a psychiatrist at the school",
+         "option4":"E. The parents will come to the school to observe the child",
+         "@option":"3"
+      },
+      "rationale":"In an ideal collaborative care model, a psychiatrist would be present at the school to serve as a consultant for the faculty and staff there. This psychiatrist would likely not work for the school full time, but may have weekly or monthly hours there. Another example of a collaborative care model would be to have a psychiatrist working in the same office as the pediatrician. However, this would add another step in getting the child evaluated, so it is not as ideal as an in\u2013school psychiatrist. (867)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A pediatrics office begins screening every adolescent for depression using a nine\u2013item questionnaire. They then offer to enroll the patients who score above a certain threshold but are not yet showing depression symptoms into an online therapy program. The referral to the program is an example of what level of intervention?",
+      "choices":{  
+         "option0":"A. Universal",
+         "option1":"B. Indicated",
+         "option2":"C. Selective",
+         "option3":"D. Multimodal",
+         "@option":"2"
+      },
+      "rationale":"Screening every patient is an example of universal intervention, while attempting to prevent depression from occurring in those who may be at higher risk as indicated by the screening tool is an example of selective intervention. If some of the patients progress to develop depression, treatment would be an indicated intervention. A multimodal intervention would involve the patients, their families, peers, school, and the larger community in the intervention effort. (868)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 54\u2013year\u2013old man is serving 30 days in prison for public drunkenness. This is the sixth time in four months he was given the same charge. Prior to incarceration, he stayed at a homeless shelter or slept under an overpass. While in prison, he participated in an AA group and substance abuse counseling. Once his sentence has been served and he is released from prison, what is the most likely outcome regarding further addiction treatment?",
+      "choices":{  
+         "option0":"A. He will be court\u2013ordered to receive treatment from the local mental health center",
+         "option1":"B. He will be court\u2013ordered into an inpatient rehab facility",
+         "option2":"C. He will be released to a halfway house",
+         "option3":"D. He will continue AA groups in the community",
+         "option4":"E. He will receive no addiction treatment",
+         "@option":"4"
+      },
+      "rationale":"For many low\u2013income and/or minority individuals, the jail/prison system provides the most reliable access to mental health and addiction treatment. An overwhelming majority of individuals with addiction disorders will not receive steady addiction treatment once released from incarceration. (868).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 34\u2013year\u2013old man who was diagnosed with schizophrenia enters outpatient treatment with a community psychiatry multidisciplinary team. He states that he has been homeless off and on since getting out of jail three weeks ago, where he was held on a trespassing charge. He has not been on medication since he was released. He has not been employed in the last ten years. He previously worked at a warehouse stocking shelves and was fired because of symptom exacerbations. He says his main priority is to be a part of his 6\u2013year\u2013old son\u2019s life, who lives in the same city, but who he has not seen in over a year. What should be the major focus of communication by the team with the patient regarding the patient\u2019s treatment?",
+      "choices":{  
+         "option0":"A. Securing stable housing",
+         "option1":"B. Decreasing the chance of rehospitalization",
+         "option2":"C. Restarting his medication",
+         "option3":"D. Reuniting him with his son",
+         "option4":"E. Helping him get a job",
+         "@option":"3"
+      },
+      "rationale":"The success of a public community psychiatry multidisciplinary team depends on successful, effective communication with the patient which should focus on the patient\u2019s stated goals. This ensures that the treatment is patient\u2013centered and is most likely to lead to maximum engagement and buy\u2013in by the patient to the services provided. As being a part of his son\u2019s life is his stated priority, that should be the focus of the team, which can point out that housing, symptom control, employment, and staying out of the hospital can greatly enhance the probability of him realizing his goal. (870).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In the system of care model for children and adolescents with severe emotional disturbances, what is the unifying factor of the consortium of community agencies that participate in the patient\u2019s treatment?",
+      "choices":{  
+         "option0":"A. All agencies share the same pool of government\u2013provided resources",
+         "option1":"B. Team members are employed by the consortium, not the individual agencies",
+         "option2":"C. Agencies have a common plan of care for treatment of the child and their family",
+         "option3":"D. Representatives from each agency are present at each encounter with the patient",
+        "@option":"2"
+      },
+      "rationale":"The systems of care model consists of an interagency structure which can include child welfare, juvenile justice, the school system, and medical services which form a consortium to respond to the needs of the child and their family. The consortium agencies agree on a common plan of care and pool their resources to provide the most optimal treatment. Team members are employed by their respective agencies and come together, as needed, during patient and family encounters to care for the child and family. (871)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is a characteristic of an assertive community treatment (ACT) team model that differentiates it from standard outpatient psychiatry multidisciplinary team treatment?",
+      "choices":{  
+         "option0":"A. 24/7 team member availability to the patient",
+         "option1":"B. Assistance with job placement",
+         "option2":"C. A working relationship with other community agencies",
+         "option3":"D. Individualized treatment plans",
+         "option4":"E. A psychiatrist conducts evaluations and provides pharmacotherapy",
+         "@option":"0"
+      },
+      "rationale":"Both standard outpatient multidisciplinary treatment teams and ACT teams employ psychiatrists to evaluate and pharmacologically treat the patient. They also both develop individualized treatment plans based on patient goals, assist with job placement as needed, and can have a working relationship with other community agencies. A differentiating feature of an ACT team is the relatively small caseloads and 24/7 on\u2013call availability of a member of the team to the patient. (871)",
+      "@activityType":"MCQ"
+   }
+   ]

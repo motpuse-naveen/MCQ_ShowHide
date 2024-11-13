@@ -1,0 +1,317 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which scenario would make a patient a good candidate for psychoanalysis?",
+      "choices":{  
+         "option0":"A.  A diagnosis of a new medical condition",
+         "option1":"B.  An absence of suffering",
+         "option2":"C.  Having a high frustration tolerance",
+         "option3":"D.  Possessing an urgent need for symptom relief",
+         "option4":"E.  Undergoing a high conflict divorce",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Having a high frustration tolerance (pg 745). Good candidates for psychoanalysis must truly wish to understand themselves and not need urgent symptom relief. Being able to withstand frustration and anxiety without acting out are important characteristics to possess in order for psychoanalysis to be successful. Some level of suffering is needed for the therapy to be effective. Antisocial personality disorder, low intelligence, being in the middle of a major life crisis (ie. divorce or loss of a job or being diagnosed with a major medical condition) are all potential contraindication to psychoanalysis.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 30\u2013year\u2013old healthy, bright male who works as an attorney has had a series of a few long\u2013term failed romantic relationships over the past few years and has been feeling chronically depressed and anxious due to the loneliness and work stress. He has had increasing struggles with sleeping and focusing due to obsessive thoughts about his failures in life and most recently when dating someone new reported being distressed by sexual dysfunction. He has no history of suicidal thoughts of self\u2013harm. He is willing to make a long\u2013term commitment to treatment this time. He would be a good candidate for which of the following types of psychotherapies?",
+      "choices":{  
+         "option0":"A. Cognitive therapy",
+         "option1":"B. Couples therapy",
+         "option2":"C. Dialectical behavioral therapy",
+         "option3":"D. Exposure and response prevention",
+         "option4":"E Psychoanalysis",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Psychoanalysis (pg 745\u2013747). Health, intelligence, good financial means and being able to commit to long\u2013term treatment are some factors which can lead to success in psychoanalysis. An absence of need for urgent symptom relief and a lack of safety concerns would also make this patient a good candidate. Psychanalysis is suitable for those with depression, anxiety, sexual dysfunction, and some personality disorders, along with those with chronic suffering, as described in the case.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient expressing, \"cabbages to kings\" during a therapy session is a good example of which fundamental technique in psychoanalysis?",
+      "choices":{  
+         "option0":"A. Free association",
+         "option1":"B. Psychotic ramblings",
+         "option2":"C. Reaction formation",
+         "option3":"D. Suspended attention",
+         "option4":"E. Working through",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Free associations (pg 748).  Free association is a predominant technique in psychoanalysis. The fundamental rule of free association is for the patient to tell the analysis everything that comes to their mind\u2013 the unimportant and nonsensical, and it does not mirror normal conversation. A conversation leading from, \"cabbages to kings\" is a good example of free association.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which is a strategy that is utilized in psychoanalytic psychotherapy more heavily as compared to psychoanalysis?",
+      "choices":{  
+         "option0":"A. A focus on memory recall",
+         "option1":"B. A longer treatment time frame",
+         "option2":"C. Face\u2013to\u2013face sessions",
+         "option3":"D. Suspended attention",
+         "option4":"E. Use of free associations",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Face to face sessions (pg 749). Psychoanalytic psychotherapy is derived from psychoanalysis. It uses insight\u2013oriented methods such as expressive techniques along with supportive ones. It is shorter compared to psychoanalysis and the brief treatment is focused on a select problem. Instead of utilization of the couch, sessions are done with the therapist and patient looking at one another face\u2013to\u2013face to help prevent regression and to aid with receiving cues. Free association is rarely used.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Expressive psychotherapy is different from psychoanalysis in which of the following ways?",
+      "choices":{  
+         "option0":"A. A focused understanding of problems is achieved by modifying ego function",
+         "option1":"B. Deeply hidden and past motives are discovered early in treatment",
+         "option2":"C. Insight through a genetic level is sought ",
+         "option3":"D. Motives and interactions are traced all the way back through infancy",
+         "option4":"E. Positive transference and regression are more heavily explored",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. A focused understanding of the problem is achieved by modifying ego function (pg 750). While both expressive psychotherapy and psychoanalysis increases awareness, expressive psychotherapy does so by improving object relationship and explores current interpersonal events. Structural changes in ego function and defenses are achieved in expressive psychotherapy. Unlike psychanalysis which uncovers hidden and past motives dating back to origins in infancy, expressive psychotherapy focuses on how the preconscious or conscious conflicts manifest in the present day.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 40\u2013year\u2013old woman was just recently diagnosed with cancer and has minimal time, struggling between being complaint with medical treatments, managing her job, and caring for her kids. She expresses concern about having the time and money for therapy.  She feels her life was great prior to her cancer diagnosis and is hoping the symptoms will pass on their own. Her oncologist is concerned about her missing appointments and that she struggles with getting out of bed and caring for herself.  Upon expressing feelings of hopelessness, her oncologist encourages her to start therapy though she remains skeptical. Which therapy is she best suited towards?",
+      "choices":{  
+         "option0":"A. Cognitive behavioral therapy",
+         "option1":"B. Expressive psychotherapy",
+         "option2":"C. Interpersonal psychotherapy",
+         "option3":"D. Psychodynamic psychotherapy",
+         "option4":"E. Supportive psychotherapy",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Supportive psychotherapy (pg 751). Supportive psychotherapy focuses on external rather than intrapsychic events and on how stressful environmental and interpersonal influences can damage the self. It is useful for those patients with poor ego strength, who are in an acute crisis. Those who are medially ill and/or cognitively limited, or unmotivated and are looking for immediate symptom relief are good candidates for supportive psychotherapy.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Group therapy would be contraindicated for a patient in which of the following scenarios?",
+      "choices":{  
+         "option0":"A. A new diagnosis of paranoid schizophrenia with active delusions",
+         "option1":"B. A patient actively engaged in individual therapy, suffering from depression and suicidal thoughts",
+         "option2":"C. Bipolar disorder with manic symptoms has been diagnosed, though the patient is stable on medications",
+         "option3":"D. The patient has antisocial personality disorder and is with others in the group with the same diagnosis",
+         "option4":"E. The patient is suffering from an acute grief reaction after the death of a spouse",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. A new diagnosis of paranoid schizophrenia with active delusions (pg 755\u2013756).  There are relatively few contraindications to participating in group therapy. A patient with active delusions, who incorporate the group into the delusions, and a patient who is threatening with frequent outbursts are some examples of patients who should be excluded from the group setting.  Bipolar disorder, or mania, are not contraindications to group therapy if manic symptoms are controlled on medication. Those patients with depression and suicidal thoughts can benefit from group therapy.  However, if any acute safety concerns are present, individual treatment should be conducted as well. Those with antisocial personality disorder might struggle in a group setting unless other patients with the same diagnosis are in the group, since these patients are thought ot respond better to their peers than authority figures.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A family has started therapy together for help in managing one of their children with ADHD, ODD, and worsening behavior problems. The patient is being bullied in school and the therapist externalizes the problem and helps the family to focus on the outside stressors and diagnoses. Each family member writes a therapeutic letter to another family member in hopes of resolving the conflict within the family and enhancing insight about the story that each member is going through. Which school of family therapy is most likely being employed?",
+      "choices":{  
+         "option0":"A. Cognitive behavioral",
+         "option1":"B. Experiential\u2013humanistic",
+         "option2":"C. Integrative",
+         "option3":"D. Narrative",
+         "option4":"E. Psychodynamic",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Narrative (pg 761). Narrative family therapy involves resolution of a presenting problem through focusing on outcomes and externalizing the problem and helping the family members to create new meaning via \"restorying.\"  Therapeutic letters are often writing to one another. Cognitive behavioral family therapy focuses on communication and problem solving and change, along with acceptance and helping members to learn reattribution techniques. Experiential\u2013humanistic therapy focuses on increasing differentiation and on de\u2013triangulation by using genograms and the therapist acts as a coach. Integrative family therapy combines cognitive behavioral and psychodynamic methods to improve communication and problem solving. Psychodynamic family therapy aims to improve insight and enhance empathy by analyzing transference, countertransference and resistance and relies on interpretation and emphasizes the therapeutic alliance.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" During a family therapy session, a mother comments that their daughter acts like a monster, screaming, hitting them, and throwing things each morning when trying to get her dressed to go to school.  The therapist comments that she acts out due to severe social anxiety and struggles with transitions, and then points out that mother has done a great job at handling her daughter\u2019s anxiety in the past when she realizes it is occurring. The therapist also highlights that the child\u2019s perseverance helps her to get good grades in school and that her anxious temperament has helped her to be empathic and a good friend to her sibling.",
+      "choices":{  
+         "option0":"A. Clarification",
+         "option1":"B. Family management",
+         "option2":"C. Paradoxical intervention",
+         "option3":"D. Reframing",
+         "option4":"E. Unbalancing",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option C. Reframing (pg 762).  This is an example of a therapist using a technique called reframing. It is also known as positive connotation and involves relabeling of all negatively expressed feelings or behaviors as positive. It helps the family member to have a new frame of reference and can lead to change.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 20yo female has seen multiple therapists over the past few years, noting none of them were helpful and they all offended her. She continues to struggle with depression, poor social relations, lack of ability to maintain a job or relationship, and intermittent self\u2013harm and suicidal thoughts.  Which psychosocial treatment has the most empirical support to help her?",
+      "choices":{  
+         "option0":"A. Acceptance and commitment therapy",
+         "option1":"B. Cognitive behavioral therapy",
+         "option2":"C. Dialectical behavior therapy",
+         "option3":"D. Insight oriented psychotherapy",
+         "option4":"E. Interpersonal psychotherapy ",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Dialectical behavioral therapy (pg 764). The patient described above most likely has borderline personality disorder (BPD). Dialectical behavioral therapy (DBT) is the gold standard to help those with BPD live a life worth living and can help with self\u2013injurious and parasuicidal behavior. DBT includes individual, group, telephone, and team consultation, and helps increase skillful behavior, improve motivation for changing maladaptive behaviors, and improve emotional dysregulation.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which type of therapy asks patients to direct their attention to specific body area while thinking certain phrases reflecting a relaxed state, progressing through various themes including cardiac regulation and breathing adjustment?",
+      "choices":{  
+         "option0":"A. Applied tension",
+         "option1":"B. Autogenic training",
+         "option2":"C. Biofeedback",
+         "option3":"D. Progressive muscular relaxation",
+         "option4":"E. Relaxation therapy",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Autogenic training (pg 766). Autogenic training can help with relaxation by having the patient direct attention to specific body areas and think phrases to help them relax (i.e. My forehead is cool).  The patient progresses through 6 themes including heaviness, warmth, cardiac regulation, breathing adjustment, solar plexus, and forehead. Applied tension involves tensing the muscles and releasing them, but not to the point of relaxation. It can help with situations such as fainting. Progressive muscular relaxation involves tensing and then relaxing the muscles working the way up the body. Relaxation therapy involves immobilizing the body, drawing focus and attention, and cultivation a non\u2013judgmental, contemplative state of mind. Biofeedback involves the recognition and display of small changes in physical levels (i.e. EMG, EEG monitoring) to help bring the autonomic nervous system under voluntary control through operant conditioning.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient being treated for anxiety and depression tells the therapist about how embarrassed she was in forgetting the words for her class presentation today and states she knows she will never make it as a teacher in the future. This is an example of which of the following cognitive distortions?",
+      "choices":{  
+         "option0":"A. All\u2013or\u2013nothing thinking",
+         "option1":"B. Labelling",
+         "option2":"C. Mind reading",
+         "option3":"D. Overgeneralization",
+         "option4":"E. Tunnel vision",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Overgeneralization (pg 769). Cognitive distortions, also known as automatic thoughts, are the thoughts that occur between external events and a person\u2019s emotional reaction to the event. The vignette above is an example of overgeneralization in which an overwhelmingly negative conclusion is drawn from a relatively minor event.  All\u2013or nothing thinking is also known as black\u2013and\u2013white thinking and involves putting a situation into only two categories instead of on a continuum or seeing the gray area in the middle. Labelling if putting a fixed label on yourself or others without examining the evidence fully which could lead ot a less disastrous conclusion. Mind reading involves believing you know what others are thinking and not considering more likely possibilities. Tunnel vision involves seeing only the negative aspect of a situation.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Scheduling activities on an hourly basis and keeping records of them and rating mastery and pleasure from them is one of the first steps in which of the following types of therapy in treating depression?",
+      "choices":{  
+         "option0":"A. Brief supportive psychotherapy",
+         "option1":"B. Cognitive behavioral therapy",
+         "option2":"C. Dialectical behavioral therapy",
+         "option3":"D. Interpersonal psychotherapy",
+         "option4":"E. Narrative psychotherapy",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Cognitive behavioral therapy (pg 770\u2013771). Behavioral techniques can help challenge maladaptive cognition. One of the first behavioral techniques in cognitive therapy for the treatment of depression is to have the patient schedule activities on an hourly basis and keep records of them and rate mastery and pleasure. Often this leads the patient to realize they had more pleasure than they though while doing the activity and it help them to experience a sense or mastery.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient is being treated for a severe phobia of needles. Teaching the patient relaxation strategies, while showing pictures of needles, working towards having them see an actual needle in the office, and then getting a shot at the doctor while experiencing minimal anxiety, it an example of which of the following types of therapies?",
+      "choices":{  
+         "option0":"A. Aversion therapy",
+         "option1":"B. Biofeedback",
+         "option2":"C. Flooding",
+         "option3":"D. Participant modeling",
+         "option4":"E. Systematic desensitization",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Systematic desensitization (pg 771\u2013772). Systematic desensitization is the behavioral principal of counterconditioning, which helps the patient to overcome anxiety by gradually exposing them to the feared situation while they learn to be in a state that inhibits anxiety, called reciprocal inhibition. Relaxation training, hierarchy construction, and desensitization of the stimulus are the steps in systematic desensitization. It is commonly used to treat phobias, obsession or compulsions, and some sexual disorders as well.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A therapist is helping to treat agoraphobia in a child by accompanying them to a crowded playground to help them unlearn the fears by observing the therapist having fun at the playground with other children. This is an example of which of the following types of therapies?",
+      "choices":{  
+         "option0":"A. Applied relaxation",
+         "option1":"B. Behavioral activation",
+         "option2":"C. Cognitive therapy",
+         "option3":"D. Participant modeling",
+         "option4":"E. Social skills training",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Participant modeling (pg 772\u2013 773).  Just as a person can develop fears by learning, the principle of participate modeling is that these fears can be unlearned by observing a fearless model confront the feared object. In participant modeling the patient can learn a new behavior by imitation by observation, without having to perform the behavior until they feel ready.  Children respond well to this technique of watching other peers enjoy a feared situation and it is particularly useful therapy for agoraphobia when the therapist accompanies the patient to various places.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Caution should be used in conducting hypnosis on a patient with which of the following characteristics?",
+      "choices":{  
+         "option0":"A. Dissociative symptoms",
+         "option1":"B. Low levels of control",
+         "option2":"C. Paranoia",
+         "option3":"D. Suggestibility",
+         "option4":"E. Trauma ",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Paranoia (pg 778). Some risks of hypnosis can include developing a strong transference or attachment. On the other had negative emotions can also surface in patients with poor reality testing. As a result, caution should be used in performing hypnosis in those with paranoia, or a high need for control. Patients who lack capacity for basic trust are not good hypnosis candidates. Self\u2013hypnosis can be used ot treat PTSD and can help wit memory retrieval.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" During the first few initial sessions, a therapist explains the diagnosis of a major depressive disorder to the patient and discusses how the patient is sick and is allowed to not feel well, while emphasizing that they are responsible for their recovery. The therapist starts to explore relationships in the person life and discusses the role that loss has seemed to play. The therapist is conducting which type of therapy?",
+      "choices":{  
+         "option0":"A. Acceptance and commitment therapy",
+         "option1":"B. Insight oriented psychotherapy",
+         "option2":"C. Interpersonal psychotherapy",
+         "option3":"D. Psychodynamic psychotherapy",
+         "option4":"E. Supportive psychotherapy",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Interpersonal psychotherapy (pg 778). Interpersonal psychotherapy (ITP) is a time\u2013limited treatment for major depressive disorder that helps to eliminate symptoms and improve the quality of the patient\u2019s interpersonal relations and social functioning. Thin initial phase focuses on assigning and describing the diagnosis and treatment expectations and assignment the patient to be in the sick role, giving them permission and the responsibility to recovery. An interpersonal inventory is conducted, and a formulation is made linking the patien\u2019s symptoms to one of four problem areas\u2013 grief, interpersonal deficits, interpersonal role disputes, or role transitions.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A group therapist is helping the patients to foster connections between one another in sharing their goals and continuously encourages the group members to go out into the world and do activities with others and then to come back to the group and share how these experiences have gone. The therapist reflects on the group members\u2019 relationship with one another and draws connections between these group relationships and the relationships they have with others outside of the group and their symptoms. This is an example of which of the following phases and types of group therapy?",
+      "choices":{  
+         "option0":"A. Initial phase of self\u2013help group",
+         "option1":"B. Intermediate phase of interpersonal psychotherapy",
+         "option2":"C. Middle phase of dialectical behavioral therapy",
+         "option3":"D.  Mid\u2013treatment phase of cognitive behavioral therapy",
+         "option4":"E. Termination phase of social network therapy",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Intermediate phase of interpersonal psychotherapy (pg 781). Group therapy for interpersonal psychotherapy (ITP) has many benefits verses individual treatment. It helps the patient feel they are not the only one with a psychiatric disorder and gives them a social environment to interact with other with like symptoms. The intermediate phase is where the work is done ot facilitate connections amongst the members and helps them to practice their newly acquired social skills by doing activities with others outside of session and to share their experience in the group setting. The therapist connects the relationships the patients have in the group with their outside relationships and their psychiatric symptoms.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following is a primary task of narrative psychotherapy?",
+      "choices":{  
+         "option0":"A. Analyze faulty cognitions and automatic thoughts brought up in the patient\u2019s story",
+         "option1":"B. Be a good listener and connect empathically with the patient\u2019s story",
+         "option2":"C. Determine the validity of the patient\u2019s story and help the patient write a new ending",
+         "option3":"D. Find a problem area in the story and use it to help the patient change social interactions",
+         "option4":"E. Help the patient write a timeline of their life and decide what area to focus on in treatment",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Be a good listener and connect empathically with the patient\u2019s story (pg 781\u2013 782). Narrative medicine focuses on an open\u2013ended invitation to tell a story to help recognize and interpret and be moved by the story of the patient\u2019s illness. The major task of the therapist is being a good listen and connecting empathically with the patient\u2019s story. The main goal is to truly understand the patient and the story to help bring the clinician and patient together into a shared experience of the patient\u2019s world.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following is an alternative, effective treatment to dialectical behavioral therapy for severe borderline personality disorder?",
+      "choices":{  
+         "option0":"A. Eye movement desensitization and reprocessing",
+         "option1":"B. Interpersonal psychotherapy",
+         "option2":"C. Mentalization\u2013based treatment",
+         "option3":"D. Narrative psychotherapy ",
+         "option4":"E. Social skills training",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Mentalization\u2013based treatment (pg 786). Mentalization based treatment (MBT) is a psychotherapy developed for the treatment of borderline personality disorder. It focuses on the mentalizing vulnerabilities of the patient in helping them to understand the attachment process.  it involves learning the ability to understand the actions of others and oneself in terms of mental states, thoughts, feelings, wishes, and desires.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A psychiatrist discuses with a teen and his parent about the diagnosis and symptoms of the illness, along with strategies to help with medication compliance and reviews signs of worsening illness to look out for. The psychiatrist also reviews how to help the teen and mother to manage a crisis. This intervention is best described as which of the following forms of therapy?",
+      "choices":{  
+         "option0":"A. Attribution ",
+         "option1":"B. Cognitive behavior",
+         "option2":"C. Family based ",
+         "option3":"D. Psychoeducation",
+         "option4":"E. Supportive ",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Psychoeducation (pg 787). The description above of helping the patient and family to understand the psychiatric illness, treatment options, prognosis, and recovery, is best consistent with psychoeducation. Psychoeducation also involves providing interventions to help the patient and family strategize how to adjust to living with the illness, and also covers common areas including treatment adherence, identifying signs of relapse, and instructions on how to help manage a crisis situation.",
+      "@activityType":"MCQ"
+   }   
+]

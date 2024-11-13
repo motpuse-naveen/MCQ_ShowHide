@@ -1,0 +1,331 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"An 75\u2013year\u2013old woman in an assisted living facility becomes irritable several evenings a week about an hour after dinner, and questions where she is and how she got there. She has a standing order of as\u2013needed quetiapine, which settles her and helps her sleep through the night. When she wakes in the morning, she is alert and oriented to person, place and time, socializes easily with the staff and friends she has made, and does not recall much of her behavior from the night before. What neurotransmitter most likely plays the primary role in the patient\u2019s evening behaviors? ",
+      "choices":{  
+         "option0":"A. Acetylcholine",
+         "option1":"B. Dopamine",
+         "option2":"C. Ciprofloxacin",
+         "option3":"D. Glutamate",
+         "option4":"E. Serotonin",
+         "@option":"0"
+      },
+      "rationale":"Sundowning is a type of delirium that occurs usually in elderly who have a diagnosis of dementia. The phenomenon is marked by confusion and behavioral changes. Though symptoms are often mitigated with an antipsychotic, which acts primarily on dopamine and, in some medications, serotonin, the primary neurotransmitter involved in delirium is thought to be acetylcholine. (226)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 75\u2013 year old\u2013 woman is brought to the emergency department by her son, with whom she lives, due to intermittent periods of agitation, increased forgetfulness, and memory difficulties. Symptoms suddenly began three days ago and come and go with no apparent precipitating factors. Her son is especially concerned because she wandered out of the house last night looking for her husband who died seven years ago. When her son asked her this morning where her husband was, she replied, \"Son, you know he\u2019s been dead for seven years!\" She is diagnosed with hypertension, Alzheimer\u2019s dementia and diabetes, and takes HCTZ, memantine, and metformin, all of which she has been out of for the last week due to a delay in the arrival of the mail\u2013order medications. Exam shows a thin female who looks her stated age, in no acute distress. Vital signs are normal. O2 saturation is 96% on room air. CBC shows leukocytosis, and urinalysis shows 2+ protein and moderate bacteria. What medication is most likely to resolve this patient\u2019s symptoms? ",
+      "choices":{  
+         "option0":"A. HCTZ",
+         "option1":"B. Metformin",
+         "option2":"C. Metronidazole",
+         "option3":"D. Memantine",
+         "option4":"E. Haloperidol",
+         "@option":"2"
+      },
+      "rationale":"The patient is displaying symptoms of delirium, including waxing and waning of consciousness, visual hallucinations, and impaired judgment. When possible, the underlying cause should be treated. In this case, the likely underlying cause is the urinary tract infection, as opposed to being off of HCTZ, memantine, and metformin for a week. Though haloperidol may temporarily alleviate the symptoms, it will not ultimately resolve them. (228)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"One of the earliest and most prominent features of dementia is the decline of what function?",
+      "choices":{  
+         "option0":"A. Attention",
+         "option1":"B. Memory",
+         "option2":"C. Executive function",
+         "option3":"D. Social cognition",
+         "option4":"E. Language",
+         "@option":"1"
+      },
+      "rationale":"Though dementia can affect many cognitive functions such as attention, executive function, social cognition and language, memory is usually an early and prominent feature. (233)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"As opposed to delirium, what aspect of neurocognition remains intact in dementia?",
+      "choices":{  
+         "option0":"A. Attention",
+         "option1":"B. Orientation",
+         "option2":"C. Memory",
+         "option3":"D. Consciousness",
+         "option4":"E. Social skills",
+         "@option":"3"
+      },
+      "rationale":"Whereas, by definition, delirium involves a waxing and waning of consciousness, consciousness is preserved and remains clear in dementia. Deficits in attention, orientation, memory, and social skills can be present in both dementia and delirium. (233)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"An 82\u2013 year\u2013 old man presents to the primary care clinic along with his daughter for a routine visit. He last saw his primary care physician a year ago. He is diagnosed with coronary artery disease and atherosclerosis. He states that he is having problems remembering where he put his car keys and the names of his grandchildren, \"but otherwise, my mind is as sharp as it ever was!\" Vital signs are within normal limits. Physical exam reveals no acute abnormalities. After the doctor walks out of the room, the patient\u2019s son follows him and says \"It\u2019s much worse than forgetting his car keys. I had to hide them at first, then had to disable the car, because it seems like once he turned 75, he started getting lost on the way home. He stayed like that for a while, then started forgetting his grandkids\u2019 names about a year ago. Then last month, he suddenly started developing headaches and said he felt dizzy.\" His memory has not gotten worse, but has not improved. What is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Vascular dementia",
+         "option1":"B. Delirium",
+         "option2":"C. Transient ischemic attacks",
+         "option3":"D. Alzheimer\u2019s dementia",
+         "option4":"E. Normal aging",
+         "@option":"0"
+      },
+      "rationale":"Memory problems to the extent that he gets lost driving home cannot be attributed to normal aging, as he is demonstrating significant impairment in functioning. The son does not report changes in consciousness, which rules out delirium. Though Alzheimer\u2019s is the most common dementia, it is characterized by a gradual, progressive course of symptoms, as opposed to vascular dementia, in which symptoms typically occur in a stepwise fashion. Because he is not recovering between episodes, these are not transient ischemic attacks, after which function is regained. (236)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What the average time until death for an individual diagnosed with dementia of the Alzheimer type?",
+      "choices":{  
+         "option0":"A. 3 years",
+         "option1":"B. 8 years",
+         "option2":"C. 13 years",
+         "option3":"D. 18 years",
+         "option4":"E. 23 years",
+         "@option":"1"
+      },
+      "rationale":"Alzheimer dementia is a terminal illness, as the accumulation of plaques and tangles throughout the brain and the loss of brain tissue leads to progressive severity of impairment. Affected individuals lose the ability to swallow, which greatly increases the risk of aspiration pneumonia, dehydration, and cachexia. Other causes of death include pulmonary embolism and cardiovascular disease. The average life expectancy after diagnosis is eight years. (238)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Emergency medical services are called to the home of a 74\u2013 year\u2013 old man by his home health nurse who, upon arriving to work, discovered that he had fallen and was covered in urine and feces. She reports to the EMT that she witnessed him passing out and falling to the ground after getting out of bed a week ago, and was able to get him back into the bed. She states that over the past three years, he has had progressive difficulty remembering the names of his children and grandchildren, and that over the last month, he has been asking her to put the dog outside. When I tell him he does not have a dog, he points and says, \u2019The dog is standing right there! Put him outside!\u2019 \"Despite getting 9 hours of sleep a night, he often seems drowsy, but then \"perks up 10 minutes later, then gets sleepy again an hour later.\" She has been concerned about the way he walks. Temperature is 99.1F, BP 110/70 sitting, 80/55 standing. Pulse is 80 sitting and 85 standing. Respirations 18. Cogwheeling rigidity is noted in his arms, along with a resting tremor. What is the most likely cerebral pathology?",
+      "choices":{  
+         "option0":"A. Blanching of the substantia nigra",
+         "option1":"B. Pick bodies in the frontotemporal regions",
+         "option2":"C. Multiple subcortical white matter infarctions",
+         "option3":"D. Amyloid plaques in the cortex and hippocampus",
+         "option4":"E. Lewy inclusion bodies in the cerebral cortex",
+         "@option":"4"
+      },
+      "rationale":"Memory impairment with the presence of visual hallucinations, autonomic disturbances, and Parkinsonian symptoms (cogwheeling, resting tremor, bradykinesia) are symptoms of Lewy body disease. The Lewy inclusion bodies are found in the cerebral cortex. Parkinson disease, with its blanching of the substantia nigra, is not associated with visual hallucinations. Alzheimer disease, characterized by amyloid plaques in the cortex and hippocampus also does not usually feature visual hallucinations. Subcortical white matter infarctions are the hallmark of Binswanger disease, also called subcortical arteriosclerotic encephalopathy, in which the main characteristic is psychomotor slowness. The Pick bodies are the pathognomonic sign of frontotemporal dementia, which is marked by personality and behavioral changes. (242\u2013 244)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":"A person with an amnestic disorder is most likely to be able to correctly answer what mental status exam question posed to them?",
+      "choices":{  
+         "option0":"A. \"Flag, ball, tree. Can you repeat those three words?\"",
+         "option1":"B. \"What did you have for breakfast this morning?\"",
+         "option2":"C. \"What is the name of this building?\"",
+         "option3":"D. \"What is today\u2019s date?\"",
+         "option4":"E. \"Where did you go yesterday?\"",
+         "@option":"0"
+      },
+      "rationale":"Short\u2013 term and recent memory are usually impaired in amnestic disorder, so a person likely would not be able to answer questions about what they ate that day or what activities they engaged in the day before. In severe amnestic disorder, orientation to place and time can be impaired. However, immediate memory remains intact, so a person can recall numbers or words right after they are said. The person would likely not be able to remember them for a five\u2013 minute recall. (246)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 60\u2013 year\u2013 old man is brought to the outpatient clinic by his daughter, who reports that her father will call her several times during the day, and is always surprised when she tells him that they had already talked earlier, after which he usually says that he wanted to ask her one more thing, When she is at his house, she notices that he asks her several times if she would like him to make her lunch, even though she has told him she has already eaten. He then will tell her he could not have asked that question already because she would have taken off her shoes if she had eaten. She first noticed the memory loss a couple years ago, and notes that it has gotten worse over the last year since his wife died and he has lived alone. She is concerned that he is not eating well, as his wife did all the cooking, and believes he has lost ten pounds since she died. She has been especially concerned because she has smelled alcohol on his breath a few times when she has visited him. He has hypertension and is on an ACE inhibitor, which she makes sure he takes daily. Blood pressure is 140/90. Other vitals are within normal limits. During the cognitive exam he confidently gives incorrect answers to the three\u2013 word recall, even explaining the associations he made between the words in his mind to help him remember them. What is the most appropriate treatment for this patient?",
+      "choices":{  
+         "option0":"A. An SSRI",
+         "option1":"B. Thiamine replacement",
+         "option2":"C. A cholinesterase inhibitor",
+         "option3":"D. An increase in antihypertensive medication",
+         "option4":"E. An NMDA receptor antagonist",
+         "@option":"1"
+      },
+      "rationale":"The amnesia is most likely due to poor nutritional deficiency and lack of thiamine in the diet, which is the cause of Korsakoff syndrome. This is often seen with chronic alcohol use. One of the hallmarks is confabulation, in which a person tries to cover up memory loss by filling in the gaps with a story, which can range from completely plausible to completely implausible. The proper treatment is to replace thiamine, which may lead to improvement after three months. Cholinesterase inhibitors and NMDA receptor antagonists can be useful for Alzheimer dementia. An SSRI could be helpful if depression were thought to be the reason for the cognitive deficits. Better hypertension control could be helpful for vascular dementia. (246)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 66\u2013 year\u2013 old woman wakes from anesthesia following a round of electroconvulsive therapy for chronic depression. The patient is most likely to demonstrate difficulty when asked which of the following questions to test memory?",
+      "choices":{  
+         "option0":"A. \"What did you have for dinner last night?\"",
+         "option1":"B. \"What are the names of your children?\"",
+         "option2":"C. \"What is your birthdate?\"",
+         "option3":"D. \"What were the three words I just asked you?\"",
+         "option4":"E. \"Where do you currently live?\"",
+         "@option":"3"
+      },
+      "rationale":"> ECT is associated with anterograde amnesia for a few hours after a treatment. During this time, the patient may have difficulty forming new memories, and would therefore have trouble with a three\u2013 word recall. The patient would likely also have trouble remembering past events that occurred a few minutes before the treatment. (247)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 14\u2013 year\u2013 old boy is brought to the emergency department by EMS after being unconscious for about 60 seconds. His parents report that he was playing football in the driveway with the neighborhood children when he and another boy collided, and he fell and hit his head on the pavement. He was not wearing a helmet. When he regained consciousness, he was lethargic, which prompted them to take him to the ED. The child is fully awake, complaining of a headache, and looks confused. Neurological exam is normal. Vital signs are within normal limits. When asked by his parents what he remembers about the accident, what is the most likely response?",
+      "choices":{  
+         "option0":"A. \"Who are you people?\"",
+         "option1":"B. \"I was playing football, got tackled, and fell and hit my head.\"",
+         "option2":"C. \"What accident?\"",
+         "option3":"D. \"We were in the car and another car hit us.\"",
+         "option4":"E. \"Someone was running towards me, then I blacked out.\"",
+         "@option":"2"
+      },
+      "rationale":"If a head injury results in amnesia, it will most likely be for the period of time leading up to the event and for the event itself. Therefore, the child is most likely simply not going to remember the accident. Confabulating a story (being in a car accident) would be most associated with Korsakoff syndrome. It is unlikely that he would forget his parents, who he has known all of his life. (247)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Cerebrovascular disease is most likely to cause amnesia when it affects the hippocampus and what other area of the brain? ",
+      "choices":{  
+         "option0":"A. Medial thalamus",
+         "option1":"B. Corpus callosum",
+         "option2":"C. Suprachiasmatic nucleus",
+         "option3":"D. Substantia nigraD. Substantia nigra",
+         "option4":"E. Arcuate nucleus",
+         "@option":"0"
+      },
+      "rationale":"Cerebrovascular diseases which affect the bilateral medial thalamus are often associated with amnestic disorder. In addition to the hippocampus, lesions affecting the cerebellum, amygdala, and prefrontal cortex could also affect different types of memory. The suprachiasmatic nucleus is associated with circadian rhythm. The substantia nigra is associated with movement disorders such as Parkinson. Lesions affecting the corpus collosum can be associated with a myriad of dysfunctions. The arcuate nucleus regulates several functions on homeostasis. (247)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 55\u2013 year\u2013 old woman is brought to the emergency department by EMS from a restaurant where she had been eating lunch with her best friend 15 minutes ago. The friend states that the patient suddenly looked confused and repeatedly asked where she was and how she got there, even though she was given the answers several times. Her friend, fearing that the patient was suffering from a stroke, called 911. In the ED, the friend tells the care team that the patient has no history of seizures or head injury, and has only been diagnosed with mild hypertension. Vital signs are normal. The patient is able to give her name and the name of her friend, but continuously has to be told that she is at the hospital. Consciousness is intact. Urine drug screen is negative, and comprehensive metabolic profile, CBC, head CT and EKG reveal no abnormalities. Neurological exam is normal. What is the most likely prognosis for her memory over the next 24 hours?",
+      "choices":{  
+         "option0":"A. She will forget everyone but herself",
+         "option1":"B. Memory loss symptoms will wax and wane",
+         "option2":"C. She will regain past memories but not be able to form new ones",
+         "option3":"D. Memory loss will remain the same ",
+         "option4":"E. She will make a complete recovery",
+         "@option":"4"
+      },
+      "rationale":"Transient global amnesia is marked by an abrupt onset of both retrograde and anterograde amnesia in the absence of delirium. Occasionally, the person may not be able to perform well\u2013 learned tasks. The vast majority of people make a complete recovery within 24 hours. (247)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"As opposed to amnestic disorders, a person with Dementia of the Alzheimer type would have impairment in what area of functioning?",
+      "choices":{  
+         "option0":"A. Anterograde memory",
+         "option1":"B. Retrograde memory",
+         "option2":"C. Episodic memory",
+         "option3":"D. Semantic memory",
+         "@option":"3"
+      },
+      "rationale":"Dementia of the Alzheimer type leads to more severe loss of function and memory than amnestic disorder. While both can affect anterograde, retrograde, and episodic memory, amnestic disorders do not lead to loss of language, general knowledge (semantic memory), or praxis (the planning of movement to achieve a purpose). (248)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The likelihood of benzodiazepines causing amnesia is increased with the addition of what substance?",
+      "choices":{  
+         "option0":"A. Alcohol",
+         "option1":"B. Anticholinergics",
+         "option2":"C. Psychedelics",
+         "option3":"D. Barbiturates",
+         "option4":"E. Stimulants",
+         "@option":"0"
+      },
+      "rationale":"Benzodiazepines are the most commonly used prescription drugs that can cause amnesia. This effect is magnified when combined with alcohol, which can lead to anterograde and retrograde amnesia. (249)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 34\u2013 year\u2013 old woman is at home talking with her spouse when she begins to make chewing movements, then stops talking and stares for about 30 seconds. Over the next three months, she has these episodes 2\u2013 3 times a week. She has no other medical or psychiatric conditions, and her only medication is that used to treat the described condition. What psychiatric abnormality is she most likely to experience between episodes?",
+      "choices":{  
+         "option0":"A. Psychosis",
+         "option1":"B. Violent behavior",
+         "option2":"C. Personality changes",
+         "option3":"D. Manic symptoms",
+         "option4":"E. Depression symptoms",
+         "@option":"2"
+      },
+      "rationale":"The person in the scenario is having complex partial seizures, the most common type of seizure in adults. As she has repeated episodes, she can be diagnosed with epilepsy. The most common psychiatric manifestation between episodes is personality changes, though interictal psychoses, violence, and mood disorder symptoms can also occur. The presence of these interictal phenomena should lead to questions about medication side effects and compliance. (251)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 14\u2013 year\u2013 old boy is brought to a neurologist by his parents after experiencing several episodes during which he stops what he is doing and stares for several seconds. He is embarrassed afterwards, and says he knew he was staring, \"but I could not snap out of it.\" An EEG\u2013 captured event shows seizure activity over the temporal lobe. What is the most likely type of seizure he is experiencing?",
+      "choices":{  
+         "option0":"A. Generalized seizure",
+         "option1":"B. Absence seizure",
+         "option2":"C. Simple partial",
+         "option3":"D. Complex partial",
+         "option4":"E. Psychogenic nonepileptic",
+         "@option":"2"
+      },
+      "rationale":"Seizures are characterized as generalized if they affect the entire brain, and partial if the seizure activity occurs in a circumscribed area. Partial seizures are complex if they involve a change in consciousness and simple if consciousness is preserved. The seizures in this patient would therefore be described as simple partial. Though absence seizures can have a similar presentation, they involve brief disruptions of consciousness during with the person loses contact with the environment. Psychogenic nonepileptic seizures would not show up on an EEG. (249\u2013 251)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A brain tumor that affects memory is most likely located in which region of the brain?",
+      "choices":{  
+         "option0":"A. Parietal",
+         "option1":"B. Temporal",
+         "option2":"C. Occipital",
+         "option3":"D. Frontal",
+         "option4":"E. Cerebellum",
+         "@option":"1"
+      },
+      "rationale":"A temporal lobe tumor could cause problems with memory loss and speech. A frontal lobe tumor could cause problems with personality and executive functioning. A parietal lobe tumor could cause problems with speaking and understanding and reading/writing. Occipital lobe tumors could cause problems with sight, and a cerebellar tumor could cause problems with coordination and dizziness. (253)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 23\u2013 year\u2013 male is driving too fast around a curve, loses control of the vehicle, and hits a tree. Though his body is held in place by his seatbelt, his head lurches forward, then slams back against the headrest, and he loses consciousness. When he awakens in the emergency department, he cannot recall the event. A head CT shows no acute bleeding and neurological exam shows no focal deficits. He is diagnosed with a concussion and discharged with a neurology appointment in a week. What will be the most likely cognitive finding on neuropsychological testing?",
+      "choices":{  
+         "option0":"A. Decreased information processing speed",
+         "option1":"B. Difficulty understanding spoken language",
+         "option2":"C. Impaired writing ability",
+         "option3":"D. Deficits in reading nonverbal cues",
+         "option4":"E. Impaired coordination between left and right hands",
+         "@option":"0"
+      },
+      "rationale":"The most common type of head trauma is blunt force, in which motor vehicle accidents are the most common cause. As with many brain injuries due to head trauma, there is an initial period of posttraumatic amnesia. Afterwards, cognitive symptoms can arise, the most common of which are decreased information processing speed, and other frontal lobe symptoms such as impaired attention, increased distractibility, and problems sustaining effort. Language disabilities can also occur. (254)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 60\u2013 year\u2013 old man and presents to a primary care physician with his wife due a progression of weakness, unsteady gait, and loss of coordination over the last year. His wife adds that he has become irritable and neglectful of his duties at work as an assembly lineman and around the house, which is \"so unlike him. He\u2019s always been the sweetest, most conscientious person I know.\" She adds that he occasionally appears to talk to his brother, who died five years ago. He has had no medical care in the past 30 years. Vital signs are within normal limits. Physical exam reveals a well\u2013 developed, well\u2013 nourished male who appears slightly older than stated age. He has diminished lower extremity reflexes and vibration sense. Pupils are small and poorly reactive to light but react briskly to accommodation. What medication would be most helpful for this patient\u2019s condition?",
+      "choices":{  
+         "option0":"A. Doxycycline",
+         "option1":"B. Penicillin",
+         "option2":"C. Radioactive iodine",
+         "option3":"D. Dolutegravir/rilpivirine",
+         "option4":"E. Acyclovir",
+         "@option":"1"
+      },
+      "rationale":"One of the reasons that physicians test for syphilis in new\u2013 onset personality and behavior changes is because neurosyphilis can lead to general paresis, which appears 10 to 15 years after the infection but can occur at any stage of infection, and affects the frontal lobes. Executive functioning is disrupted, leading to symptoms such as poor judgment, irritability, and decreased care for self. Untreated neurosyphilis can also lead to tabes dorsalis, a condition in which the nerves in the dorsal columns of the spinal cord degenerate, leading to ataxia, poor coordination, weakness and diminished reflexes. General paresis and tabes dorsalis can coexist. The Argyll\u2013 Robertson pupil (small bilateral pupils accommodate to focus on a near object but react poorly to light) is specific for neurosyphilis. Treatment is with penicillin for 10\u2013 14 days to eradicate the Treponema infection, though some symptoms may be permanent. Doxycycline would be used to treat Lyme disease, which can cause impaired cognition, irritability, and nerve pain, but not a change in reflexes or pupils. Acyclovir is used to treat herpes simplex encephalitis, which also leads to personality changes, memory loss, and psychotic symptoms, and can include seizures, headaches and focal neurological deficits. Dolutegravir/rilpivirine is used to treat HIV, which untreated, can lead to HIV mild neurocognitive disorder and HIV\u2013 associated dementia. Clinical manifestations of neurosyphilis in person with HIV infection may be more common. If this patient were also affected with HIV, he would likely be showing many more signs and symptoms of that infection. Radioactive iodine is used to treat hyperthyroidism, which can present with anxiety, irritability, and tremulousness, but not ataxia or the other neurological symptoms exhibited by the patient (255).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 55\u2013 year\u2013 old man is brought to the emergency department by EMS after being found in a park by passersby mumbling to himself and covered in watery feces. In the ED, the man mostly mumbles incoherently when asked questions, but is able to give his name and age. The EMS workers state that they have seen him for years sleeping under bridges and on park benches. Blood pressure is 90/60 and heart rate is 100. Temperature and respirations are within normal limits. Physical exam reveals a cachectic man with global wasting who looks older than his stated age. Neurological exam is normal. A well\u2013 defined, pigmented, glossy rash is present on the dorsum of his hands and feet, and around his neck. Urine drug screen is negative, as is a head CT. Throughout the workup, his consciousness waxes and wanes. This patient\u2019s condition is caused by what vitamin deficiency?",
+      "choices":{  
+         "option0":"A. A",
+         "option1":"B. B1 (thiamine)",
+         "option2":"C. B3 (niacin)",
+         "option3":"D. B12 (cyanocobalamin)",
+         "option4":"E. C ",
+         "@option":"2"
+      },
+      "rationale":"Delirium, diarrhea, dermatitis, and dementia are four of the \"five Ds\" in pellagra, the disease caused by niacin deficiency (the fifth is death). Though relatively rare in developed nations, this disease can present in persons in conditions that can lead to chronic malnourishment, such as anorexia, alcohol abuse, and homelessness. Though the psychiatric manifestations of pellagra can be seen in other dietary deficiencies, the dermatitis is almost pathognomonic for pellagra. Scurvy, due to a deficiency of vitamin C, presents with delirium if untreated for a long time. B12 deficiency often presents with neurological symptoms, such as muscle weakness, unsteady movements, and numbness and tingling in addition to mental confusion. Thiamine deficiency leads to Wernicke\u2013 Korsakoff syndrome, which can present with delirium and dementia. Vitamin A deficiency does not have psychiatric manifestations. (261\u2013 262)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 35\u2013 year\u2013 old man presents to his primary care physician with complains of irritability, restlessness, difficulty concentrating, and insomnia over the past two months. He has not experienced these symptoms before, and has no medical illnesses and is on no medications. He works in construction, and notes that he has been working a lot of overtime over the past nine months due to the recent demand for new houses. He adds that he has noticed some clumsiness and muscle pain as well, which are starting to interfere with his job. Blood pressure is 140/90. Other vital signs are within normal limits. BMI is 21. Physical exam reveals a well\u2013 developed, well\u2013 nourished male in no acute distress. Neurological exam reveals no focal neurological abnormalities. A complete metabolic panel shows no abnormalities. The patient\u2019s symptoms can be explained by chronic exposure to what toxin?",
+      "choices":{  
+         "option0":"A. Lead",
+         "option1":"B. Mercury",
+         "option2":"C. Manganese",
+         "option3":"D. Arsenic",
+         "option4":"E. Toluene",
+         "@option":"0"
+      },
+      "rationale":"Lead can be found in solder, pipes, batteries, pottery, and roofing materials, among other substances, which can lead to slow poisoning in occupations such as auto repair, mining, and construction. The psychiatric manifestations of lead poisoning include difficulties with memory or concentration, mood symptoms, irritability, insomnia, and restlessness. Toxin exposure should be considered in new\u2013 onset psychiatric symptoms, especially when coupled with a predisposing history. These days, mercury poisoning can occur from contaminated fish or grain, and can also result in cognitive impairment, irritability and depression. However, mercury poisoning includes neurological signs such as visual field deficits and cerebellar ataxia. Manganese poisoning can also lead to irritability, but usually to somnolence, not insomnia, and can also be present in brick workers.  Arsenic poisoning can cause altered mental status, but also a host of GI symptoms, such as vomiting, abdominal pain, and diarrhea, and can occur as a result of chronic exposure to herbicides. Toluene is a solvent found in substances including gasoline, glues, paint, and chronic exposure over 5\u2013 10 years, can lead to psychoorganic syndrome, consisting of loss of concentration and memory, depression, and anxiety. It also leads to nerve, liver and kidney damage. (262)",
+      "@activityType":"MCQ"
+   }  
+]

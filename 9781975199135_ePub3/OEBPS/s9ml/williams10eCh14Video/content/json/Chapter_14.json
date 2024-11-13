@@ -1,0 +1,76 @@
+[
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What would be the first\u2013line treatment for this patient when he has acute symptoms in the emergency department?",
+      "choices":{  
+         "option0":"A. Hydroxyzine",
+         "option1":"B. Quetiapine",
+         "option2":"C. Propranolol",
+         "option3":"C. Propranolol",
+         "option4":"D. Alprazolam",
+         "@option":"4"
+      },
+      "rationale":"The patient is describing some of the classic symptoms of a panic attack: heart racing, shortness of breath, sweating, and fear of dying, with complete resolution within 15 minutes. The treatment of choice in the midst of an acute episode is a benzodiazepine. Hydroxyzine is sometimes used as an alternative to a benzodiazepine, but is not first line unless there is a reason a benzo cannot be used. Antipsychotics are not recommended as initial therapy. Propranolol is sometimes used for social anxiety, despite lack of evidence. (402, 407)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"In addition to an electrocardiogram (EKG), what other test in the emergency department should be included to help make the diagnosis in this patient?",
+      "choices":{  
+         "option0":"A. Head CT",
+         "option1":"B. Lumbar puncture (LP)",
+         "option2":"C. Urine drug screen",
+         "option3":"D. Echocardiogram",
+         "option4":"E. Chest x\u2013ray",
+         "@option":"2"
+      },
+      "rationale":"Panic attacks should be diagnosed in the absence of a medical or another mental health condition. Stimulants, such as amphetamine, cocaine, and MDMA, as well as cannabis, can cause symptoms that mimic panic attacks. An EKG, not an echocardiogram, is routine in the evaluation of panic attacks. An LP, chest x\u2013ray, and head CT are not standard in the medical workup for a panic attack unless there is an element of the history that leads to indications for those tests. (402, 406)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the frequency of his symptoms, what is the best outpatient pharmacologic treatment?",
+      "choices":{  
+         "option0":"A. A benzodiazepine prn",
+         "option1":"B. A selective serotonin reuptake inhibitor (SSRI)",
+         "option2":"C. A serotonin\u2013norepinephrine reuptake inhibitor (SNRI) and a benzodiazepine",
+         "option3":"D. A benzodiazepine and a tricyclic",
+         "option4":"E. Mirtazapine",
+         "@option":"2"
+      },
+      "rationale":"The patient has reported a panic attack at least two days in a row, in addition to a family history of what was likely panic disorder. To keep his panic attacks from progressing to panic disorder, he should be started on both a benzodiazepine to control acute attacks along with an SSRI or SNRI for long\u2013term treatment. (407)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given his symptoms, what is the most likely comorbid psychiatric disorder in this patient?",
+      "choices":{  
+         "option0":"A. Depression",
+         "option1":"B. Obsessive compulsive disorder (OCD)",
+         "option2":"C. Alcohol use ",
+         "option3":"D. Cannabis use",
+         "@option":"0"
+      },
+      "rationale":"A depressive disorder coexists in 40% to 80% of patients with panic disorder. Alcohol and other substance use disorders occur in 20% to 40%. OCD can also cooccur with panic disorder. (406)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which of the following symptoms would be necessary for a diagnosis of panic disorder in this patient?",
+      "choices":{  
+         "option0":"A. Nausea or gastrointestinal (GI) discomfort",
+         "option1":"B. Tremulousness or dizziness",
+         "option2":"C. Unpredictable symptoms",
+         "option3":"D. Anticipatory anxiety",
+         "option4":"E. Fear of losing control",
+         "@option":"3"
+      },
+      "rationale":"To make a diagnosis of panic disorder, a person must have four or more symptoms of a panic attack, have had more than one attack, and have avoidance behavior or anticipatory anxiety for over a month. The patient in this video has the first two. The symptoms also cannot be explained better by substance use or another medical condition or mental disorder. (402)",
+      "@activityType":"MCQ"
+   }
+  ]

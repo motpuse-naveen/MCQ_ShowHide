@@ -1,0 +1,92 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What questionnaire is most likely being referred to in the video?",
+      "choices":{  
+         "option0":"A. Autism Diagnostic Interview\u2013Revised (ADI\u2013R)",
+         "option1":"B. Brief Psychiatric Rating Scale (BPRS)",
+         "option2":"C. Child Behavior Checklist (CBCL)",
+         "option3":"D. Conners Rating Scales",
+         "option4":"E. Neuropsychiatric Inventory (NPI)",
+         "@option":"3"
+      },
+      "rationale":"The Conners Rating Scales are the most commonly used scales in the assessment of attention deficit hyperactivity disorder (ADHD). It can be useful in following symptom severity over time. A teacher, parent, and self\u2013report versions, along with short and long versions are present. Though often teacher and parent ratings are not in agreement, the test has high validity in determining ADHD between patients who have it versus neurotypical controls (47). The BPRS is a short scale for measuring the severity of psychiatric symptomatology. It was designed primarily to assess changes in psychotic inpatients and covers a broad range of areas including anxiety and depression (38). The NPI assesses a wide range of behavioral symptoms often seen in Alzheimer and dementia. Assessment areas including motor behavior, hallucinations, appetite, etc. (45). The CBCL includes self\u2013rated instruments to survey a broad range of difficulties in children and adolescents and includes problem behaviors and academic and social strengths. The ADI\u2013R is a clinical assessment of autism and related disorders and assesses language and communication, reciprocal social interactions, etc. (47). Though the patient in the video has poor eye contact and some social struggles, ADHD is more likely a concern than autism spectrum disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"According to the DSM\u20135, what is most likely to be her psychiatric diagnosis?",
+      "choices":{  
+         "option0":"A. Attention deficit hyperactivity disorder (ADHD)",
+         "option1":"B. Generalized anxiety disorder ",
+         "option2":"C. Intellectual disability",
+         "option3":"D. Posttraumatic stress disorder",
+         "option4":"E. Separation anxiety disorder",
+         "@option":"0"
+      },
+      "rationale":"For a diagnosis of ADHD, six or more symptoms from each category are required. Categories include inattention and hyperactivity/impulsivity. Inattention symptoms mentioned in the video include poor attention, difficulty maintaining focus, when spoken to appear to not be listening, losing things, being easily distracted and forgetful. Hyperactivity/impulsivity symptoms include fidgeting, being unable to sit in a seat, in general not being able to keep still, and other symptoms one can imagine she might struggle with include difficulty doing things quietly, impatience and struggle with waiting her turn, and blurting things out. (134)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What are the common symptoms of this diagnosis that the girl in this video is experiencing?",
+      "choices":{  
+         "option0":"A. Fidgeting, separation struggles, and panic symptoms",
+         "option1":"B. Losing belongings, forgetfulness, and struggles sitting still",
+         "option2":"C. Low mood, energy, and hopelessness",
+         "option3":"D. Oppositional behavior, conflicts with peers, and blaming of others",
+         "option4":"E. Poor eye contact, social struggles, and repetitive behavior",
+         "@option":"1"
+      },
+      "rationale":"School\u2013aged children with attention deficit hyperactivity disorder (ADHD) present with hyperactivity, short attention spans, preservation, difficulty completing tasks, impulsivity, disorganization, hyperactivity, struggles, sitting still, and with learning (132). Fidgeting, separation struggles, and panic symptoms are more suggestive of an anxiety disorder, while low mood, energy, and hopelessness are more suggestive of a depressive disorder. Oppositional behavior, blaming others, and conflicts with peers can be symptoms of an oppositional defiant disorder, which can be comorbid with ADHD. Poor eye contact, social struggles, and repetitive behavior can be symptoms of autism spectrum disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which subtype or specifier of this diagnosis is presented in the video?",
+      "choices":{  
+         "option0":"A. Combined type ",
+         "option1":"B. In partial remission",
+         "option2":"C. Predominately inattentive type",
+         "option3":"D. Severe",
+         "option4":"D. Severe",
+         "@option":"0"
+      },
+      "rationale":"The three symptom specifiers for attention deficit hyperactivity disorder (ADHD) include combined presentation, predominately inattentive presentation, and predominately hyperactive/impulsive presentation. She presents with both inattentive and hyperactive/impulsive symptoms as listed above. Course specifiers include in partial remission, meaning symptoms would be improving with time and less than six symptoms from each category would be required for this specifier. Severity specifiers of mild, moderate, and severe are also listed in the DSM\u20135. Marked impairment would need to be noted for the \"severe\" specifier to be met. Though comorbid conduct disorder can present with ADHD, she does not display symptoms of this diagnosis, and it is not a specifier. (134)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What should be included as part of a standard workup to diagnose this disorder?",
+      "choices":{  
+         "option0":"A. B12 and folate levels",
+         "option1":"B. Comprehensive psychiatric and medical history",
+         "option2":"C. Continuous performance task",
+         "option3":"D. Electroencephalography",
+         "option4":"E. Magnetic resonance imaging",
+         "@option":"1"
+      },
+      "rationale":"A comprehensive evaluation including peri\u2013 and postnatal history, developmental history, a thorough medical history, and a multi\u2013informant history, including information from the school is standard of care for diagnosing attention deficit hyperactivity disorder (ADHD). Continuous performance task is not particularly useful for the diagnosis of ADHD, though it can help compare performance before and after medication treatment (133). While the patient complained of memory problems, it can be better accounted for by an ADHD diagnosis in a young child, rather than a B12 or folate deficiency.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What medication treatment is best to initiate?",
+      "choices":{  
+         "option0":"A. Atomoxetine",
+         "option1":"B. Aptensio XR",
+         "option2":"C. Bupropion",
+         "option3":"D. Dexmethylphenidate ER",
+         "option4":"E. Guanfacine",
+         "@option":"3"
+      },
+      "rationale":"Pharmacologic treatment is considered first line for attention deficit hyperactivity disorder (ADHD). Central nervous system (CNS) stimulants are the first\u2013choice agents. Methylphenidate preparations are highly effective in up to three\u2013fourths of children with ADHD, with relatively few adverse effects. The new preparations, such as Aptensio XR, should be used if one has had a partial response from methylphenidate or side effects. Often sustained\u2013release once\u2013a\u2013day dosing, such as dexmethylphenidate ER, can help diminish rebound side effects and can help sustain a level of the medication throughout the day. Nonstimulant medication, such as guanfacine and antidepressants, such as bupropion, and norepinephrine reuptake inhibitors, such as atomoxetine, have been used with variable success in ADHD, but are not considered first\u2013line treatment. (135)",
+      "@activityType":"MCQ"
+   }
+]

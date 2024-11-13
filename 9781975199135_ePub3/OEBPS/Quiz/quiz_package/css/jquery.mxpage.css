@@ -1,0 +1,148 @@
+.mxpage-container { display: block; }
+
+.mxpage-container li { 
+  display: inline-block;
+  padding: 0px;
+  vertical-align: top;
+  background: transparent;
+  margin: 0px 2px;
+}
+
+.mxpage {
+  display: inline-block;
+  min-width: 15px;
+  padding: 0 5px 0 5px;
+  height: 24px;
+  color: #fff;
+  font-size: 22px;
+  line-height: 24px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: transparent;
+  border: solid 1px #ddd;
+  margin-left: 4px;
+  margin-right: 4px;
+  transition: .2s all;
+  text-decoration: none;
+}
+
+.mxpage:hover {
+  /*background: #007ac3;*/
+  color: #fff;
+  /*border: 1px solid #dedede;*/
+  font-family:FiraSans-ExtraBold;
+}
+
+.mxpage.active, .mxpage.active:hover {
+  /*background-color: transparent;
+  border-color: transparent;*/
+  font-family:FiraSans-ExtraBold;
+}
+/*.mxpage-default:after {
+    background: url(../images/cross-small.svg);
+    background-repeat: no-repeat;
+    width: 11.31px;
+    height: 11.31px;
+    display: inline-block;
+    content: url(../images/cross-small.svg);
+}*/
+/*.mxpage-default.inCorrectTickMark:after {
+    content: url(../images/cross-small.svg);
+    position: absolute;
+    top: 47px;
+    left: 45%;        
+    height: 30px;
+}
+.mxpage-default.correctTickMark:after {
+    content: url(../images/tick-small.svg);
+    position: absolute;
+    top: 47px;
+    left: 45%;        
+    height: 30px;
+}*/
+.mxpage-container li span{
+  background-color: transparent !important;
+  border: none !important;
+}
+.mxpage-default  + span.inCorrectTickMark{
+
+    background-image: url(../images/cross-small.svg);
+    background-color: transparent !important;
+    border: none !important;
+    width: 12px;
+    height: 12px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    top: 8%;
+    left: 45%;
+
+}
+/* .mxpage-container span .tik-img{
+  display: none
+} */
+.mxpage-default  + span.correctTickMark{
+
+    background-image: url(../images/tick-small.svg);
+    background-color: transparent !important;
+    border: none !important;
+    width: 15px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    top: 8%;
+    left: 45%;
+
+}
+/* .mxpage-default  + .correctTickMark .correct-img,.mxpage-default  + .inCorrectTickMark .in-correct-img{
+  display: block;
+} */
+.ACIBtn span.inCorrectTickMark{
+   background-image: url(../images/cross-small.svg);
+   position: relative;
+   width: 11px !important;
+   height: 11px !important;
+    top: 1px;
+    left: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.ACIBtn span.correctTickMark{
+    background-image: url(../images/tick-small.svg);
+    position: relative;
+   width: 11px !important;
+   height: 11px !important;
+    top: 1px;
+    left: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/*.ACIBtn div{
+    background-image: url(../images/cross-small.svg);
+    background-color: transparent !important;
+    border: none !important;
+    width: 12px;
+    height: 12px;
+}*/
+.mxpage-container li:first-child{
+  display: none;
+}
+.ACIBtn.adjustACIbtn{
+  text-align: left;
+  /*padding: 0.8% 6%;*/
+  padding: 0.4% 3%;
+}
+
+@media only screen and (min-width : 375px) and (max-width : 768px) {
+  .ACIBtn.adjustACIbtn {
+    padding: 0.4% 6%;
+  }
+}
+@media only screen and (min-width : 299px) and (max-width : 375px) {
+  .ACIBtn.adjustACIbtn {
+    padding: 0.4% 5%;
+  }
+}

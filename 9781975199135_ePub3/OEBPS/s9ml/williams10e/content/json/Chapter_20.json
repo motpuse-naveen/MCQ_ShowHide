@@ -1,0 +1,154 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"In what section is the diagnosis of malingering categorized in under in the DSM-\u20135?",
+      "choices":{  
+         "option0":"A. Disruptive behavior disorders ",
+         "option1":"B. Other conditions that may be a focus of clinical attention*",
+         "option2":"C. Personality disorders",
+         "option3":"D. Psychotic disorder ",
+         "option4":"E. Somatic symptom and related disorders",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Other conditions that may be a focus of clinical attention (pg 580).  Malingering, a deliberate falsifying of physical or psychological symptoms to achieve a secondary gain (i.e. avoiding work, obtaining financial compensation, avoiding criminal prosecution, etc.) is not considered a mental health disorder, rather is listed in  section in the DSM-\u20135 called, \"Other conditions that may be a focus of clinical attention.\"",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Common potential causes of feigning symptoms as a part of malingering include which of the following scenarios? (Choose 3 correct answers)",
+      "choices":{  
+         "option0":"A. Enjoyment of being in the sick role",
+         "option1":"B. Gaining free room and board at a hospital",
+         "option2":"C. worker\u2019s compensation",
+         "option3":"D. Having severe depression",
+         "option4":"E. Inflicting pain upon minors by subjecting them to medical tests",
+         "option5":"F. Obtaining drugs for abuse ",
+         "@option":"1,2,5"
+      },
+      "rationale":"The correct answers are options B. Gaining free room and board at a hospital, C. Getting worker\u2019s compensation, and F. Obtaining drugs for abuse (pg 580, 581). Malingering involves faking psychological or physical symptoms or secondary gain. Common causes of faking symptoms include to obtain drugs for abuse, or faking psychiatric symptoms to get free room and board in a hospital if homeless. Other cause of malingering includes faking injury to get money, or to get out of testifying in court. When there is no clear secondary gain and enjoyment of the sick role is noted, factitious disorder should be considered. Munchausen\u2019s disorder by proxy should be considered if the adult is inflicting medical tests on a child and lying about their medical symptoms.",
+      "@activityType":"MCMS"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Patients with conversion disorder as opposed to malingering are more likely to display which of the following symptoms?",
+      "choices":{  
+         "option0":"A. Avoidance of diagnostic evaluations",
+         "option1":"B. Behave as clingy and dependent",
+         "option2":"C. Possess a suspicious demeanor ",
+         "option3":"D. Provide extremely detailed description of events leading ot their illness",
+         "option4":"E. Refuse opportunities for employment ",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Behave as clingy and dependent (pg 582). Malingering should be differentiated between conversion disorder with both, objective sings cannot account for their subjective experience. Those with conversion disorder are often dependent, clingy, friendly, and cooperative, compared to those with malingering who are suspicious and aloof. While those with conversion disorder want an answer and search for evaluations, those with malingering avoid them. Malingerers often avoid employment opportunities as well to circumvent their disability. Those with conversion disorder often have vague descriptions of their illness and inaccuracies and gaps in their history but those with malingering often provide excessively detailed accounts of events leading to their disability.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which symptom is more typical of a major depressive disorder rather than normal grief?",
+      "choices":{  
+         "option0":"A. Difficulty carrying out daily activities for a few weeks",
+         "option1":"B. Guilt about not seeing the loved one enough ",
+         "option2":"C. Hearing the voice of the loved one",
+         "option3":"D. Irritability and insomnia",
+         "option4":"E. Significant psychomotor retardation",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Significant psychomotor retardation (pg 582). Signs of normal bereavement can include sadness, irritability, insomnia, tearfulness, and difficulty carrying out daily activities, though if prolonged marked functional impairment, it is more consistent with a major depressive disorder.  Excessive guilt about things (other than actions taken around the time of the loved one\u2019s death), along with thoughts of dying (other than wanting to be with the loved one) are symptoms consistent with a major depressive disorder.  Significant psychomotor retardation and worthlessness, along with hallucinations that don\u2019t just involve the lost loved one, can also point towards a diagnosis of a major depressive disorder, rather than just grief.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which neurological abnormality is found in half of aggressive criminal? ",
+      "choices":{  
+         "option0":"A. Abnormal EEGs",
+         "option1":"B. Brain tumors",
+         "option2":"C. Cerebral atrophy",
+         "option3":"D. Loss of grey matter in the brain",
+         "option4":"E. Migraines",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Abnormal EEGs (pg 584). Neurological conditions are often associated with adult antisocial behavior. Abnormal EEGs are commonly found in violent offenders, with studies estimating around 50% of aggressive criminals have abnormal EEG findings. Complex partial seizures should be ruled out in those with antisocial behavior. In cases of epilepsy or encephalitis, careful examination should be done to examine the extent those disorders are contributing to the behavior.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is one of the most common symptoms noted in adult antisocial behavior?",
+      "choices":{  
+         "option0":"A. Drug abuse",
+         "option1":"B. Pathological lying",
+         "option2":"C. Somatic complaints",
+         "option3":"D. Suicide attempts",
+         "option4":"E. Work problems",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Work problems (pg 585). Though all the symptoms noted above can be features of antisocial behavior in adults, work problems are thought to be the most prominent symptoms (around 85%) followed by marital, financial dependency, and arrests, along with alcohol abuse. Less common symptoms include somatic complains (11%), drug abuse (15%), suicide attempts (11%) and pathological lying (16%).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Though antisocial behavior often continues through a person\u2019s life, some evidence exists that which of the following treatments might be helpful?",
+      "choices":{  
+         "option0":"A. Acceptance and commitment therapy",
+         "option1":"B. Dialectical behavior therapy and phone coaching",
+         "option2":"C. Cognitive behavioral therapy",
+         "option3":"D. Group therapy and therapeutic communities",
+         "option4":"E. Interpersonal psychotherapy",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Group therapy and therapeutic communities (pg 585). Though often outcomes for treating adult antisocial behavior are poor, in general it is thought that behavior seem to decrease after 40 years old. Psychological therapy and medication treatment are typically not very effective, though for incarcerated criminal in institutional settings, some forms of group therapy have been shown to help and therapeutic communities are also thought to be helpful.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which group of people appear to be more vulnerable to negative experiences in dealing with phases of life problems?",
+      "choices":{  
+         "option0":"A. Men",
+         "option1":"B. Minorities",
+         "option2":"C. People who utilize sublimation",
+         "option3":"D. Those of a higher socioeconomic status",
+         "option4":"E. Younger people ",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Minorities (pg 587). Phases of life problems can occur at any age. Common problems include divorce of parents, illness, having children, etc. Men appear to handle these phases of life problem better externally, whereas women, those of lower socioeconomic status, and minorities appear most vulnerable to the negative experiences, resulting in anxiety and depression. Positive attitudes family relationships, mature defense mechanisms, with use of sublimation, creativity and flexibility appear to be protective factors against depression and anxiety from these phases of life problems.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which parenting style is most likely to be associated with children who are more aggressive, impulsive, and struggle with achieving?",
+      "choices":{  
+         "option0":"A. Attachment",
+         "option1":"B. Authoritarian",
+         "option2":"C. Authoritative",
+         "option3":"D. Helicopter",
+         "option4":"E. Permissive",
+
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Permissive (pg 588). Permissive parenting, which can be described as minimally restrictive and accepting, is associated with kids who are more aggressive, impulsive, and tend to be low achievers. Authoritarian parents can be described as cold and restrictive, and these children tend to be withdrawn or conflicted. Parents should aim for an authoritarian approach involving restriction as needed in a warm and accepting way. These children are thought to be the most socially well\u2013adjusted and do better cognitively and are the highest achievers.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Studies support which of the following findings for physician marriages compared to other occupational groups?",
+      "choices":{  
+         "option0":"A. Conflicts and separation are less likely to occurr",
+         "option1":"B. Psychiatrists have the highest rate of divorce",
+         "option2":"C. Surgeons are most likely to get married ",
+         "option3":"D. They occur later in life, on average in their 30s",
+         "option4":"E. They have higher satisfaction rates",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Psychiatrists have the highest rate of divorce (pg 589).  Physicians have the highest risk of divorce compared to other occupation groups, with psychiatrists having the highest rates (50%), followed by surgeons (33%), internists pediatricians, and pathologists. Stress of work, including dealing with life\u2013death situations, long hours, malpractice risks, and increased risk of depression and substance use are likely factors that contribute to the high divorce rate.",
+      "@activityType":"MCQ"
+   }
+  ]

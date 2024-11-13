@@ -1,0 +1,79 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Based on the information provided in the video, which is the most likely diagnosis to best explain why he can\u2019t move his left arm?",
+      "choices":{  
+         "option0":"A. A stroke",
+         "option1":"B. Conversion disorder",
+         "option2":"C. Malingering",
+         "option3":"D. Nerve compression",
+         "option4":"E. Psychosis",
+         "@option":"1"
+      },
+      "rationale":"Though he mentioned that his grandfather had a stroke, there is no indication in the video that he has any other signs/symptoms of a stroke or an underlying medical issue. Conversion disorder, or functional neurologic symptom disorder, is the most likely explanation. It involves a motor or sensory deficit that is incompatible with other neurologic conditions that often follows a stressor, as depicted in the video. The symptoms are not intentionally produced as in malingering. (451)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the most likely underlying psychopathology driving the arm paralysis?",
+      "choices":{  
+         "option0":"A. Desire to go on disability",
+         "option1":"B. Enjoyment of medical attention",
+         "option2":"C. Fear of an organic condition",
+         "option3":"D. Hypochondriasis",
+         "option4":"E. Psychological conflict",
+         "@option":"4"
+      },
+      "rationale":"Conversion disorder often coincides with psychological issues, or conflicts, which are \"converted\" to neurologic symptoms. Hypochondriasis involves preoccupation with having a serious medical illness, whereas in the video, he does not seem concerned at all about his paralysis. There are no other signs in the video hinting that a medical illness is responsible for his symptoms, or that he is malingering for a secondary gain, such as to go on disability. (453, 454)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which psychological symptom commonly associated with this disorder is notable in the video?",
+      "choices":{  
+         "option0":"A La belle indifference",
+         "option1":"B Pseudologia fantastica",
+         "option2":"C Psychomotor agitation",
+         "option3":"D Reaction formation",
+         "option4":"E Sublimation",
+         "@option":"0"
+      },
+      "rationale":"La belle indifference, meaning beautiful indifference or having a cavalier attitude toward the symptoms, is noted in the video. Though not pathognomonic of conversion disorder, la belle indifference is often seen with it. No psychomotor agitation is noted, rather calmness is noted with no abnormal movements. Identification (i.e., he is expressing symptoms of the deceased), not reaction formation, can be associated with conversion disorder. Pseudologia fantastica involves combining limited factual material with extensive, dramatic fantasies. This is more commonly found in factitious disorder, not conversion disorder. (455\u2013\u2013457)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which psychotherapeutic approach would be most helpful?",
+      "choices":{  
+         "option0":"A. Confront him that he is faking the symptoms",
+         "option1":"B. Help him to express the feelings about his loss and refer him to physical therapy",
+         "option2":"C. Interpreting the cause of his symptoms are his way of dealing with the death",
+         "option3":"D. Reassure him that nothing is wrong with his arm",
+         "option4":"E. Send him to the emergency room (ER) for an urgent medical evaluation",
+         "@option":"1"
+      },
+      "rationale":"Psychological interpretation, or explaining, does not work early on and implications that the patient is malingering can be counterproductive. The most helpful approach is typically working with the patient to gradually improve their ability to express themselves and communicate with others. At times, especially for prolonged cases, physical therapy can be helpful. While reassuring that his medical workup was normal, once completed, can be a helpful strategy and explaining that the symptoms will likely improve, reassuring him nothing is wrong, can be invalidating and unhelpful. While a medical workup should be done, as up to 50% of patients can have an underlying medical or psychiatric issue, he does not report any symptoms in his video that warrant an ER evaluation right now. (466)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is most likely to be his prognosis?",
+      "choices":{  
+         "option0":"A. Development of a psychotic disorder",
+         "option1":"B. Psychiatric hospitalization",
+         "option2":"C. Recurrence of the symptoms within 1 year",
+         "option3":"D. Spontaneous remission of symptoms within a few weeks",
+         "option4":"E. Worsening paralysis advancing to his other arm and leg",
+         "@option":"3"
+      },
+      "rationale":"Up to 95% of cases spontaneously remit, typically within 2 weeks in hospitalized patients. He has good prognostic indicators, including abrupt onset of symptoms and a clear, identifiable trigger, along with seemingly decent intellect. While recurrence can occur within 1 year, typically only one\u2013fifth to one\u2013fourth of people experience this, not the majority. While depression and anxiety can be commonly comorbid with conversion disorder, schizophrenia is a rare occurrence with it. (464)",
+      "@activityType":"MCQ"
+   }
+   
+   
+]

@@ -1,0 +1,530 @@
+[
+   {
+      "@activityType": "MCQ",
+      "question": "Several pathways play a role in gastrointestinal (GI) tumors. Recently this pathway has been recognized as a key regulator in prostaglandin synthesis that is induced in inflammation and neoplasia. No mutations have been identified, but inhibition with aspirin and nonsteroidal anti-inflammatory drugs is associated with reduced risk of colorectal adenoma and cancer. What is the pathway?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Cyclooxygenase-2 (COX-2)",
+         "option1": "B. Nuclear factor-<font face=\"Arial\" size=\"15\">&#954;<\/font>B",
+         "option2": "C. P13K/Akt",
+         "option3": "D. RAF"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>The COX-2 pathway plays an important role in GI tumors. The enzyme COX-2 is a key regulator of prostaglandin synthesis that is induced in inflammation and neoplasia. Although no mutations of COX-2 have been described, overexpression of COX-2 in colon adenomas and cancers is associated with tumor progression and angiogenesis, primarily through the induction of synthesis of prostaglandin E<font face=\"GG Subscript\" size=\"16\">2<\/font>. Inhibition of COX-2 with a variety of agents (aspirin, nonsteroidal anti-inflammatory drugs, and COX-2 selective inhibitors) is associated with a reduced risk of colorectal adenomas and cancer."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What is the major function of glucagon and glucagon-like peptide?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. As a neurotransmitter",
+         "option1": "B. Mediator of satiety and food intake",
+         "option2": "C. To produce pancreatic fluid and pancreatic secretion",
+         "option3": "D. To regulate glucose homeostasis"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>Glucagon and glucagon-like peptides are synthesized and released from the cells of the pancreas, ileum, and colon and are not neurotransmitters."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is the most populous cell of the lamina propria mononuclear cells?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Macrophages",
+         "option1": "B. Dendritic cells",
+         "option2": "C. Immunoglobulin A&#8211;positive (IgA+) plasma cells",
+         "option3": "D. Tumor necrosis factor (TNF)&#8211;secreting T cells"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Lamina propria mononuclear cells are a heterogeneous group of cells. The most populous cell type is the IgA+ plasma cell, but there are more than 50% T and B cells, macrophages, and dendritic cells."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "During a meal, nutrients interact with cells in the mouth and GI tract to regulate hunger and satiety. Which of the following does not play a major role in this complex interaction?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Cholecystokinin (CCK)",
+         "option1": "B. Glucagon-like peptide 1",
+         "option2": "C. Ghrelin",
+         "option3": "D. Leptin",
+         "option4": "E. Lipase"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>CCK is one of the most studied satiety hormones. CCK reduces food intake in animals. Glucagon-like peptide 1 is produced by the ileum and the colon. Glucagon-like peptide 1 receptors are found in parts of the brain that are important in the regulation of hunger. Leptin is considered a long-term regulator of energy balance. Ghrelin is the only GI hormone to have arexigenic effects. Lipase is an enzyme released from the pancreas and does not seem to regulate hunger and satiety."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The Wnt pathway is important in which of the following processes?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Programmed cell death (apoptosis)",
+         "option1": "B. Senescence",
+         "option2": "C. Intestinal epithelial cell (IEC) proliferation",
+         "option3": "D. Pancreatic acinar cell proliferation"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>The Wnt pathway is one important example of a signaling pathway that regulates the cell cycle machinery to control the proliferation of IECs (<a href=\"asfunction:_root.loadImage,data/images/01-01-005.jpg,data/pdf/01-01-005.pdf,data/images/Browser/01-01-005.jpg\"/><font color='#0000FF'><b>View Image<\/b><\/font><\/a>)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Adrenergic neurons originate in ganglia of the autonomic nervous system and synapse with enteric neurons. Adrenergic neurons only contain which of the following?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Norepinephrine",
+         "option1": "B. Acetylcholine",
+         "option2": "C. Neuropeptide Y and somatostatin",
+         "option3": "D. A and C"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>A single type of neuron contains and releases different chemical substances (e.g., adrenergic neurons of the enteric nervous system contain not only norepinephrine but also neuropeptide Y and somatostatin to modulate the smooth muscle intestinal contraction or secretion)."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following neuromodulators has the following characteristics: a potent vasodilator that increases blood flow in the GI tract and causes smooth muscle relaxation and epithelial cell secretion; is expressed primarily in neurons of the peripheral/enteric and central nervous systems; has effects on many organ systems, although in the GI tract stimulates fluid and electrolyte secretion from intestinal epithelium and bile duct cholangiocytes; causes relaxation of gastric smooth muscle and therefore is an important modulator of sphincters in the GI tract?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Acetylcholine",
+         "option1": "B. Somatostatin",
+         "option2": "C. CCK",
+         "option3": "D. Gastrin",
+         "option4": "E. Vasoactive intestinal polypeptide"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>Vasoactive intestinal peptide has broad significance in the GI tract, which is represented by the listed characteristics."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "T cell differentiation is influenced by the microenvironment of the gut. This will influence development of cells and promotion of cytokines, thereby promoting or suppressing inflammation. Which of the following cytokines play a role in IgA secretion?",
+      "choices": {
+         "@option": "5",
+         "option0": "A. Interleukin (IL)-12",
+         "option1": "B. IL-4",
+         "option2": "C. IL-5",
+         "option3": "D. IL-6",
+         "option4": "E. A and B",
+         "option5": "F. C and D"
+      },
+      "rationale": "<b>F<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>IL-5 induces B cells expressing surface IgA to differentiate into IgA-producing plasma cells. IL-6 causes an increase in IgA secretion with little effect on either IgM or IgG synthesis."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "CCK and somatostatin are both hormones that are released in the GI tract. They may work as which of the following?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Endocrine agent",
+         "option1": "B. Paracrine agent",
+         "option2": "C. Neurocrine agent",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>CCK and somatostatin are typical examples of chemical substances that can be released as hormones by the endocrine cells and transported to the target cells. In addition, these substances may also be released by the nearby cells and quickly act on the neighboring cells and also be released as neurotransmitters. Somatostatin is a classic paracrine hormone, but, depending on where in the GI tract it is released, it can exert endocrine and neural effects."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The analog of which one of the following is used to treat conditions of hormone excess produced by endocrine tumors (including acromegaly, carcinoid tumors, islet tumors, and gastrinomas)?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Somatostatin",
+         "option1": "B. Gastrin",
+         "option2": "C. CCK",
+         "option3": "D. Secretin"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>Because of its varied physiologic effects, somatostatin has several clinically important pharmacologic uses. Many endocrine cells possess somatostatin receptors and are sensitive to inhibitory regulation. Therefore, somatostatin and its analogs are used to treat conditions of hormone excess produced by endocrine tumors, including acromegaly, carcinoid tumors, and islet cell tumors. Its ability to reduce splanchnic blood flow and portal venous pressure led to somatostatin analogs being useful in treating esophageal variceal bleeding. The inhibitory effects on secretion have been exploited by using somatostatin analogs to treat some forms of diarrhea and reduce fluid output from pancreatic fistulas. Many endocrine tumors express abundant somatostatin receptors, making it possible to use radiolabeled somatostatin analogs, such as octreotide, to localize even small tumors throughout the body."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following genes is deleted or mutated in pancreatic adenocarcinoma?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. <i>TP53<\/i>",
+         "option1": "B. <i>SMAD4<\/i>",
+         "option2": "C. <i>APC<\/i>",
+         "option3": "D. <i>MLH1<\/i>"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br><i>SMAD4<\/i>, also designated the deleted in pancreas cancer 4 gene, is a tumor suppressor gene located on chromosome 18q and is deleted or mutated in most pancreatic adenocarcinomas and a subset of colon cancers."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What is the phenomenon known as epithelial mesenchymal transition?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Polarized epithelial cells no longer recognize boundaries of adjacent epithelial cells and adopt features of migratory mesenchymal cells.",
+         "option1": "B. Degradation of the basement membrane followed by migration into perivascular stroma and creating capillary sprout",
+         "option2": "C. Clonal expansion after formation of a metastatic focus",
+         "option3": "D. Genetic pathway used to modulate Wnt pathway"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Epithelial mesenchymal transition may be what promotes tumor progression. Clonal expansion after metastasis is a &#8220;survival of the fittest&#8221; model in which the metastatic focus proliferates. The Wnt pathway is an example of a signaling pathway that regulates the cell cycle machinery to control the proliferation of IECs."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Obesity has become an epidemic in the United States. Much research has been targeted to identify the mediators of satiety. Which one of the following may be the major mediator of satiety and food intake?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Somatostatin",
+         "option1": "B. Acetylcholine",
+         "option2": "C. Gastrin",
+         "option3": "D. CCK"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>CCK has a major role in gallbladder contraction. It stimulates pancreatic secretion and has been shown to delay gastric emptying. Low levels of CCK have been noted in individuals with celiac disease and bulimia nervosa."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The nature and form of the antigen play a large role in oral tolerance. Which of the following represents an antigen that is most effective at inducing tolerance?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Large amount of soluble carbohydrate",
+         "option1": "B. Large amount of aggregate lipids",
+         "option2": "C. Moderate amount of soluble protein",
+         "option3": "D. Moderate amount of aggregate protein"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Protein antigens are the most tolerogenic, whereas carbohydrates and lipids are less effective at inducing tolerance. The way in which the antigen is delivered is also critical. For example, a protein delivered in soluble form is quite tolerogenic, whereas aggregation of this protein reduces its potential to induce tolerance. The dose of antigen administered is critical to the form of oral tolerance generated; too little or too much is often not the correct dose to induce tolerance."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements describes the major contributing mechanism behind the controlled inflammation in the gut?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Lamina propria lymphocytes respond poorly when activated via their T cell receptor, failing to proliferate and providing a state of activation without expansion.",
+         "option1": "B. Antigen-specific nonresponse to antigens administrated orally",
+         "option2": "C. Large potentially antigenic macromolecules are degraded so that potentially immunogenic substances are rendered nonimmunogenic.",
+         "option3": "D. Th3 cells that are activated in Peyer patches"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>The failure to produce GI pathology despite the activation state of intestinal lymphocytes is probably the consequence of regulatory mechanisms. The failure of LPLs to generate &#8220;normal&#8221; antigen receptor-mediated responses is an important factor in controlled inflammation. LPLs respond poorly when activated via their T cell receptor, failing to proliferate, although they still can produce cytokines. This is key to the maintenance of controlled inflammation. Answers <b>B<\/b> and <b>C<\/b> describe the concept behind oral tolerance, in which Th3 cells are thought to play a role."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Patients who have celiac disease may have a disruption in their oral tolerance. Which of the following does not affect the induction of oral tolerance?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Genetic factors",
+         "option1": "B. Nature of the antigen",
+         "option2": "C. Ethnicity",
+         "option3": "D. Age",
+         "option4": "E. Tolerogen dose"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Factors affecting the induction of oral tolerance are the age of the host, genetic factors, the nature of antigen, and the tolerogen&#8217;s form and dose. The state of the intestinal barrier affects oral tolerance, and when barrier function is reduced, oral tolerance decreases as well. Oral tolerance is difficult to achieve in the neonate, but early on, the intestinal flora and the limited diet likely play a beneficial role in preventing a vigorous response to food antigen."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Point mutations in this gene have been identified in esophageal squamous carcinoma and adenocarcinoma, gastric carcinoma, pancreatic adenocarcinoma, hepatocellular carcinoma, and sporadic colon cancers. Interestingly, mutations are rarely identified in colonic adenomas. What is the gene?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. <i>SMAD4<\/i>",
+         "option1": "B. <i>TP53<\/i>",
+         "option2": "C. <i>APC<\/i>",
+         "option3": "D. <i>MLH1<\/i>"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br><i>TP53<\/i> is the gene responsible for the p53 protein. The p53 protein was detected in tumors as the product of a mutated gene that was mapped to chromosome 17p. Point mutations in <i>TP53<\/i> have been identified in 50% to 70% of sporadic colon cancers but only a small subset of colon adenomas. Mutations in <i>TP53<\/i> have also been found in esophageal squamous carcinoma and adenocarcinoma, gastric carcinoma, pancreatic adenocarcinoma, and hepatocellular carcinoma."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The gut is the largest lymphoid organ in the body. It contains billions of organisms. Significant inflammation is not present in the intestine. What is this phenomenon known as?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Oral tolerance",
+         "option1": "B. The intestinal barrier",
+         "option2": "C. Relative chemotaxis",
+         "option3": "D. Controlled/physiologic inflammation"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)"
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "This gene is found on chromosome 5q and is associated with Gardner&#8217;s syndrome. Both somatic and germline mutations appear in this gene and contribute to the development of polyps.",
+      "choices": {
+         "@option": "3",
+         "option0": "A. <i>TP53<\/i>",
+         "option1": "B. Multiple endocrine neoplasia (<i>MEN1<\/i>)",
+         "option2": "C. E-cadherin1 (<i>CDH1<\/i>)",
+         "option3": "D. Adenomatous polyposis coli (<i>APC<\/i>)"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Genetic linkage analysis revealed markers on chromosome 5q21 that were tightly linked to polyp development in affected members of kindreds with familial adenomatous polyposis and Gardner&#8217;s syndrome. The gene responsible for familial adenomatous polyposis is the adenomatous polyposis coli (<i>APC<\/i>) gene."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All GI peptides are synthesized via gene transcription of DNA into messenger RNA and subsequent translation of messenger RNA into precursor proteins known as preprohormones. The peptides that are destined to be secreted begin as proteins that are cleaved and the prepropeptide is then prepared for structural modifications. Modifications of the peptide hormone for the full biological activity occur in which organelle of the cell?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Mitochondria",
+         "option1": "B. Golgi apparatus",
+         "option2": "C. Endoplasmic reticulum",
+         "option3": "D. Cytoplasm"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>For most of the peptides, including CCK, the final modification of the molecule (e.g., sulfation) occurs in the Golgi apparatus. The endoplasmic reticulum plays a critical role in the formation of the peptide; however, further modification occurs in the Golgi apparatus."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which antibody is most abundant in mucosal secretions?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. IgA",
+         "option1": "B. IgM",
+         "option2": "C. IgG",
+         "option3": "D. IgE"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Secretory IgA is the hallmark of mucosa-associated lymphoid tissue/gut-associated lymphoid tissue immune responses. Although IgG is the most abundant isotype in the systemic immune system, IgA is the most abundant antibody in mucosal secretions. In fact, given the numbers of IgA+ plasma cells and the size of the mucosa-associated lymphoid tissue, IgA turns out to be the most abundant antibody in the body."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "This test can be performed on archived colon tumor tissue and can be helpful in identifying those individuals with colon cancer in the setting of hereditary nonpolyposis colorectal cancer.",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Stool DNA for <i>TP53<\/i>",
+         "option1": "B. Germline DNA analysis for <i>PTEN<\/i>",
+         "option2": "C. Microsatellite instability testing",
+         "option3": "D. Direct DNA sequencing"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>The microsatellite instability test can be performed on archived colon tumor samples and serves as a useful screening test to identify individuals whose colon cancers may have developed as a manifestation of Lynch syndrome. Loss of hMSH (human Mut S homolog) 2, hMLH1, or hMSH6 protein by immunohistochemical staining may provide similar information. Emerging data suggest that the microsatellite instability status of a colon tumor may be predictive of the response to 5-fluorouracil&#8211;based chemotherapy."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following seems to be overexpressed in patients with inflammatory bowel disease and may contribute to activate T lymphocytes?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Major histocompatibility complex class II molecules",
+         "option1": "B. Toll-like receptors",
+         "option2": "C. Peroxisome proliferator activated receptor-<font face=\"Arial\" size=\"15\">&#947;<\/font>",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Increased expression of major histocompatibility complex class II molecules by IECs has been reported in patients with irritable bowel disease. Such overexpression would be expected to increase their potential to activate T lymphocytes. Drugs used to treat patients with irritable bowel disease such as 5-aminosalicylic acid preparations may reduce major histocompatibility complex class II expression on IECs."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following are tumor suppressor genes <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. <i>APC<\/i>",
+         "option1": "B. <i>TP53<\/i>",
+         "option2": "C. <i>SMAD4<\/i>",
+         "option3": "D. <i>C-Myc<\/i>"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>The <i>c-Myc<\/i> protein product is involved in critical cellular functions such as proliferation, differentiation, apoptosis, transformation, and transcriptional activation of key genes. Frequently, <i>c-Myc<\/i> is overexpressed in many GI cancers."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "IECs are derived from the basal crypts and have many roles. Which of the following is not a role of the IECs?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Antigen trafficking",
+         "option1": "B. Secretion of cytokines and chemokines to control the spread of infection once a pathogen has been recognized",
+         "option2": "C. Binding of antigens and then transporting to Peyer patches",
+         "option3": "D. Expression of Toll-like receptors",
+         "option4": "E. IECs play a role in all of the above."
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Microfold cells bind antigens and transport them to Peyer patches. In addition to their function as a physical barrier in the gut-associated lymphoid tissue, IECs contribute to both innate and adaptive immunity in the gut and may play a key role in maintaining intestinal homeostasis. Classic antigen-presenting cells in the systemic immune system possess the innate capacity to recognize components of bacteria and viruses called pathogen-associated molecular patterns. Receptors for these pathogen-associated molecular patterns are expressed both on the cell surface (e.g., Toll-like receptors) and inside the cell. After invasion and engagement of Toll-like receptor 5, the IECs are induced to secrete cytokines and chemokines that attract inflammatory cells to the local environment to control spread of infection."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following characteristics is not associated with inherited GI cancer syndromes?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Individuals are at risk of tumors outside the GI tract.",
+         "option1": "B. Tumors carry a higher mortality.",
+         "option2": "C. Multiple primary tumors develop within the target tissue.",
+         "option3": "D. Tumors in affected individuals typically appear at a younger age.",
+         "option4": "E. Tumor often develops in the absence of predisposing environmental factors."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Despite the variation in the type of tumor found in different inherited cancer syndromes, a number of features are common to all inherited GI cancer syndromes. Most importantly, the marked increase in risk of a particular tumor is found in the absence of other predisposing environmental factors. Multiple primary tumors often develop within the target tissue, and tumors in these affected members typically arise at a younger age. Finally, affected individuals are sometimes at risk of some types of tumors outside the GI tract."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The PP/PYY/NPY (pancreatic polypeptide/peptide tyrosine tyrosine/neuropeptide Y) family of peptides function as which type of transmitter?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Endocrine",
+         "option1": "B. Paracrine",
+         "option2": "C. Neurocrine",
+         "option3": "D. All of the above",
+         "option4": "E. None of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>PP is the founding member of the PP family. The PP family of peptides includes NPY and PYY. PP is stored and secreted from specialized pancreatic endocrine cells (PP cells), whereas NPY is a principal neurotransmitter found in the central and peripheral nervous systems. PYY has been localized to enteroendocrine cells throughout the GI tract but is found in greatest concentrations in the ileum and colon. The PP/PYY/NPY family of peptides functions as endocrine, paracrine, and neurocrine transmitters in the regulation of a number of actions. PP inhibits pancreatic exocrine secretion, gallbladder contraction, and gut motility. PYY inhibits vagally stimulated gastric acid secretion. NPY is one of the most abundant peptides in the central nervous system and, in contrast to PYY, is a potent stimulant of food intake. Peripherally, NPY affects vascular and GI smooth muscle function."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Environmental factors play a role in tumorigenesis. Dietary and viral agents play a role in tumor. Which of the following viruses has been linked to gastric lymphoepithelial malignancies?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Human papillomavirus",
+         "option1": "B. Hepatitis B virus",
+         "option2": "C. Cytomegalovirus",
+         "option3": "D. Epstein-Barr virus"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Viral agents can lead to disruption of normal genes by entry into the host genome, which may disrupt the normal gene sequence. HPV has been linked to squamous cell cancers of the esophagus and anus. Hepatitis B virus has been linked to hepatocellular carcinoma."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The lamina propria mononuclear cells and lamina propria lymphocytes (LPLs) are involved in several pathways. Which pathway may be defective in Crohn&#8217;s disease?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Resistance of the LPLs to undergo apoptosis when activated inappropriately",
+         "option1": "B. Activation of nuclear factor-<font face=\"Arial\" size=\"15\">&#954;<\/font>B by IL-18",
+         "option2": "C. Ability of intraepithelial lymphocytes to secrete cytokines such as IL-7",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>LPLs are more prone to undergo apoptosis compared with their peripheral counterparts. This may be a regulatory mechanism limiting the potentially inflammatory effects of activated lymphocytes. A major defect reported in Crohn&#8217;s disease is the resistance of LPLs to undergo apoptosis when activated inappropriately. The mechanism underlying this apoptotic phenomenon possibly relates to engagement of the death receptor Fas and its ligand on activated LPLs and by the imbalance between the intracellular anti-apoptotic and proapoptotic factors Bcl2 and Bax. Defects in this proapoptotic balance have been reported in patients with Crohn&#8217;s disease."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "<i>Ras<\/i> genes are the most commonly detected oncogenes in the GI tract cancers. The highest frequency of mutation (90%) is found in which of the following tumors?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Colon cancer",
+         "option1": "B. Exocrine pancreas",
+         "option2": "C. Gastric cancer",
+         "option3": "D. Colon adenoma"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Virtually all <i>ras<\/i> mutations in GI malignancies that have been identified occur in the K<i>-ras<\/i> oncogene. The highest frequency is found in tumors of the exocrine pancreas; more than 90% of these tumors possess mutations in the K-<i>ras<\/i> gene. <i>Ras<\/i> genes have been identified in approximately 50% of colonic cancers as well as large benign colon polyps. Less than 10% of colon adenomas smaller than 1 cm have K<i>-ras<\/i> mutations."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Chemokines are secreted by IECs and they aid in the regulation of inflammation. Chemokines attract which of the following cells to sites of interest?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Lymphocytes",
+         "option1": "B. Macrophages",
+         "option2": "C. Dendritic cells",
+         "option3": "D. A and B",
+         "option4": "E. All of the above"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Many of the chemokines secreted in the gut-associated lymphoid tissue are produced by IECs. This is especially true in inflammatory bowel diseases in which the secretion of IEC-derived chemokines and cytokines is increased, contributing to the augmentation of mucosal inflammation. The chemokines have the capacity to attract inflammatory cells, such as lymphocytes, macrophages, and dendritic cells."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What modulator is released from the extrinsic and intrinsic nerves and from the mucosal enterochromophin cells of the gut? It is important in epithelial secretion, bowel motility, nausea, and emesis. Identification of this hormone-specific receptor subtype has led to the development of selective agonists and antagonists for the treatment of irritable bowel syndrome and chronic constipation and diarrhea.",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Norepinephrine",
+         "option1": "B. Acetylcholine",
+         "option2": "C. Serotonin",
+         "option3": "D. Histamine"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>The GI tract contains more than 95% of the total body serotonin, and serotonin is important in a variety of processes, including epithelial secretion, bowel motility, nausea, and emesis. Serotonin is synthesized from tryptophan and is converted to its active form in nerve terminals. Most plasma serotonin is derived from the gut, where it is found in mucosal enterochromaffin cells and the enteric nervous system. Serotonin mediates its effects by binding to a specific receptor. There are seven different serotonin receptor subtypes (5-HT<font face=\"GG Subscript\" size=\"16\">1<\/font> to 5-HT<font face=\"GG Subscript\" size=\"16\">7<\/font>) found on enteric neurons, enterochromaffin cells, and GI smooth muscle. Serotonin can cause smooth muscle contraction through stimulation of cholinergic nerves or relaxation by stimulating inhibitory nitric oxide&#8211;containing neurons. Serotonin released from mucosal cells stimulates sensory neurons, initiating a peristaltic reflex, secretion (via 5-HT<font face=\"GG Subscript\" size=\"16\">4<\/font>) receptors), and the serotonin released modulates sensation through activation of 5-HT<font face=\"GG Subscript\" size=\"16\">3<\/font> receptors."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Two pathways trigger cell apoptosis. One is mediated by activation of <i>TP53<\/i> and the other is mediated through death receptors. Which of the following is not a death receptor?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. TNF receptor",
+         "option1": "B. DR5",
+         "option2": "C. Fas",
+         "option3": "D. Caspase receptor"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>One pathway is mediated through membrane-bound death receptors, which include TNF receptors, Fas, and DR5, whereas the other pathway involves activation of <i>TP53<\/i> expression by environmental insults such as ionizing radiation, hypoxia, and growth factor withdrawal with the subsequent increase in the Bax to Bcl-2 ratio. Both pathways converge to disrupt mitochondrial integrity and release of cytochrome c."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "In animal models, deletion of which of the following leads to colitis?",
+      "choices": {
+         "@option": "5",
+         "option0": "A. TNF",
+         "option1": "B. IL-6",
+         "option2": "C. IL-10",
+         "option3": "D. Transforming growth factor-<font face=\"Arial\" size=\"15\">&#946;<\/font>",
+         "option4": "E. A and B",
+         "option5": "F. C and D"
+      },
+      "rationale": "<b>F<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>TNF and IL-6 are considered to be proinflammatory, while IL-10 and transforming growth factor-<font face=\"Arial\" size=\"15\">&#946;<\/font> are anti-inflammatory."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Polio vaccine is one of the few orally administered vaccines that induces active immunity in the gut. Which of the following may contribute to why this oral vaccine provides immunity?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. The virus binds to IECs.",
+         "option1": "B. The virus binds to microfold cells (M cells).",
+         "option2": "C. Disrupts tight junctions allowing antigen to pass into paracellular space",
+         "option3": "D. Activation of regulatory T cells"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>Oral tolerance may also be associated with the cells serving as the antigen-presenting cells as well as the site of antigen uptake. Poliovirus binds to M cells, which may account for its ability to stimulate active immunity in the gut. The evidence of this comes from studies in mice. Orally administered reovirus type 3 is taken up in mice by M cells expressing reovirus type 3&#8211;specific receptors. This epithelial uptake by M cells induces an active IgA response to the virus. Reovirus type 1 infects IECs adjacent to M cells, and this uptake induces tolerance to the virus. Thus, the route of entry (M cell vs. IEC) of a specific antigen may dictate the type of immune response generated (IgA vs. tolerance)."
+   },
+   {
+      "@activityType": "TRUEORFALSE",
+      "question": "True or false: Somatic mutations lead to the expression of a gene in all cells within a tissue.",
+      "choices": {
+         "@option": "1",
+         "option0": "A. True",
+         "option1": "B. False"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Whereas germline mutations may lead to altered expression of a gene in all cells within a tissue, subsequent additional somatic mutations generally occur only in a small, largely random subpopulation of cells."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following are gene mutations that can lead to colon cancer and can be tested for by immunohistochemistry <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. <i>MSH2<\/i>",
+         "option1": "B. <i>MLH1<\/i>",
+         "option2": "C. <i>MYH<\/i>",
+         "option3": "D. <i>LKB1<\/i>"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Immunohistochemistry can determine the presence or absence of a gene product in a tissue sample. Gene <i>LKB1<\/i> is detected in Peutz-Jeghers syndrome. Loss of <i>MSH2<\/i>, <i>MYH<\/i>, and <i>MLH1<\/i> protein can be detected by immunohistochemical staining."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Pain pathways within the GI tract are complex. Which of the following participate in pain pathways and modulate inflammation?",
+      "choices": {
+         "@option": "4",
+         "option0": "A. Substance P",
+         "option1": "B. Calcitonin gene&#8211;related peptide",
+         "option2": "C. Acetylcholine",
+         "option3": "D. None of the above",
+         "option4": "E. All of the above (A, B, C)"
+      },
+      "rationale": "<b>E<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>Bipolar neurons that project to the mucosa and myenteric plexus act as sensory neurons and contain the hormones listed."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "What is the primary origin of TNF in the following cell types?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Macrophages, Th1, dendritic, endothelial",
+         "option1": "B. Macrophages only",
+         "option2": "C. Th2",
+         "option3": "D. Epithelial"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>TNF is a cytokine that has its primary origin in macrophages, T cells, dendritic cells, and mesenchymal cells. It functions to increase apoptosis and nuclear factor."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Nuclear oligomerization domain 2 (NOD2)/CARD15 polymorphisms are associated with which of the following?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Ulcerative colitis",
+         "option1": "B. Crohn&#8217;s disease",
+         "option2": "C. Celiac disease",
+         "option3": "D. Carcinoid"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>The significance of the ability of IECs to recognize pathogen-associated molecular patterns via surface Toll-like receptors or via intracellular nuclear oligomerization domains 1 and 2 (NOD1, NOD2) has been increasingly recognized over the past decade. The latter ability has been shown to contribute to intestinal inflammation because approximately 25% of patients with Crohn&#8217;s disease have mutations in the NOD2/CARD15 gene, interfering with their ability to mount an appropriate immune response to bacterial stimuli."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following is the principal regulator of cell cycle progression or movement from G<font face=\"GG Subscript\" size=\"16\">2<\/font> to M phase and G<font face=\"GG Subscript\" size=\"16\">1<\/font> to S phase in the cell cycle?",
+      "choices": {
+         "@option": "5",
+         "option0": "A. Cyclin",
+         "option1": "B. Retinoblastoma protein",
+         "option2": "C. P21",
+         "option3": "D. Cyclin dependent kinase",
+         "option4": "E. All of the above",
+         "option5": "F. A and D"
+      },
+      "rationale": "<b>F<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Regulation of cell cycle progression seems to be achieved principally by cyclins and cyclin-dependent kinase activity at the G<font face=\"GG Subscript\" size=\"16\">1<\/font>/S and G<font face=\"GG Subscript\" size=\"16\">2<\/font>/M phase transitions. Dysregulation can promote neoplasia."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A genetically unstable environment contributes to the development of cancer. Microsatellite instability involves which of the following?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Frequent alterations in smaller tracts of microsatellite DNA",
+         "option1": "B. Aneuploidy",
+         "option2": "C. Chromosomal deletions",
+         "option3": "D. Chromosomal duplication"
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Chromosomal instability results in tumor cells that display frequent aneuploidy, large chromosomal deletions, and chromosomal duplications. Tumors that display microsatellite instability are often diploid or near-diploid on a chromosomal level but harbor frequent alterations in smaller tracts of microsatellite DNA."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "All of the following are oncogenes <i>except<\/i>:",
+      "choices": {
+         "@option": "3",
+         "option0": "A. K-<i>ras<\/i>",
+         "option1": "B. C<i>-Src<\/i>",
+         "option2": "C. <font face=\"Arial\" size=\"15\">&#946;<\/font>-<i>Catenin<\/i>",
+         "option3": "D. <i>P53<\/i>"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>More than 80 oncogenes have been isolated. Most of these genes are widely expressed in many different types of tumor cells. Multiple oncogenes are commonly found within a single tumor."
+   }
+]

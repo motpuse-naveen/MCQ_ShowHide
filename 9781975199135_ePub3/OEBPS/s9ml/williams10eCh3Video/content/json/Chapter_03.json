@@ -1,0 +1,78 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Daniel\u2013s speech is most atypical for what speech characteristic?",
+      "choices":{  
+         "option0":"A. Syntax",
+         "option1":"B. Prosody",
+         "option2":"C. Semantics",
+         "option3":"D. Rate",
+         "option4":"E. Phonology",
+         "@option":"1"
+      },
+      "rationale":"Syntax is the arrangement of words and phrases to create well\u2013formed sentences, which this patient can do without difficulty. His rate of speech is not unusually fast or slow. His phonology, the ability to produce sounds that constitute words, is normal, as his words are easily understood. Semantics refers to the organization of concepts, and his speech follows a logical order (107, 122). However, his prosody, or inflection, is atypical in that the tone of his speech is flat. (124)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Someone with Daniel\u2013s diagnosis would most likely fall in what range of intellectual functioning?",
+      "choices":{  
+         "option0":"A. Normal intelligence",
+         "option1":"B. Mild intellectual disability",
+         "option2":"C. Moderate intellectual disability",
+         "option3":"D. Severe intellectual disability",
+         "option4":"E. Profound intellectual disability",
+         "@option":"0"
+      },
+      "rationale":"Nearly 70% of children with autism spectrum disorder have intelligence quotients (IQs) in the normal range. Around 9% function in the mild to moderate range, and around 13% to 15% function in the severe to profound range. (124)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What standardized rating instrument would be most helpful in making Daniel\u2013s diagnosis?",
+      "choices":{  
+         "option0":"A. Child Behavior Checklist (CBCL)",
+         "option1":"B. Diagnostic Interview Schedule for Children (DISC\u2013IV)",
+         "option2":"C. Conners Rating Scale",
+         "option3":"D. Wechsler Intelligence Scale for Children (WISC\u2013III\u2013R)",
+         "option4":"E. Autism Diagnostic Observation Schedule\u2013Generic (ADOS\u2013G)",
+         "@option":"4"
+      },
+      "rationale":"The CBCL is a family of self\u2013rated instruments that survey a broad range of difficulties in children and adolescents, but does not generate diagnoses. The DISC covers a broad range of DSM diagnoses. The Conners is used to screen for attention deficit hyperactivity disorder (ADHD) (45\u201347). The WISC\u2013III\u2013R is used to evaluate intelligence quotient (IQ) (81). The ADOS\u2013G can help elicit comprehensive information regarding autism spectrum disorder, which is this patient\u2013s diagnosis. (125)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Daniel\u2013s confrontation with his classmate is a result of difficulties in what aspect of functioning affected by his diagnosis?",
+      "choices":{  
+         "option0":"A. Hyperreactivity to sensations",
+         "option1":"B. Fixed and restricted interests",
+         "option2":"C. Rigidity about daily routines",
+         "option3":"D. Forming and developing friendships",
+         "option4":"E. Lack of emotional reciprocity",
+         "@option":"2"
+      },
+      "rationale":"The patient repeatedly says that his classmate engaged in a series of behaviors that \"he was not supposed to do.\" Children with autism spectrum disorder are often rigid regarding daily routines and rituals. A change in that routine, such as taking a different route home or breaking a rule, may precipitate anger or tantrums. In this instance, his classmate repeatedly broke the rules, which made the patient upset because \"he knew he was not supposed to do that so he did something wrong.\" Though he may have been hypersensitive to the physical sensation of the classmate touching his foot, that was not explicitly stated, and his anger is better accounted for by the breaking of the rules. (123)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"How would Daniel likely have played with the toy he displayed at the end of the interview when he was a younger child?",
+      "choices":{  
+         "option0":"A. Forced it to run off of the track and crash into another vehicle",
+         "option1":"B. Played with just the wheels of the toy",
+         "option2":"C. Not played with the toy at all",
+         "option3":"D. Pretended he was a conductor of the vehicle",
+         "option4":"E. Used it to transport goods instead of people",
+         "@option":"1"
+      },
+      "rationale":"Children with autism spectrum disorder often use toys in ritualistic ways as opposed to their \"intended\" purposes. It is not uncommon for them to play with just parts of the toy, such as the wheels of a train, as opposed to playing with it as a whole train. They also may just line up toys as simple objects without using them as actual toys for their intended purpose. Forcing a train to run off of a track and crash would involve playing with it as a train and using imagination to make a story, albeit a tragic one. Likewise, pretending to be a conductor or using the train to transport would also demonstrate using the train as a train. (123)",
+      "@activityType":"MCQ"
+   }
+    
+]

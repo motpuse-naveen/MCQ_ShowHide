@@ -1,0 +1,111 @@
+[
+   {
+      "@activityType": "MCQ",
+      "question": "A 36-year-old man is evaluated for treatment of hepatitis C. He has not received interferon-based therapy, but is currently taking a complementary alternative medicine (CAM), the name of which he cannot recall. The patient&#8217;s blood pressure is 156/92 mm Hg, and he has 1+ bilateral lower extremity edema. Laboratory studies are performed, and later that night, the laboratory calls because the serum potassium level is 2.6 mmol/L. The patient takes no other medication and has no history of hypokalemia. You suspect that the patient is taking which of the following?",
+      "choices": {
+         "@option": "2",
+         "option0": "A. Silymarin (milk thistle)",
+         "option1": "B. Chinese herbal medicine",
+         "option2": "C. Glycyrrhiza glabra (licorice)",
+         "option3": "D. Thymic extract"
+      },
+      "rationale": "<b>C<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00127-X\" target=\"_blank\"><font color='#0000FF'><b>ch127<\/b><\/font><\/a>)<br>All of these complementary alternative medications used to treat hepatitis C have been associated with adverse events. Licorice inhibits 11-<font face=\"Arial\" size=\"15\">&#946;<\/font>-hydroxysteroid dehydrogenase, and this may lead to a pseudoaldosterone effect resulting in hypokalemia, sodium retention, and hypertension. Although multiple adverse events have been reported with milk thistle, the most important relates to its ability to inhibit CYP3A4 and uridine diphosphoglucuronosyl transferase. This may lead to interactions with traditional prescription medications such as quinine, lidocaine, certain calcium channel&#8211;blocking agents, and cyclosporine, all of which are metabolized in part by CYP3A4. Chinese herbal medicine has been associated with possible hepatotoxicity, as well as pneumonitis, autoimmune hepatitis, and acute thrombocytopenic purpura. Finally, thymic extract has been reported to cause nausea, vomiting, and, rarely, thrombocytopenia."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 41-year-old woman asks your opinion about colonic irrigation therapy. Which of the following statements regarding this treatment is the most accurate?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. An administration device controls water flow, temperature, and pressure.",
+         "option1": "B. Serious adverse events have not been reported.",
+         "option2": "C. Randomized, controlled studies suggest a reduced incidence of adenomas.",
+         "option3": "D. The principle of autointoxication from colonic contents has been proven."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00127-X\" target=\"_blank\"><font color='#0000FF'><b>ch127<\/b><\/font><\/a>)<br>Colonic irrigation therapy is not self-administered, but given by a practitioner via a device that controls water flow, temperature, and pressure. Serious adverse events, including perforation and amebiasis, have been reported. There are no randomized, controlled studies proving the efficacy of this therapy, and its theoretical basis that toxins originating in the intestine can enter the circulation and poison the body has not been proven."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 66-year-old cachectic man with cirrhosis due to hepatitis C and alcohol is not a candidate for liver transplantation and is referred for hospice care. He is deemed a suitable candidate for hospice based on a history of hepatic encephalopathy refractory to therapy as well as laboratory studies demonstrating a prothrombin time international normalized ratio of 1.8 and serum albumin of 1.9 g/dL. Which of the following statements regarding this patient&#8217;s care under the Medicare Hospice Benefit is most accurate?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Coverage for this benefit does not extend beyond six months of care.",
+         "option1": "B. The patient must relinquish heroic life-prolonging measures.",
+         "option2": "C. The patient agrees to avoid future hospitalization.",
+         "option3": "D. Care usually is provided in the patient&#8217;s home."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00126-8\" target=\"_blank\"><font color='#0000FF'><b>ch126<\/b><\/font><\/a>)<br>Hospice care, under the Medicare Hospice Benefit, has defined regulations and admission criteria. Although admission is dependent on the physician certifying survival of less than six months, should the patient live longer, hospice service can be extended through recertification. Patients do not need to relinquish heroic life-prolonging measures, future hospitalization, or participation in research when they enter hospice care. Although many receive care in special residential facilities or long-term care facilities, most hospice care in the United States takes place in the patient&#8217;s home."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "You are asked to be a medical director for a new company that will market an herbal product for the treatment of chronic liver disease. During the research conducted as part of performing due diligence, you learn many relevant facts about CAM therapies that influence your decision. Which of the following is the most accurate statement regarding CAM therapy?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Ten percent of outpatients with chronic liver disease have used some form of CAM therapy within the past month.",
+         "option1": "B. The U.S. yearly sales of herbal supplements are approximately $4 billion.",
+         "option2": "C. The 1994 Dietary Supplement Health and Education Act was developed to allow the U.S. Food and Drug Administration (FDA) to tightly regulate dietary supplements.",
+         "option3": "D. FDA approval is not required for a dietary supplement marketed before October 15, 1994.",
+         "option4": "E. Supplement manufacturers are required to report adverse events that occur with use of their products."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00127-X\" target=\"_blank\"><font color='#0000FF'><b>ch127<\/b><\/font><\/a>)<br>Dietary supplements marketed before October 15, 1994, do not require FDA approval. However, no official list of supplements marketed before this date exists and the responsibility rests with the manufacturer. Supplement manufacturers are not required to report adverse events with their products. The Dietary Supplement Health and Education Act was developed to prevent &#8220;excessive&#8221; regulation of dietary supplements by the FDA. The market for CAM therapy is large and growing. One study reported 42% of outpatients with chronic liver disease used some form of CAM therapy within the preceding four weeks. The U.S. estimated annual expenditures for CAM therapies are in excess of $27 billion, and for herbal supplements, this figure is $13.9 billion."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 60-year-old woman with advanced liver disease due to primary biliary cirrhosis is hospitalized and responding to treatment for subacute bacterial peritonitis. Using the Mayo Model for primary biliary cirrhosis, her survival rate is estimated to be 25% at one year. While deciding whether to undergo a transplantation evaluation or enter hospice, the patient has asked to be seen by the palliative care team. Which of the following is a contraindication for palliative care?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Entrance into hospice care",
+         "option1": "B. Acceptance as a transplantation candidate and placement on the transplantation list",
+         "option2": "C. Desire to undergo aggressive treatment for liver-related complications",
+         "option3": "D. This patient has no contraindication to palliative care."
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00126-8\" target=\"_blank\"><font color='#0000FF'><b>ch126<\/b><\/font><\/a>)<br>Palliative care and hospice care share the same philosophy and are complementary but not identical. The ultimate goal of palliative care is to prevent and relieve suffering and to optimize quality of life for patients and their families, regardless of the stage of disease or the need for curative or palliative therapies. Therefore, the patient may avail herself of the palliative care team regardless of the course of action she chooses with respect to her underlying liver disease."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The National Center for Complementary and Alternative Medicine divides CAM into four domains. Which of these domains is most commonly used for gastrointestinal and liver diseases?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Mind&#8211;body medicine",
+         "option1": "B. Biologically based practices",
+         "option2": "C. Manipulative and body-based practices",
+         "option3": "D. Energy medicine"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00127-X\" target=\"_blank\"><font color='#0000FF'><b>ch127<\/b><\/font><\/a>)<br>Most of the therapies fall within the biologically based practices domain. They include substances within our natural environment, such as prebiotics, probiotics, and dietary supplements that are used to strengthen and heal the human body. The other domains are used for gastrointestinal and liver diseases, but to a much lesser extent overall."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "The palliative care team is asked to evaluate a 40-year-old man with metastatic pancreatic cancer. The patient is having moderate pain throughout the day that is not responding to nonsteroidal medications, and a long-acting narcotic is recommended. What is the best initial approach to preventing constipation in this patient?",
+      "choices": {
+         "@option": "0",
+         "option0": "A. Begin Senokot before instituting narcotics.",
+         "option1": "B. Begin a fiber supplement before starting narcotics.",
+         "option2": "C. Begin methylnaltrexone before starting narcotics.",
+         "option3": "D. Begin polyethylene glycol before starting narcotics."
+      },
+      "rationale": "<b>A<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00126-8\" target=\"_blank\"><font color='#0000FF'><b>ch126<\/b><\/font><\/a>)<br>Constipation will occur in more than 90% of patients started on opioid medications, which bind to mu receptors on smooth muscle and suppress peristalsis and increase anal sphincter tone. A bowel stimulant such as senna is usually necessary as a prophylactic agent for opioid constipation and may be used as a first-line treatment for established constipation. Low-dose osmotic agents such as polyethylene glycol are useful for constipation refractory to stimulant laxatives alone. Fiber should be avoided as it may lead to obstipation or obstruction in patients unable to ingest large amounts of fluids. Methylnaltrexone, which does not cross the blood&#8211;brain barrier and therefore does not reverse the analgesic effect of narcotics, is FDA approved for chronic opioid-induced constipation and should be used to manage constipation refractory to usual therapies."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Randomized, controlled trials suggest that probiotics may be effective for which of the following?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. Reducing abdominal pain and flatulence in irritable bowel syndrome",
+         "option1": "B. Preventing radiation-induced diarrhea",
+         "option2": "C. Decreasing the number of flares of pouchitis in patients with chronic pouchitis",
+         "option3": "D. All of the above"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00127-X\" target=\"_blank\"><font color='#0000FF'><b>ch127<\/b><\/font><\/a>)<br>All these have been demonstrated in published randomized, controlled trials. <i>Lactobacillus plantarum<\/i> reduced abdominal pain and flatulence in those diagnosed with irritable bowel syndrome. VSL #3 was effective in preventing radiation-induced diarrhea. This product was also effective in reducing both the frequency of pouchitis and the number of flares of pouchitis in those with chronic pouchitis after ileoanal anastomosis for Crohn&#8217;s disease."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 23-year-old woman with a very well controlled seizure disorder on phenytoin is referred for evaluation of nausea and vomiting. An extensive workup was performed and the findings are negative; the decision is made to treat the symptom. She refuses all prescription medications and wants a more &#8220;natural&#8221; approach. What is the most accurate information you can provide regarding CAM therapy for nausea and vomiting?",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Relaxation therapy is effective in most patients.",
+         "option1": "B. The data supporting implementation of acupuncture/acupressure are impressive.",
+         "option2": "C. Ginger is a good option in the future if the patient becomes pregnant.",
+         "option3": "D. Pyridoxine often improves nausea and is very safe for this patient."
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00127-X\" target=\"_blank\"><font color='#0000FF'><b>ch127<\/b><\/font><\/a>)<br>There are good data supporting the use of acupuncture and acupressure for treating nausea and vomiting. Relaxation therapy has primarily been used for chemotherapy-induced symptoms because they are somewhat conditioned and are developed as a form of associative learning. Ginger may be effective, but has been documented to be potentially mutagenic in laboratory assays, thereby raising questions about the safety of the herbal supplement in pregnancy. Finally, although pyridoxine is a popular CAM therapy for nausea and vomiting, it has been documented to decrease serum levels of levodopa, phenobarbital, and phenytoin when coadministered with these agents."
+   }
+]

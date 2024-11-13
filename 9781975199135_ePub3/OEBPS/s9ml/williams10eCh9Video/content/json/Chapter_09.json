@@ -1,0 +1,63 @@
+[  
+    {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the patient\u2019s diagnosis in this video?",
+      "choices":{  
+         "option0":"A. Conversion disorder ",
+         "option1":"B. Factitious disorder",
+         "option2":"C. Generalized anxiety disorder ",
+         "option3":"D. Illness anxiety disorder",
+         "option4":"E. Somatic symptom disorder",
+         "@option":"3"
+      },
+      "rationale":"As displayed in the video, those with illness anxiety disorder believe they have serious, undiagnosed illness, despite evidence to the contrary. Fixating on a prognosis or time frame is common. This preoccupation gets in the way of social functioning with family and friends. Symptoms are like those with somatic symptom disorder except no significant physical symptoms are found. With conversion disorder, patients present with a neurologic illness, either motor or sensory, often brought on by a stressor, and symptoms are not internally produced. Those with factious disorder feign their symptoms to receive medical attention and may inflict painful, life\u2013threatening injuries on themselves or their dependents. While generalized anxiety disorder might include a fear of getting sick, it would also include other symptoms including various worries spanning different realms, plus varied somatic symptoms. (451, 452)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is a defining feature of this disorder, as opposed to somatic symptom disorder?",
+      "choices":{  
+         "option0":"A. Anxiety about the symptoms ",
+         "option1":"B. La belle indifference",
+         "option2":"C. Relatively minor physical symptoms are noted",
+         "option3":"D. Preoccupation with a false belief they have a severe disorder",
+         "option4":"E. Symptoms are more transient",
+         "@option":"0"
+      },
+      "rationale":"With illness anxiety disorder, patients have relatively minor somatic symptoms and focus on concern that they will get sick or have an undiagnosed illness. With somatic symptom disorder, there are significant health concerns along with substantial somatic symptoms. Anxiety about symptoms is present in both disorders. La belle indifference, or not being bothered by the symptoms, is often found in conversion disorder. For both illness, anxiety disorder and somatic symptom disorder, symptoms must be present at least 6 months.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which disorder is most likely to be comorbid with her presentation?",
+      "choices":{  
+         "option0":"A. Bipolar disorder",
+         "option1":"B. Conversion disorder",
+         "option2":"C. Panic disorder ",
+         "option3":"D. Schizophrenia",
+         "option4":"E. Separation anxiety disorder",
+         "@option":"2"
+      },
+      "rationale":"Given illness anxiety disorder is a new DSM\u20135 term, limited data on comorbid illnesses exist. However, a 2017 study showed that this disorder is highly comorbid with depressive and anxiety disorders, including generalized anxiety and panic disorder. (464)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which factor discussed in the video may lead to concern about her having a worse prognosis?",
+      "choices":{  
+         "option0":"A. Chronicity of the disorder",
+         "option1":"B. Comorbid borderline personality disorder",
+         "option2":"C. High socioeconomic class",
+         "option3":"D. Sudden onset of symptoms",
+         "option4":"E. Treatment\u2013responsive major depressive disorder ",
+         "@option":"0"
+      },
+      "rationale":"Signs of a good prognosis of illness anxiety disorder include being of high socioeconomic status, having symptoms that are of sudden onset, having a treatment response anxiety or depressive disorder, and the absence of a personality disorder. This video does not comment about her socioeconomic class and not enough symptoms are present to indicate another depressive or anxiety disorder or personality disorder. The video indicates her symptoms have occurred in the past and have reoccurred over many months, which can be a sign of a worse prognosis. (464)",
+      "@activityType":"MCQ"
+   }
+   
+ ] 

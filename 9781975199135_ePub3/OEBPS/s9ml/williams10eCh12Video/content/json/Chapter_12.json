@@ -1,0 +1,76 @@
+[  
+    {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"The patient endorses enough criteria to meet which of the following diagnoses?",
+      "choices":{  
+         "option0":"A. Posttraumatic stress disorder (PTSD)",
+         "option1":"B. Social anxiety disorder",
+         "option2":"C. Panic disorder",
+         "option3":"D. Agoraphobia",
+         "option4":"E. Persistent depressive disorder",
+         "@option":"4"
+      },
+      "rationale":"The patient is a combat veteran and states that she has been told by others that she has PTSD. However, she did not endorse the symptoms of reexperiencing that were asked, such as nightmares of flashbacks. She also did not endorse exaggerated startle responses. There are many more PTSD symptoms she could be experiencing and still meet criteria for the diagnosis, but these were not asked (431). She states that she does not like to go out and that she feels anxious when forced to socialize, but \"I can do fine in a store.\" She voices no concerns about not being able to escape if she gets anxious, which rules out agoraphobia (403). She elaborates that she does not like people to talk to her not because she is anxious about talking, but because she feels unworthy of being talked to, which also rules out social anxiety disorder (404). When asked directly about panic attacks, she did not provide a direct answer, but also reported no symptoms besides \"this really anxious feeling when people make me go out in public and socialize\" (402). The patient endorses more than enough criteria for persistent depressive disorder, including problems with concentration, appetite, self\u2013esteem, energy, and sleep for a period of over two years (assuming she has been in the military at least that long). (383)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What class of medication should be used to treat this patient\u2019s other mental health diagnosis for which she meets full criteria?",
+      "choices":{  
+         "option0":"A. Benzodiazepine ",
+         "option1":"B. Atypical antipsychotic",
+         "option2":"C. Mood stabilizer",
+         "option3":"D. Selective serotonin reuptake inhibitor (SSRI)",
+         "option4":"E. Oral contraceptive",
+         "@option":"3"
+      },
+      "rationale":"The patient\u2019s other diagnosis is major depressive disorder. She has current problems of depressed mood, sleep, concentration, interest in activities, guilt, energy, and appetite/weight. For the ICD\u201310, decreased libido is also a symptom (380, 381). She is currently experiencing a double depression\u2013a major depressive episode superimposed on persistent depressive disorder (384). The pharmacologic treatment for both is an antidepressant (389). She mentions that depression gets worse around the time of her period, but even if she had a diagnosis of premenstrual dysphoric disorder, the first line of therapy is still an SSRI, not an oral contraceptive. (628)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"The patient\u2019s diagnoses in adolescence could have included which symptom that would not have counted toward the necessary criteria in adulthood?",
+      "choices":{  
+         "option0":"A. Crying spells",
+         "option1":"B. Defiance",
+         "option2":"C. Hyperactivity",
+         "option3":"D. Temper tantrums",
+         "option4":"E. Irritability",
+         "@option":"4"
+      },
+      "rationale":"For children and adolescents, an irritable mood can replace a depressed mood for the diagnoses of major depressive disorder and persistent depressive disorder. Crying spells may be present in children, adolescents, or adults, but they are not DSM criteria. Defiance or temper tantrums may be seen in a depressed child or adolescent, but they also are not criteria. Hyperactivity is usually not a symptom of depression at any age. (175)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What level of concern for suicide is warranted by the patient\u2019s response to the question about suicidal ideation?",
+      "choices":{  
+         "option0":"A. Minimal",
+         "option1":"B. Moderate",
+         "option2":"C. High",
+         "option3":"D. Maximum",
+         "@option":"0"
+      },
+      "rationale":"When asked if she has suicidal thoughts, the patient explicitly says she does not, and gives a reason why. The concern for suicide is lower than that of someone with passive suicidal ideation, who endorses suicidal thoughts but states that they would not act on them, or someone with active suicidal ideation but no plan, and of course much lower than someone with a current plan, with or without the means to do it. Her religious beliefs appear to be a protective factor for both suicidal ideation and certainly a suicide attempt. (17)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"The patient\u2019s statement about herself at the very end of the interview represents what idea in cognitive behavioral therapy?",
+      "choices":{  
+         "option0":"A. Cognitive distortion",
+         "option1":"B. Core belief",
+         "option2":"C. Deductive reasoning",
+         "option3":"D. Dichotomous thinking",
+         "option4":"E. Maladaptive assumption",
+         "@option":"1"
+      },
+      "rationale":"The patient ends the interview with several negative thoughts about herself, concluding with \"I\u2019m not good enough.\" In cognitive behavioral therapy, that thought represents a core belief (1010). Deductive reasoning is moving from the general to the particular, and is a milestone in formal operations. Automatic thoughts are cognitions that intervene between external events and a person\u2019s emotional reaction to the event (768, 769). Dichotomous thinking is a type of cognitive distortion in which one tends to view the world as all good or bad. That is not present in her statement. Maladaptive assumptions are rules that guide a patient\u2019s life, sometimes in an \"if, then\" statement. For this patient, it could be something along the lines of, \"If I make the soup too hot, then he thinks I\u2019m a terrible cook.\" Maladaptive assumptions are not as central to a person as the core belief, which is not dependent on a situation.",
+      "@activityType":"MCQ"
+   }
+   ]

@@ -1,0 +1,182 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is the most common symptom reported by patients with depression?",
+      "choices":{  
+         "option0":"A. Difficulty sleeping",
+         "option1":"B. Decreased energy",
+         "option2":"C. Poor appetite",
+         "option3":"D. Poor concentration",
+         "option4":"E. Suicidal ideation",
+         "@option":"1"
+      },
+      "rationale":"The most common complaint of patients with depression is reduced energy (97%). About 80% report difficulty sleeping. 84% report poor concentration. Many patients have decreased appetite. About 66% have suicidal ideation. (379)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 25\u2013year\u2013old man returns to the mental health center after having been prescribed an SSRI for the past six weeks. He states that he is now able to focus much better in his law school classes. His mood has improved to the point that he does not \"feel like there\u2019s always a dark cloud over my head.\" He reports increased energy, which he attributes to getting seven hours of sleep a night \"for the first time in years,\" and to \"finally being hungry enough to eat as much as everyone else.\" He ends by saying \"I thought everyone felt the same way I did. I didn\u2019t realize I could feel good most of the time. I had just felt so bad for so long.\" What is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Persistent depressive disorder",
+         "option1":"B. Major depressive disorder",
+         "option2":"C. Bipolar disorder",
+         "option3":"D. Generalized anxiety disorder",
+         "option4":"E. Cyclothymia",
+         "@option":"0"
+      },
+      "rationale":"Though this patient is reporting being happy, it is in the context of not feeling as sad, as opposed to grandiosity. There is no history of mania, so bipolar disorder and cyclothymia would not be diagnoses. Though generalized anxiety disorder can present with difficulty concentrating and difficulty sleeping, he does not mention anxiety. He reports feeling depressed almost all of the time, which is more consistent with persistent depressive disorder than major depressive disorder, which has discrete episodes.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 70\u2013year\u2013old woman presents to the primary care physician with complaints of difficulty concentrating over the last four weeks. \"My brain is in a fog. I\u2019m having trouble remembering things as well.\" She worries that she is showing signs of Alzheimer dementia, \"like my father did before he died.\" She states that she used to do crossword puzzles daily to stay sharp, \"but now I can\u2019t even finish one, so I\u2019ve lost interest.\" She reports difficulty getting to sleep, which she attributes to anxiety about \"forgetting things and losing my mind.\" She notes that she has lost about four pounds over the last month due to decreased appetite. She has no chronic medical illnesses and takes no medications. Vital signs are within normal limits. Physical exam reveals no abnormalities. Urinalysis, urine drug screen, complete blood count, and comprehensive metabolic panel are all within normal limits. What is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Dementia of the Alzheimer type",
+         "option1":"B. Generalized anxiety disorder",
+         "option2":"C. Major depressive disorder",
+         "option3":"D. Vascular dementia",
+         "option4":"E. Normal aging",
+         "@option":"2"
+      },
+      "rationale":"Given the patient\u2019s relatively sudden and acute onset and of cognitive difficulties, it is unlikely that she has Alzheimer dementia, or that this is normal aging, both of which would be much more gradual. She has some symptoms of generalized anxiety disorder, such as difficulty with concentration and poor sleep, attributed to worrying. However, it would be uncommon, though not impossible, for it to present for the first time in the eighth decade (median age is in the 30s). Vascular dementia could present with acute problems in cognition, but is less likely as she has no history of cardiac or other health problems. Another explanation for her symptoms of poor concentration, loss of interest in crossword puzzles, difficulty sleeping, and decreased appetite is major depressive disorder. If depression profoundly affects cognition in the elderly, it is sometimes referred to as \"pseudodementia.\" Once the depression is treated, prior cognitive functioning should return. (385).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Patients with depression are most likely to abuse what substance?",
+      "choices":{  
+         "option0":"A. Alcohol",
+         "option1":"B. Benzodiazepines",
+         "option2":"C. Cocaine",
+         "option3":"D. Cannabis",
+         "option4":"E. Amphetamines",
+         "@option":"0"
+      },
+      "rationale":"While patients with a depressive disorder at times turn to stimulants such as cocaine and amphetamines, or to cannabis for relief of depression, alcohol use disorder frequently coexists in both major depressive disorder and bipolar I disorder, with a stronger association with depression in women than in men. People also sometimes use alcohol in a futile attempt to relieve depression. (386)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 70\u2013year\u2013old man presents to the primary care physician with complaints of weight loss. He lost his wife of 45 years five months ago, \"and I haven\u2019t been the same since. I can\u2019t stop crying and thinking about her. The only thing that helps is knowing that when the good Lord calls me home, we\u2019ll be together in heaven.\" He lives alone and has no children or immediate family nearby. He states that during the day, he is either in the bed sleeping or watching television, \"but I just have it on. I\u2019m not paying attention to it. It can\u2019t keep my attention anymore.\" He goes out to get groceries occasionally, \"but I\u2019m not hungry.\" He notes that his pants are now too big. He used to talk with some friends, \"but I don\u2019t feel like doing that anymore. It takes too much out of me.\" Physical exam reveals an emaciated man who looks older than his stated age. The electronic medical record shows that he last lost 30 pounds since his visit one year ago, and that his BMI is now 16, down from 21. What is the most appropriate management?",
+      "choices":{  
+         "option0":"A. Referral to a psychiatrist",
+         "option1":"B. Starting antidepressant therapy",
+         "option2":"C. Referral to a grief counselor",
+         "option3":"D. Inpatient hospitalization",
+         "option4":"E. A social work consult",
+         "@option":"3"
+      },
+      "rationale":"Though the death of his wife was likely the cause of his current symptoms, he still meets criteria for major depressive disorder. The most concerning aspect is his nutritional status. Though he does not appear suicidal, he is in medical danger due to self\u2013neglect from lack of appetite, confirmed by subjective report and objective measures of his weight and clothes. He needs to be hospitalized to begin treatment and refeeding. During hospitalization, the other measures, such as a psychiatric and social work referral and grief counseling, can be initiated. (388)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 34\u2013year\u2013old woman is diagnosed with major depressive disorder for the first time and started on an SSRI. After eight weeks on a medium dosage of the medication, she states that she feels \"about fifty percent better. I\u2019m going to work every day, but it\u2019s still hard to concentrate and I feel a little \"blah.\" Prior to starting treatment, she was in danger of losing her job because she stayed at home in bed for three weeks. She is on no other medications and has no other illnesses. What is the most appropriate next step in treatment?",
+      "choices":{  
+         "option0":"A. Continue current management",
+         "option1":"B. Augment with an antidepressant of a different mechanism",
+         "option2":"C. Increase the dose of the current medication",
+         "option3":"D. Begin ketamine treatment",
+         "option4":"E. Change medication to another antidepressant",
+         "@option":"2"
+      },
+      "rationale":"The goal in treatment of major depressive disorder is remission, not reduction of symptoms. As this patient has been on the same dose of the SSRI for eight weeks, it is unlikely that she will experience significant further improvement. The next step therefore is to increase the dosage of the medication, as it has been somewhat helpful. If the dose increase yields no further improvement, then augmentation with another antidepressant of a different mechanism, such as a norepinephrine dopamine reuptake inhibitor, as opposed to changing medications, would be indicated, given that she has some proven benefit from the current medication. Ketamine is used for treatment\u2013resistant depression. Given that this is the patient\u2019s first medication trial, she should not yet be considered treatment resistant. (389)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 25\u2013year\u2013old woman who has been treated with antidepressant therapy as an outpatient for the last three months now reports that she is \"back to myself.\" She states that her mood is usually an \"eight or nine out of ten, like I was before I got depressed.\" She denies difficulty with energy, concentration, sleep or appetite, all of which were impaired during the major depressive episode, her first, which lasted for two months before she began treatment. She denies ever having suicidal ideation. Now that she feels better, she wishes to stop the medication. What is the most appropriate next step in treatment?",
+      "choices":{  
+         "option0":"A. Start a 1 to 2\u2013week taper now",
+         "option1":"B. Begin a 1\u20132 week taper in six months",
+         "option2":"C. Taper the mediation over the next six months",
+         "option3":"D. Continue the medication at a lower dose for six months, then reassess",
+         "option4":"E. Begin a 1\u20132 week taper in 12 months",
+         "@option":"1"
+      },
+      "rationale":"Given that the patient has experienced only one episode of major depression, which did not warrant inpatient hospitalization or did not involve suicidal ideation, she is a candidate for an attempt at medication discontinuation. An antidepressant that has led to complete remission of symptoms should be maintained for at least six months after remission, after which it can be tapered over one to two weeks, depending on the half\u2013life of the medication. If she were on her second or more episode of major depression, or this episode was severe, then maintenance dosing should be considered. (390)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" During a therapy session for a 19\u2013year\u2013old man with major depressive disorder, he recalls a time two years ago in which is mother told him she was disappointed in his grades at school. \"Since then, I\u2019ve felt that I always let everyone down and that I\u2019m a failure at everything.\" The therapist challenges the patient\u2019s belief that he is no good at anything, and helps him develop a more realistic view of his abilities. This is an example of what type of psychosocial therapy?",
+      "choices":{  
+         "option0":"A. Cognitive\u2013behavioral",
+         "option1":"B. Behavior",
+         "option2":"C. Interpersonal",
+         "option3":"D. Psychoanalytically oriented",
+         "option4":"E. Family",
+         "@option":"0"
+      },
+      "rationale":"A cognitive\u2013behavioral therapist examines a person\u2019s automatic thoughts (\"I\u2019m no good at anything\"), cognitive distortions (generalization) and other maladaptive beliefs and helps them make more realistic attributions and ways of thinking. Behavior therapy usually involves operant conditioning, such as punishment and reinforcement, to shape patient responses and interactions. Behavior therapy does not have many studies supporting its use in major depressive disorder. Interpersonal therapy focuses intently on relationships and how dysfunctional relationships can perpetuate depression. Though the patient talks about his mother in this example, his distress is centered on his feelings of failure, as opposed to his relationship with her. Psychoanalytically oriented therapy focuses on the relationship between therapist and patient, with the goal of bringing about change in the patient\u2019s personality structure. Family therapy involves work with multiple family members, as opposed to merely mentioning a family member during a session. (392)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Studies have consistently shown that a substantial minority of patients with depression have an increase in what physiologic chemical?",
+      "choices":{  
+         "option0":"A. GABA",
+         "option1":"B. Cortisol",
+         "option2":"C. Brain\u2013derived neurotrophic factor",
+         "option3":"D. Prolactin",
+         "option4":"E. Growth hormone",
+         "@option":"1"
+      },
+      "rationale":"Several decades of testing of cortisol levels in depressed patients have shown a hyperactive hypothalamic\u2013pituitary\u2013adrenal axis, which leads to increased plasma, salivary, and urinary\u2013free cortisol levels, likely due to increased neurons in the hypothalamus. GABA, BDNF, and growth hormone are all decreased in major depression. A change in prolactin level has not been found. (394\u2013395).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Structural image studies show reduced volume in what brain structure in elderly patients with depressive disorders?",
+      "choices":{  
+         "option0":"A. Hippocampus",
+         "option1":"B. Thalamus",
+         "option2":"C. Basal ganglia",
+         "option3":"D. Periventricular areas",
+         "option4":"E. Hypothalamus",
+         "@option":"0"
+      },
+      "rationale":"The increased cortisol, which occurs due to increased corticotrophin releasing hormone from the hypothalamus, damages the hippocampus, which normally inhibits hypothalamic\u2013pituitary\u2013adrenal (HPA) axis activity. Therefore, in contrast to an increased number of neurons in the hypothalamus in an individual under stress, there is a resultant decrease in hippocampal volume in image studies. This then can set up a feedback loop in which the HPA axis is further activated, which propagates the neuronal hippocampal loss due to the increased amount of cortisol. The basal ganglia and periventricular regions, like the thalamus, also show hyper versus hypointensities in structural images. (395\u2013397)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What life stressor is most often associated with the development of depression?",
+      "choices":{  
+         "option0":"A. Loss of a job",
+         "option1":"B. Sexual abuse",
+         "option2":"C. Loss of a parent or spouse",
+         "option3":"D. Chronic homelessness",
+         "option4":"E. Divorce",
+         "@option":"2"
+      },
+      "rationale":"The life event most associated with the development of depression or the onset of a depressive episode is the loss of a parent before age 11 or the loss of a spouse, respectively. Unemployed persons are more likely to report depression than persons who are employed. (398)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 44\u2013year\u2013old woman during her first therapy session for depression recounts that at age 7, she was removed from her parents and placed in foster care due to their drug use. At age 16, she was doing well in school and at home until her foster mother died. When she was 35, she lost her job of 10 years due to the company\u2019s financial problems and resultant bankruptcy. A month ago, she lost her job of eight years due to a global economic downturn. \"Why even try? No matter what I do, I keep getting knocked down.\" According to the learned helplessness theory of depression, what should be the goal of treatment for this patient?",
+      "choices":{  
+         "option0":"A. Working through feelings of abandonment by her birth and foster mothers",
+         "option1":"B. Helping her develop a more positive sense of self",
+         "option2":"C. Examining cognitive distortions about the likelihood of future untoward events",
+         "option3":"D. Helping her see that her depression is adaptive to the environmental stressors",
+         "option4":"E. Assisting her with learning a sense of control and mastery of the environment",
+         "@option":"4"
+      },
+      "rationale":"The psychosocial theory that best fits this patient\u2019s circumstances is that of learned helplessness. She has been buffeted by several events out of her control, and therefore, according to learned helplessness behaviorists, needs to learn that she has some environmental control in order to alleviate her symptoms of depression. Working through abandonment feelings and developing a more positive sense of self would be in line with a psychodynamic theory of depression. Examining cognitive distortions would be a goal of treatment from a cognitive theory, and seeing depression as adaptive would be expected from a therapist subscribing to evolutionary theory. (399\u2013400)",
+      "@activityType":"MCQ"
+   }
+  ]

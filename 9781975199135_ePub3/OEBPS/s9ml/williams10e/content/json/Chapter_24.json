@@ -1,0 +1,122 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which term best describes interventions aimed at helping those with mental illness to improve function and quality of life by helping them live independently, attend school, or work, and maintain social relationships?",
+      "choices":{  
+         "option0":"A. Behavioral therapy",
+         "option1":"B. Multidisciplinary treatment",
+         "option2":"C. Psychiatric rehabilitation",
+         "option3":"D. Psychoeducation",
+         "option4":"E. Token economy system",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Psychiatric rehabilitation (pg 792). Psychiatric rehabilitation is the larger term that encompasses a wide variety of interventions aimed at helping those with disabilities from mental illnesses to function and live a good quality life. It focuses on helping patients to function as adults and live independently, finish school, get jobs, and to maintain relationships with family and friends. A goal of psychiatric rehabilitation is to focus on independence and community interventions, rather than on a relationship with an individual professional.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Supportive employment programs differ from other vocational approaches in which of the following ways?",
+      "choices":{  
+         "option0":"A. They actively facilitate acquiring a job",
+         "option1":"B. They effectively screen for people who are ready for work",
+         "option2":"C. They offer intermediate work experiences",
+         "option3":"D. They provide transitional employment opportunities",
+         "option4":"E. They terminate services once the person is employed",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. They actively facilitate job acquisition (pg 792). Federal run supportive employment programs differ from other vocational approaches by helping anyone who wants work to actively acquire a job. Supportive employment program approaches include accompanying clients on interviews and providing ongoing support once the person is employed. Intermediate prevocational, transitional employment, or sheltered workshops are not provided by supportive employment programs.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What is the primary modality of social skills training?",
+      "choices":{  
+         "option0":"A.  Group work",
+         "option1":"B.  Job shadowing",
+         "option2":"C.  Narrative telling",
+         "option3":"D.  Processing work",
+         "option4":"E.  Role playing",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Role playing (pg 792). Social skills rehabilitation can help improve social perceptions, or receiving skills, social cognitions, or processing skills, and behavioral responses, or expressive skills, via focusing on role\u2013playing of simulated conversations. A trainer provides instruction on how to perform the skills and models them. The trainer then encourages the patient to engage in role\u2013play and provides feedback and positive reinforcement.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which skill is considered the first step in effective interpersonal problem solving?",
+      "choices":{  
+         "option0":"A. Generalization ",
+         "option1":"B. Generating solutions",
+         "option2":"C. Non\u2013verbal responsiveness",
+         "option3":"D. Social perception",
+         "option4":"E. Verbal conversation ",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Social perception (pg 793). Acquiring good social perception is considered the first step in effective interpersonal problem solving. Training someone to perceive and interpret social and cognitive cues can help with more specific communication and coping skills.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is the last step to achieve in an information\u2013processing model of training patients to handle an interpersonal difficulty and to improve communication and social skills?",
+      "choices":{  
+         "option0":"A. Adopt a problem\u2013solving attitude",
+         "option1":"B. Brainstorm solutions to a problem",
+         "option2":"C. Evaluate efficacy and choose an alternative",
+         "option3":"D. Identity the problem",
+         "option4":"E. Pick a solution and implement it",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Evaluate efficacy and choose and alternative (pg 794). The information\u2013processing model of training helps the patient take on different cognitive perspectives. It involves a 6\u2013step approach to help one overcome an interpersonal dilemma. The steps include 1) Adopting a problem\u2013solving attitude, 2) Identifying the problem, 3) Brainstorming solutions, 4) Evaluating solutions and picking one to implement, 5) Planning the implementation and carrying it out, 6) Evaluating the efficacy off the effort, and if ineffective, choose another alternative.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What is the role the therapist should play in working with a patient for psychiatric rehabilitation?",
+      "choices":{  
+         "option0":"A. To act as a parental figure",
+         "option1":"B. To be a shared decision\u2013maker",
+         "option2":"C. To make medical appointments for the patient",
+         "option3":"D. To suggest a variety or potential jobs for the patient ",
+         "option4":"E. To take a stance on the patient not using alcohol or drugs",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. To be a shared decision\u2013maker (pg 794). Psychiatric rehabilitation strategies involve maintaining confidentiality and making sure to not infantilize patients. The patients should be viewed as adults who can make their own choices in terms of where to live, whether to work or not, and whether to use substance. The practitioner\u2019s role is to be in a partnership with the patient to help improve their quality of life and collaborate with them and to work as a shared decision maker, rather than a parental or authority figure.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The concept of a complex disease considers the interplay of the environment and which factor?",
+      "choices":{  
+         "option0":"A. Comorbidities",
+         "option1":"B. Economic factors",
+         "option2":"C. Social relations",
+         "option3":"D. The genome",
+         "option4":"E. Treatment",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. The genome (pg 795). The concept of complex disease replaced the term, \"multifactorial\" as an etiologic category for common disorders. It considers the interplay of the genome and environment. The concept includes biological and physiological mechanisms of evolution and development within societies and cultures. It is thought that various genomic and environmental risk factors can trigger developmental, growth, and maturational differences and increase the risk of psychiatric illnesses.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is the most likely outcome on mental health of those persons undergoing genomic testing?",
+      "choices":{  
+         "option0":"A. Experience of a major depressive disorder ",
+         "option1":"B. Increased rates of anxiety",
+         "option2":"C. Higher rates of suicide",
+         "option3":"D. Lower rates of employment",
+         "option4":"E. No long\u2013term adverse effects",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. No longer\u2013term adverse effects (pg 797). While some undergoing genomic testing experience anxiety and depression soon after receiving results. The majority of those undergoing genomic testing and receiving information about their risk status do not experience any long\u2013term adverse effects.",
+      "@activityType":"MCQ"
+   }   
+]

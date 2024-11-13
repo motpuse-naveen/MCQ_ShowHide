@@ -1,0 +1,79 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is most likely to be her diagnosis according to DSM\u20135?",
+      "choices":{  
+         "option0":"A. Attention deficit hyperactivity disorder",
+         "option1":"B. Binge\u2013eating disorder",
+         "option2":"C. Generalized anxiety disorder (GAD)",
+         "option3":"D. Panic disorder",
+         "option4":"E. Schizophrenia",
+         "@option":"2"
+      },
+      "rationale":"Her symptoms point toward GAD. The reported symptoms characteristic of this disorder include excessive anxiety most of the time, with physical symptoms such as muscle tension, restlessness, trouble sleeping, not being able to sit still, etc. With GAD, the worries include various everyday life ones, such as about her children and husband, the school bus, etc. as mentioned in the video. Though she mentioned about liking to eat more as a comfort, there is not enough information to diagnose a binge\u2013eating disorder. Though she reports feeling like she is going crazy, there are no signs of psychosis or schizophrenia on mental status examination. The content described to her anxiety fits with a GAD diagnosis, rather than panic disorder, in which the attacks come out of the blue. The restlessness noted is better accounted for by an anxiety disorder, rather than attention deficit hyperactivity disorder. (405)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"In trials, which clinician\u2013administered scale is typically used to monitor treatment response for this disorder?",
+      "choices":{  
+         "option0":"A. Beck anxiety scale",
+         "option1":"B. Hamilton anxiety rating scale (HAM\u2013A)",
+         "option2":"C. Panic disorder severity scale (PDSS)",
+         "option3":"D. Positive and negative symptom scale (PANSS)",
+         "option4":"E. Yale\u2013\u2013Brown obsessive\u2013compulsive scale",
+         "@option":"1"
+      },
+      "rationale":"The HAM\u2013A has been extensively used to monitor treatment response in clinical trials of generalized anxiety disorder and can be used in clinical settings as well. The Beck anxiety scale is a self\u2013report scale used to assess the physical and cognitive symptoms of anxiety. The PDSS is a brief rating scale to assess the severity of panic disorder based on the Yale\u2013\u2013Brown obsessive\u2013compulsive scale, which is a semistructured interview to measure the severity of obsessive\u2013compulsive disorder (OCD). The PANSS is used to assess schizophrenia and psychotic disorders. (344)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which medication would be most appropriate to start her on?",
+      "choices":{  
+         "option0":"A. Alprazolam",
+         "option1":"B. Aripiprazole",
+         "option2":"C. Bupropion",
+         "option3":"D. Sertraline",
+         "option4":"E. Venlafaxine",
+         "@option":"3"
+      },
+      "rationale":"The selective serotonin reuptake inhibitors (SSRIs), such as sertraline, are first\u2013line medication treatment for anxiety disorders, including generalized anxiety disorder. While selective serotonin norepinephrine inhibitors (SNRIs), such as venlafaxine, might also be effective for a generalized anxiety disorder, typically two SSRIs should be tried first. While benzodiazepines might be utilized in conjunction with an SSRI to bridge the gap until the SSRI and therapy can take effect, it is not a first\u2013line treatment and if utilized, typically a longer\u2013acting benzodiazepine (i.e., clonazepam) is a safer option than a shorter\u2013acting benzodiazepine, such as alprazolam. Aripiprazole, an atypical antipsychotic, would be better utilized to treat bipolar, schizophrenia, or as an augmenting agent to an SSRI for treatment refractory illness. Bupropion would be an appropriate treatment in certain cases of depression and for smoking cessation. (628)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"After medication treatment as above, she reports concerns of sexual dysfunction and weight gain. Which FDA\u2013approved medication would be appropriate to do a trial of next?",
+      "choices":{  
+         "option0":"A. Buspirone",
+         "option1":"B. Desvenlafaxine",
+         "option2":"C. Fluoxetine",
+         "option3":"D. Fluvoxamine",
+         "option4":"E. Quetiapine ",
+         "@option":"0"
+      },
+      "rationale":"While SSRIs are first line for treatment of generalized anxiety disorder (GAD) and venlafaxine is also approved for the treatment of GAD, given her complaints of sexual side effects and weight gain from sertraline, buspirone would be most appropriate. The only FDA\u2013approved indication for buspirone is GAD and it typically is not associated with either sexual side effects or weight gain. Fluoxetine and fluvoxamine are both SSRIs like sertraline and can have similar side effects. Quetiapine is an atypical antipsychotic and is not approved for the treatment of GAD. (673)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which therapy would be most effective to add to the medication treatment above to help reduce her symptoms quicker?",
+      "choices":{  
+         "option0":"A.  Acceptance commitment",
+         "option1":"B.  Cognitive behavioral",
+         "option2":"C.  Dialectical behavioral",
+         "option3":"D.  Interpersonal",
+         "option4":"E.  Psychodynamic",
+         "@option":"1"
+      },
+      "rationale":"The addition of cognitive behavioral therapy to medication management (selective serotonin reuptake inhibitors) for treatment of anxiety disorders can lead to greater efficacy and a quicker reduction in symptoms. (628)",
+      "@activityType":"MCQ"
+   }
+   
+   
+]

@@ -1,0 +1,77 @@
+[  
+{  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is Chase\u2019s most likely primary diagnosis?",
+      "choices":{  
+         "option0":"A. Bipolar disorder",
+         "option1":"B. Posttraumatic stress disorder (PTSD)",
+         "option2":"C. Alcohol use disorder",
+         "option3":"D. Cannabis use disorder",
+         "option4":"E. Antisocial personality disorder",
+         "@option":"1"
+      },
+      "rationale":"The cause of Chase\u2019s current legal trouble is driving while under the influence of alcohol and leading police on a chase. He admits to DUI on more than one occasion, and drinks almost nightly. With a little more questioning, he would likely meet criteria for both alcohol and cannabis use disorders (270). He engages in impulsive/high\u2013risk activities, and it can be argued that he has an irritable mood. However, he is missing other symptoms of bipolar disorder, and exclusions to the diagnosis include drug abuse and other psychiatric illness, both of which apply (367). We know that Chase dropped out of school, but do not know if he was of age to do so or was truant. He disregards legal rules with the drunk driving, but does not meet other criteria of antisocial personality disorder from what we see in the video (563). Chase\u2019s current problems stem from experiencing the shooting of his girlfriend. He reports involuntary intrusive memories, excessive guilt, social withdrawal, risk taking, and irritability/anger. The diagnosis of PTSD can be definitely made if he demonstrated an avoidance of memories or external reminders of the trauma. (431)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"In addition to an exposure therapy, what type of treatment could be especially helpful for Chase?",
+      "choices":{  
+         "option0":"A. Interpersonal therapy",
+         "option1":"B. Flooding",
+         "option2":"C. Family therapy",
+         "option3":"D. Benzodiazepines",
+         "option4":"E. Prazosin",
+         "@option":"2"
+      },
+      "rationale":"Interpersonal psychotherapy is used mainly in the treatment of major depressive disorder (778). Flooding works best for specific phobias (772). Prazosin can be helpful for nightmares, but he does not endorse any (435). He reports isolating himself from his family, and his brother avoiding him at a time when he needs support. Selective serotonin reuptake inhibitors (SSRIs) have the best evidence for treatment of PTSD, while benzodiazepines have no or negative evidence for that diagnosis (434\u2013435). Family therapy is a psychotherapeutic intervention that is effective for PTSD (435).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"How can Chase\u2019s thought process best be described?",
+      "choices":{  
+         "option0":"A. Linear",
+         "option1":"B. Circumstantial",
+         "option2":"C. Tangential",
+         "option3":"D. Loose",
+         "option4":"E. Perseveration",
+         "@option":"0"
+      },
+      "rationale":"Throughout the interview, Chase\u2019s thoughts are linear and goal directed, as evidenced by his answers and conversation following a logical path and making sense within the context of the discussion. If his thought process were circumstantial, his conversation would wander before returning to the subject at hand. If tangential, he would never return to the subject, but instead meander, albeit in a logical way. A loose thought process would have little to no logical path from idea to idea. Perseveration would consist of returning to the same ideas repeatedly, regardless of the subject of the conversation. (10)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which of the following medications would be most helpful in the long\u2013term treatment of Chase\u2019s drug of choice?",
+      "choices":{  
+         "option0":"A. Flumazenil",
+         "option1":"B. Buprenorphine",
+         "option2":"C. Acamprosate",
+         "option3":"D. Lorazepam",
+         "option4":"E. Naloxone",
+         "@option":"2"
+      },
+      "rationale":"Chase\u2019s drug of choice is alcohol, for which acamprosate, like naltrexone, is used for treatment. Acamprosate works in part by acting as an N\u2013Methyl\u2013D\u2013aspartate (NMDA) receptor antagonist, while naltrexone, an opioid antagonist, blunts the rewarding effect of drinking (283). Lorazepam and other benzodiazepines can be used in the short term to prevent withdrawal following abrupt cessation after chronic alcohol use. Buprenorphine and naloxone are used in the treatment of opioid abuse (293). Flumazenil is used in the case of a benzodiazepine overdose. (299)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Treatment for Chase should first address what issue?",
+      "choices":{  
+         "option0":"A. Driving under the influence",
+         "option1":"B. Bereavement",
+         "option2":"C. Legal concerns",
+         "option3":"D. Alcohol use",
+         "option4":"E. Traumatic distress",
+         "@option":"4"
+      },
+      "rationale":"Chase has a host of issues that are impeding both his physical and mental health, including alcohol use, the death of his girlfriend, legal troubles, driving while intoxicated, and the trauma of the murder. When bereavement and PTSD coincide, most experts agree that initial attention should focus on the traumatic distress. (852)",
+      "@activityType":"MCQ"
+   }
+   ]

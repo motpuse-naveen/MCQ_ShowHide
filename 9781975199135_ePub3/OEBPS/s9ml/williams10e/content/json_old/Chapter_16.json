@@ -1,0 +1,255 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 23\u2013year\u2013old man presents to a primary care clinic as a new patient. During the sexual history, he states he has never had sexual fantasies or a desire for sexual activity. He notes that he was teased for this in high school, \"but I don\u2019t care. Sex just isn\u2019t something I\u2019m interested in.\" He states he has a strong group of friends and enjoys his job as a department store assistant manager. He has had a girlfriend for the past year, \"and she\u2019s not interested in sex, either.\" He reports that he tried masturbating a few times when he was a teenager, and that each time he ejaculated quickly. He stopped masturbating \"because it didn\u2019t do anything for me.\" He states that he rarely gets erections. He has no medical illnesses and is on no medications. Vitals are within normal limits. Physical exam reveals a well\u2013developed, well\u2013nourished male in no acute distress. Sexual maturity rating is 5. What is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Male erectile disorder",
+         "option1":"B. Male hypoactive sexual desire disorder",
+         "option2":"C. No diagnosis",
+         "option3":"D. Premature ejaculation",
+         "@option":"2"
+      },
+      "rationale":"The  patient meets all of the criteria for lifelong male hypoactive sexual desire disorder except for the lack of psychosocial impact of marked distress, which is a requirement of all sexual dysfunction diagnoses. He is satisfied with his relationships and expresses no desire for sexual activity. Therefore, no diagnosis would be given. (519\u2013520)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A woman can be diagnosed with female sexual interest/arousal disorder despite the presence of which of the following circumstances?",
+      "choices":{  
+         "option0":"A. Vaginal lubrication and congestion",
+         "option1":"B. Medications which can cause decreased libido",
+         "option2":"C. Relationship problems with the sexual partner",
+         "option3":"D. A medical condition which can interfere with arousal",
+         "option4":"E. A psychiatric condition that can lead to reduced sexual interest",
+         "@option":"0"
+      },
+      "rationale":"Vaginal lubrication is not necessarily caused by arousal, and can be present in women with or without female sexual interest/arousal disorder. Relationship problems, substances or medications, and medical or psychiatric conditions that can lead to the decreased desire must be excluded before making the diagnosis. (520)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 22\u2013year\u2013old male presents to the outpatient clinic with a complaint of, \"It takes me over a half\u2013hour to orgasm.\" He states that he first had intercourse at the age of 19, and that he is sexually active exclusively with women. He has had two previous sexual partners with whom he had the same difficulty. His girlfriend of two months recently told him that she loved him, which \"freaked me out.\" He is on no medications and has no chronic medical illnesses. Vital signs are within normal limits, and physical exam is noncontributory. The patient is most likely to experience a more average time to ejaculation under what circumstance?",
+      "choices":{  
+         "option0":"A. Anal sex",
+         "option1":"B. Masturbation",
+         "option2":"C. Use of sildenafil",
+         "option3":"D. Sex with a different partner",
+         "option4":"E. Use of an SSRI",
+         "@option":"1"
+      },
+      "rationale":"The patient is describing symptoms of delayed ejaculation. This rarely occurs during masturbation, and most often occurs during coitus, which would include anal sex. Sildenafil could be useful for treatment of erectile dysfunction. Use of an SSRI is often a cause, not a cure, of delayed ejaculation. Though his girlfriend\u2019s profession of love for him may create additional anxiety, the problem has been present with all his partners, so neither his current anxiety nor a change of partners will likely make a difference. (522)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is the maximum length of time from penetration to ejaculation in which the diagnosis of premature (early) ejaculation can be made?",
+      "choices":{  
+         "option0":"A. 15 seconds",
+         "option1":"B. 30 seconds",
+         "option2":"C. One minute",
+         "option3":"D. Two minutes",
+         "option4":"E. Five minutes",
+         "@option":"2"
+      },
+      "rationale":"The diagnosis of premature (early) ejaculation can be given if the time from penetration until ejaculation is one minute or less. Severity is considered mild if ejaculation occurs between 30 and 60 seconds, moderate when between 15 and 30 seconds, and severe when less than 15 seconds. (524).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In addition to effects on serotonin, tricyclic antidepressant medications can lead to erectile and ejaculatory dysfunction due to effects on what neurotransmitter?",
+      "choices":{  
+         "option0":"A. Norepinephrine",
+         "option1":"B. Dopamine",
+         "option2":"C. Acetylcholine",
+         "option3":"D. GABA",
+         "@option":"2"
+      },
+      "rationale":"Anticholinergic effects of antidepressants such as tricyclics can lead to problems with erections and delayed ejaculation. Enhanced dopaminergic activity and increased norepinephrine production by some antidepressants such as bupropion may increase sex drive. GABA enhancement, such as in novel antidepressants under development and in benzodiazepines, can lead to less anxiety and sometimes improved sexual function. (528, 529)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 50\u2013year\u2013old man presents to the outpatient clinic for follow\u2013up of hypercholesterolemia, hyperlipidemia, and borderline hypertension. He is on simvastatin, and was told at his last visit six months ago that he would benefit from weight loss. He reports that he has had three episodes of \"squeezing\" chest pain, nausea, shortness of breath, and sweating over the last two months. The episodes last around five minutes. He takes over\u2013the\u2013counter sildenafil for erectile dysfunction. He is 5\u20198\" and 113kg (250 lbs.) BMI is 38. Vitals are within normal limits except for blood pressure, which is 140/95. Physical exam is unremarkable. An ECG shows no chronic ischemia. What medication is contraindicated in the management of this patient\u2019s symptoms?",
+      "choices":{  
+         "option0":"A. Metoprolol",
+         "option1":"B. Nitroglycerin",
+         "option2":"C. Ranolazine",
+         "option3":"D. Amlodipine",
+         "option4":"E. Aspirin",
+         "@option":"1"
+      },
+      "rationale":"The patient is experiencing episodes of angina, for which antianginals such as aspirin, nitrates, beta blockers, statins, can calcium channel blockers, and ranolazine can be used. In patients on sildenafil, nitrates are contraindicated, as the combination can cause a dangerous, and sometimes fatal, drop in blood pressure. (529)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Sildenafil has what sexual effect in women?",
+      "choices":{  
+         "option0":"A. Increased arousal",
+         "option1":"B. Vaginal lubrication",
+         "option2":"C. Increased orgasm intensity",
+         "option3":"D. Loosening of pelvic floor muscles",
+         "option4":"E. Decreased pelvic pain",
+         "@option":"1"
+      },
+      "rationale":"Sildenafil can result in vaginal lubrication, but not increased arousal or orgasm. Pelvic pain from vaginismus is caused by involuntary pelvic floor muscle tightening, which sildenafil does not affect. (529)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 35\u2013year\u2013old woman presents to her OB/GYN physician with a complaint of low sexual desire for the last two years. She states that she has been in therapy for the last eight months to address possible relationship factors, and though the communication with her husband has improved, libido remains low. She denies vaginal pain or dryness. She has no chronic medical or mental illnesses and is on no medications. Vital signs are within normal limits. Physical exam is noncontributory. What evidence\u2013based pharmacological agent could be effective for this patient?",
+      "choices":{  
+         "option0":"A. Sildenafil",
+         "option1":"B. Yohimbine",
+         "option2":"C. Desvenlafaxine",
+         "option3":"D. Fluoxetine",
+         "option4":"E. Flibanserin",
+         "@option":"4"
+      },
+      "rationale":"Flibanserin is FDA approved for generalized hypoactive sexual desire disorder. Pharmacotherapy can be used by itself or along with psychotherapy such as insight\u2013oriented or behavioral sex therapy. Sildenafil does not help with desire. Acute depression can contribute to decreased libido, for which antidepressants such as desvenlafaxine and fluoxetine could be helpful. However, dopaminergic antidepressants such as bupropion may increase libido. Yohimbine has been used as an aphrodisiac, but has not been shown in studies to be effective. (530).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is the sexual side effect a woman is likely to experience from estrogen replacement therapy used to relieve symptoms of menopause?",
+      "choices":{  
+         "option0":"A. Decreased libido",
+         "option1":"B. Vaginal dryness",
+         "option2":"C. Vaginal mucous membrane thinning",
+         "option3":"D. Dyspareunia",
+         "@option":"0"
+      },
+      "rationale":"Estrogen therapy, regardless of purpose of use, can lead to decreased libido, and is sometimes used to treat compulsive sexual behavior in men. However, it prevents vaginal mucous membrane thinning and facilitates lubrication, the latter of which can be a cause of dyspareunia. Androgens, such as testosterone, can help with the decreased libido caused by estrogen. (530\u2013531)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 25\u2013year\u2013old woman presents to a sex therapist for help with \"my fear of intimacy and sex.\" She reports that she was sexually assaulted when she was 21 years old, and since then has been on dates, but has had no sexual contact, including kissing. \"When he leans in to kiss me, I freeze up and start sweating.\" She has been in therapy for PTSD, which she feels is helpful for working through the trauma, and is now ready to \"become physical in a relationship again.\" She wants to overcome anxiety from holding hands, and eventually progress to intercourse. What type of therapy is most likely to help her achieve her goal?",
+      "choices":{  
+         "option0":"A. Dual\u2013sex therapy",
+         "option1":"B. Mindfulness",
+         "option2":"C. Group therapy",
+         "option3":"D. Behavior therapy",
+         "option4":"E. Analytically oriented sex therapy",
+         "@option":"3"
+      },
+      "rationale":"Much like with the treatment of phobias, behavior therapy can be helpful for patients who fear sexual interaction. The patient will first learn relaxation techniques to decrease anxiety, then progress to exposure and response prevention. Dual\u2013sex therapy focuses on communication between partners who are both in a sexually distressing situation. Group therapy provides support for patients who share similar sexual problems, and sometimes uses behavioral techniques within the groups for treatment of sexual problems. Mindfulness is a cognitive technique used to center on sensations that lead to arousal or orgasm. Analytically oriented sex therapy helps patients learn or relearn sexual satisfaction, and is sometimes combined with behavioral treatments to treat sexual dysfunctions. (532\u2013533).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In addition to significant distress from or acting on sexual fantasies or impulses, what is required to diagnose an individual with a paraphilic disorder?",
+      "choices":{  
+         "option0":"A. Intense sexual arousal from the fantasy or impulse",
+         "option1":"B. Involvement of a nonconsenting person in the fantasy or impulse",
+         "option2":"C. Acting on the fantasy or impulse would be a criminal offense",
+         "option3":"D. Lack of sexual response to typical erotic stimuli",
+         "option4":"E. Having a sexual fantasy or impulse outside of typical erotic stimuli",
+         "@option":"0"
+      },
+      "rationale":"All paraphilic disorders require at least six months of \"recurrent and intense sexual arousal\" from the sexual fantasy or impulse. They do not all involve a nonconsenting person (such as with fetishistic disorder or sexual masochism disorder) or result in a criminal offense if acted upon (such as with fetishistic disorder or transvestic disorder). Simply having a sexual fantasy or impulse outside of typical erotic stimuli (a paraphilia) is necessary, but not sufficient for a diagnosis of a paraphilic disorder. A person with a paraphilic disorder often has a lack of a sexual response to normophilic sexual interests, but this is not a criterion for the diagnosis. (533)",
+      "@activityType":"MCQ"
+   },  
+   {
+      "@exam":"1",
+      "question_no":"",
+      "question":" What ages of the child and patient and age difference between them are required for a diagnosis of pedophilia?",
+      "choices": {
+         "option0": "~Child~Patient~Age difference",
+         "option1": "<b>A.</b>~ < 10 years~ ≥ 16 years~ ≥ three years",
+         "option2": "<b>B.</b>~ < 14 years~ ≥ 18 years~ ≥ three years",
+         "option3": "<b>C.</b>~ < 10 years~ ≥ 18 years~ N/A",
+         "option4": "<b>D.</b>~ < 14 years~ ≥ 16 years~ ≥ five years",
+         "option5": "<b>E.</b>~ < 10 years~ ≥ 16 years~ N/A",
+         "option6": "<b>F.</b>~ < 14 years~ ≥ 18 years~ ≥ five years",
+         "@option": "4"
+      },
+      "rationale":"To make a diagnosis of pedophilia, the child must be under 14 years old, the patient must be at least 16 years old, and there must be at least a five\u2013year age difference. These age requirements can be different than those for statutory rape, which can vary from state to state. (535)",
+      "@activityType":"MCQTABLE"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 24\u2013year\u2013old man tells a psychiatrist that he has engaged in acts of exposing his penis to unsuspecting women for the last five years. He states he has done this about 30 times, has never been caught, and that he does it for a \"sexual rush,\" usually when he has been drinking. He also states that he saw his neighbor having sex through her window when he was 10 years old. Since then, he has sought out opportunities, often when drunk, to watch unsuspecting people engage in sexual activity or in states of undress, and masturbates during or soon afterwards. He states that he has had a girlfriend for the last year with whom he is sexually active, and wants to stop the voyeuristic and exposing behaviors before she finds out. What factor most predicts that he will be successful in treatment?",
+      "choices":{  
+         "option0":"A. Alcohol use prior to the behaviors ",
+         "option1":"B. Having more than one paraphilia",
+         "option2":"C. Being in a sexual relationship",
+         "option3":"D. The age of his first voyeuristic act",
+         "@option":"3"
+      },
+      "rationale":"Though paraphilic disorders are challenging to treat, some factors, such as engaging in regular sexual activity, having a single paraphilia, and self\u2013referral, are good treatment predictors. Poor prognostic indicators include the presence of substance abuse and early age of onset. (538)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 31\u2013year\u2013old single man presents to an outpatient primary care clinic to establish care. During the sexual history, he states he has had around 30 sexual partners a year for the past ten years. He describes a \"need\" to have intercourse resulting in orgasm. He notes that he has had a few girlfriends over the years, but they have broken up with him \"because I can\u2019t stop cheating.\" He has tried several times to decrease the behavior, but relapses with a few weeks each time. He was fired once because he would not stop using a dating app while at work. What is the most likely comorbid disorder in this patient?",
+      "choices":{  
+         "option0":"A. Bipolar disorder",
+         "option1":"B. Major depressive disorder",
+         "option2":"C. Substance use disorder",
+         "option3":"D. Obsessive compulsive disorder",
+         "option4":"E. Narcissistic personality disorder",
+         "@option":"2"
+      },
+      "rationale":"Sex addiction has many of the same signs as an addiction due to a substance use disorder, which is the most common comorbidity. Treatment can also follow a similar course by way of 12\u2013step groups such as Sexaholics Anonymous, Love Addicts Anonymous, and Sex Addicts Anonymous. (540).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Gender identity is developed in most children by what age?",
+      "choices":{  
+         "option0":"A. 2\u20133 years",
+         "option1":"B. 3\u20134 years",
+         "option2":"C. 4\u20135 years",
+         "option3":"D. 5\u20136 years",
+         "option4":"E. 6\u20137 years",
+         "@option":"0"
+      },
+      "rationale":"By 2 to 3 years of age, most, but not all, children who have an unambiguous sexual identity have developed a secure identification of being male or female. (542).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What part of the nervous system is ultimately the epicenter of both male and female orgasms?",
+      "choices":{  
+         "option0":"A. Orbitofrontal cortex",
+         "option1":"B. Limbic system",
+         "option2":"C. Anterior cingulate cortex",
+         "option3":"D. Caudate nucleus",
+         "option4":"E. Spinal cord",
+         "@option":"4"
+      },
+      "rationale":"Both sexual arousal and orgasm are organized at the spinal level, though many parts of the nervous system are involved in sexual behavior. The orbitofrontal cortex is involved in the emotion of sexual behavior. Caudate nucleus activity is a factor in whether sexual activity follows arousal. The left anterior cingulate cortex is involved in hormone control and sexual arousal. Structures of the limbic system that are activated by emotions such as fear and anxiety are hypoactive during orgasms in women. (543).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Children begin normal genital self\u2013stimulation around what age?",
+      "choices":{  
+         "option0":"A. 1.5 years",
+         "option1":"B. 3 years",
+         "option2":"C. 5 years",
+         "option3":"D. 7.5 years",
+         "option4":"E. 10 years",
+         "@option":"0"
+      },
+      "rationale":"Children discover the pleasurable feelings from self\u2013stimulation between 15 and 19 months old. They also begin to develop a normal, healthy curiosity about the genitals of others around that time. (543)",
+      "@activityType":"MCQ"
+   }
+   ]

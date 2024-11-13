@@ -1,0 +1,244 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 14yo female reports not eating during the day because she feels too anxious to eat at school and doesn\u2019t like the school lunch. Her parents report she refuses snack when coming home from school and exercises for 2 hours daily.  Parents report she then eats a big dinner and snacks constantly until 7pm, and then won\u2019t eat anything further.  She denied any body image concerns though her parents reported she is going to the bathroom more frequently and has reported nausea and vomiting. Her periods stopped and she lost weight and she is now at 105lb at a height of 5\u20195\u2019\u2019. She reported wanting to gain weight. Which of the following disorders are most likely?",
+      "choices":{  
+         "option0":"A. Anorexia nervosa, binge/purge subtype",
+         "option1":"B. Bulimia nervosa",
+         "option2":"C. Night eating syndrome",
+         "option3":"D. Other specified feeding or eating disorder",
+         "option4":"E. Purging disorder",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Anorexia nervosa, binge/purge subtype (pg 469).  Though reporting wanting to gain weight, the girl described in the vignette above has behaviors consistent with restricting and she lost a large amount of weight and is currently underweight, and has lost her periods. The increased frequency of going the bathroom and excessively eating large quantities of food after the restricting is suspicious for a binge/purge subtype of anorexia nervosa. With the other disorders listed (bulimia nervosa, night eating syndromes and purging disorder) the weight would be stable. Purging and night eating disorders do not include restricting and binging. Other specific feeding or eating disorders (OSFED) can include night eating and purging disorder, along with atypical anorexia nervosa, which would have similar features to anorexia nervosa, including weight loss, but the weight would appear normal or overweight even after the weight loss.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 13yo female presents with increased isolation and is skipping meals. Her parents report concern of weight loss though noted it is difficult to tell since she wears baggy clothing and is refusing to be weighed. They reported she is exercising multiple times daily and when they see her eat, she cuts her food up until little pieces.  Medical evaluation would most likely show which of the following findings (choose 3).",
+      "choices":{  
+         "option0":"A. Bradycardia",
+         "option1":"B. Hypercholesterolemia",
+         "option2":"C. Hyperthermia",
+         "option3":"D. Hypertension",
+         "option4":"E. Increased gastric emptying",
+         "option5":"F. Lanugo",
+         "option6":"G. Leukocytosis",
+         "@option":"0,1,5"
+      },
+      "rationale":"The correct answers are options A (Bradycardia), B (Hypercholesterolemia), and F (Lanugo) (pg 470\u2013471). The patient described meets criteria for classic anorexia nervosa, restricting subtype. Common medical complications include bradycardia, hypotension, and arrhythmias and these patients are at increased risk of death, mainly from cardiac complications. Hypothermia, decreased gastric emptying, and leukopenia are other associated findings with malnutrition. Despite decreased cholesterol intake, due to liver damage from the malnutrition, cholesterol if typically increased.",
+      "@activityType":"MCMS"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following endocrine findings can be seen in patients with anorexia nervosa?",
+      "choices":{  
+         "option0":"A. Decreased cortisol",
+         "option1":"B. Decreased reverse triiodothyronine",
+         "option2":"C. Elevated growth hormone",
+         "option3":"D. Increased thyroxine",
+         "option4":"E. Lower levels of prolactin",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Elevated growth hormone (pg 471). Often patients with anorexia nervosa lose their menses due to low levels of luteinizing hormone, follicle\u2013stimulating hormone, and low estrogen. Testosterone if suppressed in males with anorexia. Growth hormone increases to help the body compensate. Cortisol, a marker of stress, is also increased. Elevated prolactin is also found. Thyroid hormone changes include low, or a normal thyroxine level, and low triiodothyronine, along with increased reverse triiodothyronine.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which feature is unique to anorexia versus bulimia nervosa?",
+      "choices":{  
+         "option0":"A. Absence of menses",
+         "option1":"B. Body image concerns",
+         "option2":"C. Excessive exercising",
+         "option3":"D. Severely low weight",
+         "option4":"E. Vomiting",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option D. Severely low weight (pg 471\u2013472). In both anorexia and bulimia nervosa, body image concerns are present, and the binge/purge subtype of anorexia can look like bulimia nervosa except for that those with anorexia nervosa are of a severely low weight, whereas typically those with bulimia nervosa are of normal weight (though some may be under or overweight). Excessive exercising is considered a type of compensatory behavior that would go under purging. The absence of menses is a non\u2013specific sign and was eliminated in changing from the DSM\u2013IV to 5 criteria for anorexia nervosa.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the symptoms below would be more indicative of a binge rather than overeating?",
+      "choices":{  
+         "option0":"A. Compensatory exercising after the episode",
+         "option1":"B. Consuming more than 1,000 kcals during the episode",
+         "option2":"C. Eating excessively after hunger from restricting ",
+         "option3":"D. Eating an excessive amount of food in under 2 hours",
+         "option4":"E. Excessive eating episodes occurring twice a month ",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Eating an excessive amount of food in under 2 hours (pg 473). Often patients with anorexia will report subjective binges of overeating after periods of restriction and feeling out of control though calorie wise and timing wise, these episodes do not necessarily count as actual binges. A true binge per DSM\u20135 is defined as eating a large quantity of food (i.e. more than 2000kcals) in under 2 hours and a feeling of a loss of control during these episodes, along with at least 3 of the following criteria\u2013 eating quicker than normal, eating until uncomfortably full, eating in spite of not feeling hungry, eating alone to avoid embarrassment, and feeling guilty or disgusted afterwards. These episodes need to occur at least once a week for 3 months in order to meet criteria.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":"In general, which symptom is more consistent with a depressive disorder compared to anorexia nervosa?",
+      "choices":{  
+         "option0":"A. Low energy",
+         "option1":"B. Difficulty focusing",
+         "option2":"C. Reports of decreased appetite",
+         "option3":"D. Ritualistic hyperactivity",
+         "option4":"E. Weight loss",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Reports of decreased appetite (pg 474). While those with depression could potentially have increased appetite, often decreased appetite is commonly reported and it can help distinguish between depression versus anorexia nervosa since in anorexia nervosa a normal appetite or hunger are commonly reported.  With anorexia nervosa behaviors to curb the hunger are noted, along with a preoccupation with food, recipes, cooking, etc. Psychomotor retardation or hyperactivity can be seen in both depression and anorexia, though in anorexia the hyperactivity is typically planned and ritualistic and the focus in on weight loss and there is an intense fear of weight gain and body image disturbance. With both malnutrition and depression, focusing issues can be seen.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 16\u2013year\u2013old female has a long history of depressive symptoms and suicidality, along with a preoccupation with her weight and will skip breakfast and lunch most days and then eat thousands of calories at night and feeling out of control, will vomit after.  She engages in this pattern a few times per week and has also started taking diet pills daily. Her weight has remained stable around 130lb at a height of 5\u20196\u2019\u2019.  Which personality disorder is most commonly comorbid with this eating disorder?",
+      "choices":{  
+         "option0":"A. Avoidant",
+         "option1":"B. Borderline",
+         "option2":"C. Obsessive\u2013compulsive",
+         "option3":"D. Narcissistic",
+         "option4":"E. Schizotypal",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Borderline (pg 474). The patient described above has bulimia nervosa, characterized by binging and purging at least once a week for 3 months, along with a focus on body/shape/weight concerns and unlike anorexia nervosa, binge/purge subtype, for bulimia, the weight is typically normal. Patients with bulimia often engage in impulsive behaviors other than purging including substance use, compulsive shopping, self\u2013harm, etc. They often meet criteria for borderline personality disorder and at times can also meet criteria for bipolar II disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":"Which of the following symptoms can distinguish night\u2013eating syndrome from bulimia nervosa?",
+      "choices":{  
+         "option0":"A. Being overweight",
+         "option1":"B. Consumption of thousands of calories during an episode",
+         "option2":"C. Eating non\u2013food items",
+         "option3":"D. Lack of concern about body image and weight",
+         "option4":"E. Skipping meals during the day and only eating at night",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Lack of concern about body image and weight (pg 474).  With many eating disorders, such as anorexia and bulimia nervosa, body image, along with weight and shape concerns are a key feature. While eating large quantities of food can occur in both bulimia and night\u2013eating syndrome, those with night\u2013eating syndrome do not have body image concerns or a fear of weight gain. Another distinguishing feature is that the binges in bulimia typically involve a higher number of calories consumed compared to night\u2013eating syndrome. Timing differs in that for night\u2013eating syndrome these involuntary episodes typically occur after the patient has gone to sleep, ang the eating can occur even when asleep or unconscious. Eating non\u2013food items can happen in night\u2013eating syndrome as well as other eating disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Anorexia nervosa is associated with which of the following comorbid psychiatric disorders in approximately half of patients?",
+      "choices":{  
+         "option0":"A. Depression",
+         "option1":"B. Obsessive compulsive disorder",
+         "option2":"C. Panic disorder",
+         "option3":"D. Social phobia",
+         "option4":"E. Substance use",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Depression (pg 473). Anorexia nervosa is highly comorbid with other psychiatric disorders, with depression being the most common at 50%. Social phobia is also commonly comorbid at around 22% and comorbidity with obsessive\u2013compulsive disorder is around 35%.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" The prevalence of PTSD (posttraumatic stress disorder) is most often found to be comorbid with which of the following eating disorders?",
+      "choices":{  
+         "option0":"A. Anorexia nervosa",
+         "option1":"B. Avoidant restrictive food intake disorder ",
+         "option2":"C. Binge eating disorder",
+         "option3":"D. Bulimia nervosa",
+         "option4":"E. Night\u2013eating syndrome",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Bulimia nervosa (pg 475). Patients with bulimia nervosa have higher histories of sexual abuse and PTSD. It is thought that over 26% of those with bulimia have a comorbid PTSD, compared to over 8% for anorexia, and over 13% for binge eating disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which factor is most predictive of a better prognosis for patients with anorexia nervosa?",
+      "choices":{  
+         "option0":"A. Childhood onset",
+         "option1":"B. Full weight restoration",
+         "option2":"C. Lack of purging features ",
+         "option3":"D. Having never lost periods ",
+         "option4":"E. Onset later in life",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Full weight restoration (pg 476). Overall, patients with anorexia nervosa have recovery rates of 30\u201350%. Mortality rates for individuals with anorexia are 6 times higher than the general population. Adolescents with a shorter duration of illness tend to have the best prognosis. Individuals who are fully weight\u2013restored on an inpatient unit, along with weight maintenance for a month after discharge are positive signs of a good prognosis, along with those who can have a large variety in their diet and consume high kcal items. A lower BMI and weight loss after discharge are factors associated with a poor long\u2013term outcome.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which psychotherapeutic approach if most helpful for treating adolescents with anorexia nervosa?",
+      "choices":{  
+         "option0":"A. Challenge core believes about body image concerns ",
+         "option1":"B. Have parents prepare plate, and supervise meals",
+         "option2":"C. Focus on improving interpersonal relationships",
+         "option3":"D. Motivation to get the patients to change their eating behavior",
+         "option4":"E. Teach patients to measure their own food and use an exchange system",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. have parents prepare, plate, and supervise meals (pg477). Cognitive and behavioral principals can be helpful in treating anorexia nervosa, such as monitoring thoughts, feelings, and emotions and monitoring interpersonal relations, and working on cognitive restructuring for core beliefs.  However, in adolescents under 18yo with anorexia nervosa, a family\u2013based treatment approach (FBT) has been shown to be to be most helpful. Phase one of treatment involves a focus on restoration of the patient\u2019s physical health, with the parents making the decisions regarding what the patient should eat. Psychodynamic therapy might involve building an alliance with the patient and empathizing with the patient\u2019s point of view rather than directly trying to get them to change their eating behavior.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Data on the use of atypical antipsychotics for the treatment of anorexia nervosa in adolescents support which of the following findings?",
+      "choices":{  
+         "option0":"A. Aripiprazole is tolerated better than the other atypicals",
+         "option1":"B. Eating disorder thoughts are improved when used as an adjunct to an SSRI",
+         "option2":"C. Meta\u2013analyses have not supported their use",
+         "option3":"D. Olanzapine is associated with the most weight gain",
+         "option4":"E. Risperidone did not show added cardiac risks",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Meta\u2013analyses have not supported their use (pg 477). No pharmacological treatment has been shown to lead to definitive improvement for the treatment of anorexia nervosa. Some studies have looked at atypical antipsychotics, mainly olanzapine, for weight gain, though meta\u2013analyses and large studies have not supported its use. Added cardiac and metabolic complications can be found when using the atypical antipsychotics in this already medically compromised population.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 15yo female has been struggling with skipping meals and has been vomiting and/or using laxatives 3\u20135 times a week for the past year. Her weight is 110lb at 5\u20193\u2019\u2019. Which of the following treatments is first line for this eating disorder?",
+      "choices":{  
+         "option0":"A. Cognitive\u2013behavioral therapy",
+         "option1":"B. Family based treatment",
+         "option2":"C. Fluoxetine",
+         "option3":"D. Olanzapine",
+         "option4":"E. Topiramate ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Cognitive\u2013behavioral therapy (pg 477, 478). The patient described above has bulimia nervosa, given the presentation of binging, purging, and being of a normal weight. CBT is first\u2013line treatment for bulimia nervosa. FBT and DBT might also be effective for bulimia, though are not as well studied. While fluoxetine is FDA approved for the treatment of bulimia and topiramate might have some efficacy in reducing binging episodes, CBT should be initiated first.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which treatment type has been proven to have the best results for the treatment of binge\u2013eating disorder?",
+      "choices":{  
+         "option0":"A. Cognitive behavioral therapy combined with SSRIs",
+         "option1":"B. Dialectical behavioral therapy",
+         "option2":"C. Family based treatment combined with topiramate",
+         "option3":"D. Interpersonal psychotherapy combined with SSRIs",
+         "option4":"E. Stimulants ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Cognitive behavioral therapy combined with SSRIs (pg 478). CBT is the most effective treatment for binge\u2013eating disorder and should be considered first\u2013line treatment. When combined with SSRIs and other medications, studies have shown better results than CBT alone. Stimulants, such as lisdexamfetamine can help with weight loss and decrease binging and antidepressants have results in improving in binge eating. Anticonvulsants, such as topiramate, can help improve binge\u2013eating disorder and lead to more weight loss. Interpersonal psychotherapy (IPT) might also be effective in the treatment of binge eating disorder, along with dialectical behavioral therapy.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which psychological factor is unique to the development of anorexia nervosa, compared to bulimia nervosa?",
+      "choices":{  
+         "option0":"A. Elevated harm avoidance",
+         "option1":"B. Elevated negative emotionality",
+         "option2":"C. Engagement in self\u2013harm",
+         "option3":"D. High ability to delay rewards",
+         "option4":"E. Increased impulsivity levels ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option D. High ability to delay rewards (pg 479). While those with anorexia or bulimia nervosa can both engage in self=harm and have elevated harm avoidance, along with increased negative emotionality, typically an increased ability to delay rewards is a unique phycological predisposing factor to anorexia nervosa.",
+      "@activityType":"MCQ"
+   }   
+]

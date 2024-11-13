@@ -1,0 +1,152 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 30\u2013year\u2013old woman presents to the outpatient clinic with a chief complaint of, \"I\u2019m always so tired.\" She states that she has always needed more sleep than everyone else \"for as long as I can remember,\" and that she would sleep for 12 hours a day if she could. During the week, she gets in bed around 8pm, falls asleep in 10\u201315 minutes, and wakes at 6am to get ready for work at a city government office. She manages to stay awake at work and complete her tasks, though she is drowsy and has some difficulty sustaining attention. On the weekends, she goes to bed at the same time but does not wake until 10am or later the next day. She states she has tried caffeinated drinks, vitamins and light therapy, and admits to taking some of a friend\u2019s methylphenidate to see if it would help, but she remains drowsy. She laments that she is not able to spend much time with friends because she has to be in bed so early \"or I can\u2019t function the next day.\" She denies snoring. BMI is 18.5. Vital signs are within normal limits. Mental status exam reveals a well\u2013nourished, though slender female in no acute distress. Mood is \"tired,\" with congruent affect. She denies auditory or visual hallucinations. What is the most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Insomnia",
+         "option1":"B. Hypersomnolence disorder",
+         "option2":"C. Narcolepsy",
+         "option3":"D. Sleep apnea",
+         "option4":"E. Circadian rhythm sleep disorder",
+         "@option":"01"
+      },
+      "rationale":"The patient in this case easily falls asleep and reports no difficulty staying asleep or having early morning awakening, thus ruling out insomnia disorder. She does not report sudden periods of sleep during the day or drops attacks of cataplexy. Though her BMI and lack of snoring do not eliminate sleep apnea as a possibility, they make the diagnosis less likely. She is sleeping at the time of day she desires, at night, and though the lack of improvement with light therapy does not preclude a diagnosis of circadian rhythm sleep disorder, it makes it much less likely. Her symptoms fit best with hypersomnolence disorder, as she reports excessive daytime sleepiness and time sleeping, and reduced attention. (486)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What brain structure is responsible for maintaining circadian rhythm and a regular sleep\u2013wake cycle?",
+      "choices":{  
+         "option0":"A. Arcuate nucleus",
+         "option1":"B. Nucleus accumbens",
+         "option2":"C. Caudate nucleus",
+         "option3":"D. Suprachiasmatic nucleus",
+         "option4":"E. Nucleus basalis",
+         "@option":"3"
+      },
+      "rationale":"The nucleus accumbens mediates motivational and emotional processes and is considered the neural interface between motivation and action. The caudate nucleus is a part of the basal ganglia that is involved in working memory and executive functioning. The nucleus basalis is involved in cortical activation and memory function.  The arcuate and suprachiasmatic nuclei are both located in the hypothalamus. The function of the arcuate nucleus is control of the anterior pituitary and feeding, while the function of the suprachiasmatic nucleus is regulation of biological rhythms, such as the circadian rhythm. (486)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 20\u2013year\u2013old male college student reports a six\u2013month history of excessive daytime sleepiness to his primary care physician. He states that he can fall asleep \"instantly\" at any time, and that he has nodded off for a few seconds to a few minutes while driving, while at work, and in class on many occasions. Despite those brief periods of sleep, he can sometimes recall \"full\u2013on dreams.\" He notes that when he first gets up in the morning, he is sometimes unable to move for about minute, during which he will \"see things from my dreams, but I\u2019m fully awake.\" He states that he gets about 7\u20138 hours of sleep a night, \"but even when I sleep for 12 hours on the weekend, I still just suddenly fall asleep during the day.\" He reports that he has 3\u20134 beers on weekend nights with his friends and denies drug use.  He is on no medications and has no medical illnesses. He states he does not snore. BMI is 20. What hormone is most likely to be deficient in this patient?",
+      "choices":{  
+         "option0":"A. Leptin",
+         "option1":"B. Orexin",
+         "option2":"C. Ghrelin",
+         "option3":"D. Growth hormone",
+         "option4":"E. Thyroid stimulating hormone",
+         "@option":"1"
+      },
+      "rationale":"Orexin is a hypocretin that was discovered in 1998 and is associated with narcolepsy to the extent that the disorder is now considered to be caused by hypocretin/orexin deficiency. Ghrelin and leptin are hormones that help mediate energy balance and satiety. Though growth hormone surges during sleep, it is not associated with narcolepsy. A low amount of thyroid stimulating hormone can lead to fatigue, but not narcolepsy. (491)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 5\u2013year\u2013old child is brought to the pediatrician by his parents, who report three instances over the past month of the child getting up during the night and wandering around on the house. He does not respond when they call his name, and does not appear to do anything purposeful as he walks around. He is easily redirected to his bed, and sleeps without incident for the rest of the night. He has no memory of the episode the next day. What is the most likely course of these episodes?",
+      "choices":{  
+         "option0":"A. They will spontaneously remit after adolescence",
+         "option1":"B. They will sharply decrease in frequency prior to puberty",
+         "option2":"C. They will slowly decrease in frequency during young adulthood",
+         "option3":"D. They will persist throughout his life",
+         "option4":"E. They will increase until puberty, then sharply drop off",
+         "@option":"0"
+      },
+      "rationale":"Sleepwalking most commonly affects children ages 4\u20138 years. Episodes do not usually require treatment, aside from making sure the environment is safe (locking doors and windows, keeping dangerous objects out of reach, not letting the child sleep in a bunk bed, etc.) For most children, sleepwalking spontaneously remits after puberty. (497)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Chronic alcohol use can lead to insomnia through what mechanism?",
+      "choices":{  
+         "option0":"A. Decreased proportion of time in NREM sleep",
+         "option1":"B. Central nervous system suppression of breathing",
+         "option2":"C. Arousal\u2013induced sleep cycle fragmentation",
+         "option3":"D. Increased anxiety prior to sleep",
+         "option4":"E. Increased sleep latency",
+         "@option":"2"
+      },
+      "rationale":"Alcohol is believed to lead to insomnia due to arousals during the sleep cycle, which lead to a decreased proportion of time spent in REM sleep. Alcohol can exacerbate obstructive sleep apnea, but a strong correlation between alcohol and central sleep apnea has not been shown. Alcohol usually decreases sleep latency and anxiety in the short term, which can fool people into thinking that it is helpful for insomnia. <a href=\"https://www.sleepfoundation.org/nutrition/alcohol-and-sleep\" target=\"blank\">Alcohol and Sleep</a> (491)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The multiple sleep latency test (MSLT) is essential in the diagnosis of what sleep\u2013wake disorder?",
+      "choices":{  
+         "option0":"A. Obstructive sleep apnea",
+         "option1":"B. Central sleep apnea",
+         "option2":"C. Narcolepsy",
+         "option3":"D. Circadian rhythm sleep disorder",
+         "option4":"E. REM sleep behavior disorder",
+         "@option":"2"
+      },
+      "rationale":"A polysomnogram can be used in the evaluation of sleep apnea, REM sleep behavior disorder, narcolepsy, and other causes of daytime sleepiness. If, after assessing sleep quality and quantity during the polysomnogram, narcolepsy is still suspected, an MSLT will be performed. The MSLT involves five, 20\u2013minute opportunities for a patient to nap. If the patient falls asleep, and REM sleep waves are detected on two occasions (or one occasion if the previous polysomnogram revealed REM sleep within 15 minutes of sleep onset), the diagnosis of narcolepsy is made. (503)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 40\u2013year\u2013old woman reports a ten\u2013year history of difficulty falling asleep. She believes the problem began when she worked a highly stressful job, and \"went to sleep worried about getting yelled at by my boss the next day.\" Even after she changed jobs, the anxiety about not being able to sleep has remained. She states that she is now at the point that she gets in bed frustrated, because she knows she will be awake for hours. She used to watch the clock, but stopped doing that a month ago, as it was making her more upset at night. However, it has not improved the insomnia. She has tried melatonin, which she felt was initially helpful, but she no longer derives benefit, even after increasing the dose. She has also tried over\u2013the\u2013counter diphenhydramine, but felt she was getting addicted to it. She denies symptoms of depression, and feels that the insomnia is by far her biggest problem, as she now likes her job. What should be the next step in her treatment?",
+      "choices":{  
+         "option0":"A. Eszopiclone therapy",
+         "option1":"B. Sleep hygiene",
+         "option2":"C. Relaxation therapy",
+         "option3":"D. Suvorexant therapy",
+         "option4":"E. Cognitive\u2013behavioral therapy for insomnia",
+         "@option":"4"
+      },
+      "rationale":"Cognitive\u2013behavioral therapy for insomnia (CBTi) has repeatedly shown sustained improvement, up to at least 36 months in some studies, in insomnia. While it does not work as quickly as pharmacological means, there is no apparent rebound effect from discontinuation, thus making pharmacological treatments less effective long term, even those approved for long\u2013term use, such as eszopiclone. Sleep hygiene is a component of CBTi, which by itself is not as effective. Relaxation therapy can be helpful for those who experience tension prior to bedtime, and is often paired with other insomnia treatments, such as sleep hygiene. (510\u2013512)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":"Treatment of cataplexy involves medications with what physiological effect as the mechanism of action?",
+      "choices":{  
+         "option0":"A.  Inhibition of muscle atony",
+         "option1":"B. Suppression of REM sleep",
+         "option2":"C. Central nervous system stimulation",
+         "option3":"D. Suppression of sleep\u2013related hormones",
+         "option4":"E. Muscle relaxation",
+         "@option":"1"
+      },
+      "rationale":"Medications such as tricyclic antidepressants and SSRIs are used in the treatment of cataplexy for their ability to suppress REM sleep, not sleep hormones. Inhibition of muscle atony occurs in REM sleep behavior disorder. CNS stimulation, such as occurs with psychostimulants, can be helpful for narcolepsy, though not cataplexy. On the contrary, CNS depressants such as sodium oxybate can be helpful for cataplexy. There have been case reports of muscle relaxants used for cataplexy, but this is not first line, and should be avoided when sodium oxybate is used. (513)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 50\u2013year\u2013old woman complains of difficulty sleeping for the last six months. She states that when she gets in bed, she tosses and turns, because she feels that \"I just need to move.\" She also reports that she sometimes feels like bugs are crawling on her skin, and particularly her legs, which is alleviated by getting out of bed and walking around. She then gets back in bed, but the sensations return in about 30 minutes. She ends up staying awake almost all night two to three times a week. She notes that she is falling asleep at work because she is so tired. After further history and a physical exam, what lab test should be ordered?",
+      "choices":{  
+         "option0":"A. Complete blood count with differential",
+         "option1":"B. Liver function tests",
+         "option2":"C. Urine drug screen",
+         "option3":"D. Ferritin level",
+         "option4":"E. Triglyceride level",
+         "@option":"3"
+      },
+      "rationale":"About 15% of patients with restless leg syndrome have an iron deficiency, with a serum ferritin level of <50 mcg/l. In these patients, in addition to first\u2013line, dopaminergic agonists such as pramipexole, rotigone, and ropinirole, iron supplementation can be helpful. (501)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The narcolepsy medication pitolisant works through what pharmacological mechanism?",
+      "choices":{  
+         "option0":"A. Norepinephrine\u2013dopamine reuptake inhibition",
+         "option1":"B. Dopamine reuptake inhibition",
+         "option2":"C. H3 receptor antagonism/inverse agonism",
+         "option3":"D. D2 receptor partial agonism",
+         "option4":"E. 5HT3 antagonism ",
+         "@option":"2"
+      },
+      "rationale":"Pitolisant, an FDA\u2013approved treatment for narcolepsy, is a selective H3 receptor agonist/inverse agonist. Another FDA\u2013approved medication for narcolepsy, solriamfetol, acts through norepinephrine\u2013dopamine reuptake inhibition, as do stimulants, which are often used. Modafinil and armodafonil block dopamine reuptake. (512\u2013513)",
+      "@activityType":"MCQ"
+   }
+]

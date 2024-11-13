@@ -1,0 +1,28 @@
+var sections={
+
+    "SectionContent":[
+      {
+         "@objName": "Schizophrenia with delusions, disorganized speech of derailment type, and negative symptoms of diminished emotional expression",
+         "chapterName": "Schizophrenia with delusions, disorganized speech of derailment type, and negative symptoms of diminished emotional expression",
+         "SectionID": "clinicalpsychiatry",
+         "videoLink": '<script src="../../js/video-insert.js"></script><p class="video" id="vid1-1"><video data-id="XrbqYf45" controls="controls" controlslist="nodownload" class="jwp-video" crossorigin="anonymous" style="width:100%; height:auto; width:100%; height:auto;">Browser issues</video><br/><br/><!--<b>Functional Neurological Symptom Disorder (Conversion Disorder) With Weakness Or Paralysis Acute Episode With Psychological Stressor Version 1, Core Video.mov</b>--></p><script type="text/javascript">loadVideoContent()</script>'
+
+      }
+      // ,
+      // {
+      //    "@objName": "Treatment Across the Lifespan",
+      //    "chapterName": "Treatment Across the Lifespan",
+      //    "SectionID": "treatmentacrosslifespan"
+      // },
+      // {
+      //    "@objName": "Other Issues Relevant to Psychiatry",
+      //    "chapterName": "Other Issues Relevant to Psychiatry",
+      //    "SectionID": "otherissuesrelevantpsychiatry"
+      // },
+      // {
+      //    "@objName": "Contributions from the Sciences and Social Sciences to Psychiatry",
+      //    "chapterName": "Contributions from the Sciences and Social Sciences to Psychiatry",
+      //    "SectionID": "contributionsfromssiencestopsychiatry"
+      // }
+   ]
+}

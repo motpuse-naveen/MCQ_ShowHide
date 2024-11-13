@@ -1,0 +1,77 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"According to the DSM\u20135, which psychiatric disorder best fits his diagnosis?",
+      "choices":{  
+         "option0":"A. Anorexia nervosa",
+         "option1":"B. Avoidant restrictive food intake disorder",
+         "option2":"C. Major depressive disorder",
+         "option3":"D. Other specified feeding or eating disorder",
+         "option4":"E. Unspecified anxiety disorder",
+         "@option":"0"
+      },
+      "rationale":"The patient is referred for a psychiatry evaluation by his primary care doctor after having a medical injury from his weight loss. Self\u2013induced starvation, a relentless drive for thinness, and medical signs or symptoms from starvation are all key features of anorexia as presented in this video. Though he presents as anxious on mental status examination, he does not report symptoms of an anxiety disorder and no signs of depression are noted, though both mood and anxiety disorders are comorbid with eating disorders. Other specified feeding or eating disorder (OSFED) includes atypical anorexia nervosa, though reports of him being a significantly low weight make full\u2013blown anorexia nervosa a better fit diagnosis wise. Avoidant restrict food intake disorder (ARFID) would include those with malnutrition due to sensory issues, fear of choking, vomiting, etc., not due to fear of weight gain. (469)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which vital sign abnormality is this patient most likely to display?",
+      "choices":{  
+         "option0":"A. Bradypnea",
+         "option1":"B. Hyperthermia",
+         "option2":"C. Hypotension",
+         "option3":"D. Hypoxia",
+         "option4":"E. Tachycardia",
+         "@option":"2"
+      },
+      "rationale":"Patients with anorexia nervosa are usually brought to medical attention with the weight loss becomes significant and vital sign abnormalities are noted. Hypotension, bradycardia, and hypothermia are all vital signs abnormalities noted with eating disorders. (470, 471)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which comorbid disorder is he most likely to have or develop?",
+      "choices":{  
+         "option0":"A. Attention deficit hyperactivity disorder",
+         "option1":"B. Bipolar disorder",
+         "option2":"C. Conduct disorder",
+         "option3":"D. Major depressive disorder",
+         "option4":"E. Obsessive compulsive disorder",
+         "@option":"3"
+      },
+      "rationale":"Overall, anorexia nervosa is associated with depression in 50% of the cases. Obsessive compulsive disorder is also highly comorbid in around 35% of cases and social phobia as well, in around 22% of cases. Those with the binge eating\u2013\u2013purging subtype of anorexia are most likely to have comorbid substance use and impulse control disorders. (475)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which of the following psychological treatment strategies would be most effective to help him?",
+      "choices":{  
+         "option0":"A. Attempt to shed light on the cause of his symptoms",
+         "option1":"B. Enlist the help of his parents to refeed him",
+         "option2":"C. Focus on helping him to change his eating patterns",
+         "option3":"D. Help him identify hunger cues and train him in mindful eating",
+         "option4":"E. Send him to the emergency room for a medical admission",
+         "@option":"1"
+      },
+      "rationale":"Family\u2013based treatment (FBT) has the strongest evidence base for treating anorexia nervosa, especially in those under 18 years old. It involves having parents prepare, plate, and supervise the meals to help refeed the patient, with control over eating gradually being returned to the patient as weight gain is successful. A psychodynamic approach examining the root cause of the eating disorder has not been shown to be helpful with weight restoration and the etiology of eating disorders though thought to be from a combination of biologic, psychological, and social factors, is largely unknown. Anorexia is typically associated with poor insight, denial, and resistance to treatment, as shown in the video. Therefore, helping him to change his eating patterns or working with him on mindful eating would likely prove to not be useful. While often those with anorexia do require medical or psychiatric hospitalizations, he was just referred by his primary care doctor, so presumably he is medically stable, and a medical admission is not necessary currently. (476, 477)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Pharmacologic studies have shown psychiatric medications to have which of the following effects on core symptoms of this disorder?",
+      "choices":{  
+         "option0":"A. Atypical antipsychotics have been shown to improve body image distortion",
+         "option1":"B. Benzodiazepines help with mealtime anxiety and weight gain",
+         "option2":"C. No effects are noted regardless of the medication utilized",
+         "option3":"D. Selective serotonin reuptake inhibitors (SSRIs) have led to a decreased drive to exercise",
+         "option4":"E. Tricyclic antidepressants (TCAs) are helpful in decreasing the drive for thinness",
+         "@option":"2"
+      },
+      "rationale":"Unfortunately, no medication has been shown to be effective in reducing any of the core symptoms of anorexia nervosa. Food is the best \"medication\" to correct the malnutrition and fix the core symptoms of the disorder. Studies show that the SSRIs don\u2019t help with the anorexia, or depression, or anxiety when one is acutely malnourished. TCAs have not been shown to be helpful either and have added cardiac risks. While atypical antipsychotics, such as olanzapine, have been studied to help with eating and weight gain in those with anorexia nervosa, larger\u2013scale studies have shown minimal effects and must be weighed against the potential metabolic, cardiac, and movement side effects of the medication. While benzodiazepines at times are prescribed as needed or standing to help with mealtime anxiety, often it does not translate into weight gain and can worsen the bradycardia and hypotension seen with the eating disorder. (477)",
+      "@activityType":"MCQ"
+   }
+   ]

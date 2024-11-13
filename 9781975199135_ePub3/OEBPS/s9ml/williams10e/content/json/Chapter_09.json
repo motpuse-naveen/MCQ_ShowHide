@@ -1,0 +1,153 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following types of obsessions is most commonly associated with obsessive compulsive disorder?",
+      "choices":{  
+         "option0":"A. Contamination fears",
+         "option1":"B. Counting ",
+         "option2":"C. Pathological doubt",
+         "option3":"D. Sexual acts",
+         "option4":"E. Suicidal thoughts",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Contamination fears (pg 415). The most common pattern in obsessive compulsive disorder is an obsession of contamination, which is often followed by washing or compulsive avoidance of the contaminated object. Pathological doubt is the second most common obsession seen in OCD, often followed by checking compulsions. The third most common pattern in OCD are intrusive obsessional thoughts without compulsions.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which pattern of body concern is most often associated with body dysmorphic disorder?",
+      "choices":{  
+         "option0":"A. Concern about multiple different areas on the body",
+         "option1":"B. Emphasis on the thighs and stomach",
+         "option2":"C. Focus on body symmetry",
+         "option3":"D. Intense preoccupation with weight and shape concerns",
+         "option4":"E. Possessing good insight about their actual versus desired appearance ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option D. Major depressive (272). Approximately 1/3 to ½ of those with opioid abuse or dependence and about 40% of those with alcohol abuse or dependence meet criteria for a major depressive disorder. Those with substance use alone are 20 times more likely to die by suicide than the general population, with a total of around 15% of those with alcohol abuse or dependence committing suicide. The frequency of suicide in substance use is only secondary to that in major depressive disorder. </ANS>",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A child presents to the hospital with severe emaciation and parents report significant restricting behaviors. This child denies body image concerns though parents report she has visible mealtime anxiety. She refuses to talk more when asked about her eating and just stares blankly ahead. She reports some school worries though parents confirm she sleeps and focuses well. Physical exam is noteworthy for a palpable abdominal mass. She ends up being transferred to the ICU for extremely low hemoglobin and hematocrit and there is a concern she is bleeding out. Which of the following is most likely the underlying diagnosis.",
+      "choices":{  
+         "option0":"A. Anorexia nervosa",
+         "option1":"B. Generalized anxiety disorder",
+         "option2":"C. Major depressive disorder\u2013",
+         "option3":"D. Trichotillomania",
+         "option4":"E. Unspecified psychotic disorder",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Trichotillomania (pg 418). While the patient above presents with some features of anorexia, the physical exam findings of a palpable abdominal mass point towards a bezoir. Most likely she is pulling and eating her hair (tricophagia) after pulling it out (trichotillomania), which is leading to an intestinal obstructions. Medical complications of trichophagy include trichobezoirs, intestinal obstruction, and malnutrition.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"The most common demographic group to be affected by olfactory reference syndrome includes which of the following?",
+      "choices":{  
+         "option0":"A. Elderly, single females",
+         "option1":"B. Married, middle aged males",
+         "option2":"C. Married, middle aged females",
+         "option3":"D. Middle aged, single females",
+         "option4":"E. Young, single males",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Young, single males (pg 419). Olfactory reference syndrome in which people have a false believe they have foul body over not perceived by others is more common in young, single males with 25yo being the average age of onset.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"OCD symptoms from a neurological cause, such as basal ganglia disease, are more likely to have which type of onset in which demographic group?",
+      "choices":{  
+         "option0":"A. Insidious onset in a middle\u2013aged person",
+         "option1":"B. Insidious onset in an elderly person",
+         "option2":"C. Insidious onset in younger individuals",
+         "option3":"D. New onset symptoms in middle\u2013aged individuals",
+         "option4":"E. New onset symptoms in older individuals",
+         "@option":"4"
+      },
+      "rationale":"> The correct answer is option E. New onset symptoms in older individuals (pg 420) When OCD develops before the age of 30 years old and new onset symptoms in older individuals occur, concern should be raised for a potential neurological disease.  This can include disorders such as Syndenham\u2019s chorea and Huntingon\u2019s disease.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Damage to which brain region can cause excessive hoarding?",
+      "choices":{  
+         "option0":"A. Cingulate cortex",
+         "option1":"B. Frontal lobe",
+         "option2":"C. Hippocampal lobe",
+         "option3":"D. Parietal cortex",
+         "option4":"E. Temporal lobe",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Cingulate cortex (pg 421). Hoarding can be common with certain genetic conditions including Prader\u2013Willi syndrome and Alzheimer\u2019s disease. Damage to the anterior ventromedial prefrontal cortex along with the cingulate cortex can lead to heavy hoarding behaviors.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following criterion is required for making a diagnosis of trichotillomania, or hair pulling disorder, according to ICD\u201310, but is not a part of the DSM\u20135 criteria?",
+      "choices":{  
+         "option0":"A. Anxiety that precedes and is relieved by the hairpulling",
+         "option1":"B. Hairpulling despite repeated attempts to change",
+         "option2":"C. Impairment in social functioning",
+         "option3":"D. Pulling out of hair from more than one site on the body",
+         "option4":"E. Recurrent pulling resulting in hair loss",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Anxiety that precedes and is relieved by the hairpulling (pg 422). Per ICD\u201310 criteria for trichotillomania, all that is required for a diagnosis is the notice of hair loss due to hair pulling behavior and hair\u2013pulling behavior that is preceded by increased anxiety that is relieved by the hairpulling. For the DSM\u20135 criteria, there must also be recurrent hairpulling resulting in loss, along with repeated attempts to change the behavior, an impairment in functioning or the behavior leading to significant distress.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient chooses to wear a wig after repeatedly pulling their hair out.  The patient is unable to stop, as it is reported to alleviate significant anxiety in the moment. Which of the following psychiatric disorders is most commonly comorbid with this condition?",
+      "choices":{  
+         "option0":"A. Attention deficit hyperactivity disorder",
+         "option1":"B. Anorexia nervosa",
+         "option2":"C. Excoriation disorder",
+         "option3":"D. Schizophrenia",
+         "option4":"E. Substance use disorder",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Excoriation disorder (pg 423, 424). The patient described in the vignette has hair\u2013pulling disorder, or trichotillomania. The most common comorbidity with it is excoriation disorder. Other common comorbidities include OCD. More than half of those with excoriation disorder have another psychiatrist disorder, most commonly a mood or anxiety disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient presents with struggles falling sleep due to constant checking of the locks in the home and having to tap on all of the windows ten times in multiples of ten. Exam is notable for frequent eye blinking and throat clearing. The patient is still struggling after being on sertraline 200mg PO daily for three months. In this scenario, there is the most evidence base to support the use of which of the following psychiatric medications as adjunctive treatment for this disorder?",
+      "choices":{  
+         "option0":"A. Aripiprazole",
+         "option1":"B. Clomipramine",
+         "option2":"C. Lamotrigine",
+         "option3":"D. Memantine",
+         "option4":"E. Olanzapine",
+
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Aripiprazole (424). Both risperidone and aripiprazole are best supported as adjunctive treatment for OCD when patients fail to respond fully to SSRI trials. High doses of SSRIs for at least 12 weeks should be utilized first. Though conflicting data, some show that the atypical antipsychotics are particularly useful when tics are comorbid with the OCD. Response to the atypical antipsychotics are typically quick (i.e. 4 weeks). Memantine and lamotrigine are experimental agents that might be promising in the future, along with other meds such as riluzole, ketamine, and NAC.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Both therapy cand medication for OCD can correct abnormalities in functioning in which of the following brain pathways?",
+      "choices":{  
+         "option0":"A. Corpus collosum",
+         "option1":"B. Corticospinal and corticobulbar tracts",
+         "option2":"C. Cortico\u2013striatal\u2013thalamic\u2013cortical",
+         "option3":"D. Dorsal column\u2013medial lemniscus pathway",
+         "option4":"E. Retinohypothalmic tract",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Cortico\u2013striatal\u2013thalamic\u2013cortical (pg 426).  It is thought that CSTC (cortico\u2013striatal\u2013thalamic\u2013cortical) pathway plays a role in contributing to the cognitive\u2013affective impairments in OCD, with abnormal activation and inhibition. These impairments result in cognitive inflexibility and alteration in the habit system and contribute to motor impulsivity. Medication treatment and CBT have been shown on imaging studies to normalize the functional alterations in the CSTC pathway in OCD.",
+      "@activityType":"MCQ"
+   }
+ ] 

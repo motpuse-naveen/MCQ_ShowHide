@@ -1,0 +1,42 @@
+[
+   {
+      "@activityType": "MCQ",
+      "question": "A 65-year-old man presents to his primary care physician with rectal bleeding for the past several months. His hemo¬globin is 9.8 g/dL. He undergoes a colonoscopy that reveals a large, friable mass in the ascending colon and another smaller mass in the transverse colon. Biopsies of both masses con¬firm the diagnosis of adenocarcinoma. An abdominal com¬puted tomography (CT) scan reveals multiple hypodense liver lesions consistent with metastatic spread. Treatment with chemotherapy combined with cetuximab is considered. Which of the following genetic mutations should be tested prior to initiating therapy with cetuximab?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. APC",
+         "option1": "B. MSH2",
+         "option2": "C. SMAD4",
+         "option3": "D. KRAS"
+         "option4": "E. MYC"
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00003-2\" target=\"_blank\"><font color='#0000FF'><b>ch3<\/b><\/font><\/a>)<br>Cetuximab is a monoclonal antibody that inhibits epi¬dermal growth factor receptor (EGFR). It improves survival in metastatic colon cancer. The presence of KRAS-activating mutations predicts a poor response to cetuximab therapy. Therefore, cetuximab is restricted to patients with wild-type (nonmutated) KRAS. The other mutations (APC, MSH2, SMAD4, and MYC) do not pre¬dict response to cetuximab in metastatic colon cancer."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "Which of the following statements concerning the normal intestinal microbiota is true?",
+      "choices": {
+         "@option": "3",
+         "option0": "A. The composition of the intestinal microbiota is similar among individuals ",
+         "option1": "B. The composition of the intestinal microbiota is similar among individuals ",
+         "option2": "C. The aerobe/anaerobe ratio is greater within the lumen that at the mucosal surface ",
+         "option3": "D. The intestinal microbiota is more resilient in infancy compared to adulthood "
+         "option4": "E. The intestinal microbiota changes in response to diet, drugs, physiologic status, and morbidity "
+      },
+      "rationale": "<b>D<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00001-9\" target=\"_blank\"><font color='#0000FF'><b>ch1<\/b><\/font><\/a>)<br>The intestinal microbiota is less resilient in infancy com¬pared to adulthood. For example, antibiotics are more likely to permanently change the composition of the microbiota in infants compared to adults. The composition of the intesti¬nal microbiota is variable among individuals. This variation arises primarily at species and strain levels. Rapid coloniza¬tion of the intestine occurs after birth, and the composition of the microbiota is influenced by mode of delivery (vagi¬nal vs. cesarean). The aerobe/anaerobe ratio is greater at the mucosal surface than within the lumen. While the micro¬biota reaches relative stability in adulthood, there are con¬stant changes depending on environmental factors and the general well being of the individual."
+   },
+   {
+      "@activityType": "MCQ",
+      "question": "A 45-year-old man presents with a 4-month history of chronic voluminous watery diarrhea. The diarrhea is not relieved by fasting and persists despite treatment with lop¬eramide. He also complains of abdominal bloating, epigas¬tric pain, nausea, and a 10-pound unintentional weight loss. He has a history of erosive esophagitis for which he takes omeprazole. On physical examination, his blood pressure is 95/55 mm Hg, and heart rate is 110 bpm. There is mild middle abdominal tenderness to deep palpation. Abdomi¬nal CT scan shows a 5.1 x 5.8 x 4 cm pancreatic tail mass. Overproduction of which of the following peptides is the most likely cause of the patient’s symptoms? ",
+      "choices": {
+         "@option": "1",
+         "option0": "A. Pancreatic polypeptide ",
+         "option1": "B. Vasoactive intestinal peptide ",
+         "option2": "C. Peptide tyrosine tyrosine (peptide YY) ",
+         "option3": "D. Somatostatin"
+         "option3": "E. Gastrin"
+      },
+      "rationale": "<b>B<\/b> (S&amp;F, <a href=\"http://www.expertconsultbook.com/expertconsult/b/linkTo?type=bookPage&isbn=978-1-4160-6207-3&eid=4-u1.0-B978-1-4160-6189-2..00002-0\" target=\"_blank\"><font color='#0000FF'><b>ch2<\/b><\/font><\/a>)<br>This patient is presenting with severe watery diarrhea, which is typical of Verner-Morrison syndrome caused by hypersecretion of VIP from a pancreatic neuroendocrine tumor. Other features are hypokalemia and achlorhy¬dria. The tumor is usually large (>5 cm) at presentation. Overproduction of pancreatic polypeptide or peptide YY does not result in diarrhea. Overproduction of somatosta¬tin results in steatorrhea and cholelithiasis, usually from a duodenal tumor. Overproduction of gastrin can result in diarrhea; however, this is usually mild to moderate in severity. Gastrinomas are usually small (<5 cm) at the time of diagnosis, and are located in the area of the pancreatic head or adjacent duodenum."
+   }
+  
+]

@@ -1,0 +1,167 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" The diagnosis of encopresis in the DSM\u20135 includes which of the following symptoms as a specifier?",
+      "choices":{  
+         "option0":"A. Abnormal sphincter tone",
+         "option1":"B. Anger",
+         "option2":"C. Anxiety",
+         "option3":"D. Constipation",
+         "option4":"E. Laxative responsive",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Constipation (pg 481). Either constipation or overflow incontinence are specifiers that should be used in the DSM\u20135 when making a diagnosis of encopresis. Patients without abnormalities in sphincter tone are more likely to responds to laxatives, though it is not included as a specifier. Anger and anxiety can be emotional factors that contribute to encopresis, though are not included as specifiers in the DSM.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following children would meet DSM\u20135 criteria for encopresis?",
+      "choices":{  
+         "option0":"A. An elementary\u2013aged child who soils himself when he has major school exams",
+         "option1":"B. A five\u2013year old child with constipation, diarrhea, and soiling himself for three months",
+         "option2":"C. An school\u2013aged child who soiled his pants once after going to the bathroom",
+         "option3":"D. A ten\u2013year\u2013old who soils himself each time after having caffeinated tea at lunch",
+         "option4":"E. A three\u2013year\u2013old child who smears feces on his carpet weekly",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. A five\u2013year old child with a constipation, diarrhea, and soiling himself for three months (pg 482).  For a diagnosis of encopresis to be made, eliminating feces on the clothes or floor, whether voluntary or unintentional, must occur in someone who is greater than or equal to 4 years old and the episodes have to occur at least once a month for a period of 3 or more months.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which treatment should be the initial step in treating a child with encopresis without evidence of constipation?",
+      "choices":{  
+         "option0":"A. Family based treatment",
+         "option1":"B. Fluoxetine",
+         "option2":"C. Polyethylene glycol",
+         "option3":"D. Surgical disimpaction",
+         "option4":"E. Timed, regular toileting intervals",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Timed, regular toileting intervals (pg482). For encopresis with constipation, often daily laxatives, such as polyethylene glycol (PEG) are utilized and in severe cases, surgical disimpaction under general anesthesia is initiated prior to the laxative use. When encopresis without constipation is noted, the typical first step is a cognitive behavioral intervention to help institute regular, timed intervals on the toilet.  This can also be helpful in cases of encopresis with constipation. Supportive psychotherapy can be helpful in children with comorbid anxiety and self\u2013esteem issue. Family interventions can help when children are smearing feces.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following causes of encopresis is most common?",
+      "choices":{  
+         "option0":"A. Behavioral and conduct problems",
+         "option1":"B. Hirschsprung disease ",
+         "option2":"C. Sexual abuse",
+         "option3":"D. Specific toilet phobia",
+         "option4":"E. Withholding feces via sphincter tightening due to pain",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Withholding feces via sphincter tightening due to pain (483).  In ninety percent of cases of childhood encopresis, children will withhold feces by contracting their gluteal muscles, holding their legs, and then tightening their external anal sphincter, typically as a response to previously painful bowel movements due to constipation. A specific phobia of using the toilet is a less common cause of encopresis. In only about 5 to 10 percent of cases are medical conditions, such as Hirschsprung disease and spinal cord damage contributing factors.  One study found sexual abuse is higher in a sample of children with encopresis compared to healthy controls, though this disorder is by no means a specific indicator of sexual abuse.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 5\u2013year\u2013old child has been bedwetting most nights of the week for the past year. Which of the following psychiatric disorders are they at increased of getting compared to the general population?",
+      "choices":{  
+         "option0":"A. Attention deficit hyperactivity",
+         "option1":"B. Anxiety",
+         "option2":"C. Depressive",
+         "option3":"D. Eating",
+         "option4":"E. Oppositional defiant",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Attention deficit hyperactivity (pg 483). The patient described above has enuresis, which is defined in DSM\u20135 as episodes of urinating onto the bed or clothing, either voluntarily or unintentional for at least 2 weeks for 3 or more months in children 5 years or older. Nocturnal, diurnal or both should be indicated as specifiers. Children with enuresis are at a higher risk of ADHD compared to the general population.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":" Which of the following outcomes is the most typical course for a child with enuresis?",
+      "choices":{  
+         "option0":"A. Development of an oppositional defiant disorder",
+         "option1":"B. Occurrence after 1 year of dryness",
+         "option2":"C. Progression to a chronic cystitis",
+         "option3":"D. Relapse in adulthood",
+         "option4":"E. Spontaneous remission",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Spontaneous remission (pg 484). Medical causes of enuresis should be ruled out including urinary tract infections, bladder dysfunction, spina bifida, cystitis, etc. However, most sophisticated radiographic medical tests ae deferred unless there are signs of repeat infections. The most common scenario is that enuresis is self\u2013limited and spontaneous remission is seen. Enuresis most commonly occurs in those without ever having period of dryness first (80%). The age of onset is older (ie 5\u20138) in hose in which a year period of dryness occurred first. Relapses can occur. The course is often complicated in those with comorbid ADHD.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is thought to be the minimum age that a child can respond optimally for the treatment of enuresis with using a bed wetting alarm?",
+      "choices":{  
+         "option0":"A. 2",
+         "option1":"B. 4",
+         "option2":"C. 6",
+         "option3":"D. 8",
+         "option4":"E. 10",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. 6 (pg 484). A bed alarm has been the mainstay of treatment for enuresis. It alerts a child when they start to void during sleep. The device is attached to the child\u2019s underwear and then sounds a loud noise to awaken the child to go to the toilet. At the age of 6 or 7 years old it is thought that the child is old enough hot respond optimally to the alarm.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Use of the bell and pad alarm for the treatment of bedwetting is a form of which type of behavioral therapy?",
+      "choices":{  
+         "option0":"A. Classical conditioning",
+         "option1":"B. Operant conditioning",
+         "option2":"C. Positive reinforcement ",
+         "option3":"D. Punishment",
+         "option4":"E. Negative reinforcement ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Classical conditioning (pg 484). Classical conditioning in this case involves associating the involuntary response of nocturnal enuresis with the unconditioned stimulus, the alarm, training the child to get up and go to the bathroom (unconditioned response). It is the mainstay treatment for nocturnal enuresis and typically more effective than bladder training (i.e. delayed urinating for increased times during the day).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Though rare, which is the most severe side effect documented with the use of desmopressin in the treatment of enuresis?",
+      "choices":{  
+         "option0":"A.  A cardiac arrest",
+         "option1":"B.  Agranulocytosis",
+         "option2":"C.  A hyponatremic seizure",
+         "option3":"D.  Liver failure",
+         "option4":"E.  Renal failure",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. A hyponatremic seizure (pg 484). Desmopressin, a nasal spray that acts as an antidiuretic compound, is used to treat enuresis when it is causing significant social or functional impairment for the child. The most common side effects of desmopressin are headaches, nasal congestion, epistaxis, and stomachaches. A rare complication of a hyponatremic seizure has been documented with use of desmopressin for enuresis treatment.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which neurotransmitter reuptake inhibitor is thought to be a safer alternative to imipramine for the treatment of enuresis?",
+      "choices":{  
+         "option0":"A. Desipramine",
+         "option1":"B. Duloxetine",
+         "option2":"C. Reboxetine",
+         "option3":"D. Strattera",
+         "option4":"E. Tranylcypromine",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Reboxetine (pg 484). Antidepressants with anticholinergic side effects, such as imipramine, were initially used for the treatment of enuresis. However, due to its considerable side effect profile, such as cardiotoxicity, it has fallen out of favor. Reboxetine, though not currently available in the U.S., is a norepinephrine reuptake inhibitor that is a safer alternative to impramine for the treatment of enuresis, without the potential for cardiac toxicity.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which type of enuresis is most commonly diagnosed?",
+      "choices":{  
+         "option0":"A. Adolescent onset",
+         "option1":"B. Combination (diurnal and nocturnal)",
+         "option2":"C. Diurnal",
+         "option3":"D. Nocturnal",
+         "option4":"E. Structural/anatomical defect",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Nocturnal (pt 484). The 3 main types of enuresis are diurnal, nocturnal, and a combination of diurnal and nocturnal. In general, enuresis is most commonly present in 5\u2013year\u2013olds (i.e. 5\u201310%). Among the types, nocturnal enuresis accounts for about 80% of children with enuresis. Adolescent onset is rare around 1%.  Structural abnormalities, such as genitourinary pathology, is less common and typically presents with both diurnal and nocturnal enuresis.",
+      "@activityType":"MCQ"
+   }  
+]

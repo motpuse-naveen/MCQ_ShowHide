@@ -1,0 +1,77 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What is the common feature in the diagnosis of pyromania, intermittent explosive disorder, and kleptomania?",
+      "choices":{  
+         "option0":"A. Guilt following the incident",
+         "option1":"B. Incidents result in legal trouble",
+         "option2":"C. Increasing tension prior to the incident",
+         "option3":"D. A personal benefit from the incident",
+         "option4":"E. A desire to cause harm by the incident",
+         "@option":"2"
+      },
+      "rationale":"The disruptive, impulse\u2013control disorders of intermittent explosive disorder (IED), kleptomania, and pyromania are all similar in that there is a sense of rising tension prior to the incident, followed by a decrease in tension afterwards. Guilt usually occurs in IED, may occur in kleptomania, and often does not occur in pyromania. The incidents do not necessarily result in legal trouble. The object stolen in kleptomania may have little to no value to the person, just as in pyromania there is no personal benefit, financial or otherwise, from the fire. The acts are not caused by a desire to harm, but to relieve the tension that builds up. (553\u2013554).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What is the age requirement for a diagnosis of intermittent explosive disorder?",
+      "choices":{  
+         "option0":"A. The patient must be at least 3 years oldr",
+         "option1":"B. The patient must be at least 6 years old",
+         "option2":"C. The patient must be under 12 years old",
+         "option3":"D. The patient must be under 18 years old",
+         "option4":"E. The patient must be at least 18 years old",
+         "@option":"2"
+      },
+      "rationale":"Intermittent explosive disorder is one of the few disruptive, impulse\u2013control disorders with an age requirement. A diagnosis cannot be made in an individual until they are at least six years old. (554)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Parents bring their 16\u2013year\u2013old son to the outpatient clinic because of \"his emotional outbursts over the last year. We\u2019re walking on eggshells around him. We never know what will set him off.\" He agrees with his parents and adds that he cannot control himself. He states that some situations get him \"so mad that I start breaking things and punching holes in the wall.\" During the most recent episode, he was playing a video game with friends until his team started to lose. He started cursing loudly and threw the controller at the TV and broke the screen. \"The anger just rose up in me until I couldn\u2019t control it.\" His parents note that he often cries and will \"beat himself up with guilt afterwards,\" but that in between episodes, \"he\u2019s fine.\" He denies feeling depressed or manic, and denies auditory or visual hallucinations or suicidal ideation. He has no chronic illnesses and is on no medications. Vitals are within normal limits and there are no abnormal findings on physical exam. What should be the next step in the management of this patient?",
+      "choices":{  
+         "option0":"A. Refer him for cognitive behavioral therapy",
+         "option1":"B. Begin a trial of carbamazepine",
+         "option2":"C. Perform a medical workup",
+         "option3":"D. Admit him to the hospital",
+         "option4":"E. Begin a trial of valproate",
+         "@option":"2"
+      },
+      "rationale":"The patient and his parents are reporting symptoms of intermittent explosive disorder (IED). Since IED is a diagnosis of exclusion, medical causes of his symptoms, such as substance use, brain tumors, endocrine disorders, etc. should first be ruled out, so a full medical workup should be performed. There is no current indication for hospital admission. Recommending or starting treatment would be premature before the other diagnoses are be ruled out. (555)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A 25\u2013year\u2013old man who was arrested and jailed two days ago on a charge of petit larceny tells the judge that he could not resist stealing a plastic vase from a department store, even though he had no use for it. He is shown video from three other stores which captured him stealing other relatively valueless objects over the past two weeks. He states he does not plan to steal, \"but I get this urge that I can\u2019t resist and I have to do it.\" Afterwards, he feels a sense of relief. He has never confronted someone to take their possessions. He admits to stealing since he was 18 years old. What is the most likely course of his stealing behavior over the next 10 years?",
+      "choices":{  
+         "option0":"A. It will wax and wane",
+         "option1":"B. It will become more frequent",
+         "option2":"C. It will stay constant",
+         "option3":"D. It will slowly decrease",
+         "option4":"E. It will remit completely",
+         "@option":"0"
+      },
+      "rationale":"Kleptomania tends to be a chronic disorder, with the frequency of stealing ranging from less than one to several episodes a month. The course waxes and wanes over time. (557).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Parents present with their 22\u2013year\u2013old son to the outpatient clinic because of the son\u2019s aggressive behavior. They state that he seems to \"get angry over nothing,\" and will fly into a rage consisting of screaming, slamming doors, and verbally abusing them. He states that he cannot control himself, and that he has lost several jobs because of his outbursts. Afterwards, he always apologizes \"and I promise not to do it again. I really mean it, but then the rage just builds up sometimes and I have to let it out.\" He has tried meditation, deep breathing, and anger management classes, but they have not been effective. His parents state that he is a joy to be around outside of the outbursts, but those times are overshadowed by the behaviors. He lives at home, and they are worried that he will never keep a job long enough to be able to move out. He has no chronic illnesses and is on no medications. What treatment is most likely to be effective?",
+      "choices":{  
+         "option0":"A. Family therapy and an antipsychotic medication",
+         "option1":"B. Cognitive\u2013behavioral therapy and an anticonvulsant medication",
+         "option2":"C. Family therapy and an SSRI",
+         "option3":"D. Cognitive behavioral therapy and an antipsychotic medication",
+         "option4":"E. Contingency management and an SSRI",
+         "@option":"2"
+      },
+      "rationale":"The treatment most likely to be successful for intermittent explosive disorder is a combination of psychotherapy and medication. For a young adult living at home, family therapy is particularly useful, though cognitive behavioral therapy and contingency management may also be effective. SSRIs are helpful for reducing impulsivity and aggression. Antipsychotics and anticonvulsants both have mixed results. (557).",
+      "@activityType":"MCQ"
+   }
+   ]

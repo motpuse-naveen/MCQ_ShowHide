@@ -1,0 +1,365 @@
+/* Fonts */
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url(../fonts/OPENSANS-REGULAR.TTF) format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url(../fonts/OPENSANS-BOLD.TTF) format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url(../fonts/OPENSANS-LIGHT.TTF) format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans-Semibold';
+    src: url(../fonts/OPENSANS-SEMIBOLD.TTF) format('truetype');
+}
+body{
+    height: 100%;
+    width:100%;
+    overflow: hidden;
+}
+*{
+    box-sizing:border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'OpenSans-Regular';
+    color: #333333;
+}
+#maincontainer{
+    margin: 0 auto;
+    background: white;
+    width: 100%;
+    max-width: 1000px;
+}
+/* Top Div CSS */
+#maincontainer .topDiv{
+    background: #E8E8E8;
+    height: 320px;
+    border-bottom:1px solid #9E9E9E;
+    border-top: 1px solid #9E9E9E;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.4);
+    padding:15px;
+    padding-left:45px;
+    padding-top:100px;
+}
+#maincontainer .topHeading1{
+    font-weight: normal;
+    font-size: 24px;
+    font-family: 'OpenSans-Light';
+    color: #333333;
+
+}
+#maincontainer h1.topHeading2{
+    font-size: 48px;
+    font-weight: normal;
+    font-family: 'OpenSans-Light';
+    color: #25408F;
+}
+
+#maincontainer .topDiv hr{
+    border:none;
+    border-bottom: 1px solid #25408F;
+}
+#maincontainer .authorName{
+    font-weight: normal;
+    font-family: 'OpenSans-Light';
+    font-size: 36px;
+    color: #333333;
+}
+#maincontainer .editionText{
+    font-weight: normal;
+    font-family: 'OpenSans-Light';
+    color: #333333;
+    font-size: 24px;
+}
+#maincontainer #studyModeBtn, #maincontainer #examModeBtn{
+    width: 185px;
+    float:left;
+    height: 100%;
+    color: #FFFFFF;
+    line-height: 50px;
+}
+#maincontainer #studyBtnInfo, #maincontainer #examBtnInfo{
+    width: 50px;
+    float: left;
+    height: 100%;
+    background-color: #601011;
+    background-image: url(../images/info_icon.svg);
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+    background-position: center;
+}
+/* Bottom Div CSS */
+#maincontainer .bottomDiv{
+    padding: 0 45px;
+    padding-top: 30px;
+    font-size: 16px;
+}
+#maincontainer .bottomTextDiv{
+    padding-bottom: 30px;
+}
+#maincontainer .mainBody{
+    overflow: auto;
+}
+#maincontainer .mainBody #examList div{
+    float: right;
+    margin-right: 100px;
+}
+#maincontainer #examList .contentCheck{
+        color: #FFFFFF;
+}
+#maincontainer .mainBody #examList div:first-child{
+    margin: 0px 100px;
+    margin-right: 100px;
+    float: left;
+    clear:both;
+}
+
+.checkbox_unchecked {
+    background: url(../images/check_box.svg);
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-top: 10px;
+}
+.checkbox_checked {
+    background: url(../images/check_box_checked.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.radio_unchecked {
+    background: url(../images/radio_btn.svg);
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-top: 10px;
+}
+.radio_checked {
+    background: url(../images/radio_selected.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.question_left, .question_right{
+    float:left;
+    width: 50%;
+    padding: 35px;
+}
+.question_number{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding-left:35px;
+    font-family: 'OpenSans-Bold';
+}
+#maincontainer .reveal-button{
+    display: inline-block;
+    background: #AE1F21;
+    width: 180px;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    line-height: 40px;
+}
+#maincontainer .btnNext{
+    background-image: url(../images/next.svg);
+    background-repeat: no-repeat;
+    background-color: #AE1F21;
+    height: 100%;
+    width: 50px;
+    background-position: center;
+    float:right;
+    cursor:pointer;
+}
+#maincontainer .btnPrev{
+    background-image: url(../images/previous.svg);
+    background-repeat: no-repeat;
+    background-color: #AE1F21;
+    height: 100%;
+    width: 50px;
+    background-position: center;
+    margin-right: 1px;
+    float:right;
+    cursor:pointer;
+}
+#maincontainer .attemptsDiv{
+    color: #FFFFFF;
+    height: 100%;
+    width: 40%;
+    float: left;
+    padding-left: 20px;
+    line-height: 50px;
+}
+#maincontainer .attemptstext{
+    color: #FFFFFF;
+    float:left;
+}
+#maincontainer .attempt{
+    background: white;
+    width: 14px;
+    height: 14px;
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    vertical-align: middle;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+#maincontainer .mainBody #examList li{
+    list-style: none;
+    font-size: 18px;
+    color:#333333;
+    height:50px;
+    line-height: 50px;
+    border-bottom: 1px solid #C1C1C1;
+}
+#maincontainer .mainBody #examList li:first-child{
+    background-color: #AE1F21;
+    font-family: 'OpenSans-Semibold';
+}
+#maincontainer .mainBody #examList li:first-child .contentHeading{
+    color: #FFFFFF !important;
+    font-size: 18px;
+    font-family: 'OpenSans-Semibold';
+}
+#maincontainer .footer{
+    height: 50px;
+    background-color: #000000;
+    position: fixed;
+    width:100%;
+    bottom:0px;
+    max-width: 1000px;
+}
+/*Buttons Container CSS */
+#maincontainer .button-container{
+    width: 100%;
+    line-height: 30px;
+    text-align: center;
+    margin: 0px;
+    font-size: 20px;
+    line-height: 50px;
+}
+#maincontainer .button-container .button{
+    display: inline-block;
+    background: #AE1F21;
+    width:235px;
+    height:50px;
+    margin-right: 10px;
+    color:white;
+    cursor: pointer;
+}
+.popup-button{
+    display: inline-block;
+    background: #AE1F21;
+    width: 80px;
+    height: 35px;
+    margin-right: 10px;
+    color: white;
+    cursor: pointer;
+    line-height: 35px;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+/* Study Mode CSS */
+#maincontainer .header{
+    background: #E8E8E8;
+    height: 60px;
+}
+#maincontainer .header .homeButton{
+    width:75px;
+    height: 100%;
+    border-right: 1px solid #9E9E9E;
+    float: left;
+}
+#maincontainer .header .homeButton img, #maincontainer .header .helpButton img{
+    padding: 15px;
+    padding-left: 20px;
+    cursor:pointer;
+}
+#maincontainer .header .helpButton{
+    width:75px;
+    height: 100%;
+    float: right;
+}
+#maincontainer .header .modeTitle{
+    float:left;
+    color: #25408F;
+    font-size: 24px;
+    padding-left: 20px;
+    line-height: 60px;
+}
+
+/* Modal CSS */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 12;
+    padding-top: 70px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.5);
+}
+.modal-content {
+    background-color: #fefefe;
+    position: relative;
+    margin: auto;
+    border: 1px solid #505759;
+    width: 60%;
+    min-height: 200px;
+    top: 135px;
+    left: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+    border: 1px solid #C1C1C1;
+    border-radius: 5px;
+}
+.modal-popup{
+    max-width: 450px;
+    font-size: 20px;
+    padding: 45px;
+    margin: 0 auto;
+    text-align: center;
+}
+.modal-popup .popupContent{
+    margin-bottom: 20px;
+}
+.popupHeader{
+    font-family: 'OpenSans-Semibold';
+    font-size: 16px;
+    color: #333333;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #c1c1c1;
+}
+.popupContent{
+    padding-top: 10px;
+}
+.modal-close {
+    float: right;
+    line-height: 13px;
+    position: absolute;
+    right:20px;
+    top: 20px;
+    height: 14px;
+    font-size: 20px;
+    width: 14px;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'OpenSans-Semibold';
+}

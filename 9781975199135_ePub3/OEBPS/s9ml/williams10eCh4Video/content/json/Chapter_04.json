@@ -1,0 +1,75 @@
+[  
+    {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the most effective treatment for the side effect symptoms the patient reports near the beginning of the interview?",
+      "choices":{  
+         "option0":"A. Valbenazine",
+         "option1":"B. Propranolol",
+         "option2":"C. Benztropine",
+         "option3":"D. Ropinirole",
+         "option4":"E. Glycopyrrolate",
+         "@option":"2"
+      },
+      "rationale":"The patient describes feeling “a little bit shaky, and kind of stiff” since starting the medication. Given the diagnosis and the side effect symptoms, he has most likely been treated with at least an antipsychotic medication. (He could have been treated with lithium, but resultant stiffness would be an uncommon side effect.) He sounds to be experiencing parkinsonian extrapyramidal side effects, for which anticholinergic medications such as benztropine are the most effective. Valbenazine is used for tardive dyskinesia, which usually occurs after long-term treatment with antipsychotics, and does not include stiffness. Propranolol can be used for akathisia, ropinirole is used for restless leg syndrome, and glycopyrrolate for sialorrhea, none of which are the patient’s current complaints. (351, 352).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the patient’s most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Bipolar I disorder",
+         "option1":"B. Bipolar II disorder",
+         "option2":"C. Cyclothymic disorder",
+         "option3":"D. Borderline personality disorder",
+         "@option":"1"
+      },
+      "rationale":"The patient was admitted to the hospital due to the combination of spending lots of money (impulsivity), pressured speech, speech disorganization (racing thoughts), lots of energy (hyperactivity), and feeling excited (abnormally elevated mood). He meets full criteria for a manic episode. This would not be considered a hypomanic episode because he was impaired enough to require hospitalization. Therefore, the diagnosis could not be bipolar II or cyclothymia. Bipolar disorder can be confused with borderline personality disorder, but the former presents with distinct mood episodes beyond the patient’s normal presentation (366-371).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the patient’s symptoms, what is the most likely prognosis on long-term follow-up?",
+      "choices":{  
+         "option0":"A. Full remission with no recurrences",
+         "option1":"B. Well with multiple relapses",
+         "option2":"C. Partial remission",
+         "option3":"D. Chronically ill",
+         "@option":"1"
+      },
+      "rationale":"In patients with bipolar I disorder, on long-term follow-up, 15% are well, 45% are well but have multiple relapses, 30% are in partial remission, and 10% are chronically ill. 40-50% of patients who have had one manic episode will have another episode within two years (372).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Given the symptoms that resulted in the hospitalization, which of the following medications is first-line monotherapy in treating his condition?",
+      "choices":{  
+         "option0":"A. Lamotrigine",
+         "option1":"B. Quetiapine",
+         "option2":"C. Valproate",
+         "option3":"D. Carbamazepine",
+         "option4":"E. Lurasidone",
+         "@option":"2"
+      },
+      "rationale":"Acute mania is best treated with either lithium or valproate. Quetiapine can be used with one of those two medications as an adjunctive treatment. Carbamazepine is used as a second-line treatment for mania. Lamotrigine and lurasidone are first line for acute bipolar depression, not mania (373).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"How would this patient’s range of affect best be described?",
+      "choices":{  
+         "option0":"A. Restricted",
+         "option1":"B. Labile",
+         "option2":"C. Normal",
+         "option3":"D. Flat",
+         "@option":"2"
+      },
+      "rationale":"The patient displayed a range of affect. He looked appropriately eager when he asked if he could be discharged, disappointed when told he could not go home, and embarrassed when told what he had done while manic. His mood could therefore not be considered flat or restricted. As his affect shifted appropriately with the conversation, it would not be considered labile, and is therefore normal (9).",
+      "@activityType":"MCQ"
+   }
+
+]

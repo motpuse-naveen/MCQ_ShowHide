@@ -1,0 +1,318 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which personality disorder is associated with traits of chronic social withdrawal and isolation, along with discomfort with interacting with others and a constricted affect?",
+      "choices":{  
+         "option0":"A. Antisocial",
+         "option1":"B. Avoidant",
+         "option2":"C. Paranoid",
+         "option3":"D. Schizoid",
+         "option4":"E. Schizotypal",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Schizoid (pg 560). Schizoid personality disorder is characterized by lifelong social withdrawal, and they are often described as eccentric. They have discomfort with interacting with others and a bland, constricted affect is noted on mental status exam. In contrast, those with avoidant personality disorder are also socially withdrawn but they are not asocial and show a great desire for companionship and are very sensitive to rejection. Antisocial personality disorder is characterized by lack of ability ot conform to social norms and can include criminal acts. Those with paranoid personality disorder are often mistrustful, hostile, and irritable. Those with schizotypal personality disorder often have magical thinking and ideas of reference and derealization.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Criticism of the DSM\u20135 personality disorder diagnoses include which of the following concerns?",
+      "choices":{  
+         "option0":"A. A categorical approach is used",
+         "option1":"B. An approach based on temperament is utilized",
+         "option2":"C. Comorbid substance use and other medial illnesses are not accounted for",
+         "option3":"D. Impairment is limited to only a focus on dysfunctional relationships",
+         "option4":"E. The focus is on a dimensional approach",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. A categorial approach is used (Pg 561). The categorical approach to personality disorders in DSM\u20135 is thought to be problematic to describe complex personality disorders in a few symptoms. A dimensional approach is better supported by research, incorporating temperament and functional impairment.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" On mental status examination, a patient has thought content significant for projection, themes of jealousy, and ideas of reference.  The patient\u2019s speech is goal directed and logical, with no signs of psychosis, and motor is significant for tension. Which of the following personality disorders best fits this description?",
+      "choices":{  
+         "option0":"A. Avoidant",
+         "option1":"B. Dependent",
+         "option2":"C. Obsessive compulsive",
+         "option3":"D. Paranoid",
+         "option4":"E. Schizotypal",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Paranoid (pg 562\u2013566). Those with paranoid personality disorder present as formal and tense on mental status exam and often have a humorless mannerism. Speech is often goal directed and logical though thought content shows evidence or projection and often ideas of reference. A patient with schizotypal personality disorder often presents as inappropriate with psychotic symptoms. Avoidant personality disorder presents as an anxious patient with a tense manner, along with vulnerability to the interviewer\u2019s comments, feeling criticized at times. A patient with dependent personality disorder often presents as complaint and often look for guidance. Obsessive\u2013compulsive personality disorder is notable for a stiff demeanor, constricted affect with a serious mood, and defense mechanism of rationalization, isolation, intellectualization, and undoing are utilized.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which personality disorder is classified under a psychotic disorder, rather than personality disorder in the ICD\u201310?",
+      "choices":{  
+         "option0":"A. Antisocial",
+         "option1":"A. Antisocial",
+         "option2":"C. Paranoid",
+         "option3":"D. Schizoid",
+         "option4":"E. Schizotypal",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Schizotypal (pg 563). Schizotypal personality disorder is characterized by pervasive discomfort with an inability to maintain close relationships. It presents with eccentric behavior, and oddities in thinking and appearance. These patients may have peculiar speech and express superstitious thoughts, thinking they possess special powers and can present as having brief psychotic symptoms at times. In ICD\u201310 schizotypal personality disorder is classified under psychotic disorders, rather than personality disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient presents as having lifelong stormy relationship and is always in a state of crisis.  The patient has struggled with self\u2013harm and feelings of anger, alternating with numbness and emptiness. This patient is most likely to use which of the following defense mechanisms?",
+      "choices":{  
+         "option0":"A. Intellectualization",
+         "option1":"B. Isolation",
+         "option2":"C. Projective identification",
+         "option3":"D. Rationalization",
+         "option4":"E. Reaction formation",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Projective identification (pg 564). The patient described above most likely has borderline personality disorder Patients with this disorder can present as argumentative and have episodes of psychosis and depression with unpredictable, self\u2013destructive behavior, including self\u2013harm. Feelings of anger, numbness, loneliness, and emptiness are characteristic of this disorder. Projective identification, in which the patient projects their own intolerable aspects on themselves onto others, is a classic defense mechanism for this disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient presents as attention\u2013seeking and as emotionally labile and hypersexual o flirtatious at times. Which of the following defense mechanics is most likely to be utilized by this patient?",
+      "choices":{  
+         "option0":"A. Dissociation",
+         "option1":"B. Intellectualization",
+         "option2":"C. Projection",
+         "option3":"D. Reaction formation",
+         "option4":"E. Sublimation",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Dissociation (pg 564\u2013565). The patient described above has histrionic personality disorder. Traits include attention\u2013seeking behavior along with seductive behavior. They can present as suggestible and emotionally labile. The major defenses these patients utilize are dissociation and repression.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which personality disorder is only included in DSM\u20135 and in ICD\u201310 is listed under an,\" other specific personality disorder\"?",
+      "choices":{  
+         "option0":"A. Borderline",
+         "option1":"B. Dependent",
+         "option2":"C. Histrionic",
+         "option3":"D. Narcissistic",
+         "option4":"E. Paranoid",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Narcissistic (pg 565). In DSM\u20135, narcissistic personality disorder is defined as those persons with a grandiose sense of self\u2013importance, characterized by strained relationships, often exploiting others, lacking empathy, jealousy and having a fragile self\u2013esteem. In the ICD\u201310 it is not included as a separate personality disorder, rather it is listed under an, \"other specified personality disorder.\"",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which personality disorder in ICD\u201310 is defined by excessive attention to detail and checking behaviors, along with rigidness and self\u2013doubt?",
+      "choices":{  
+         "option0":"A. Anankastic",
+         "option1":"B. Avoidant",
+         "option2":"C. Borderline ",
+         "option3":"D. Dependent",
+         "option4":"E. Not otherwise specified",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Anankastic (pg 566). Anankastic personality disorder is the ICD\u201310 term for obsessive\u2013compulsive personality disorder. Features include those mentioned about included self\u2013doubt, perfectionism, checking, attention to detail, stubbornness, being overly cautious, and having unwanted thoughts of impulses.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following symptoms is a distinguishing factor between schizophrenia versus paranoid personality disorder?",
+      "choices":{  
+         "option0":"A. Hallucinations",
+         "option1":"B. Hostile or threatening demeanor",
+         "option2":"C. Ideas of reference",
+         "option3":"D. Jealousness",
+         "option4":"E. Suspiciousness",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is A. Hallucinations (pg 567). Paranoid personality disorder differs from schizophrenia in that no hallucinations or formal thought disorders are noted.  All of the other features mentioned above can be symptoms of either schizophrenia or a paranoid personality disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following symptoms are more commonly found in borderline personality disorder, as compared to histrionic personality disorder?",
+      "choices":{  
+         "option0":"A. Egocentrism",
+         "option1":"B. Exaggerated speech and emotions",
+         "option2":"C. Flirtations and being sexually provocative ",
+         "option3":"D. Identity diffusion",
+         "option4":"E. Somatic symptoms",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Identify diffusion (pg 568). Though features of borderline and histrionic personality disorders overlap, identify diffusion, suicide attempts, and brief psychotic episodes are more common in borderline personality disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient with chronic self\u2013esteem issues and a fear of loneliness and abandonment calls her one friend daily and will only go out with her.  She needs to call her to ask her opinion of trivial things daily and struggles with making any decisions on her own. He friend describes her as kindhearted and has not had any recent arguments with her. Which is the most likely personality disorder this patient has?",
+      "choices":{  
+         "option0":"A. Dependent",
+         "option1":"B. Borderline ",
+         "option2":"C. Histrionic",
+         "option3":"D. Obsessive compulsive",
+         "option4":"E. Schizoid",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Dependent (pg 568). Dependent traits can occur in many psychiatric disorders, including both histrionic and borderline personality disorders, as well as dependent personality disorder. With dependent personality disorder, the person usually has a long relationship with one person rather than serious of tumultuous relationships borderline and histrionic personality disorders and these patients do not tend to be manipulative.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient presents with chronic fears of being disliked by others and avoids relationships due to fears of shame, rejection, and criticism by others.  Which of the following personality disorders is most commonly comorbid with this one?",
+      "choices":{  
+         "option0":"A. Antisocial",
+         "option1":"B. Histrionic",
+         "option2":"C. Narcissistic",
+         "option3":"D. Obsessive compulsive",
+         "option4":"E. Schizoid",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option A. Schizoid (pg 569). The patient described above has avoidant personality disorder. Paranoid, schizotypal, schizoid, dependent, and borderline are the most commonly co\u2013occurring personality disorder with avoidant personality disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which is the most likely course of borderline personality disorder?",
+      "choices":{  
+         "option0":"A. Completed suicide in the 5th decade of life",
+         "option1":"B. Development of a comorbid psychotic disorder by one\u2019s 54h decade",
+         "option2":"C. Functional improvement is noted by the 2nd decade in life",
+         "option3":"D. History of multiple arrest by the time one reaches their 20s",
+         "option4":"E. Greater relationship stability is achieved in one\u2019s 40s and 50s",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Greater relationship stability is achieved in one\u2019s 40s and 50s (pg 570). Functional improvement in borderline personality disorder is often not noted until the 4th and 5th decades of life. While brief psychotic episodes can be a component of borderline personality disorder, comorbid psychotic disorders are rare. While death from suicide is a risk of this disorder, the suicide and self\u2013harm risk are highest in the young adult years and wane as time goes on.  A history of multiple arrests is more common with antisocial personality disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which type of psychotherapy is best suited towards patients with antisocial personality disorder?",
+      "choices":{  
+         "option0":"A. Contingency management",
+         "option1":"B. Dialectical behavioral therapy",
+         "option2":"C. Group therapy",
+         "option3":"D. Psychodynamic psychotherapy",
+         "option4":"E. Social skills training ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Contingency management (pg 571). Those with antisocial personality disorder are thought to have a limited response to therapy. A limited evidence base supports that these patients repose better to contingency management and rewards\u2013based interventions, compared to cognitive behavioral therapy.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which is an important component of dialectical behavioral therapy in treating patients with borderline personality disorder?",
+      "choices":{  
+         "option0":"A. Contingency management ",
+         "option1":"B. Mentalization training ",
+         "option2":"C. Phone consultation",
+         "option3":"D. Reliance on clarification",
+         "option4":"E. Use of confrontation",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Phone consultation (pg 573). Dialectical behavioral therapy has the most empirical support for treating borderline personality disorder. It involves utilized 4 modalities\u2013 group kill training individual therapy, phone consultation, and a consultation team. Contingency management is useful for treating antisocial personality disorder. Mentalization\u2013based therapy (MBT) is another type of therapy used to treat borderline personality disorder, as is transference\u2013 focused psychotherapy (TFP), in which the therapy relies on the use of clarification and confrontation in working with the patient using a psychodynamic approach.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Evidence suggests that which medication might he most helpful in treating those with obsessive\u2013compulsive personality disorder with depressive symptoms?",
+      "choices":{  
+         "option0":"A. mitriptyline",
+         "option1":"C. luvoxamine",
+         "option2":"D. italopram",
+         "option3":"D. italopram",
+         "option4":"E. uetiapine",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Citalopram (pg 574). Limited evidence for medication management in treating obsessive\u2013compulsive personality disorder suggests that citalopram may be helpful in treating those with comorbid depression. In one study comparing citalopram and sertraline, which both reduced symptoms, citalopram performed better than sertraline. Some studies have suggested benefits from fluvoxamine and carbamazepine as well, though citalopram has specifically been shown to target depression in this population.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which personality disorder is more commonly found in women compared to men and in younger patients?",
+      "choices":{  
+         "option0":"A. Avoidant",
+         "option1":"B. Borderline",
+         "option2":"C. Histrionic",
+         "option3":"D. Obsessive\u2013compulsive",
+         "option4":"E. Paranoid",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Borderline (pg 574). Borderline personality disorder is more common in women than in men and is typically seen in younger compared ot older samples, as there is natural tendency towards remission as one ages. Histrionic personality disorder used to be thought to occur more frequently in women, but data suggest it might occur equally amongst men and women Avoidance, obsessive\u2013compulsive, and paranoid personality disorders are all more commonly found in men.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A biological inheritance is suggested by studies showing saccadic eye movements during smooth pursuit tests in which of the following personality disorders?",
+      "choices":{  
+         "option0":"A. Antisocial",
+         "option1":"B. Avoidant",
+         "option2":"C. Borderline",
+         "option3":"D. Histrionic",
+         "option4":"E. Schizotypal",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Schizoid (pg 575). Biological factors have been examined in personality disorders often to help examine inheritance or best guide treatment. Smooth pursuit eye movements are found to be saccadic, or jumpy, in those with introversion, withdrawal and schizotypal personality disorder. Low platelet MAO levels have also been found in some patients with schizotypal personality disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Fantasy is a defense mechanism most utilized in which of the following personality",
+      "choices":{  
+         "option0":"A. Borderline",
+         "option1":"B. Histrionic",
+         "option2":"C. Obsessive\u2013compulsive",
+         "option3":"D. Paranoid",
+         "option4":"E. Schizoid",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Schizoid (pg 376). Common defense mechanisms to each personality disorder can be found, helping the patient to resolve inner conflicts. Awareness of these defense mechanisms can help the psychiatrist in treating the patient. Those with schizoid personality disorder utilize fantasy and retreat to imaginary lives to help with feeling of loneliness and fear. Those with borderline often use dissociation. Isolation is common in those with obsessive\u2013compulsive personality disorder. Those with paranoid personality disorder utilize projection, while those with histrionic personality disorder often utilize dissociation.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Persons showing decreased harm avoidance have been found to have been given drugs that affect which of the following neurotransmitters?",
+      "choices":{  
+         "option0":"A. Acetylcholine",
+         "option1":"B. Dopamine",
+         "option2":"C. Glutamate ",
+         "option3":"D. Norepinephrine",
+         "option4":"E. Serotonin",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is E. Serotonin (pg 578). Temperament, biases in the modulation of conditioned behavioral response to physical stimuli, plays a role in personality formation. Four temperaments of harm avoidance, novelty seeking, reward dependence, and persistence have been studied. The anterior serotonergic cells in the dorsal raphe nucleus and the dopaminergic cells of the ventral tegmental area innervate the same structures and provide opposing influences to modulate approach and avoidance behaviors. When given serotonin drugs, harm avoidance behavior is decreased.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Plasma levels of oxytocin are positively correlated with differences in which of the following personality dimensions?",
+      "choices":{  
+         "option0":"A. Harm avoidance",
+         "option1":"B. Novelty seeking",
+         "option2":"C. Persistence",
+         "option3":"C. Persistence",
+         "option4":"D. Reward dependence",
+         "option5":"E. Slow to warm up",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option D. Reward dependence (pg 578). Reward dependence reflects behavior in response to social rewards. Noradrenergic and serotonergic projections likely modulate reward conditions. Plasma levels oxytocin are thought to positively correlate with reward dependence.",
+      "@activityType":"MCQ"
+   }
+   ]

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en">
+<head>
+    <title>Biopsy Interpretation of the Lung, 2e</title>
+    <link rel="stylesheet" href="../css/jquery-ui.css"/>
+    <script type="text/javascript" src="jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="jquery-ui.js"></script>
+    <script type="text/javascript" src="iscroll-zoom.js"></script>
+    <script type="text/javascript" src="jquery.ui.touch-punch.min.js"></script>    
+    <script type="text/javascript">
+        
+    jqnc(document).ready(function(){
+        var imageSRC = jqnc(window.parent.document.getElementById('my_iframe')).attr('data-img-path');
+        if(imageSRC){
+            var arr = imageSRC.split('/');
+            var chapter = (arr[arr.length-2]);
+            var fileNameIndex = imageSRC.lastIndexOf("/") + 1;
+            var filename = imageSRC.substr(fileNameIndex);
+            jqnc('#bwimg').attr('data-img-src',imageSRC);
+            jqnc('#bwimg').hide();
+
+            var someImage = new Image()
+            someImage.src = '../../img/'+chapter+'/'+filename;
+            someImage.onload = function(e) {
+                jqnc('transition', 'background-image 1s ease-in-out');
+                jqnc('#bwimg').attr('src','../../img/'+chapter+'/'+filename);
+                jqnc('#bwimg').fadeIn('fast');
+
+                jqnc('#bwimg').css('max-width','99%');
+                var winHeight = jqnc(window).height();
+                var imgHeight = jqnc('#zoomWrapper').height();                
+                jqnc('#bwimg').css('height', 'auto');
+                winHeight = jqnc(window).height();
+                imgHeight =jqnc('#zoomWrapper').height();
+                var marginTop = 0;
+                jqnc('body').css('margin-top', marginTop+'px');
+                jqnc('#zoomWrapper').css('height', winHeight+'px');
+                
+                if (jqnc('#bwimg').height() > jqnc(window).height())
+                {
+                    jqnc('#bwimg').css('height', jqnc(window).height());
+                    jqnc('#bwimg').css('width', 'auto');
+                    console.log(winHeight,imgHeight,"img1")
+                    jqnc('body').css('margin-top', '0px');
+                }
+                setTimeout(function(){         
+                    // console.log('activating zoom wrapper') 
+                    myScroll = new IScroll('#zoomWrapper',{
+                        keyBindings: true,
+                        scrollbars: true,
+                        scrollX: true,
+                        scrollY: true,
+                        zoomMin: 1,
+                        zoomMax: 2.5,
+                        zoom: true,
+                        interactiveScrollbars:true
+                    });
+                    // myScroll.scrollTo(-130, -130);
+                },100);
+                jqnc('body').css('overflow','hidden');  
+            };
+                    
+        }else{
+            setTimeout(function(){
+                var url_string = window.location;
+                var url = new URL(url_string);
+                var c = url.searchParams.get("image");
+                
+                if (c == "" || c == undefined || c == null)
+                {
+                    c = localStorage.getItem("imgPath");
+                }
+                if (c == "" || c == undefined || c == null)
+                {
+                    c = imgToLoadPath;
+                }
+                
+                jqnc('body').css('overflow','hidden');
+                jqnc('#bwimg').css('max-width','100%');
+
+
+                var someImage = new Image()
+                someImage.src = c;
+                someImage.onload = function(e) {
+                    jqnc('transition', 'background-image 1s ease-in-out');
+                    jqnc('#bwimg').attr('src',c);
+                    
+                    setTimeout(function(){
+
+                        jqnc('#bwimg').css('max-width','99%');
+                        var winHeight = jqnc(window).height();
+                        var imgHeight = jqnc('#zoomWrapper').height();                
+                        jqnc('#bwimg').css('height', 'auto');
+                        winHeight = jqnc(window).height();
+                        imgHeight =jqnc('#zoomWrapper').height();
+                        var marginTop = 0;
+                        jqnc('body').css('margin-top', marginTop+'px');
+                        jqnc('#zoomWrapper').css('height', winHeight+'px');
+                        
+                        if (jqnc('#bwimg').height() > jqnc(window).height())
+                        {
+                            jqnc('#bwimg').css('height', jqnc(window).height());
+                            jqnc('#bwimg').css('width', 'auto');
+                            console.log(winHeight,imgHeight,"img1")
+                            jqnc('body').css('margin-top', '0px');
+                        }
+
+
+
+                        myScroll = new IScroll('#zoomWrapper',{
+                            keyBindings: true,
+                            scrollbars: true,
+                            scrollX: true,
+                            scrollY: true,
+                            zoomMin: 1,
+                            zoomMax: 2.5,
+                            zoom: true,
+                            interactiveScrollbars:true
+                        });
+                    },100);
+                    jqnc('body').css('overflow','hidden');  
+                };
+            },500);
+        }
+
+            jqnc('#bwimg').css('max-width','100%');
+            var winHeight = jqnc(window).height();
+            var imgHeight = jqnc('#zoomWrapper').height();
+            
+            jqnc('#bwimg').css('height', 'auto');
+            winHeight = jqnc(window).height();
+            imgHeight =jqnc('#zoomWrapper').height();
+            // var marginTop = (winHeight-imgHeight)/2;
+            var marginTop = 0;
+            jqnc('body').css('margin-top', marginTop+'px');
+            jqnc('#zoomWrapper').css('height', winHeight+'px');
+            
+            if (jqnc('#bwimg').height() > jqnc(window).height())
+            {
+                jqnc('#bwimg').css('height', jqnc(window).height());
+                jqnc('#bwimg').css('width', 'auto');
+                console.log(winHeight,imgHeight,"img1")
+                jqnc('body').css('margin-top', '0px');
+            }
+            // console.log(winHeight,imgHeight,"img2")
+        
+        if(!imageSRC){
+            jqnc('#bwimg').hide();
+            setTimeout(function(){
+                jqnc('#bwimg').show();
+                winHeight = jqnc(window).height();
+                imgHeight =jqnc('#zoomWrapper').height();
+                // var marginTop = (winHeight-imgHeight)/2;
+                var marginTop = 0;
+                jqnc('body').css('margin-top', marginTop+'px');
+                jqnc('body,#zoomWrapper').css('overflow','hidden').css('max-height', winHeight+'px');               
+            },200)
+        }
+        // alert(navigator.userAgent)
+        
+    })
+    </script>
+
+</head>
+<body style="margin:0px;" class="vst-draggable">
+    <div id="zoomWrapper" class="zoomWrapper" style="margin: auto 0px;">
+      <img id="bwimg" style="height:99%;max-height:99%;display: flex;margin: auto;" src="loading.gif"/>
+    </div>
+</body>
+</html>

@@ -1,0 +1,377 @@
+/**
+ * Font fallbacks 
+ * The following @font-face declarations provide fallback fonts for legacy versions of the Inkling iOS app (pre-v3.3). 
+ */
+/**@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-Book");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-BookItalic");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-Book");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-BookItalic");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-Semibold"), local("WhitneySemibold-Regular");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-SemiboldItalic"), local("WhitneySemibold-Italic");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-Bold");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Whitney-BoldItalic");
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+html {
+  font-family: "Meta Serif Office Pro", Georgia, serif;
+  font-size: 19px;
+  -webkit-font-smoothing: antialiased;
+  margin: 5px;
+}
+
+
+*/
+
+
+
+img.image-inline {
+  display: inline;
+  vertical-align: text-bottom;
+  max-width: 100%;
+}
+
+pre {
+  margin: 1em 0;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -o-pre-wrap;
+}
+
+
+
+@media only screen and (max-width: 480px) {
+  section {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  section {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+
+
+/* Figures */
+figure {
+  position: relative;
+  font-family: "Source Sans Pro", Verdana, Helvetica, sans;
+  font-size: 1em;
+  font-weight: 400;
+  margin: 1em 0;
+  clear: both;
+}
+figure > a {
+  display: block;
+}
+figure > img,
+figure > a > img {
+  margin-bottom: .7em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+}
+figure.width-full {
+  width: auto;
+}
+figure figcaption {
+  font-weight: 400;
+  line-height: 1.45em;
+}
+figure figcaption .figure-number {
+  font-weight: 600;
+  display: inline-block;
+  white-space: normal;
+  color: #000;
+}
+figure figcaption .caption-title {
+  font-weight: 600;
+  color: #000;
+}
+figure figcaption .caption-body {
+  color: #000;
+}
+figure figcaption .caption-citation {
+  color: #777;
+}
+figure figcaption + img {
+  margin-bottom: 1.5em;
+  margin-top: .8em;
+}
+figure figcaption .figure-designation:after,
+figure figcaption .caption-title:after,
+figure figcaption .caption-body:after {
+  content: " ";
+}
+
+a figure figcaption .figure-number,
+figure figcaption a.figure-number {
+  margin-right: .3em;
+  padding-right: 1.2em;
+  background-size: 1em auto;
+  color: #006bb2;
+}
+
+a > figure {
+  margin-bottom: 0;
+}
+
+.guidedtour,
+.slideshow,
+.slideline,
+.slidedtour,
+.testyourself,
+.hotspot,
+.threed,
+.poptip {
+  position: relative;
+  margin: 1em 0;
+  display: block;
+}
+
+.text-image {
+max-width: 100%;
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+}
+.zoom-image{
+    background: url(../img/zoom.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    position: relative;
+    margin: 10px auto;
+    display: block;
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+}
+figure > img.equation,
+.equation-key > img.equation {
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+
+p > img.equation,
+li > img.equation,
+figcaption img.equation {
+  height: auto;
+  display: inline-block;
+  vertical-align: -0.1em;
+}
+
+div.equation {
+  text-align: center;
+  margin: 1em auto;
+  display: inline-block;
+  padding: 0 10px;
+  white-space: nowrap;
+}
+
+span.equation {
+  white-space: nowrap;
+}
+@media only screen and (max-width: 480px) {
+  span.equation {
+    white-space: normal;
+  }
+}
+
+.general_relativity_rdj_3 {
+  width: 5.33em;
+}
+
+.frederic_edwin_church_aurora_borealis {
+  width: 32.22em;
+}
+
+.phn_01 {
+  width: 15.56em;
+}
+
+.general_relativity_rdj_3 {
+  width: 14.80em;
+}
+
+.inline_equation_placeholder {
+  width: 16.73em;
+}
+
+.phn_02 {
+  width: 15.56em;
+}
+
+.phn_03 {
+  width: 15.56em;
+}
+
+.phn_08 {
+  width: 15.56em;
+}
+
+.phn_09 {
+  width: 15.56em;
+}
+
+.block_equation_placeholder {
+  width: 35.91em;
+}
+
+
+/**
+ * Platform elements
+ * Warning: Editing display properties can result in unwanted behavior.
+ */
+/* s9 Answer: Used by reader.js to control the show/hide values. */
+.s9-answer {
+  margin-bottom: 1em;
+  font-weight: 400;
+}
+.s9-answer .s9-show-answer-value,
+.s9-answer .s9-hide-answer-value {
+  display: none;
+}
+
+.s9-answer-toggle {
+  color: #006bb2;
+  display: inline-block;
+  min-height: 1.6em;
+  font-family: "Source Sans Pro", Verdana, Helvetica, sans;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5em;
+  margin: 0.3em 0;
+  padding-left: 1.2em;
+  background-size: 1em auto;
+}
+.s9-answer-toggle.s9-active {
+}
+
+/* s9ml-answer */
+.s9ml-answer {
+  margin: 1em 0;
+  padding-left: 1.5em;
+  background-size: 1em auto;
+}
+
+/* s9 Audio Button */
+.s9-audio-button-custom {
+  margin-top: 23px;
+  display: inline-block;
+  padding: 6px 10px 6px 40px;
+  color: #fff;
+  text-decoration: none;
+  text-indent: 0;
+  text-align: left;
+  text-transform: none;
+  font-family: "Source Sans Pro", Verdana, Helvetica, sans;
+  font-size: .8em;
+  font-weight: 600;
+  line-height: 1.1em;
+  box-shadow: 0 0 3px #999;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  text-shadow: #0e507b 0px -1px;
+  border-radius: 5px;
+  background-size: 20% auto;
+}
+.s9-audio-button-custom.s9-active {
+  opacity: .5;
+}
+
+/* s9 Scrollable */
+.s9-scrollable {
+  display: block;
+  width: auto;
+  overflow-y: auto;
+  text-align: center;
+  clear: both;
+}
+.s9-scrollable figure > img.equation,
+.s9-scrollable .equation-key > img.equation {
+  padding: 0 10px;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+.s9-scrollable img {
+  max-width: none;
+}
+
+.s9-scrollable.s9-is-scrollable {
+  box-shadow: inset 1px 0px 5px #CCC;
+  margin-top: .7em;
+  margin-bottom: .7em;
+}
+
+
+body > .s9-scrollable {
+  margin-left: -83px;
+  margin-right: -35px;
+  padding-left: 83px;
+  padding-right: 35px;
+}
+@media only screen and (max-width: 480px) {
+  body > .s9-scrollable {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  body > .s9-scrollable {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+

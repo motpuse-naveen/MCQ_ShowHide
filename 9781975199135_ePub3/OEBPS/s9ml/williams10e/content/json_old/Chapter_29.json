@@ -1,0 +1,214 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following is a feature of the stages of death and dying as described by Dr. Kubler\u2013Ross?",
+      "choices":{  
+         "option0":"A. All the stages are thought to occur in everybody",
+         "option1":"B. Depression and possibly suicidal ideation can occur",
+         "option2":"C. Most people do not reach the phase of acceptance",
+         "option3":"D. Shock and denial are experienced by all",
+         "option4":"E. The stages are typically followed in order",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Depression and possibly suicidal ideation can occur (pg 847\u2013848) The stages of death and dying, as identified by Elizabeth Kubler\u2013Ross include the following\u2013 1. Shock and Denial, 2. Anger, 3. Bargaining, 4. Depression and 5. Acceptance. In the stage of depression, patients can show clinical signs of a major depressive disorder including withdrawal, psychomotor retardation, and suicidal ideation. It should be noted that a dying patient rarely follows these stages in order and that not all patients experience all 5 stages.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Approximately 75% of those who die in late adolescence do so from which of the following causes?",
+      "choices":{  
+         "option0":"A. Accidents, homicides, and suicides*",
+         "option1":"B. Blood and skin cancers",
+         "option2":"C. Brain tumors",
+         "option3":"D. Eating disorders ",
+         "option4":"E. Heart disease and metabolic disorders ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Accidents, homicides, and suicides (pg 848).  Almost half of children who die between 1\u201314yo, and nearly 75% of those who die in late adolescence and early adulthood do so from a combination of accidents, homicides, and suicides.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient is suffering from an incurable brain tumor. The patient feels significant guilt for dying and views the treatment as a punishment and struggles with feelings of rejection from the family. A person with this attitude surrounding death is most likely to be in which of the following age groups?",
+      "choices":{  
+         "option0":"A. Preschool",
+         "option1":"B. Elementary school",
+         "option2":"C. Early adolescence",
+         "option3":"D. Late adolescence",
+         "option4":"E. Elderly",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Preschool (pg 849). At the preschool age, the preoperational stage of cognitive development predominates. Preschoolers still see death as incomplete and reversible. Separation from the primary caregiver is the main fear. Terminally ill children often feel guilty and responsible for their own death and don\u2019t relate treatment to the illness and view it as punishment and feel family separation as rejection. School age children in the concrete\u2013operational cognitive stage can realize the finality of death but see it as something that happens to older people.  Adolescents often struggling with loss of independence and fears of abandonment by friends. Teenagers and capable and should typically be involved in all decision\u2013making process surrounding their deaths. Adults have various fears including losing control, being a burden to others, pain, fear of afterlife, etc. Late\u2013age adults often can accept death.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following symptoms is the most lasting manifestation of grief after spousal bereavement?",
+      "choices":{  
+         "option0":"A. Decreased appetite",
+         "option1":"B. Guilt",
+         "option2":"C. Loneliness",
+         "option3":"D. Suicidal thoughts",
+         "option4":"E. Worthlessness",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option C. Loneliness (pg 850). The most lasting manifestation of grief, especially after spousal bereavement, is loneliness.  Typically, it can last for up to many years. Grief often becomes circumscribed throughout time and remerges when specific triggers are present. The other symptoms listed are indicative of a major depressive disorder, which if present, would typically resolve with treatment.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which symptom is more commonly found in a major depressive disorder compared to bereavement?",
+      "choices":{  
+         "option0":"A. Dysphoria with thoughts of the deceased",
+         "option1":"B. Onset within the first 2 months of the loss",
+         "option2":"C. Psychomotor retardation",
+         "option3":"D. Symptoms lasting for one month",
+         "option4":"E. Transient functional impairment",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Psychomotor retardation (pg 850). Symptoms associated with a major depressive disorder, as opposed to bereavement include classic DSM\u20135 symptoms such as guilt, worthlessness, suicidal ideation, or psychomotor retardation. Dysphoria independent of thoughts of the deceased is typical for a major depressive disorder and the depression causes clinically significant impairment and distress. With bereavement the functional impairment is transient and mild, with symptoms lasting for less than 2 months, and the onset is within the first 2 months of the loss.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Bereavement has been shown to exacerbate which of the following symptoms in both sexes?",
+      "choices":{  
+         "option0":"A. Accidents",
+         "option1":"B. Alcohol consumption",
+         "option2":"C. Death",
+         "option3":"D. Ischemic heart disease",
+         "option4":"E. Suicide",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Alcohol consumption (pg 851). An increased mortality rate is seen after bereavement, especially for men. Higher mortality rates for men are due to an increased risk of death by suicide. Accidents, ischemic heart disease, and some infectious diseases are also more common amongst men. In both sexes, increased alcohol consumption, smoking, and use of OTC medications can be exacerbated.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which is a distinguishing feature of grief compared to depression after a loss of a loved one?",
+      "choices":{  
+         "option0":"A. Enduring low mood",
+         "option1":"B. Positive emotions",
+         "option2":"C. Protracted course",
+         "option3":"D. Social withdrawal",
+         "option4":"E. Trouble going to wor",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Positive emotions (pg 852). Grief involves both positive emotions besides the negative one. Grief is fluid and gradually lessens over time as the negative feelings lessen and positive ones take their place. With grief the person can eventually find comfort by memories of their loved one and can resume a satisfying life. Major depressive disorder consists of a protracted course, with enduring low mood and impairment in work and social functioning.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which medication is commonly prescribed and may be useful in some forms of grief?",
+      "choices":{  
+         "option0":"A. An atypical antipsychotic",
+         "option1":"B. A mild sedative",
+         "option2":"C. A narcotic",
+         "option3":"D. A selective serotonin norepinephrine reuptake inhibitor",
+         "option4":"E. A selective serotonin reuptake inhibitor",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. A mild sedative (pg 853). Most people don\u2019t end up seeing a psychiatrist for grief, as it is accepted as a normal reaction. However, the most common request for help with grief often involves a request for sleeping medication from a primary care doctor. A mild sedative might be helpful in certain situations. However, antidepressant medication, antianxiety agents, and narcotics are not indicted and can interfere with the normal grief  process.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which criterion is part of the Endicott Substitution Criteria for depression in those experiencing advanced disease?",
+      "choices":{  
+         "option0":"A. Anhedonia",
+         "option1":"B. Changes in appetite",
+         "option2":"C. Increased energy",
+         "option3":"D. Suicidal ideation",
+         "option4":"E. Worthlessness",
+
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Changes in appetite (pg 854). The Endicott Substitution Criteria can help diagnose depression in those with advanced disease. The criteria have been found to perform as well as the DSM criteria. The physical/somatic symptoms listed include changes in appetite or weight, sleep disturbances, fatigue, loss of energy, and memory and concentration deficits. Psychological symptoms including tearfulness, despair, withdrawal, self\u2013pity, a lack of mood reactivity, etc.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which of the following is a distinguishing factor between a persistent vegetative state versus brain death?",
+      "choices":{  
+         "option0":"A. Absence of respiration",
+         "option1":"B. Absence of wave formations on electroencephalographyr",
+         "option2":"C. Lack of reflex eye movements",
+         "option3":"D. Mild to moderate response to medical intervention",
+         "option4":"E. Smiling, frowning, and yawning can be noted",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Smiling, frowning, and yawning can be noted (pg 858). A persistent vegetative state is a condition in which no awareness exists of the self or environment and is associated with sever neurological damage. Brainstem or hypothalamic autonomic functions permit survival and various cranial nerves, and spinal reflexes are preserved, and patients can even smile, frown, or yawn and sleep\u2013wake cycles can return.  No meaningful response to a stimulant or receptive or expressive language is possible, and medical treatment proves no benefits to patients in persistent vegetative states. Brian death is accepted criterion for death and involves a loss of all higher and lower brain stem functions respiration, and no brain waves are seen on EEGs.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Use of which of the following pain\u2013relieving drugs in end\u2013of\u2013life care can help minimize the risk of psychotoxicity leading to delirium?",
+      "choices":{  
+         "option0":"A. Hydromorphone",
+         "option1":"B. Levorphanol",
+         "option2":"C. Meperidine",
+         "option3":"D. Methadone",
+         "option4":"E. Morphine",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Hydromorphone (pg 860 ,861). Opioids can cause delirium and hallucinations. Psychotoxicity can occur when these drugs or metabolites accumulate because the duration of the analgesics is shorter than their plasma half\u2013lives Morphine, levorphanol and methadone are drugs that can accumulate easily whereas hydromorphone has a half\u2013life close to its analgesic duration. Meperidine\u2019s metabolite, normeperidine can accumulate.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Arguments for euthanasia revolve around which of the following ethical principles?",
+      "choices":{  
+         "option0":"A. Autonomy",
+         "option1":"B. Beneficence",
+         "option2":"C. Justice",
+         "option3":"D. Loyalty",
+         "option4":"E. Nonmaleficence",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Autonomy (pg 864). Most medical, religious, and legal groups in the U.S. are against active euthanasia and it is considered illegal. Those in support of euthanasia argue the ethical principal of autonomy and a right to a dignified death. Passive euthanasia, a patient requesting the withdrawal of life sustaining treatment, should be abided by if the patient is competent",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In addition to depression and an incurable medical condition, which of the following factors is part of the triad that exists in almost every case in patients asking to be put to death?",
+      "choices":{  
+         "option0":"A. A cancer diagnosis",
+         "option1":"B. Alzheimer\u2019s disease",
+         "option2":"C. Fear of losing bodily functions",
+         "option3":"D. Intolerable pain",
+         "option4":"E. Religious reasons",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Intolerable pain (pg 865). In almost every case in which a patient asks to be put the death, the triad of depression, an incurable medical condition, and intolerable pain exists. Every effort should be made to provide treatment with antidepressants or stimulants, opioids for pain control, along with therapy and spiritual counseling and family support.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which safeguard has been put in place as a part of Oregon\u2019s Assisted Suicide Law?",
+      "choices":{  
+         "option0":"A. The doctors and pharmacists must abide by the Death with Dignity Act",
+         "option1":"B. The patient must make 2 witnessed written requests at least one month apart ",
+         "option2":"C. The patient must complete at least 3 months of counseling with a licensed provider",
+         "option3":"D. The next of kin must be notified of the patient\u2019s decision by the doctor and patient together ",
+         "option4":"E. Two doctors must confirm the patient is terminally ill and acting of his or her own free will",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Two doctors must confirm the patient is terminally ill and acting of his or her own free will (pg 865). In 1994 Oregon was the first state to pass the legalization of physician assisted suicide, known as the Death with Dignity Act. Washington, Montana, and Vermont have also since made it legal.  Oregon\u2019s physician assisted suicide laws includes that two doctors must agree the patient is terminally ill and acting of his or her own free will and that the patient is capable of making health care decisions and can change their mind at any time. The patient must make one written request and two spoken ones. While the doctor must ask the patient to tell the next of kin, the patient can decide not to.  Other parts of the Law include the person must live in Oregon. Pharmacists must be told of the medication\u2019s use.  It should be noted that all healthcare providers are not under any obligation to participate in the is act.",
+      "@activityType":"MCQ"
+   }
+]
+   

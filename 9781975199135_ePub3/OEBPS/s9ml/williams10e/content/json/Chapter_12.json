@@ -1,0 +1,215 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following DSM\u20135 criteria are no longer required for a diagnosis of a somatic disorder?",
+      "choices":{  
+         "option0":"A.  Abnormal labs and medical findings",
+         "option1":"B.  Anxiety and depressive symptoms",
+         "option2":"C.  Impairment daily",
+         "option3":"D.  Persistent belief of an undetected disease ",
+         "option4":"E.  Symptoms that cannot be medically explained",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E (pg 451). Symptoms that cannot be medically explained.  An older perspective for somatic disorders involved only including symptoms that could not be medially explained. We now know that patients with medially established diagnoses can have a disproportionate amount of anxiety or physical symptoms from their medical disorder.  Thus, in DSM\u20135 it is no longer required for symptoms to be medically unexplained.  Patients with somatic symptom disorder believe they have an undetected disease, and the symptoms are typically impairing their lives on a day\u2013to\u2013day basis. Anxiety and depression are common comorbid symptoms, in addition to the somatic symptoms with this disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which feature differentiates illness anxiety from somatic symptom disorder?",
+      "choices":{  
+         "option0":"A. Addiction to internet searches about the feared illness ",
+         "option1":"B. Daily social or occupational impairment ",
+         "option2":"C. Lack of medical evidence to explain the symptoms ",
+         "option3":"D. Need for excessive reassurance form medical doctors",
+         "option4":"E. No significant physical symptoms",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. No significant physical symptoms (pg 451). Similarities between illness anxiety disorder and somatic symptom disorder include a strong belief the person has a serious undiagnosed medical illness despite evidence to the contrary. Significant impairment in day\u2013to\u2013day functioning remains. These patients are often addicted to searches about their feared illness and often seek excessive reassurance from medical providers. Unlike those with somatic symptom disorder, patients with illness anxiety disorder do not have significant physical symptoms.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A patient is in the hospital for being unable to walk and having fainting spells after being in a car accident. The patient was driving his car when getting in the accident and witnessed his friend being killed. Multiple medial workups have not found any medical explanation for these neurological symptoms. Which psychiatric diagnosis is most likely?",
+      "choices":{  
+         "option0":"A. Conversion disorder",
+         "option1":"B. Dissociative disorder",
+         "option2":"C. Factitious disorder",
+         "option3":"D. Illness anxiety disorder",
+         "option4":"E. Somatic symptom disorder",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Conversion disorder (pg 451). Patients with conversion disorders, also known a functional neurological symptom disorder, often appear to have a neurological condition such as a sensory or motor problem, which are found to be incompatible with true neurological conditions The symptoms are not intentionally produced and often follow a trauma or other stressor. Paralysis, dysphasia, seizures, blindness, or deafness are common symptoms seen, along with disturbances in consciousness.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"ICD\u201310 criteria for somatization disorder differs from DSM\u20135 criteria for somatic symptom disorder in which of the following ways?",
+      "choices":{  
+         "option0":"A.  More than one pain symptom is required",
+         "option1":"B.  No exclusion of a medical cause of the symptoms is required",
+         "option2":"C.  Social or interpersonal impairment is not necessary",
+         "option3":"D.  The duration of the symptoms lasts for a much longer time frame",
+         "option4":"E.  The patient must be anxious about the symptoms",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D (pg 452). The duration of the symptoms lasts for a much longer time frame. While perhaps the major difference between ICD\u201310 somatization disorder vs. DSM\u20135 somatic symptom disorder is that the DSM\u20135 omitted the criteria requiring evidence that there is no underlying medical cause of the disorder, another difference is that the symptoms for somatic symptom disorder are only required to last a relatively short amount of time, more than 6 months, whereas the ICD\u201310 criteria for somatization disorder require the symptoms must last for more than 2 years. Other minor differences include that for somatic symptom disorder, anxiety about the symptoms is a necessary criterion.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following test findings is more consistent with a conversion disorder rather than an underlying neurological issue?",
+      "choices":{  
+         "option0":"A. A patient reporting arm paralysis hits his hand on his face when his hand is dropped",
+         "option1":"B. A patient reporting blindness can touch his index fingers together",
+         "option2":"C. No flinching is noted when sudden bright lights are flashed in the eyes of a patient complaining of complete blindness",
+         "option3":"D. Sensory loss conforming to a specific pattern of distribution is found in a patient endorsing anesthesia",
+         "option4":"E. There is an absence of relative afferent pupillary defect in a patient complaining of blindness in one eye",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. There is an absence of relative afferent pupillary defect in a patient complaining of blindness in one eye (pg 455). In testing for true monocular blindness, the Marcus Gunn, or swinging flashlight test can be done.  If no relative afferent pupillary defect is noted, it is consistent with a conversation disorder, rather than actual blindness. Even patients that are fully blind should be able to touch their index fingers together by proprioception, but often those with conversion disorder cannot when complaining of blindness. When bright lights are shown into the eyes of someone with conversion disorder who is complaining of blindness, typically flinching is noted. The Hoover test, dropping someone\u2019s hand onto the face, can test for conversion disorder if the patient\u2019s hand falls next to, instead of on the face. If the anesthesia is due to conversion disorder rather an actual organic problem, typically the sensory loss does not confirm to a specific nerve pattern.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":"An inpatient with many past psychiatric hospitalizations at various places reports severe depression and hallucinations after years of no response to various antidepressant treatments and ECT. The patient reported the depression happened after witnessing a child being run over and killed. The patient won\u2019t sign consent to contact any relatives for collateral and reports worsening of symptoms the day before discharge, with no clear triggers. The patient is requesting further stay so that more in depth medical and psychological testing can be done. This history is most consistent with which of the following psychiatric disorders?",
+      "choices":{  
+         "option0":"A. Conversion disorder ",
+         "option1":"B. Factitious disorder",
+         "option2":"C. La belle indifference",
+         "option3":"D. Major depressive disorder ",
+         "option4":"E. Malingering",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Factitious disorder (pg 456).  Factitious disorder can be imposed on oneself or others. It involves a patient feigning to have a medical or psychiatric illness to achieve the sick role.  Unlike with malingering, in factitious disorder no clear secondary gain can be found. Elements of the history that can suggest a factitious disorder include a history of bereavement involving a violent or bloody death, often in a child. Symptoms of depression, hallucinations, conversion symptoms and memory issues are commonly found. Often these patients take psychoactive substances to produce the symptoms. A history of multiple treatments at various hospitals, along with requests for more tests to be performed, are common features of a factitious disorder.  Another feature is that the illness does not follow the typical pattern of remission or show some response to treatment.  A flare\u2013up of symptoms before discharge can also commonly be found.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which of the following history elements should trigger suspicion of a factitious disorder? Choose 4 correct answers.",
+      "choices":{  
+         "option0":"A. Deterioration early in the hospital stay",
+         "option1":"B. Fixed fear of having a specific disease",
+         "option2":"C. History of opiate prescriptions without cause",
+         "option3":"D. History of working in the healthcare field",
+         "option4":"E. Lack of concern about symptoms",
+         "option5":"F. Resistance to a psychiatric assessment required for surgical clearance",
+         "option6":"G. Request for disability papers to be filled out",
+         "option7":"H. Request for invasive medical treatment",
+         "@option":"2,3,5,7"
+      },
+      "rationale":"The correct answers are options C (History of opiate prescriptions without cause), D (History of working in the healthcare field), F (resistance to a psychiatric assessment required for surgical clearance) and H (Request for invasive medical treatment) (pg 457). Common signs of factitious disorder include the above answers, along with a patient seeking treatment at various hospitals, inconsistent information being given, a history of many medical tests and consultations being performed, findings consistent with self\u2013manipulation, and at least one healthcare worker considering the diagnoses of factious disorder.",
+      "@activityType":"MCMS"
+   },
+   {  
+      "@exam":"1",
+      "question_no":" ",
+      "question":"Which is a physical exam or test finding that can be indicative of a factious disorder?",
+      "choices":{  
+         "option0":"A. A fever of 40 degrees Celsius with diaphoresis",
+         "option1":"B. Anemia with blood found in the stool",
+         "option2":"C. Dermatitis on the back",
+         "option3":"D. EKG changes along with changes in creatine kinase levels",
+         "option4":"E. Healing of chronic wounds when casted",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Healing of chronic wounds when casted. (pg 458\u2013460). A suggestive sign of a factious disorder can include a nonhealing wound that finally heals when casted. Dermatitis with lesions distributed in reachable areas (i.e. not on the back) could be a sign of factitious disorder. High fevers of more than 41 degrees Celsius with no diaphoresis or other signs of viral infection are typical for a factious disorder. Factitious disorder is often indicated by a history of anemia, but no clear site of bleeding can be found. In a person feigning an infarction and trying to elevate the creatine kinase levels by beating themselves, and EKG would not show changes typical of an infarction.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Somatic symptom disorder can be distinguished from factitious disorder, or malingering, in which of the following ways?",
+      "choices":{  
+         "option0":"A. La belle indifference is present ",
+         "option1":"B. No simulations of the reported symptoms are shown",
+         "option2":"C. Siblings also show unexplained illnesses ",
+         "option3":"D. Symptoms are transient and lack focus on a specific disease ",
+         "option4":"E. The patient insists on invasive medical procedures",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. No simulations of the reported symptoms are shown (pg 462\u2013463). Somatic symptom disorder is distinguished from factitious disorder and malingering in that those with somatic symptom disorder do not simulate the symptoms they report. La belle indifference can be a sign of conversion disorder, though is an unreliable one. Siblings showing unexplained illness can be common in factitious disorders by proxy. Symptoms of conversion disorder are transient and do not focus on a particular disease. Seeking invasive or painful procedures can be a sign of a factitious disorder.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"What percentage of those with conversion disorder are later diagnosed with a neurological or nonpsychiatric medical disorder explaining the symptoms?",
+      "choices":{  
+         "option0":"A. 0\u201315",
+         "option1":"B. 25\u201350",
+         "option2":"C. 50\u201375",
+         "option3":"D. 75\u201390",
+         "option4":"E. 85\u201395",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. 25\u2013 50 (pg 463). It is important to note that an estimated  25\u201350% of those classified with a conversion disorder later receive a neurological or nonpsychiatric medical diagnosis accounting for their symptoms .This should serve as a reminder that in all cases of conversion disorder a thorough medical and neurological work\u2013up should always be performed.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Somatic symptom disorder is most often comorbid with which of the following psychiatric disorders?",
+      "choices":{  
+         "option0":"A. Eating",
+         "option1":"B. Depressive ",
+         "option2":"C. Post\u2013traumatic",
+         "option3":"D. Psychotic",
+         "option4":"E. Substance",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Depressive (464). Depressive and anxiety disorders are highly comorbid with somatic symptoms disorder. Comorbid medical illnesses can also exist.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which antidepressants seem to be more effective for treatment of pain related to somatic symptom disorders?",
+      "choices":{  
+         "option0":"A. Dopamine reupdate inhibitors",
+         "option1":"B. Serotonin antagonist and reuptake inhibitors",
+         "option2":"C. Selective serotonin norepinephrine reuptake inhibitors",
+         "option3":"D. Selective serotonin reuptake inhibitors",
+         "option4":"E. Tricyclics",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Tricyclics (pg 465). While CBT has been found to be most effective for the treatment of somatic symptom disorders, when psychopharmacology is required, the antidepressants seem to work, with data favoring the older antidepressants, such as the tricyclics, over the newer ones, such as the serotonin reuptake inhibitors.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"Which is a crucial first step in treating a child once the diagnosis of a factitious disorder imposed on them by a parent has been made?",
+      "choices":{  
+         "option0":"A. Calling child welfare services",
+         "option1":"B. Discharging the patient from the hospital ",
+         "option2":"C. Educating the parent of the dangers of his or her actions",
+         "option3":"D. Notifying the police",
+         "option4":"E. Performing further medical procedures to confirm the diagnosis ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Calling child welfare services (pg 466). In cases of factitious disorder imposed on another, often legal interventions need to be made.  In cases in which the child is being harmed, notifying child welfare or child protective services is the first step.  The child should not be discharged home, as he or she might require placement in another family for safety. The first step is to always make sure the child is safe. Often an inpatient admission is needed for safety and to institute a plan.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":"A higher prevalence of conversion disorder exists among which of the following populations?",
+      "choices":{  
+         "option0":"A. Adults over 35 years old",
+         "option1":"B. Children under 6 years old",
+         "option2":"C. Males of all ages",
+         "option3":"D. People with no prior outpatient psychiatric treatment",
+         "option4":"E. Surgical referrals to a psychiatry consultation service",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Surgical referral to a psychiatry consultation service (pg 467). Though rare in the general population, around less than 1 percent, conversion disorder is found in higher rate (5\u201314%) in medial or surgical referrals to a psychiatrist consultation liaison service, and in those receiving outpatient treatment in psychiatric clinics (5\u201325%). Those with conversion disorder tend to be female under the age of 35yo and children as young as 7 have been reported to have conversation disorder.",
+      "@activityType":"MCQ"
+   }   
+]

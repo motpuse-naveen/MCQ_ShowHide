@@ -1,0 +1,107 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient was just diagnosed with breast cancer and seeks help from a psychiatrist after experiencing 2 months of depressed mood and anxiety. She has missed many days of work and has stopped going to her favorite weekly art class. She reports still eating and sleeping well and denied any suicidal thoughts. Which of the following is her most likely diagnosis?",
+      "choices":{  
+         "option0":"A. Acute stress disorder",
+         "option1":"B. Adjustment disorder",
+         "option2":"C. Major depressive disorder",
+         "option3":"D. Posttraumatic stress disorder",
+         "option4":"E. Unspecified anxiety disorder",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Adjustment disorder (pg 429). Adjustment disorders are in response to a stressful life event, such as a medical diagnosis, financial difficulties, relationship problems, etc. It can occur within 3 months of the stressor and can result in depressive symptoms, and /or anxiety, resulting in a disturbance in functioning and possibly a disturbance in conduct. A posttraumatic stress disorder would be more likely to occur with traumatic events such as assault, crimes, physical or sexual abuse, war, etc. The patient would experience nightmares or flashbacks and avoidance symptoms. An acute stress disorder differs from PTSD in that the symptoms occur within one day to one month of the trauma. A major depressive disorder would likely include other symptoms such as changes in appetite, sleeping, energy, suicidal thoughts, etc.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" In addition to negative mood, two symptoms from which of the following criteria must be met for a diagnosis of Posttraumatic Stress Disorder (PTSD)?",
+      "choices":{  
+         "option0":"A. Arousal alterations",
+         "option1":"B. Avoidance",
+         "option2":"C. Different traumas",
+         "option3":"D. Dissociative ",
+         "option4":"E. Intrusions",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Arousal alterations (pg 431). In addition to a history of exposure to trauma, a PTSD diagnosis requires one symptom of intrusion (i.e. reenactment, nightmares, dissociative responses, etc.), one of avoidance (i.e. avoiding memories or external reminders of the trauma), and two symptoms of negative mood/cognition (i.e. negative perceptions of self, cognitive distortions, excessive guilt, decreased interest in activities, etc.), and two in arousal alterations (i.e. irritability, anger, hypervigilence, risk taking, sleep disturbances, etc.).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A lack of specificity in which criteria is a potential challenge in diagnosing someone with an adjustment disorder?",
+      "choices":{  
+         "option0":"A. Age of onset",
+         "option1":"B. Avoidance and hyperstartle symptoms",
+         "option2":"C. Psychosocial consequence descriptions ",
+         "option3":"D. Symptom presentation time frame",
+         "option4":"E. The stressor and severity descriptions",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. The stressor and severity descriptions (pg 433). One of the challenges in diagnosing an adjustment disorder is that there are no clear criteria that define the stressors that are required to make this diagnosis and specific affective, cognitive, and autonomic descriptions are not specified. Another challenge is that the symptoms can be of any severity. It is defined that the symptoms need to occur up to within 3 months of the stressor. The disorder can occur at any age. Specific criteria are included for avoidance and hyperarousal symptoms for a PTSD diagnosis. The symptoms for both PTSD and an adjustment disorder should result in some impairment in functioning.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A diagnosis of PTSD can only be made if which of the following criterion is met?",
+      "choices":{  
+         "option0":"A. Anxiety and depression are present ",
+         "option1":"B. Constant symptoms exist without fluctuations",
+         "option2":"C. Symptom presentation arises rapid",
+         "option3":"D. Persistent symptoms exist for at least one month",
+         "option4":"E. Two avoidance symptoms are met",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option E. Persistent symptoms exist for at least one month (pg 431, 434). Many people experience PTSD symptoms including shock, nightmares, and flashbacks after a traumatic event. However, most resolve on their own and some will meet criteria for an acute stress disorder. A diagnosis of PTSD can only be made if the symptoms persist for at least one month. It is normal for symptoms to fluctuate with various degrees of intensity over time.  PTSD may or may not be associated with comorbid anxiety or depression. Two negative mood/cognition and two arousal alteration symptoms are required to make a diagnosis of PTSD though only one symptom of intrusion and one of avoidance are required. A rapid presentation of symptoms is not required. There is a modifier criterion for delayed expression with symptoms not presenting until at least 6 months after the trauma.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A patient was robbed getting into her car and three months later is presenting with continued flashbacks of the incident, nightmares, trouble sleeping and focusing. She is overwhelmed with fear and anger and can no longer bring herself to drive. Which medication has the most robust evidence to help with this diagnosis?",
+      "choices":{  
+         "option0":"A. Topiramate",
+         "option1":"B. Paroxetine",
+         "option2":"C. Prazosin",
+         "option3":"D. Risperidone",
+         "option4":"E. Venlafaxine",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Paroxetine (pg 434). The patient described has a diagnosis of PTSD. The SSRIs, particularly sertraline and paroxetine have the most robust evidence for efficacy. There is some supportive evidence that the SNRIs, such as venlafaxine and the atypical antipsychotics, such as risperidone, along with anticonvulsants, such as topiramate could be helpful. Prazosin can help with nightmares and for treatment \u2013resistant PTSD.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Which type of evidence\u2013based therapy for PTSD focuses on correcting faulty attributions from the trauma, such as viewing the world as a dangerous place?",
+      "choices":{  
+         "option0":"A. Cognitive processing therapy (CPT)",
+         "option1":"B. Eye movement desensitization and reprocessing therapy (EMDR)",
+         "option2":"C. Present centered therapy (PCT)",
+         "option3":"D. Prolonged exposure therapy (PE)",
+         "option4":"E. Trauma\u2013focused cognitive\u2013behavioral therapy (TFCBT)",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Cognitive processing therapy (CPT) (pg 435). Cognitive processing therapy involves correcting faulty attributions as mentioned above such as views of the world being uncontrollable and unpredictable. Eye movement desensitization and reprocessing therapy (EMDR) involves recalling distressing images of the trauma while receiving sensory inputs. Patient centered therapy focuses on the current relationship and work challenges and does not directly address the trauma. Trauma\u2013focused cognitive\u2013behavioral therapy includes prolonged exposure therapy and involves reexperiencing the traumatic even through imaginal and in vivo exposures.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Of the factors listed, which of the following is the most important risk factor for developing PTSD?",
+      "choices":{  
+         "option0":"A. Being single or divorced",
+         "option1":"B. Being very young or very old",
+         "option2":"C. Having good financial means, being labelled in a high socioeconomic class",
+         "option3":"D. Participating in the Vietnam war",
+         "option4":"E. Severity of or proximity to the trauma",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Severity of or proximity to the trauma (pg 435). While certain factors increase the risk of PTSD such as being a young adult, single, divorced, widowed, socially withdrawn, or of low socioeconomic class, the most important risk factors include the severity, duration and proximity of a person\u2019s exposure to the trauma. While one survey showed approximately 30% of males developed PTSD from the Vietnam war, other trauma aside from war can also lead to the development of PTSD.",
+      "@activityType":"MCQ"
+   } 
+]

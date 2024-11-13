@@ -1,0 +1,194 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What type of seizure activity must be induced to be therapeutically effective in ECT?",
+      "choices":{  
+         "option0":"A. Absence",
+         "option1":"B. Partial simple",
+         "option2":"C. Partial complex",
+         "option3":"D. Generalized",
+         "@option":"3"
+      },
+      "rationale":"The induction of a generalized seizure is necessary to obtain the beneficial effects of ECT. Bilateral seizure activity is necessary, which by definition means it cannot be a partial seizure. Therapeutic efficacy also requires tonic\u2013clonic movements or contractions (without muscle relaxants), which means it cannot be an absence seizure. (730, 734)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 27\u2013year\u2013old man presents to the mental health center because he has experienced a depressed mood for the last two months. He first felt \"a little down and just couldn\u2019t feel happy, even when I played video games, which I like more than anything.\" He noticed a week later that he had to force himself to eat. He then started calling out sick to work a couple weeks later because he could not get out of bed. Despite feeling continually \"run\u2013down,\" he found himself waking two hours earlier than usual. He spent the next few weeks watching television, even though he could not stay focused on the show. He denies suicidal ideation. He has never experienced these symptoms before and has never been on psychotropic medication. He has no medical illnesses and is on no medications. What is the most effective treatment for his condition?",
+      "choices":{  
+         "option0":"A. An MAO inhibitor",
+         "option1":"B. Cognitive behavioral therapy and an SSRI",
+         "option2":"C. Electroconvulsive therapy",
+         "option3":"D. Transcranial magnetic stimulation",
+         "option4":"E. An SSRI and an atypical medication",
+         "@option":"2"
+      },
+      "rationale":"ECT is the most effective treatment available for major depressive disorder, but due to side effects and stigma, it is rarely used first line. It is now usually used when patients have failed multiple medication trials, are acutely suicidal, have melancholic features, or who refuse to eat. (729, 731)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What medication used in the treatment of bipolar disorder is relatively contraindicated for a person who may undergo ECT treatment?",
+      "choices":{  
+         "option0":"A. Quetiapine XR",
+         "option1":"B. Olanzapine",
+         "option2":"C. Quetiapine",
+         "option3":"D. Aripiprazole",
+         "option4":"E. Lithium",
+         "@option":"4"
+      },
+      "rationale":"ECT should not be used for a patient who is on lithium, as the medication can both lower seizure threshold and predispose the patient to postictal delirium. As an antiepileptic medication, divalproex would raise the seizure threshold, making the induction of a therapeutic seizure more difficult. Aripiprazole, both forms of quetiapine, and olanzapine are fine to use in combination with ECT. (731, 732).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What medication is used during ECT to decrease the risk of bone fractures during seizure activity?",
+      "choices":{  
+         "option0":"A. Atropine",
+         "option1":"B. Methohexital",
+         "option2":"C. Succinylcholine",
+         "option3":"D. Etomidate",
+         "option4":"E. Glycopyrrolate",
+         "@option":"2"
+      },
+      "rationale":"The risk of bone fractures during ECT comes from muscle contractions during the seizure. To minimize that risk, muscle relaxants such as succinylcholine are used. Atropine and glycopyrrolate are anticholinergic muscarinic drugs that are sometimes used prior to ECT to minimize oral and respiratory secretions, and to block bradycardia and asystole. Methohexital and etomidate are anesthetics that can be used prior to the procedure. (732\u2013733)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 64\u2013year\u2013old woman is being treated with ECT for severe depression which began one month ago. She has lost 15 pounds due to decreased appetite. She is on desvenlafaxine and methamphetamine. She is on no other medications and has no other illnesses. After being anesthetized, the electrical stimulus is delivered, which results in a 50\u2013second duration of a seizure visualized on EEG. What should be the next step in the treatment session?",
+      "choices":{  
+         "option0":"A. Repeat the stimulus at a higher power",
+         "option1":"B. Administer IV diazepam",
+         "option2":"C. Repeat the stimulus at the current power",
+         "option3":"D. Conclude the session",
+         "@option":"3"
+      },
+      "rationale":"A seizure needs to last at least 25 seconds to be effective. If the seizure is too short, up to four more attempts may be tried during the session. If it lasts over 180 seconds, the patient is in status epilepticus, and more of the anesthetic agent or IV diazepam can be given to break the seizure. A seizure length of 50 seconds falls within the therapeutic safe range, so the session should end. (734)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 43\u2013year\u2013old man with a 20\u2013year history of schizophrenia is on day 35 of hospitalization. He was admitted due to intractable command hallucinations telling him that all foods were radioactive. As a result, he had lost eight pounds in the two weeks prior to hospitalization and has lost another 10 since then. The voices have prevented him from getting more than four hours of sleep at night. He has been tried on numerous first and second\u2013generation antipsychotic medications, all with minimal effect. Over the past three weeks, he has undergone ECT sessions three times a week with no apparent improvement. Electrodes were placed bilaterally and the dose delivered was up to twice the seizure threshold. He is on no medications that would lower seizure threshold or pose increased risk. What should be the next step in treatment?",
+      "choices":{  
+         "option0":"A. Retry previous medications",
+         "option1":"B. Switch to unilateral electrode placement",
+         "option2":"C. Increase weekly frequency of treatments",
+         "option3":"D. Retry ECT with an increased dose",
+         "option4":"E. Continue current treatment for at least two more weeks",
+         "@option":"3"
+      },
+      "rationale":"If a patient has not improved after 6 to 10 sessions of ECT, bilateral placement and treatment at three times the seizure threshold should be tried next before ECT can be deemed a failure. Treatment frequency is usually 2\u20133 times a week. More frequent treatments are associated with greater memory impairment, but not necessarily greater efficacy. Previous medications can be retried after ECT has failed, as anecdotally, they may now be helpful after a course of ECT. (734).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is an absolute contraindication for ECT?",
+      "choices":{  
+         "option0":"A. Pregnancy",
+         "option1":"B. A space\u2013occupying CNS lesion",
+         "option2":"C. Increased intracerebral pressure",
+         "option3":"D. A recent myocardial infarction",
+         "option4":"E. There are no absolute contraindications",
+         "@option":"4"
+      },
+      "rationale":"There are no absolute contraindications, but there are several conditions that can place a patient at higher risk for complications from ECT, which can often be mitigated by closer monitoring. In cases of high\u2013risk pregnancy, fetal monitoring may be necessary. There is a risk for edema and herniation after ECT for someone with a space\u2013occupying CNS lesion, which can be mitigated with dexamethasone pretreatment if the lesion is small. Patients with increased intracerebral pressure are higher risk due to increased cerebral blood flow during the seizure. This risk can be lessened by controlling the blood pressure during treatment. The risk to a patient with a recent myocardial infarction is greatly diminished two weeks after the event, and further diminished three months afterwards. (734\u2013735).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 53\u2013year\u2013old man has completed his tenth and final ECT treatment for major depressive disorder. He reports the course of ECT as successful, as measured by the resolution of anhedonia and suicidal ideation, resumption of daily activities, and return of appetite, concentration, and energy. However, he continues to complain of problems remembering new information since the treatments began. What is the most likely prognosis regarding his memory over the next six months?",
+      "choices":{  
+         "option0":"A. Memory impairment will remain at its current state",
+         "option1":"B. Memory will return to baseline",
+         "option2":"C. Memory impairment will continue to increase",
+         "option3":"D. Memory impairment will increase over the next two months, then slowly improve",
+         "@option":"1"
+      },
+      "rationale":"Memory impairment is the most common complaint from patients following ECT. Anterograde amnesia often resolves within a couple months. Within six months, the patient is likely to be back at their cognitive baseline. (735)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" What is a commonality between ECT and transcranial magnetic stimulation?",
+      "choices":{  
+         "option0":"A. The requirement of anesthesia",
+         "option1":"B. The induction of a seizure",
+         "option2":"C. An electrical effect on neurons",
+         "option3":"D. Electrode placement on the scalp",
+         "option4":"E. Bilateral brain stimulation",
+         "@option":"2"
+      },
+      "rationale":"Transcranial magnetic stimulation (TMS) involves the induction of electricity through magnetic stimulation. As such, there are no electrodes to place bilaterally. Instead, the TMS device delivers magnetic pulses via a coil that is held on the scalp. The procedure is noninvasive and does not require anesthesia. Seizures are the most severe side effect of TMS, not a therapeutic requirement. (736\u2013737).",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Vagus nerve stimulation is indicated for what mental disorder?",
+      "choices":{  
+         "option0":"A. Obsessive\u2013compulsive disorder",
+         "option1":"B. Panic disorder",
+         "option2":"C. Schizophrenia",
+         "option3":"D. Post\u2013traumatic stress disorder",
+         "option4":"E. Major depressive disorder",
+         "@option":"4"
+      },
+      "rationale":"Vagus nerve stimulation is indicated for long\u2013term adjunctive treatment of chronic or recurrent depression in adults. The depression episode being treated can be due to a unipolar or bipolar disorder. The efficacy in other disorders in unknown. (739)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Neurosurgical ablative treatments are reserved for the most severe major depression and what other mental illness?",
+      "choices":{  
+         "option0":"A. Schizophrenia",
+         "option1":"B. Obsessive compulsive disorder",
+         "option2":"C. Generalized anxiety disorder",
+         "option3":"D. Bipolar disorder",
+         "option4":"E. Panic disorder",
+         "@option":"1"
+      },
+      "rationale":"Surgical intervention is predominantly used only in intractable cases of major depression and OCD. Even then, approval must go through a multidisciplinary committee. Current techniques can yield improvement in 40 to 70 percent of cases. (739)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" A 55\u2013year\u2013old woman is brought to the emergency department by EMS after being talked out of jumping off of a local bridge 30 minutes ago. She has been hospitalized dozens of times for suicide attempts and has a 40\u2013year history of major depressive disorder. She states she has been on \"every antidepressant ever made\" except for MAOIs, as she is diagnosed with hypertension. She is also diagnosed with borderline personality disorder, and states she has had three full courses of DBT, as well as CBT, and that \"I know all the skills.\" She has had two courses of 14 rounds of ECT with minimal improvement over the last two years. She is currently on lisinopril, desvenlafaxine, bupropion, and brexpiprazole. She lives in a boarding home and is treated by a psychiatrist on an assertive community treatment team. After telling the physician that she wants to die because \"I can\u2019t go on living like this anymore,\" she is involuntarily committed to inpatient treatment. On hospital day 3, she refuses to take any of her medications and tells the treatment team, \"I\u2019m done! No more meds, no more therapy, no more nothing! Don\u2019t touch me! I want to die in peace!\" She does not speak for the next two days. The team considers deep brain stimulation. What is an absolute contraindication to the procedure in this patient?",
+      "choices":{  
+         "option0":"A. The diagnosis of borderline personality disorder",
+         "option1":"B. The diagnosis of hypertension",
+         "option2":"C. Not having yet tried an MAOI",
+         "option3":"D. Refusal to give informed consent",
+         "option4":"E. Living in a boarding home",
+         "@option":"3"
+      },
+      "rationale":"There are several relative contraindications to psychiatric neurosurgery for the treatment of mental illness, including cardiopulmonary comorbidities, severe personality disorders, and not having tried a wide variety of previous treatments. A patient must have access to follow\u2013up, postoperative care following the surgery. This patient has been on numerous trials of medication throughout the years, and would have adequate follow\u2013up through the ACT team. Living in a boarding home is not in itself a contraindication if the patient is able to follow\u2013up with post\u2013op care. Borderline personality disorder and hypertension are relative, not absolute, contraindications. The single absolute contraindication is if informed consent is not given, as psychiatric neurosurgery should never be performed on an unwilling patient. (740)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no":"",
+      "question":" Ablative procedures for the treatment of severe mental illness are expected to show results after what period of time at the earliest?",
+      "choices":{  
+         "option0":"A. Immediately following surgery",
+         "option1":"B. 4 weeks",
+         "option2":"C. 3 months",
+         "option3":"D. 6 months",
+         "option4":"E. 1 year",
+         "@option":"3"
+      },
+      "rationale":"Results from ablative surgeries are not expected to show until at least six months, and may take up to two years. (742)",
+      "@activityType":"MCQ"
+   }   
+]

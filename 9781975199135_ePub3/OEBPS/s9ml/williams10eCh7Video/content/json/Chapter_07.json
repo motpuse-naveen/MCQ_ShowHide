@@ -1,0 +1,77 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"After the mother gave the chief complaint and some background history, what strategy may have been helpful to build rapport with the patient?",
+      "choices":{  
+         "option0":"A. Interviewing him separately from his mother",
+         "option1":"B. Seating the patient and his mother closer together",
+         "option2":"C. Directing the majority of the questions to him",
+         "option3":"D. Talking about confidentiality at the beginning of the interview",
+         "option4":"E. Starting the interview with more innocuous questions",
+         "@option":"0"
+      },
+      "rationale":"During the interview, Shanexs mother often commented on his answers, contradicted him, and answered for him, even when questions were directly asked to him. He seemed to respond in a much less angry manner when talking with the interviewer and seemed willing to tell his side of the story. In almost any interview with an adolescent, the adolescent should have time alone with the interviewer, during which time confidentiality should be discussed or reviewed. Discussing confidentiality at the beginning of the interview with Shane and his mother would likely not have changed the dynamic in the interview. Shane and his mother were already seated close together, and putting them even closer may have been detrimental, as she was already close enough to smack him when he gave an answer she did not like, and he was clearly irritated with her. Asking neutral questions such as what he likes to do for fun can be helpful. In this case, his mother likely would have interrupted, which would only have made him angrier. (76, 77)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Which of the following of Shane\u2019s demographic factors is a negative prognostic sign?",
+      "choices":{  
+         "option0":"A. Age of first symptoms",
+         "option1":"B. Race",
+         "option2":"C. Socioeconomic status",
+         "option3":"D. Sex",
+         "@option":"0"
+      },
+      "rationale":"Negative prognostic indicators for conduct disorder are a high number of symptoms, severity of symptoms, and early age of onset of symptoms. We know from the video that symptoms began when he was 11 years old, even though his mother initially states \"everything was fine until he was about 13 years old.\" At age 11, he was lying for personal gain and engaging in frequent truancy. This is a couple years too old for childhood\u2013onset type of conduct disorder, but is in the middle of the 10 to 12 years of average age of onset. There is no reported correlation between race, sex, or socioeconomic status and prognosis. However, the ratio of boys with conduct disorder to girls is 4:1 to 12:1, and there is an association with conduct disorder prevalence and socioeconomic status. (190, 192,193)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What would be the specifier on the diagnosis?",
+      "choices":{  
+         "option0":"A. Mild",
+         "option1":"B. Moderate",
+         "option2":"C. Severe",
+         "option3":"D. Childhood onset",
+         "option4":"E. Unspecified onset",
+         "@option":"2"
+      },
+      "rationale":"Conduct disorder is given a course specifier of childhood\u2013onset type if the diagnosis is made at an age of less than 10 years. The age of onset of symptoms for this patient has been stated definitively as 11 years, so it also would not be an unspecified onset. The severity is mild if he has minimal (3) symptoms and minor harm or consequences. He has 9 of 15 symptoms (physical cruelty to animals, fire setting, property damage, breaking into properties, stealing valuable items, lying for personal gain, frequent truancy, staying out late against parent\u2019s will, running away from home), and is now in legal trouble. This warrants a \"severe\" specifier (many symptoms, considerable harm caused). (190)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"What is the first\u2013line treatment for Shane\u2019s symptoms?",
+      "choices":{  
+         "option0":"A. Risperidone",
+         "option1":"B. Sertraline",
+         "option2":"C. Haloperidol",
+         "option3":"D. Cognitive behavioral therapy (CBT)",
+         "option4":"E. Methylphenidate",
+         "@option":"3"
+      },
+      "rationale":"Antipsychotic medications, particularly risperidone, have been shown to reduce aggressive and assaultive behaviors in children with a variety of psychiatric disorders. Shane and his mother deny a history of aggression, so there would be no need for such medication. Sertraline and other selective serotonin reuptake inhibitors (SSRIs) are used to target impulsivity, irritability, and mood lability, symptoms that are not reported in the interview. Though conduct disorder and attention deficit hyperactivity disorder (ADHD) are often comorbid, nothing in the interview suggests a history or current symptoms of ADHD. A meta\u2013analysis of controlled trials of CBT in children and adolescents shows that it can result in significant reduction in conduct disorder symptoms. (192, 193)",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"Shane is also most likely diagnosed with what disorder?",
+      "choices":{  
+         "option0":"A. Bipolar disorder",
+         "option1":"B. Intellectual disability, mild",
+         "option2":"C. Reading disability",
+         "option3":"D. Oppositional defiant disorder (ODD)",
+         "option4":"E. Disruptive mood dysregulation disorder",
+         "@option":"3"
+      },
+      "rationale":"The DSM\u2013IV did not allow for diagnoses of both conduct and oppositional defiant disorder, but the DSM\u2013T\u2013TR does (191). During the interview, Shane demonstrates blaming others for his behaviors, arguing with authority figures, being easily annoyed, and being angry/resentful, which hits the threshold for the required number of symptoms for ODD. One can speculate as to why Shane stopped attending school regularly at age 11, such as intellectual disability or a reading disability, but there is no evidence for those during the interview. There is also no evidence for a mood disorder.",
+      "@activityType":"MCQ"
+   }
+   
+  ]

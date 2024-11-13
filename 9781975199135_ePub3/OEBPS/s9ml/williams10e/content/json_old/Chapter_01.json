@@ -1,0 +1,633 @@
+[  
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" Which of the following first steps is most appropriate in conducting a psychiatric interview of a patient?",
+      "choices":{  
+         "option0":"A. Obtain consent from the patient",
+         "option1":"B. Offer to meet with family and patient together",
+         "option2":"C. Identify elements of the process the patient wishes to alter",
+         "option3":"D. Perform a safety assessment",
+         "option4":"E. Review HIPAA laws and limits of confidentiality",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is A (pg 1)\u2013 Obtain consent from the patient.  After introductions, consent to proceed with the interview should be obtained. The nature of the interview and length of time should be discussed and then the patient should be encouraged to give feedback regarding altering elements in the process. While discussion of limits of confidentiality and performing a safety assessment should be included in all interviews, these are not the initial steps that need to be done.  If a family member wants to be involved it is typically best to have the patient present, though this is often best suited for the end of the interview.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" Which of the following elements differentiates empathy from identification?",
+      "choices":{  
+         "option0":"A. Ability to maintain objectivity",
+         "option1":"B. Association with poor boundaries",
+         "option2":"C. Being able to experience the emotion",
+         "option3":"D. High association with physician burnout",
+         "option4":"E. True understanding of the situation",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A (pg 2)\u2013 Ability to maintain objectivity. The ability to maintain objectivity is crucial in a therapeutic relationship and can differentiate empathy from identification. With identification, psychiatrists experience as well as understand the emotion, which can lead to boundary problems along with physician burnout.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" A person\u2013centered approach, as opposed to a traditional medial one, focuses on which of the following aspects during an interview?",
+      "choices":{  
+         "option0":"A. Deficits",
+         "option1":"B. Illness",
+         "option2":"C. Safety",
+         "option3":"D. Strengths",
+         "option4":"E. Transference",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D\u2013 Strengths (Pg 4)\u2013 A psychiatric interview should be person\u2013centered to best help understand the patient and their goals. A person\u2013centered approach focuses on strengths and assets, as well as deficits, compared to a traditional medical approach, focusing only on illness and deficits.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" Which question is a part of the RAPS4 screening tool for substance use?",
+      "choices":{  
+         "option0":"A. Have you ever been arrested for your drinking?",
+         "option1":"B. Have people annoyed you by criticizing your drinking?",
+         "option2":"C. Have you ever cut down on your drinking?",
+         "option3":"D. Have you ever driven drunk?",
+         "option4":"E. Have you ever failed to remember things after drinking?",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E\u2013 Have you ever failed ot remember things after drinking? (Pg 7).  The Rapid Alcohol Problem Screen 4 (PAPS4) or CAGE are brief standardized questionnaires that psychiatrists can use to assess substance abuse or dependence. There is some overlap between the two. The RAPS4 includes the following 4 questions\u2013 Have you ever felt guilty after drinking (Remorse), could not remember things did or said (Amnesia), failed to do what was normally expected after drinking (Perform), or had a morning drink (Starter)? The CAGE also includes four questions: Have you ever cut down on your drinking (Cut)? Have people annoyed you by criticism your drinking (Annoyed)? Have you ever felt bad about your drinking (Guilty)? Have you ever needed a drink first thing in the morning (Eye\u2013 opener)? Though driving drunk or getting arrested for drinking can be a sign of abuse or dependence, it is not part of these screening tools.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" Which of the following medical conditions can resemble an anxiety disorder?",
+      "choices":{  
+         "option0":"A. Arthritis",
+         "option1":"B. Hyperthyroidism",
+         "option2":"C. Lupus",
+         "option3":"D. Malnutrition",
+         "option4":"E. Transient ischemic attacks",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B\u2013 Hyperthyroidism (pg 7). Obtaining a past medical history is a key part of all psychiatric interviews.  Some medical illness can contribute to or mimic psychiatric disorders, or they might be caused by treatment of a psychiatric disorder. A classic psychiatric disorder that can resemble an anxiety disorder is hyperthyroidism. The other disorders listed are more likely to mimic or cause depressive symptoms.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" A family history of which illness might affect the choice of an antipsychotic medication?",
+      "choices":{  
+         "option0":"A. Diabetes",
+         "option1":"B. Cancer",
+         "option2":"C. Hyperkalemia",
+         "option3":"D. Hypothyroidism",
+         "option4":"E. Kidney stones",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A\u2013 Diabetes (pg 8)\u2013  Obtaining a family history is essential in helping to define the patients risk factors for psychiatric illness and can also be useful in guiding medication choices.  A family history of diabetes or hyperlipidemia might make one utilize an atypical antipsychotic with caution due to risk of worsening both conditions, along with causing other metabolic side\u2013effects.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" An increase in amount of speech noted on mental status exam can be a sign of which of the following psychiatric symptoms?",
+      "choices":{  
+         "option0":"A. Depression",
+         "option1":"B. Disinterest",
+         "option2":"C. Mania",
+         "option3":"D. Paranoia",
+         "option4":"E. Thought blocking",
+         "@option":"2"
+      },
+      "rationale":"The correct option is answer C\u2013 Mania (pg 9). An increase in the amount of speech on mental status exams could be ae sign of mania or hypomania.  A decrease in the amount of speech can be from depression, anxiety, or disinterest. Decreased speech could also be a sign of thought blocking or psychosis.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" A patient with manic symptoms replies in this manner when asked what he did yesterday\u2013 \"I hiked and biked with Mike and Mat and ate rat that sat cat.\"  This is an example of which of the following types of thoughts process?",
+      "choices":{  
+         "option0":"A. Clang association",
+         "option1":"B. Neologism",
+         "option2":"C. Perseveration",
+         "option3":"D. Tangentiality",
+         "option4":"E. Thought blocking",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A\u2013 Clang associations (pg 10). Thought process is the way in which thoughts are organized, formed, or expressed. Clang associations are when words are put together by the sound of the words rather than for the meaning (i.e. rhyming is prominent). Neologisms are new words or combinations of a few words that are not actually understandable or true words.  Perseveration is the repetition of words out of context. Tangential thought process means never returning to the previous statement.  Thought blocking appears when a patient stops and the thought is unable to come out, often leading to a stop mid\u2013sentence.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":" Asking a patient a hypothetical example of what would he or she do upon finding a stamped envelope on the street, can help test for which of the following cognitive functions?",
+      "choices":{  
+         "option0":"A. Abstract reasoning",
+         "option1":"B. Impulse control",
+         "option2":"C. Fund of knowledge",
+         "option3":"D. Insight",
+         "option4":"E. Judgement*",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E (pg 11)\u2013 Judgement.  Judgement refers to a person\u2019s ability to make good decisions and act on them. A classic example of a question to test judgement is, \"What would you do if you found a stamped envelope on the street?\"  Abstract reasoning, the ability to shift between concepts and examples, identifying similarities between like objects, for example. Fund of knowledge can be tested by fact\u2013based questions (i.e. \"Who is the president of the U.S.).  Insight refers to the patient\u2013s understanding of how he or she is functioning and potential contributing factors to their illness.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Using empathy to convey  understanding and noting the patient\u2019s strengths, along with exploring their ambivalence and conflicts about change is a part of which of the following techniques?",
+      "choices":{  
+         "option0":"A. Acknowledgement of emotions",
+         "option1":"B. Minimizing patients\u2019 concerns",
+         "option2":"C. Motivational interviewing",
+         "option3":"D. Premature interpretation",
+         "option4":"E. Summarizing",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C\u2013 Motivational interviewing (pg 16). Motivational interviewing is a technique used to motivate the patient to change maladaptive behaviors.  Relaying empathy and highlighting ambivalence and conflicting feeling are key to motivating change.  Nonverbal actions, such as moving a tissue box, can sometimes be used to help acknowledge emotions.  Minimizing the patient\u2019s concerns might happen when attempting to reassure patients; thus, concerns should be explored. Premature interpretations, even if accurate, should be avoided as they can lead to the patient becoming defensive and feeling misunderstood.  Summarizing is a useful technique that should be done periodically to help clarify understanding.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which of the following elements would make a suicidal statement be considered as passive?",
+      "choices":{  
+         "option0":"A. Being able to state many reasons to live",
+         "option1":"B. Denial of intent to act on the thoughts",
+         "option2":"C. Lack of having a plan",
+         "option3":"D. Not possessing the means to do it",
+         "option4":"E. Not taking preparatory steps towards the plan",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B (pg 17)\u2013 Denial of intent to act on the thoughts.  A suicide assessment should be performed for all patients during the initial interview.  The patient should be asked about any current thoughts of suicide and it present, what the intent is.  If a patient has thoughts of suicide but denies intent to act on these thoughts or denies a wish to be dead, that is referred to as passive suicidal ideation.  Higher risk patients include those who have specific plans to end their life and access to the means to complete the plan, along with those who have taken preparatory steps to move forward with the plan.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A patient presenting with anxiety has a mental status exam notable for a tremor and pallor. Vital signs are significant for an elevated heart rate. Which of the following medical conditions should be ruled out?",
+      "choices":{  
+         "option0":"A. Hypothyroidism",
+         "option1":"B. Normal pressure hydrocephalus",
+         "option2":"C. Pheochromocytoma",
+         "option3":"D. Temporal arteritis",
+         "option4":"E. Ulcerative colitis",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C (pg 19)\u2013 Pheochromocytoma. Pheochromocytoma\u2019s produce symptoms that mimic anxiety including rapid heartbeat, tremors, and pallor.  Increased urinary catectholamines are diagnostic for a pheochromocytoma. Hyper, not hypothyroidism can lead to anxiety.  Normal pressure hydrocephalus can be present with dementia, shuffling gait, and incontinence. Temporal arteritis can cause unilateral throbbing headaches and can lead to blindness. Ulcerative colitis can present as weight loss and depressive symptoms.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which is an element that is included in a psychotherapy note, but not a progress note?",
+      "choices":{  
+         "option0":"A. A detailed assessment and plan ",
+         "option1":"B. Comments on countertransference and dreams",
+         "option2":"C. Data that can be disclosed to the patient",
+         "option3":"D. Inclusion with the rest of the medical record",
+         "option4":"E. Information about third\u2013party payer access",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option C (pg 27). Psychotherapy notes include details of transference, countertransference, fantasies, dreams, and personal information about name of contacts of the patient, etc., which would not be included in the actual progress notes in the medial record.  Unlike progress notes, psychotherapy notes should be kept separate from the rest of the medical record and the data in them should not be disclosed to any person, including the patient.  Detailed assessments and plans should be included in progress notes, not the psychotherapy note.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Reliability data on the SCID (Structured Clinical Interview for the DSM) suggests that it preforms better on more severe disorders for which of the following diagnoses?",
+      "choices":{  
+         "option0":"A. Alcohol abuse",
+         "option1":"B. Bipolar disorder",
+         "option2":"C. Dysthymia",
+         "option3":"D. Social phobia",
+         "option4":"E. Unspecified eating disorder",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B\u2013 Bipolar disorder (pg 31). The SCID, Structured Clinical interview for DSM is designed to be administered by an experienced clinical and requires training and is primarily focused in research and is used to verify diagnoses in clinical trials. Reliability data suggests it preforms better on more severe disorders and alcohol dependence compared to milder disorderss, such as dysthymia.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which was the original rating scale initially designed to assess change in psychotic inpatients with significant impairment, and cover a broad range of symptoms of depression and anxiety, with flaws including needing a large amount of clinical training to achieve good reliability?",
+      "choices":{  
+         "option0":"A. Brief Psychiatric Rating Scale (BPRS)",
+         "option1":"B. Hamilton Anxiety Rating Scale (HAM\u2013A)",
+         "option2":"C. Positive and negative Syndrome Scale (PANSS)",
+         "option3":"D. Scale for the Assessment of Positive Symptoms (SAPS)",
+         "option4":"E. Structured Clinical Interview for DSM (SCID)",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A\u2013 Brief Psychiatric Rating Scale (BPRS) (Pg 38). The Brief Psychiatric Rating Scale (BPRS) was developed in the late 1960s as a short scale to measure the severity of psychiatric symptomatology and is primarily designed to assess changes in psychotic inpatients.  However, good reliability is difficult to achieve without extensive training and this scale is often only suitable for patients with a fairly significant level of clinical impairment. The Hamilton Anxiety Rating Scale (HAM\u2013A) is often used to monitor treatment response in clinical trials and in some clinical settings for generalized anxiety disorders.  The Positive and Negative Syndrome Scale (PANSS) was designed to remedy the deficits in the BPRS in the assessment of positive and negative symptoms in schizophrenia and other psychotic disorders by adding additional items and providing anchors for each.  It is a highly reliable tool which has become the standard for assessing clinical outcomes in treatment studies for schizophrenia and other psychotic disorders.  The Scale for the Assessment of Positive Symptoms (SAPS) and the Scale for the Assessment of Negative Symptoms (SANS) provide a detailed assessment of positive and negative symptoms in schizophrenia, with the SAPS assessing for hallucinations, delusions, thought disorders, etc., and the SANS assessing for poverty of speech, apathy, anhedonia, etc.  The SCID, Structured Clinical interview for DSM, is primarily used in research and to verify a variety of diagnoses in clinical trials.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  The Child Behavior Checklist (CBCL) is unable to assess which of the following elements?",
+      "choices":{  
+         "option0":"A. A clinical diagnosis",
+         "option1":"B. Cutoff scores for problems",
+         "option2":"C. Parent ratings",
+         "option3":"D. Symptoms within a clinical range",
+         "option4":"E. Teacher ratings",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A\u2013 A clinical diagnosis (pg 45, 46). The Child Behavior Checklist (CBCL) includes different self\u2013rated versions for parents, teachers, and children to help assess preschoolers through adolescents. It does not generate diagnoses, rather it suggests cut\u2013off scores for problems in the clinical range and provides a good overall view of symptomatology and can be used to track changes over time.</",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  The Connors Rating Scale is most commonly used in the assessment of which psychiatric disorder?",
+      "choices":{  
+         "option0":"A. Attention deficit hyperactivity",
+         "option1":"B. Bipolar ",
+         "option2":"C. Major depressive ",
+         "option3":"D. Obsessive compulsive ",
+         "option4":"E. Substance use ",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A\u2013 Attention deficit hyperactivity (pg 47). The Connors Rating scale includes teacher, parent, and self\u2013reported measures and assess a range of childhood and adolescent psychopathology.  The Connors scale is most commonly used in screening for ADHD in schools and in clinical populations, and can be used to follow changes in symptom severity over time.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Finger agnosia, dyscalcula, dysgraphia, and right\u2013left disorientation are components of which of the following syndromes?",
+      "choices":{  
+         "option0":"A. Dressing apraxia",
+         "option1":"B. Gerstmann",
+         "option2":"C. Hurler",
+         "option3":"D. Neglect",
+         "option4":"E. Pickwickian",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B\u2013 Gerstmann (21, 47, 49, 87). Aside from language, the left hemisphere is responsible for limb apraxia.  Lesions in the left hemisphere can result in finger agnosia, dyscalcula, dysgraphia, and right\u2013left disorientation, referred to as Gerstmann syndrome. Dressing apraxia is associated with special deficits from right hemisphere damage and include right\u2013left confusion and difficulty putting limbs into clothing.  Hurler syndrome, an autosomal recessive condition, includes symptoms such as hirsutism, corneal clouding, course facial features and moderate to severe intellectual disability. Neglect syndromes are most commonly associated with right hemisphere damage in the parietal region and include failure to detect visual or tactile stimuli, or to move the limb in the contralateral hemispace. Pickwickian syndrome is recognized by a puffy appearance, as seen in hypothyroidism, obesity, and periodic respirations.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Impairment in which of the following features is unique to Broca\u2019s aphasia as opposed to other types of aphasias?",
+      "choices":{  
+         "option0":"A. Awareness of deficit",
+         "option1":"B. Breakdown of syntactic structure",
+         "option2":"C. Comprehension",
+         "option3":"D. Fluency",
+         "option4":"E. Repetition",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D\u2013 Fluency Pg (48). Broca\u2019s aphasia, or nonfluent or expressive aphasia, caused by a left inferior frontal convolution lesion, is characterized by nonfluent speech (ie telegraphic or agrammatism), with intact auditory comprehension. This is in contrast to Wernicke\u2019s aphasia, caused by a superior temporal gyrus lesion, which has fluent speech but impaired comprehension. Repetition can be somewhat impaired in both aphasias.  Unlike those with Broca\u2019s aphasia, those with Wernicke\u2019s are not typically aware of their communication deficits.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A patient is unable to bisect a line placed midline. This is most commonly indicative of a lesion in which of the following areas of the brain?",
+      "choices":{  
+         "option0":"A. Cerebellum",
+         "option1":"B. Medulla",
+         "option2":"C. Parietal",
+         "option3":"D. Pons",
+         "option4":"E. Temporal",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option D\u2013 Parietal lobe Pg (49). Failure to bisect a line placed midline is an example of a neglect syndrome. It is characterized by failure to detect visual or tactile stimuli or move the limb in the contralateral hemisphere. It is most commonly associated with right hemisphere damage in the parietal region, though other areas in the cortex and subcortical areas can also cause it.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  For older individuals, the technique of having them draw a clock is a sensitive measure of which of the following neuropsychological functions?",
+      "choices":{  
+         "option0":"A. Attention and concentration",
+         "option1":"B. Planning and organization",
+         "option2":"C. Remote and recent memory",
+         "option3":"D. Sensory and motor",
+         "option4":"E. Speech and language",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option B. Planning and organization (54)\u2013 The clock drawing technique is widely used in elderly individuals at risk for dementia as a test that is a sensitive measure of planning and organization. More subtle difficulties can also be detected when comparing performance to premorbid expectations such as perseveration and neglect.  Double simultaneous stimulation visual and auditory modalities can test for sensory and motor functions and can also test for neglect. The WMS\u2013III can measure attention, memory, and new learning. Expressive language is often measured by testing verbal fluency, via generating words within semantic and phonetic categories. Conducting a digit span is a measure of attention.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A high level of which of the following types of validity would be shown if a test measuring hypochondria demonstrates the patient with high scores had more doctor\u2019s visits due to symptoms of physical complaints?",
+      "choices":{  
+         "option0":"A. Criterion validity",
+         "option1":"B. Discriminant",
+         "option2":"C. Face validity",
+         "option3":"D. Factor",
+         "option4":"E. Predictive validity",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Criterion validity (pg 56/57) Face validity refers to the content of the test items and if they measure what they intent do. While it refers to the degree the items on the surface measure what the instrument is supposed to, criterion validity uses data outside the test to measure validity. Discriminant validity tells whether the test can discriminate between groups of patients at time (i.e. discriminate between mild, moderate vs . severe major depressive disorder). Factor validity utilizes a multivariate statistical technique, factor analysis, to determine if a group of items on a test empirically cluster together.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which type of neuroimaging measures blood flow by using heme molecules as an endogenous contrast agent?",
+      "choices":{  
+         "option0":"A. fMRI (functional magnetic resonance imaging)",
+         "option1":"B. MRA (magnetic resonance angiography)",
+         "option2":"C. MRS (magnetic resonance spectroscopy)",
+         "option3":"D. PET (positron emission tomography)",
+         "option4":"E. SPECT (single\u2013photon emission computed tomography",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. fMRI (functional magnetic resonance imaging) (pg 61) fMRIs measure regional cerebral blood flow by measuring heme molecules as an endogenous contrast agent. MRA creates a 3\u2013D map of brain blood flow and is typically used by neurologists and neurosurgeons. MRS is a research method used to measure brain metabolism and is done in an MRI machine with additional software to allow signals from protons to be suppressed and signals from other compounds to be measured.  PET scans involve the detection of emitted positron radiation, typically by using FDG (fluorodeoxyglucose) to measure regional brain glucose metabolism. SPECT scans are not typically used to study the brain.  They are more commonly used to study other organs.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A young adult with chronic substance use has an MRI of the brain which is significant for loss of gray\u2013white matter and atrophy. Mental status exam demonstrates abnormalities in short term memory, \"scanning\" speech, and a notable tremor. Which of the following substances if most likely being abused?",
+      "choices":{  
+         "option0":"A. Alcohol",
+         "option1":"B. Amphetamines",
+         "option2":"C. Cannabis",
+         "option3":"D. MDMA (esctacy)",
+         "option4":"E. Toluene",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Toluene (pg 63).  Inhalants, such as toluene, as found in paints, glues, and cleaning solutions, can cause significant brain damage, as well as damage to other organs, such as the liver, kidneys, lung, bone marrow, etc. It can lead to hypoxia and can cause a loss of gray\u2013white mater and brain atrophy on MRIs. Chronic use can also be associated with panic attacks and personality changes.</",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A patient recently started on valproate seems confused and lethargic. Which of the following blood levels should be checked urgently?",
+      "choices":{  
+         "option0":"A. Ammonia",
+         "option1":"B. BUN",
+         "option2":"C. Platelets",
+         "option3":"D. Sodium",
+         "option4":"E. WBC",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Ammonia (pg. 64). While valproate (valproic acid ,Depakene;  divalproex ,Depakote)  can cause hematologic abnormalities including leukopenia and thrombocytopenia, if a patient is presenting as lethargic or has a change in mental status, ammonia levels should be checked urgently, as valproate can increase ammonia levels. Elevated LFTs and acute pancreatitis are also risks of valproate treatment . ",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which of the following blood tests should be obtained at the initiation of treatment with an MAOI (monoamine oxidase inhibitor) and periodically after?",
+      "choices":{  
+         "option0":"A. Basal metabolic panel",
+         "option1":"B. Complete blood count",
+         "option2":"C. Lipid panel",
+         "option3":"D. Liver function tests",
+         "option4":"E. Renal function panel",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Liver function tests (pg 64)  Treatment with monoamine oxidase inhibitors (MAOIs) can occasionally be associated with hepaotoxicity. Thus, LFTs are usually obtained at the initiation of treatment and periodically after. Blood pressure should also be obtained before initiating treatment and monitored afterwards.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which vitamin or mineral level should be tested as part of a standard work\u2013up for dementia?",
+      "choices":{  
+         "option0":"A. Magnesium",
+         "option1":"B. Vitamin B12",
+         "option2":"C. Vitamin C",
+         "option3":"D. Vitamin D",
+         "option4":"E. Zinc",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Vitamin B12 (pg 66).  Vitamin B12 and folate deficiencies are associated with dementia, delirium, psychosis, and paranoia and should be checked as part of a work\u2013up. These deficiencies are especially common in patients who abuse alcohol.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which if the following lab or vital sign abnormalities might also contribute to prolongation of the QTc interval in a patient on antipsychotic medications?",
+      "choices":{  
+         "option0":"A. Hyperkalemia",
+         "option1":"B. Hypertension",
+         "option2":"C. Hypomagnesemia",
+         "option3":"D. Hyponatremia",
+         "option4":"E. Tachycardia",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Hypomagnesemia (pg 67) A QTc measurement on an EKG greater than 500 miliseconds on an EKG is considered prolonged and can increase the risk of a severe arrhythmia. Factors that can prolong QTc include certain drugs, in addition to bradycardia, hypokalemia, or hypomagnesemia.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Oral Ziprasidone is contraindicated in patients with a history of which of the following medical conditions?",
+      "choices":{  
+         "option0":"A. A recent myocardial infarction",
+         "option1":"B. Hypoglycemia",
+         "option2":"C. Hyperprolactinemia",
+         "option3":"D. Leukocytosis",
+         "option4":"E. Renal failure",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. A recent myocardial infarction (pg 67).  Ziprasidone (Geodon) is associated with a dose\u2013related prolongation of the QTc interval and can lead to fatal arrhythmias. An EKG should be checked before initiation. Ziprasidone is contraindicated in patients with a history of known QTc prolongation, recent myocardial infarctions, and uncompensated heart failure. It should also be used with caution in those with bradycardia, hypokalemia, hypomagnesemia or those on other QTc prolonging drugs.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which is the only component of the brain that is better seen on CT scans as compared to MRIs?",
+      "choices":{  
+         "option0":"A. Atrophy",
+         "option1":"B. Calcifications",
+         "option2":"C. Inflammation",
+         "option3":"D. Strokes",
+         "option4":"E. Tumors",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Calcifications (pg 70) MRIs are typically preferred over CTs for most purposes due to a lack of radiation exposure. CTs are primarily used in emergent situations. The only component of the brain seen better on CT scans are calcifications, which can be invisible on MRIs.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  When using developmental tests on older infants and preschoolers, which of the following areas should be the main focus?",
+      "choices":{  
+         "option0":"A. Language",
+         "option1":"B. Motor",
+         "option2":"C. Perceptual",
+         "option3":"D. Sensory",
+         "option4":"E. Social",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Language (pg 81) When using instruments such as the Gesell Infant scale, the Cattell Infant intelligence scale, and the Bayley scale of infant development, along with the Denver Developmental screening test, with very young infants, the tests focuses on sensorimotor and social responses to objects and interactions. When used in older infants and preschoolers, the emphasis is on language acquisition. ",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which test measures communication, daily living skills, socialization and motor domains for typical children and adolescents as well as those who are visual or hearing, emotionally, or intellectually impaired?",
+      "choices":{  
+         "option0":"A. Behavior assessment system for children (BASC)",
+         "option1":"B. Home situations questionnaire\u2013revised (HSQ\u2013R)",
+         "option2":"C. Luria\u2013Nebraska Neuropsychological Battery (LNNB:C)",
+         "option3":"D. Thematic Apperception Test (TAT)",
+         "option4":"E. Vineland adaptive behavior scale",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Vineland adaptive behavior scale (pg 82, 83) The Vineland adaptive Behavior Scale is used for those 0\u201319yo to provide a standard score measuring adaptive behavior and communication, skills of daily living, and socialization. There are separate standardization groups for normal, visually handicapped, hearing impaired, emotionally disturbed, and those with intellectual disability. The BASC has teacher and parent rating scales as well as a child self\u2013report of personality across various domains at home, school, and the community in those ages 4\u201318yo.  The Home Situation Questionnaire\u2013 Revised (HSQ\u2013R) is a test of attentional capacity in which parents rate the child\u2019s specific problems with attention and concentration. The Luria\u2013 Nebraska Neuropsychological Battery: Children\u2019s Revision (LNNB:C) tests sensory\u2013motor, perceptual and cognitive functioning. The TAT is a test a type of projective test that can assess interpersonal functioning.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  An obese child with hypotonia and small hands and feet along with hoarding, excessive daytime sleepiness, compulsive behavior and skin picking likely has a deletion in which of the following chromosomes?",
+      "choices":{  
+         "option0":"A. Elastin focus on 7q11\u201323",
+         "option1":"B. Microdeletion at 16q13.3",
+         "option2":"C. Paternal origin of 15q12",
+         "option3":"D. Paternal on 5p",
+         "option4":"E. Pregnancy\u2013associated plasma protein\u2013A (PAPPA)            ",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Paternal origin of 15q12 (pg 86).  Prader\u2013Willi syndrome involves a deletion in 15q2 of paternal origin and present as hypotonia, failure to thrive in infancy, then obesity, small hands and feet, and microorchidism. Compulsive behavior, hyperphagia, hoarding, and anxiety/aggression, and skin picking are also features of Prader\u2013Willi Syndrome. Rubinstein\u2013Taybi syndrome is sporadic or likely autosomal dominated and there have been microdeletions documented in some case at 16q13.3. It presents as short stature, microcephaly, broad thumb, big toes, etc., feeding difficulties, seizures, distractibility, expressive language difficulties, and often these kids are loving and responsive to music. Cri\u2013du\u2013chat syndrome is from a partial deletion on 5p including the elastin locus on 7q11\u201323 and presents with a round face, hypertelorism, epicanthal folds, slanting palpebral fissures, a broad flat nose, etc. along with congenital heart disease, severe intellectual disability, self\u2013injury and an infant like cry.  Cornelia de Lange syndrome is due to a lack of pregnancy\u2013associated plasma protein A (PAPPA) linked to chromosome 9q33 and presents with a continuous eyebrow, thin down turning of the upper lip microcephaly and short stature, etc. along with failure to thrive, self\u2013injury, language delays, profound intellectual disability, etc.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A child is being evaluated for ADHD. Mental status exam is noted for a long face with large ears. Medial history is significant for mitral valve prolapse and intellectual disability. Which of the following genetic mutations is most common?",
+      "choices":{  
+         "option0":"A. Deletion on 7q11\u201323",
+         "option1":"B. Deletion on 15q12 of maternal origin",
+         "option2":"C. Inactivation of the FMR\u20131 gene",
+         "option3":"D. Partial deletion chromosome 5",
+         "option4":"E. Trisomy 21",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C. Inactivation of the FMR\u20131 gene (pg 86) The child depicted has fragile X syndrome, which is caused by an inactivation of the FMR\u20131 genet at X q27.3. Features consist of a long face, large ears, midface hypoplasia, a high arched palate, short stature and macroorchidism, Mitral valve prolapse, joint laxity, and strabismus are other features. ADHD symptoms of hyperactivity and inattention are often noted along with anxiety, speech and language delays, and learning disorders. Williams syndrome, deletion of 15q12 of maternal origin causes Angelman\u2019s syndrome. Fair hair and blue eyes are common along with dysmorphic facial fears of wide smiling mouth, thin upper lip and pointed chin. The syndrome is notable for a happy disposition and paroxysmal laughter and hand flapping.  Deletions that include the elastin locus on chromones 7q11\u201323 include features such has short statue, broad forehead, depressed nasal bridge, and elf like features.  It presents with anxiety and hyperactivity. Cri\u2013du chat involves a partial deletion on 5p and signs include an infantile cry, severe intellectual disability, and a round face with hypertelorism and epicanthal folds. Down syndrome features include upward slanted palpebral fissures, midface depression and a flat wide nausea bridge, along with short statue. Hyperactivity and increased depression and Alzheimer\u2019s are notable in down syndrome which is caused by trisomy 2
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  What is the most common reason cited by elderly adults who consider suicide?",
+      "choices":{  
+         "option0":"A. Anxiety",
+         "option1":"B. Financial difficulties",
+         "option2":"C. Loneliness",
+         "option3":"D. Pain",
+         "option4":"E. Sickness",
+         "@option":"2"
+      },
+      "rationale":"The correct answer is option C\u2013 Loneliness (pg 88).  Suicide is a leading cause of death in the elderly, and loneliness is the most common reason cited by older adults who consider suicide. Feelings of loneliness, worthlessness, hopelessness and helplessness are all symptoms of depression, which is highly linked to suicide. Approximately 75% of those who complete suicide suffer from depression and/or alcohol abuse.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A pill rolling tremor is most commonly associated with which of the following class of psychiatric medications?",
+      "choices":{  
+         "option0":"A. Benzodiazepines",
+         "option1":"B. Phenothiazine",
+         "option2":"C. Selective serotonin reuptake inhibitors",
+         "option3":"D. Stimulants",
+         "option4":"E. Tricyclics",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Phenothiazine (pg. 88). Mental status exam symptoms of adverse effects of phenothiazine medication include a pill\u2013rolling tremor, shuffling gait, stooped posture, and body asymmetry, along with abnormal movements of the mouth and tongue.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which type of agnosia involves inability to recognize faces?",
+      "choices":{  
+         "option0":"A. Anosognosia",
+         "option1":"B. Anosomia",
+         "option2":"C. Atopognosia",
+         "option3":"D. Prosopagnosia",
+         "option4":"E. Visual agnosia",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Prosopagnosia (pg 88). Prosopagnosia is the inability to recognize faces. A denial of illness is called anosognosia. A denial of a body part is atopognosia and an inability to recognize objects is called visual agnosia. Anosomia is the loss of smell.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A fair skin, blue\u2013eyed, blond\u2013hair child presents with language delays, hyperactivity, self\u2013injury and new onset seizures. She most likely has a genetic condition caused by the build\u2013up of which of the following substances?",
+      "choices":{  
+         "option0":"A. Galactose",
+         "option1":"B. Iduronate 2\u2013sulfatase",
+         "option2":"C. L\u2013iduronidase",
+         "option3":"D. Phenylalanine",
+         "option4":"E. Uric acid",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D (pg 87). Phenylalanine. Phenylketonuria involves a defect in phenylalanine hydroxylase or biopterin, resulting in accumulation of phenylalanine. It typically presents in those with fair skin, blue eyes, blond hair and rashes and if untreated can lead to intellectual disability, language delays, self\u2013injury and hyperactivity. Generalized seizures can occur later in development. Galactosemia is caused by a defect in galactose\u20131\u2013phosphate uridyultransaferase or galactokinase and presents as vomiting, jaundice, hepatosplenomegaly, cataracts, food refusal, increased intracranial pressure, langue disorders, behavioral problems, anxiety, etc. Hurler syndrome is caused by a deficiency in alpha\u2013L\u2013iduronidase activity resulting in short stature, hepatosplenomegaly, hirsutism, corneal clouding, dwarfism, course facial features and typically death before 10 years old.  Hunter syndrome is caused by a deficiency in iduronate sulfatase resulting in a coarse face with flat nasal bridge, hearing loss, ataxia, enlarged liver and spleen, recurrent infections, hyperactivity, sleep abnormalities, intellectual disability, etc. Uric acid builds up in Lesch\u2013Nyhan syndrome due to a defect in hypoxanthine guanine phosphoribosyl\u2013transferase, resulting in ataxia, chorea, kidney failure, gout, along with aggression, self\u2013biting, etc.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  A child presents with dysmorphic facial features consisting of a broad forehead, a depressed nasal bridge, and widely spaced teeth and is described as having elfin\u2013like facies. The patient has a medical history significant for cardiac and thyroid abnormalities and a psychiatric history significant for hyperactivity and anxiety though is very social and makes friends easily. The child most likely has which of the following genetic syndromes?",
+      "choices":{  
+         "option0":"A. Cri\u2013du\u2013chat",
+         "option1":"B. Fragile X",
+         "option2":"C. Prader\u2013Willi",
+         "option3":"D. Smith\u2013Magenis",
+         "option4":"E. Williams",
+         "@option":"4"
+      },
+      "rationale":"The correct answer is option E. Williams (86). The above symptoms are consistent with a diagnosis of Williams syndrome, caused by a deletion that includes the elastin locus on chromosome 7q11\u201323 and is inherited in an autosomal dominant fashion. Cri\u2013du\u2013chat syndrome, caused by a partial deletion in 5p presents with a round face with hypertelorism, epicanthal folds, slanting palpebral fissures, etc. along with heart disease and GI abnormalities along with severe intellectual disability, self\u2013injury, and cat like cries. Fragile X is due to inactivation of FMR\u20131 gene at Xq27.3 de ot CGG base repeats and accounts for 10\u201312% of intellectual disability in males and present s with a long face, large ears, midface hypoplasia, a high\u2013arched palate, etc. Prader\u2013Willi syndrome presents with a 15q12 deletion of paternal origin and symptoms include hypotonia, obesity, small hands and feet, microorchidism, short stature, almond shaped eyes, hyperphagia, hoarding, aggression, skin picking, etc. Smith\u2013Magenis syndrome is caused by a complete or partial deletion of 17p1and presents with a broad face and hands, small toes, a deep voice, severe intellectual disability, hyperactivity, sever self\u2013injury including hand biting and head banging, etc.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which neuropsychological test measures sensory\u2013motor, perceptual and cognitive functioning?",
+      "choices":{  
+         "option0":"A. Luria\u2013Nebraska",
+         "option1":"B. Millon Adolescent ",
+         "option2":"C. Mullen",
+         "option3":"D. Rotter",
+         "option4":"E. Thematic Apperception",
+         "@option":"0"
+      },
+      "rationale":"The correct answer is option A. Luria\u2013Nebraska (83). The Luria\u2013Nebraska Neuropsychological Battery: Children\u2019s Revision (LNNB:C) provides standard measure for sensory\u2013motor, perceptual and cognitive tests. The Millon Adolescent Personality Inventory (MAPI) provides standard scores for personality styles, expressed concerns, and behavioral correlates. The Mullen Scales of Early Learning is a test of language and visual scales for receptive and expressive ability in newborns to 5 years old. The Rotter Incomplete Sentences Blank tests is a qualitative projective test for children and adolescents, with an adult version as well. The Thematic Apperception Test (TAT) is also a projective test involving generating stories for 6 year olds and up and can give data regarding interpersonal functioning.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Suicidality falls under what category on the mental status exam?",
+      "choices":{  
+         "option0":"A. Judgment",
+         "option1":"B. Mood",
+         "option2":"C. Perception",
+         "option3":"D. Thought content",
+         "option4":"E. Thought process",
+         "@option":"3"
+      },
+      "rationale":"The correct answer is option D. Thought content (pg 10).  Both suicidality and homicidality fall under the category of thought content. Obsessional thoughts and compulsions also go under thought content, along with delusions. Mood is what the patient reports as their internal emotional state. Thought process does not describe what the patient is thinking, rather how the thoughts are formulated, organized, or expressed. Perceptual disturbances include hallucinations, illusions, depersonalization and derealization.  Judgment refers to the patient\u2019s capacity to make good decision and act on them.",
+      "@activityType":"MCQ"
+   },
+   {  
+      "@exam":"1",
+      "question_no": "",
+      "question":"  Which of the following respiratory symptoms are more indicative of depression rather than an underlying pulmonary disorder?",
+      "choices":{  
+         "option0":"A. Breathlessness while active",
+         "option1":"B. Breathlessness with little changes with exertion",
+         "option2":"C. Difficulty with expiration",
+         "option3":"D. Fluctuation in breathlessness over hours",
+         "option4":"E. Insidious onset of breathlessness",
+         "@option":"1"
+      },
+      "rationale":"The correct answer is option B. Breathlessness with little changes in exertion (pg 19). In conducting a medical review of systems during a psychiatric interview it is important to tease apart obstructive airway and other organic pulmonary diseases from those breathing problems due to psychiatric conditions. In depression, breathlessness is experienced at rest and shows little change with exertion and can fluctuate in minutes. Often a history can show the breathing problems coincided with the depressive episode and is accompanied by panic attacks including symptoms such as dizziness, sweating, palpitations, and paresthesias. Often with depression the emphasis is placed on struggles with inspiration, whereas in true pulmonary disease the difficulty is with expiration.  In pulmonary obstructive airway disease, the onset is typically insidious. Of course, when in doubt of the origin of respiratory symptoms, a referral should be made to the primary care doctor or pulmonologist.",
+      "@activityType":"MCQ"
+   }
+   
+]
