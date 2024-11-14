@@ -180,9 +180,9 @@ $(document).ready(function() {
         }
     });    
             
-    $('.iconBlue').attr('aria-label','To show quiz status, press this button.');
+    $('.iconBlue').attr('aria-label','To show quiz status, press this button.').attr("title", "Quiz Summary");
     $('.nextBtn').attr('aria-label','Next drag items button, press this button.');
-    $('.prevBtn').attr('aria-label','previous drag items button, press this button.');
+    $('.prevBtn').attr('aria-label','previous drag items button, press this button.').attr("title", "Previous Button");
     $("body").on("click", ".posClose", closeFeedback);
     $("body").on("click", ".mxpage-default", gotoQuestion);
     $("body").on("click", ".mxpage-next", handleQuestionNavigation); //b
@@ -383,6 +383,7 @@ $(document).ready(function() {
           $('.tooltipc .dragspot_txt').removeAttr('aria-label').css('overflow','auto').removeAttr('role').removeAttr('tabindex');
           $('.tooltip_text .closeBtn').attr('data-id',$(this).attr('data-id')).attr('tabindex',0).attr('aria-label',Tootip_arialabel+", Close read more popup, Press this button.");
           
+          
           setTimeout(function(){
             $('.tooltipc').find('.jwp-video').removeAttr('tabindex');
             $('.tooltip_text .closeBtn').addClass('keybord_outline').focus();
@@ -550,6 +551,7 @@ function setupQuiz() {
     if (typeof data.questionsList == 'undefined' || !data.questionsList.length) {
         return false;
     }
+    debugger;
     currentQuestion = 0;
     correctAnswersPool = [];
     correctMultiAnswersPool = [];
@@ -793,7 +795,7 @@ function setupQuiz() {
             // Now let's append the correct / incorrect response messages
             var responseHTML = $('<div class="fbtext row hide topAlign fbtext-question' + (count - 1) +' '+addClass+ '" role="dialog"></div>');            
 
-            responseHTML.append('<p tabindex="-1" class="FeedbackTextWrapper hide"></p><button aria-label="To minimize feedback, press this button." class="mini fbBtn posmini tabindex">-</button><button class="posClose fbBtn tabindex" aria-label="To Close Feedback, press this button.">&#215;</button>');  
+            responseHTML.append('<p tabindex="-1" class="FeedbackTextWrapper hide"></p><button aria-label="To minimize feedback, press this button." title="Minimize" class="mini fbBtn posmini tabindex">-</button><button class="posClose fbBtn tabindex" aria-label="To Close Feedback, press this button." title="Close">&#215;</button>');  
 
             
             responseHTML.find(".posClose").on('click', function(){
@@ -826,7 +828,7 @@ function setupQuiz() {
                         // mcq activity buttons
                         questionHTML.append('<div class="buttons"><button  class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button>' +
                         '<button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button>' +
-                        '<button  class="showbutton tabindex" aria-label="To try again, press this button.">Show Answer</button></div>');
+                        '<button  class="showbutton tabindex" disabled="disabled" aria-label="To try again, press this button.">Show Answer</button></div>');
                     }      
 
                 } else {
@@ -853,7 +855,7 @@ function setupQuiz() {
                         // mcq activity buttons
                         questionHTML.append('<div class="buttons"><button disabled="true" class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button>' +
                         '<button class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button>' +
-                        '<button class="showbutton tabindex" aria-label="To check the answer, press this button.">Show Answer</button></div>');
+                        '<button class="showbutton tabindex" disabled="disabled" aria-label="To check the answer, press this button.">Show Answer</button></div>');
                     }                        
                 
                 }
@@ -870,9 +872,9 @@ function setupQuiz() {
 
             $('.posmini').unbind('click').bind('click',function(){
                 if($(this).parent().hasClass('height-20')){
-                    $(this).html('+').attr('aria-label','To maximize feedback, press this button.').parent().removeClass("height-20");
+                    $(this).html('+').attr('aria-label','To maximize feedback, press this button.').attr("title", "Maximize").parent().removeClass("height-20");
                 }else{
-                    $(this).html('-').attr('aria-label','To minimize feedback, press this button.').parent().addClass("height-20");                    
+                    $(this).html('-').attr('aria-label','To minimize feedback, press this button.').attr("title", "Minimize").parent().addClass("height-20");                    
                 }
                 var isIpad = /webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
                 if(isMac || isIpad){
@@ -976,6 +978,8 @@ function setupQuiz() {
         $('.beginBtn').attr('aria-label', beignariaLabel +', Begin button, press this button.');
     }
     set_tabindex();
+    //Set Confirm Box Close button Title
+    $("#confirmBox .closeBtn").attr("title", "Close");
 }
 
 function displayShowAnsBtn(){
@@ -1110,6 +1114,7 @@ function verifyShortAns(){
                 $(this).parents('.questionslist').find('.fbtext-' + queId + ' .fbBtn').focus();
                
             });
+            $('.questionslist div.questionWrapper').eq(currentQuestion).find(".showbutton").removeAttr("disabled").removeAttr("aria-disabled");
         }
         else {
             $(this).parents('.questionWrapper').find('.tryButton').removeClass('hide');            
@@ -1138,7 +1143,7 @@ function verifyShortAns(){
     var minimizeButton = $(this).parents('.questionslist').find('.fbtext-' + queId).find('.posmini:visible');
     setTimeout(function(){
         if(minimizeButton.parent().find('.FeedbackTextWrapper').height()>minimizeButton.parent().height()){
-            $(minimizeButton).html('+').attr('aria-label','To maximize feedback, press this button.').removeAttr('disabled').removeAttr('aria-hidden').parent().removeClass("height-20");
+            $(minimizeButton).html('+').attr('aria-label','To maximize feedback, press this button.').attr("title", "Maximize").removeAttr('disabled').removeAttr('aria-hidden').parent().removeClass("height-20");
         }else{
            $(minimizeButton).html('-').attr('aria-label','').attr('disabled','true').attr('aria-hidden',true).parent().addClass("height-20");
         }
@@ -1347,6 +1352,7 @@ function checkAnswer(e) {
                 set_tabindex();
                 $('.questionslist div.questionWrapper').eq(currentQuestion).find(".tryButton").addClass('hide');
             });
+            $('.questionslist div.questionWrapper').eq(currentQuestion).find(".showbutton").removeAttr("disabled").removeAttr("aria-disabled");
         }else{   
             var feedbackText='';
             if(feedBackClass == "correct") {
@@ -1357,6 +1363,7 @@ function checkAnswer(e) {
                     $('.drag-tray').css('display','none');
                     $('.questionslist').css('height',maxheight+'px');
                 });
+                $('.questionslist div.questionWrapper').eq(currentQuestion).find(".showbutton").removeAttr("disabled").removeAttr("aria-disabled");
             } else {
                 $(this).parents('.questionslist').find('.fbtext-' + queId + ' .FeedbackTextWrapper').html('').html('<h4>That&#8217;s Incorrect! </h4>' + question.feedBackText.incorrect).removeClass('hide').parent().slideDown('slow', function() {
                     set_tabindex();
@@ -1419,7 +1426,7 @@ function checkAnswer(e) {
             feedBackClass = "incorrect";
         }
         var Cur_qus;               
-        if (countAttempts >= 2) {       
+        if (countAttempts >= allowedAttempts) {       
             // countAttempts = 1;
             for (var i = 0; i < trueAnswers.length; i++) {
                 $('.answerWrapper:visible .option:eq(' + trueAnswers[i] + ')').find('.feedback').addClass('correct');
@@ -1435,6 +1442,8 @@ function checkAnswer(e) {
                 // $(this).parents('.questionslist').find('.fbtext-' + queId + ' .fbBtn').focus();
                  $('.questionslist div.questionWrapper').eq(currentQuestion).find(".tryButton").addClass('hide');
             });
+
+            $('.questionslist div.questionWrapper').eq(currentQuestion).find(".showbutton").removeAttr("disabled").removeAttr("aria-disabled");
 
             if (disableInputs) $(this).parents('.questionWrapper').find('.answerWrapper input').attr('disabled', 1).attr('aria-hidden',true);
             $('.questionslist div.questionWrapper').eq(currentQuestion).find(".checkButton").addClass('hide');
@@ -1455,6 +1464,7 @@ function checkAnswer(e) {
                     // $(this).parents('.questionslist').find('.fbtext-' + queId + ' .fbBtn').focus();
                      $('.questionslist div.questionWrapper').eq(currentQuestion).find(".tryButton").addClass('hide');
                 });
+                $('.questionslist div.questionWrapper').eq(currentQuestion).find(".showbutton").removeAttr("disabled").removeAttr("aria-disabled");
             }
             else {
                 $(this).parents('.questionslist').find('.fbtext-' + queId + ' .FeedbackTextWrapper').html('').html('<h4>That&#8217;s Incorrect! </h4>' + feedbackText).removeClass('hide').parent().slideDown('slow', function() {
@@ -1484,7 +1494,7 @@ function checkAnswer(e) {
     var minimizeButton = $(this).parents('.questionslist').find('.fbtext-' + queId).find('.posmini:visible');
     setTimeout(function(){
         if(minimizeButton.parent().find('.FeedbackTextWrapper').height()>minimizeButton.parent().height()){
-            $(minimizeButton).html('+').attr('aria-label','To maximize feedback, press this button.').removeAttr('disabled').removeAttr('aria-hidden').parent().removeClass("height-20");
+            $(minimizeButton).html('+').attr('aria-label','To maximize feedback, press this button.').attr("title", "Maximize").removeAttr('disabled').removeAttr('aria-hidden').parent().removeClass("height-20");
         }else{
            $(minimizeButton).html('-').attr('aria-label','').attr('disabled','true').attr('aria-hidden',true).parent().addClass("height-20");
         }
@@ -1770,11 +1780,15 @@ function completeQuiz() {
 }
 
 function retakeQuiz(e) {
+    debugger;
      try{
     localStorage.removeItem(data.testTitle);
         }catch(e){
         
     }
+    attemptedQues = [];
+    attemptedQuesStatus = [];
+    correctAnswersPool = []
     preservedQuesStates.length = 0;
     countAttempts = 1;
     totalAttemptCount = 0;
@@ -1823,7 +1837,7 @@ function resetQuiz() {
         nCurrentQuesNo = 1;
         $('.footer').removeClass('hide');
         $('.questionslist').fadeIn('slow').css("display", "inline-block");
-        $(".mxpage-previous").css("pointer-events", "none").attr('aria-hidden',true);
+        $(".mxpage-previous").css("pointer-events", "none").attr('aria-hidden',true).attr("title", "Previous Button");
         $(".task-description-footer").show().removeAttr('aria-hidden');
         $(".pull-right").show().removeAttr('aria-hidden');
         $(".task-container-col").css({
@@ -1865,7 +1879,8 @@ function resetQuiz() {
 
 function startQuiz(para) {
     $('.heading').css('display',"none");
-    $(".mxpage-previous").css("pointer-events", "none").attr('aria-hidden',true);    
+    $(".mxpage-previous").css("pointer-events", "none").attr('aria-hidden',true).attr("title", "Previous Button");
+    $(".mxpage-next").attr("title", "Next Button");  
     $(".pull-right").fadeIn(200).removeAttr('aria-hidden');
     $(".task-description-footer").fadeIn(200).removeAttr('aria-hidden');
     $(".task-container-col").css({
@@ -2045,7 +2060,7 @@ function set_tabindex() {
         $('.mxpage-previous[data-page="1"]').attr('tabindex',-1).attr('aria-hidden',true);
     }
     $('.mxpage.active').attr('tabindex',-1).attr('aria-hidden',true);
-    $(".mxpage-next").attr('tabindex',0).removeAttr('aria-hidden');
+    $(".mxpage-next").attr('tabindex',0).removeAttr('aria-hidden').attr("title", "Next Button");
     if($("#confirmOverlay:visible").length == 0 && $(".modal:visible").length == 0){
         $(".taskRow, .task-description-footer, .modal,.pull-right .activityProgress, .pull-right .iconBlue").removeAttr('aria-hidden');
     }
@@ -2068,15 +2083,15 @@ function handleQuestionNavigation(e) {
     var dataId = $(this).attr("data-page")
     nMaxPageFlag++;
     if (nCurrentQuesNo == 1) {
-        $(".mxpage-previous").css("pointer-events", "none").attr('aria-hidden',true);
+        $(".mxpage-previous").css("pointer-events", "none").attr('aria-hidden',true).attr("title", "Previous Button");
     }
     if (isNext) {
         nCurrentQuesNo++;
-        $(".mxpage-previous").css("pointer-events", "").removeAttr('aria-hidden');   
+        $(".mxpage-previous").css("pointer-events", "").removeAttr('aria-hidden').attr("title", "Previous Button");   
     } else {
         if (nCurrentQuesNo !== 1) {
             nCurrentQuesNo--;
-            $(".mxpage-previous").css("pointer-events", "").removeAttr('aria-hidden');
+            $(".mxpage-previous").css("pointer-events", "").removeAttr('aria-hidden').attr("title", "Previous Button");
         }
     }   
     gotoQuestionUsingNav(nCurrentQuesNo);

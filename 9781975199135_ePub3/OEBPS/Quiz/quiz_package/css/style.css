@@ -805,6 +805,11 @@ font-size: 18px;
   cursor: auto;
   pointer-events: none;
 }
+.showbutton[disabled]{
+  opacity: 0.5;
+  cursor: auto;
+  pointer-events: none;
+}
 .height-20{
   height: auto !important;
 }
