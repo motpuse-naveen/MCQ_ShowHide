@@ -8,10 +8,10 @@
     display: inline-block;
 }
 .keybord_outline:focus,.box .fbtext:focus{
-  outline: 1px solid orange ;
+  outline: 2px solid #EB6500 ;
 }
 .modal .keybord_outline:focus{
-  outline: 1px solid orange ;
+  outline: 2px solid #EB6500 ;
 }
 .dragspotWrapper .dragspot .feedback{
   display: none;
@@ -510,7 +510,43 @@ body {
 	padding-top:2px;
 	box-sizing:border-box;
 	font-family:FiraSans-Regular;
-    margin-left: 23px;
+  margin-left: 23px;
+}
+.show-hide-ans-btnWrap, .show-hide-ans-panel{
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.show-hide-buttonlink{
+  font-family: FiraSans-Regular;
+  font-size: 18px;
+  background-color: #fff;
+  padding: 5px 5px;
+  text-align: left;
+  color: #007ac3;
+  font-weight: bold;
+  border: none;
+  width: 140px;
+}
+.show-hide-buttonlink.expanded{
+  background: url(../images/sh_collapsed.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 20px;
+}
+.show-hide-buttonlink.collapsed{
+  background: url(../images/sh_expanded.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 20px;
+}
+.show-hide-buttonlink:hover{
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.show-hide-buttonlink:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  outline: 2px solid #EB6500 ;
 }
 .box .question .text p{
   /*display: inline;*/

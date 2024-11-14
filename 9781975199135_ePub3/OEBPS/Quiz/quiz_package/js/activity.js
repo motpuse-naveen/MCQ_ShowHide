@@ -544,6 +544,8 @@ function closeFeedback(e) {
         set_tabindex();
     });
 }
+
+//APT: Important function which creates Question html.
 function setupQuiz() {
     if (typeof data.questionsList == 'undefined' || !data.questionsList.length) {
         return false;
@@ -602,14 +604,13 @@ function setupQuiz() {
                     }
                     questionHTML.append('<div class="question" id="questiontext'+ (count ) +' "><div class="number">' + question.step + '</div><div class="text">'+ ifImg.html() + '</div>' + image + '</div>');     
                 }
-             
             }
 
             // Count the number of true values
             var truths = 0;
-            for (i in question.answers) {
-                if (question.answers.hasOwnProperty(i)) {
-                    var answer = question.answers[i];
+            for (i_ans in question.answers) {
+                if (question.answers.hasOwnProperty(i_ans)) {
+                    var answer = question.answers[i_ans];
                     if (answer.correct) {
                         truths++;
                     }
@@ -618,6 +619,13 @@ function setupQuiz() {
             // Now let's append the answers with checkboxes or radios depending on truth count
             var answerHTML = $('<div id="answerWrap-'+ (count - 1) +'" class="answerWrapper col-lg-12 col-md-12 col-sm-12 col-xs-12"></div>');
 
+            if(question.isShowHide!=undefined && question.isShowHide){
+                var togglePanel = $('<div class="show-hide-ans-btnWrap"><button class="show-hide-buttonlink collapsed" aria-expanded="false" data-refPanalId="answer-panel-' + (count - 1) +'" aria-controls="answer-panel-' + (count - 1) +'" id="showhide-button-' + (count - 1) +'" >Show Answer</button></div>' +
+                                    '<div class="show-hide-ans-panel" id="answer-panel-' + (count - 1) +'" aria-labelledby="showhide-button-' + (count - 1) +'" style="display: none;" aria-hidden="true">' +
+                                    question.remFeedbackText
+                                    + '</div>')
+                answerHTML.append(togglePanel)
+            }
             // Get the answers
             var answers = question.answers;
             // prepare a name for the answer inputs based on the question
@@ -774,9 +782,6 @@ function setupQuiz() {
                     }
                 }
             }
-
-            
-
             // Append answers to question
             questionHTML.append(answerHTML);
             var addClass = 'topAlign'; // Add class to feedback popup
@@ -792,69 +797,67 @@ function setupQuiz() {
 
             
             responseHTML.find(".posClose").on('click', function(){
-          
                $('.questionWrapper .buttons .button:visible').focus();
             });
          
             questionHTML.append('<div class="clearfloat"></div>');
-            
-            if (count === nMaxPage) {
-                if(question.isDraggable) {
-                    // dnd activity buttons
-                    questionHTML.append('<div class="buttons"><button  class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button></div>');
-                    questionHTML.append('<div class="buttons"><button activity-type="dnd" aria-label="To show answer, press this button."  class="button btn btn-default showAnswerButton hide tabindex">Show Answer</button></div>');
-                    questionHTML.append('<div class="buttons"><button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button></div>');
-                } else if(question.input){
-                    if(question.verifyShortAnswer){
-                        //Verify short answers activity buttons
-                        questionHTML.append('<div class="buttons"><button  disabled="true" class="button btn btn-default verifyAnsButton tabindex" aria-label="To submit your answer, press this button.">Submit</button></div>');    
+            if(!question.isShowHide){
+                if (count === nMaxPage) {
+                    if(question.isDraggable) {
+                        // dnd activity buttons
+                        questionHTML.append('<div class="buttons"><button  class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button></div>');
+                        questionHTML.append('<div class="buttons"><button activity-type="dnd" aria-label="To show answer, press this button."  class="button btn btn-default showAnswerButton hide tabindex">Show Answer</button></div>');
                         questionHTML.append('<div class="buttons"><button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button></div>');
-                        questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
-                        var shortAnsFeedbackWrap = $('<div id="shortAnswerfeedbackWrap-'+ (count - 1) +'" class="shortAnswerfeedbackWrap col-lg-12 col-md-12 col-sm-12 col-xs-12 hide"></div>');
-                        questionHTML.append(shortAnsFeedbackWrap);
+                    } else if(question.input){
+                        if(question.verifyShortAnswer){
+                            //Verify short answers activity buttons
+                            questionHTML.append('<div class="buttons"><button  disabled="true" class="button btn btn-default verifyAnsButton tabindex" aria-label="To submit your answer, press this button.">Submit</button></div>');    
+                            questionHTML.append('<div class="buttons"><button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button></div>');
+                            questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
+                            var shortAnsFeedbackWrap = $('<div id="shortAnswerfeedbackWrap-'+ (count - 1) +'" class="shortAnswerfeedbackWrap col-lg-12 col-md-12 col-sm-12 col-xs-12 hide"></div>');
+                            questionHTML.append(shortAnsFeedbackWrap);
+                        }
+                        else{                        
+                            //No verification short answer activity buttons
+                            questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
+                        }
                     }
-                    else{                        
-                        //No verification short answer activity buttons
-                        questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
-                    }
-                }
-                else{
-                    // mcq activity buttons
-                    questionHTML.append('<div class="buttons"><button  class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button>' +
-                    '<button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button>' +
-					'<button  class="showbutton tabindex" aria-label="To try again, press this button.">Show Answer</button></div>');
+                    else{
+                        // mcq activity buttons
+                        questionHTML.append('<div class="buttons"><button  class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button>' +
+                        '<button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button>' +
+                        '<button  class="showbutton tabindex" aria-label="To try again, press this button.">Show Answer</button></div>');
+                    }      
 
-                }      
-
-            } else {
-                if(question.isDraggable) {
-                    // dnd activity buttons
-                    questionHTML.append('<div class="buttons"><button  class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button></div>');
-                    questionHTML.append('<div class="buttons"><button activity-type="dnd"  class="button btn btn-default showAnswerButton hide tabindex" aria-label="To show answer, press this button.">Show Answer</button></div>');
-                    questionHTML.append('<div class="buttons"><button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button></div>');
-                } else if(question.input){
-                    if(question.verifyShortAnswer){
-                        //Verify short answers activity buttons
-                        questionHTML.append('<div class="buttons"><button  disabled="true" class="button btn btn-default verifyAnsButton tabindex" aria-label="To submit your answer, press this button.">Submit</button></div>');    
+                } else {
+                    if(question.isDraggable) {
+                        // dnd activity buttons
+                        questionHTML.append('<div class="buttons"><button  class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button></div>');
+                        questionHTML.append('<div class="buttons"><button activity-type="dnd"  class="button btn btn-default showAnswerButton hide tabindex" aria-label="To show answer, press this button.">Show Answer</button></div>');
                         questionHTML.append('<div class="buttons"><button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button></div>');
-                        questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
-                        var shortAnsFeedbackWrap = $('<div id="shortAnswerfeedbackWrap-'+ (count - 1) +'" class="shortAnswerfeedbackWrap col-lg-12 col-md-12 col-sm-12 col-xs-12 hide"></div>');
-                        questionHTML.append(shortAnsFeedbackWrap);
+                    } else if(question.input){
+                        if(question.verifyShortAnswer){
+                            //Verify short answers activity buttons
+                            questionHTML.append('<div class="buttons"><button  disabled="true" class="button btn btn-default verifyAnsButton tabindex" aria-label="To submit your answer, press this button.">Submit</button></div>');    
+                            questionHTML.append('<div class="buttons"><button  class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button></div>');
+                            questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
+                            var shortAnsFeedbackWrap = $('<div id="shortAnswerfeedbackWrap-'+ (count - 1) +'" class="shortAnswerfeedbackWrap col-lg-12 col-md-12 col-sm-12 col-xs-12 hide"></div>');
+                            questionHTML.append(shortAnsFeedbackWrap);
+                        }
+                        else{                        
+                            //No verification short answer activity buttons
+                            questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
+                        }
                     }
-                    else{                        
-                        //No verification short answer activity buttons
-                        questionHTML.append('<div class="buttons"><button activity-type="shortans"  class="button btn btn-default showAnswerButton hide tabindex" style="width:134px" aria-label="To show answer, press this button.">Show Answer</button></div>');
-                    }
+                    else{
+                        // mcq activity buttons
+                        questionHTML.append('<div class="buttons"><button disabled="true" class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button>' +
+                        '<button class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button>' +
+                        '<button class="showbutton tabindex" aria-label="To check the answer, press this button.">Show Answer</button></div>');
+                    }                        
+                
                 }
-                else{
-                    // mcq activity buttons
-                    questionHTML.append('<div class="buttons"><button disabled="true" class="button btn btn-default checkButton tabindex" aria-hidden="true" aria-label="To submit your answer, press this button.">Submit</button>' +
-                    '<button class="button btn btn-default tryButton hide tabindex" aria-label="To try again, press this button.">Try Again</button>' +
-                    '<button class="showbutton tabindex" aria-label="To check the answer, press this button.">Show Answer</button></div>');
-                }                        
-             
             }
-
 
             // Append responses to question
             // questionHTML.append(responseHTML);
@@ -906,10 +909,34 @@ function setupQuiz() {
                 
             });
 
+            $('.show-hide-buttonlink').unbind('click').bind('click', function() {
+                var $button = $(this);
+                var refPanId = $button.attr("data-refPanalId");
+                var $panel = $("#" + refPanId); // Cache the panel reference
+            
+                // Toggle the panel with slide animation and update button properties
+                $panel.stop(true, true).slideToggle('slow', 'linear', function() {
+                    var isExpanded = $panel.is(':visible');
+                    $button.text(isExpanded ? 'Hide Answer' : 'Show Answer')
+                           .toggleClass('expanded', isExpanded)
+                           .toggleClass('collapsed', !isExpanded)
+                           .attr("aria-expanded", isExpanded);
+                    
+                    // Set aria-hidden on the panel based on its visibility
+                    $panel.attr("aria-hidden", !isExpanded);
+
+                    //Add attempted state of the question.
+                    var feedBackClass = "correct";        
+                    attemptedQues.push(currentQuestion);
+                    attemptedQuesStatus.push("correct");
+                    correctAnswersPool.push(currentQuestion);
+                    applyTickMarks(feedBackClass)
+                });
+            });
+
             count++;
             addVideoTag1();
         }
-
     }
 
     nextClickFinalFeedback();
@@ -1020,7 +1047,6 @@ function navigationProcess() {
     if(question.verifyShortAnswer){
      $('.showAnswerButton').hide();
     }
-
 }
 function verifyShortAns(){
      answerInputs = $(this).parents('.questionWrapper').find('.answerWrapper textarea');
@@ -1437,8 +1463,7 @@ function checkAnswer(e) {
           
             if (disableInputs) $(this).parents('.questionWrapper').find('.answerWrapper input').attr('disabled', 1).attr('aria-hidden',true);
             $('.questionslist div.questionWrapper').eq(currentQuestion).find(".checkButton").addClass('hide');
-        }         
-        
+        }
     }
     
     // check and push data into preservedQuesStates array
@@ -1479,10 +1504,6 @@ function checkAnswer(e) {
         }else{
            timeout = 500;
         }
-
-
-
-
         setTimeout(function(){
             elemant.attr('tabindex','-1').attr('role','list').focus();            
             // $('.questionslist').find('.fbtext-' + queId + ' .fbBtn').addClass('keybord_outline').focus();

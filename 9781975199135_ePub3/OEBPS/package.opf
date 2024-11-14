@@ -2727,7 +2727,13 @@
 		<item id="img-82" href="Quiz/quiz_package/images/read_more.svg" media-type="image/svg+xml"/>
 		<item id="img-83" href="Quiz/quiz_package/images/tick-small.svg" media-type="image/svg+xml"/>
 		<item id="img-84" href="Quiz/quiz_package/images/tick-white.svg" media-type="image/svg+xml"/>
-		<item id="img-85" href="Quiz/quiz_package/images/tick.svg" media-type="image/svg+xml"/>	
+		<item id="img-85" href="Quiz/quiz_package/images/tick.svg" media-type="image/svg+xml"/>
+
+		<item id="img-86" href="Quiz/quiz_package/images/sh_collapsed.svg" media-type="image/svg+xml"/>
+		<item id="img-87" href="Quiz/quiz_package/images/sh_collapsed_hover.svg" media-type="image/svg+xml"/>
+		<item id="img-88" href="Quiz/quiz_package/images/sh_expanded.svg" media-type="image/svg+xml"/>
+		<item id="img-89" href="Quiz/quiz_package/images/sh_expanded_hover.svg" media-type="image/svg+xml"/>	
+
 		<item id="img-366" href="Quiz/quiz_package/css/icheck/aero.png" media-type="image/png"/>
 		<item id="img-367" href="Quiz/quiz_package/css/icheck/aero@2x.png" media-type="image/png"/>
 		<item id="img-368" href="Quiz/quiz_package/css/icheck/blue.png" media-type="image/png"/>
