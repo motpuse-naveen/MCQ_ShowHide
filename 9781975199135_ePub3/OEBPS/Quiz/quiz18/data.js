@@ -50,7 +50,7 @@ var data = {
     },
     {
         step:"",
-        question: "<p class='num10'><strong>2.</strong>&#x00A0;&#x00A0;The three most frequently used functional brain scans are?</p>",
+        question: "<p class='num11'><strong>2.</strong>The three most frequently used functional brain scans are?</p>",
         input: false,
         isDraggable: false,
         queImage:"",
@@ -66,7 +66,7 @@ var data = {
     },
     {
         step:"",
-        question: "<p class='num10'><strong>3.</strong>&#x00A0;&#x00A0;A 25-year-old man who was arrested and jailed 2 days ago on a charge of petit larceny tells the judge that he could not resist stealing a plastic vase from a department store, even though he had no use for it. He is shown video from three other stores which captured him stealing other relatively valueless objects over the past 2 weeks. He states that he does not plan to steal, &#x201C;but I get this urge that I can&#x2019;t resist and I have to do it.&#x201D; Afterward, he feels a sense of relief. He has never confronted someone to take their possessions. He admits to stealing since he was 18 years old. What is the most likely course of his stealing behavior over the next 10 years?</p>",
+        question: "<p class='num11'><strong>3.</strong>A 25-year-old man who was arrested and jailed 2 days ago on a charge of petit larceny tells the judge that he could not resist stealing a plastic vase from a department store, even though he had no use for it. He is shown video from three other stores which captured him stealing other relatively valueless objects over the past 2 weeks. He states that he does not plan to steal, &#x201C;but I get this urge that I can&#x2019;t resist and I have to do it.&#x201D; Afterward, he feels a sense of relief. He has never confronted someone to take their possessions. He admits to stealing since he was 18 years old. What is the most likely course of his stealing behavior over the next 10 years?</p>",
         input: false,
         isDraggable: false,
         queImage:"",
@@ -122,7 +122,7 @@ var data = {
     },
     {
         step:"",
-        question: "<p class='num10'><strong>5.</strong>&#x00A0;&#x00A0;Parents bring their 16-year-old son to the outpatient clinic because of &#x201C;his emotional outbursts over the last year. We&#x2019;re walking on eggshells around him. We never know what will set him off.&#x201D; He agrees with his parents and adds that he cannot control himself. He states that some situations get him &#x201C;so mad that I start breaking things and punching holes in the wall.&#x201D; During the most recent episode, he was playing a video game with friends until his team started to lose. He started cursing loudly and threw the controller at the TV and broke the screen. &#x201C;The anger just rose up in me until I couldn&#x2019;t control it.&#x201D; His parents note that he often cries and will &#x201C;beat himself up with guilt afterward,&#x201D; but that in between episodes, &#x201C;he&#x2019;s fine.&#x201D; He denies feeling depressed or manic, and denies auditory or visual hallucinations or suicidal ideation. He has no chronic illnesses and is on no medications. Vitals are within normal limits and there are no abnormal findings on physical examination. What should be the next step in the management of this patient?</p>",
+        question: "<p class='num11'><strong>5.</strong>Parents bring their 16-year-old son to the outpatient clinic because of &#x201C;his emotional outbursts over the last year. We&#x2019;re walking on eggshells around him. We never know what will set him off.&#x201D; He agrees with his parents and adds that he cannot control himself. He states that some situations get him &#x201C;so mad that I start breaking things and punching holes in the wall.&#x201D; During the most recent episode, he was playing a video game with friends until his team started to lose. He started cursing loudly and threw the controller at the TV and broke the screen. &#x201C;The anger just rose up in me until I couldn&#x2019;t control it.&#x201D; His parents note that he often cries and will &#x201C;beat himself up with guilt afterward,&#x201D; but that in between episodes, &#x201C;he&#x2019;s fine.&#x201D; He denies feeling depressed or manic, and denies auditory or visual hallucinations or suicidal ideation. He has no chronic illnesses and is on no medications. Vitals are within normal limits and there are no abnormal findings on physical examination. What should be the next step in the management of this patient?</p>",
         input: false,
         isDraggable: false,
         queImage:"",

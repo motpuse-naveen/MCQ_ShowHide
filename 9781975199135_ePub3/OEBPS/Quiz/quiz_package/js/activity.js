@@ -909,6 +909,7 @@ function setupQuiz() {
                 
             });
 
+            //APT: Show/Hide (ShowHide) button click event
             $('.show-hide-buttonlink').unbind('click').bind('click', function() {
                 var $button = $(this);
                 var refPanId = $button.attr("data-refPanalId");
@@ -917,7 +918,7 @@ function setupQuiz() {
                 // Toggle the panel with slide animation and update button properties
                 $panel.stop(true, true).slideToggle('slow', 'linear', function() {
                     var isExpanded = $panel.is(':visible');
-                    $button.text(isExpanded ? 'Hide Answer' : 'Show Answer')
+                    $button.text(isExpanded ? 'Hide Answer' : 'Show Answer').fadeIn(200)
                            .toggleClass('expanded', isExpanded)
                            .toggleClass('collapsed', !isExpanded)
                            .attr("aria-expanded", isExpanded);
@@ -926,11 +927,13 @@ function setupQuiz() {
                     $panel.attr("aria-hidden", !isExpanded);
 
                     //Add attempted state of the question.
-                    var feedBackClass = "correct";        
-                    attemptedQues.push(currentQuestion);
-                    attemptedQuesStatus.push("correct");
-                    correctAnswersPool.push(currentQuestion);
-                    applyTickMarks(feedBackClass)
+                    var feedBackClass = "correct";      
+                    if (!attemptedQues.includes(currentQuestion)) {
+                        attemptedQues.push(currentQuestion);
+                        attemptedQuesStatus.push("correct");
+                        correctAnswersPool.push(currentQuestion);
+                        applyTickMarks(feedBackClass)
+                    }
                 });
             });
 

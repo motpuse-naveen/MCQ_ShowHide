@@ -521,11 +521,11 @@ body {
   font-size: 18px;
   background-color: #fff;
   padding: 5px 5px;
+  padding-right: 30px;
   text-align: left;
   color: #007ac3;
   font-weight: bold;
   border: none;
-  width: 140px;
 }
 .show-hide-buttonlink.expanded{
   background: url(../images/sh_collapsed.svg);
@@ -1733,22 +1733,49 @@ text-align: justify;
 }
 
 p.num10{
-margin-left:2.5em;
-text-indent:-2.5em;
-margin-top:0.8em;
-margin-bottom:0em;
-font-family:FiraSans-Regular;
-text-align: justify;
+  margin-left: 2.5em;
+  text-indent: -2.5em;
+  margin-top:0.8em;
+  margin-bottom:0em;
+  font-family:FiraSans-Regular;
+  text-align: justify;
 }
 
 p.num10A{
-margin-left:2.5em;
+margin-left:1em;
 text-indent:-3em;
 margin-top:0.8em;
 margin-bottom:0em;
 font-family:FiraSans-Regular;
 text-align:justify;
 }
+
+p.num11{
+  margin-left:1.5em;
+  /*text-indent:-2em;*/
+  margin-top:0.8em;
+  margin-bottom:0em;
+  font-family:FiraSans-Regular;
+  text-align: justify;
+}
+p.num11 strong, p.num11 .q_number{
+  position: absolute;
+  margin-left: -20px;
+}
+
+p.num12{
+  margin-left: 1.5em;
+  text-indent: -0.8em;
+  margin-top:0.8em;
+  margin-bottom:0em;
+  font-family:FiraSans-Regular;
+  text-align: justify;
+}
+p.num12 strong, p.num12 .q_number{
+  position: absolute;
+  margin-left: -30px;
+}
+
 p.nonindent
 {
 text-indent: 0em;
