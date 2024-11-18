@@ -3005,8 +3005,8 @@ $(window).resize(function(){
         var popupHtml = '<div class="popup-overlay">';
         popupHtml += '<div class="popup">';
         popupHtml += '<p class="popup-text">';
-        popupHtml += 'The correct answer is: ' + correctAnswer;
-
+        //popupHtml += 'The correct answer is: ' + correctAnswer;
+        popupHtml += question.remFeedbackText;
         popupHtml += '<button class="popup-close tabindex">&#215;</button>';
         popupHtml += '</p>';
         popupHtml += '</div>';
