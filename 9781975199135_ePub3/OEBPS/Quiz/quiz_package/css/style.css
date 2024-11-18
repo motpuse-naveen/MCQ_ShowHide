@@ -512,9 +512,10 @@ body {
 	font-family:FiraSans-Regular;
   margin-left: 23px;
 }
-.show-hide-ans-btnWrap, .show-hide-ans-panel{
-  margin-left: 40px;
+.showHideWrapper{
+  margin-left: 60px;
   margin-top: 20px;
+  padding-right: 20px;
 }
 .show-hide-buttonlink{
   font-family: FiraSans-Regular;

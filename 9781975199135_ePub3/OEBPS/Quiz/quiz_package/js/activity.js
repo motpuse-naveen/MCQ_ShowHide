@@ -620,13 +620,12 @@ function setupQuiz() {
             }
             // Now let's append the answers with checkboxes or radios depending on truth count
             var answerHTML = $('<div id="answerWrap-'+ (count - 1) +'" class="answerWrapper col-lg-12 col-md-12 col-sm-12 col-xs-12"></div>');
-
+            var togglePanel = ''
             if(question.isShowHide!=undefined && question.isShowHide){
-                var togglePanel = $('<div class="show-hide-ans-btnWrap"><button class="show-hide-buttonlink collapsed" aria-expanded="false" data-refPanalId="answer-panel-' + (count - 1) +'" aria-controls="answer-panel-' + (count - 1) +'" id="showhide-button-' + (count - 1) +'" >Show Answer</button></div>' +
+                togglePanel = $('<div class="showHideWrapper"><div class="show-hide-ans-btnWrap"><button class="show-hide-buttonlink collapsed" aria-expanded="false" data-refPanalId="answer-panel-' + (count - 1) +'" aria-controls="answer-panel-' + (count - 1) +'" id="showhide-button-' + (count - 1) +'" >Show Answer</button></div>' +
                                     '<div class="show-hide-ans-panel" id="answer-panel-' + (count - 1) +'" aria-labelledby="showhide-button-' + (count - 1) +'" style="display: none;" aria-hidden="true">' +
                                     question.remFeedbackText
-                                    + '</div>')
-                answerHTML.append(togglePanel)
+                                    + '</div></div>')
             }
             // Get the answers
             var answers = question.answers;
@@ -786,6 +785,9 @@ function setupQuiz() {
             }
             // Append answers to question
             questionHTML.append(answerHTML);
+            if(question.isShowHide!=undefined && question.isShowHide){
+                questionHTML.append(togglePanel)
+            }
             var addClass = 'topAlign'; // Add class to feedback popup
             // if short answer acivity add feedback container in question wrapper div
             if(question.input){                
@@ -1825,7 +1827,7 @@ function retakeQuiz(e) {
 
 function resetQuiz() {
     reviewQuizEnabled = true;
-
+    
     $('.resultWrapper').fadeOut(300, function() {
         $('.answer-container').hide();
         $('.drag-tray').hide();
