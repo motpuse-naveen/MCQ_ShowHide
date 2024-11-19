@@ -1,3 +1,6 @@
 
 .vscode/settings.json
-++.DS_Store
+**.DS_Store
+.DS_Store
+9781975199135_ePub3/.DS_Store
+9781975199135_ePub3/OEBPS/.DS_Store

@@ -2067,6 +2067,10 @@ function set_tabindex() {
         $(".taskRow, .task-description-footer, .modal,.pull-right .activityProgress, .pull-right .iconBlue").removeAttr('aria-hidden');
     }
     $('.dropspot').removeAttr('tabindex').removeClass('tabindex');
+    ////APT: Show Answer button should be enabled in review mode
+    /*if(reviewQuizEnabled) {
+        $('.buttons .showbutton').removeAttr('disabled');
+    }*/
     setTimeout(function() {
         var questionWrapper = $(window).height();
         var questionContentHeight = questionWrapper - ($('.task-container-col:visible').outerHeight(true)+$('.task-description-footer:visible').outerHeight(true));
@@ -2082,7 +2086,7 @@ function set_tabindex() {
 
 function handleQuestionNavigation(e) {
     var isNext = $(this).hasClass("mxpage-next");
-    var dataId = $(this).attr("data-page")
+    var dataId = $(this).attr("data-page");
     nMaxPageFlag++;
     if (nCurrentQuesNo == 1) {
         $(".mxpage-previous").css("pointer-events", "none").attr('aria-hidden',true).attr("title", "Previous Button");

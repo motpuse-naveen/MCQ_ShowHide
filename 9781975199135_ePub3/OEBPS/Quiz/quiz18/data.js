@@ -64,6 +64,7 @@ var data = {
         isShowHide:true,
         remFeedbackText: "<p class='nonindent1'>Positron emission tomography (PET), single photon emission computed tomography (SPECT), and functional magnetic resonance imaging (fMRI) are the most commonly used functional scans. PET and SPECT use small doses of a radioactive chemical (tracer) which is then detected with a special camera. fMRI measures changes in magnetic properties as blood relinquishes oxygen to the neural tissues, which in turn is a measure of brain activity.</p>"
     },
+
     {
         step:"",
         question: "<p class='num11'><strong>3.</strong>A 25-year-old man who was arrested and jailed 2 days ago on a charge of petit larceny tells the judge that he could not resist stealing a plastic vase from a department store, even though he had no use for it. He is shown video from three other stores which captured him stealing other relatively valueless objects over the past 2 weeks. He states that he does not plan to steal, &#x201C;but I get this urge that I can&#x2019;t resist and I have to do it.&#x201D; Afterward, he feels a sense of relief. He has never confronted someone to take their possessions. He admits to stealing since he was 18 years old. What is the most likely course of his stealing behavior over the next 10 years?</p>",
@@ -80,6 +81,7 @@ var data = {
         isShowHide:true,
         remFeedbackText: "<p class='nonindent1'>The treatment most likely to be successful for intermittent explosive disorder is a combination of psychotherapy and medication. For a young adult living at home, family therapy is particularly useful, though cognitive behavioral therapy and contingency management may also be effective. SSRIs are helpful in reducing impulsivity and aggression. Antipsychotics and anticonvulsants both have mixed results. (557)</p>"
     },
+
     {
         step:"",
         question: "<p class='num10'><strong>4.</strong>&#x00A0;&#x00A0;What is the age requirement for a diagnosis of intermittent explosive disorder?</p>",
